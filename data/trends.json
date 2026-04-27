@@ -1,346 +1,1672 @@
 {
-  "generated_at": "2026-04-27T08:00:00+00:00",
+  "generated_at": "2026-04-27T12:50:49.783811+00:00",
   "regions": [
     "US",
     "GB"
   ],
   "stats": {
-    "total_videos": 87,
-    "total_topics": 12,
+    "total_videos": 233,
+    "total_topics": 18,
+    "total_themes": 12,
     "by_category": {
-      "Gaming": 14,
-      "Howto & Style": 11,
-      "Entertainment": 18,
-      "Education": 9,
-      "Science & Tech": 12,
-      "Comedy": 8,
-      "People & Blogs": 15
-    },
-    "total_themes": 3
+      "Other": 25,
+      "Entertainment": 71,
+      "People & Blogs": 85,
+      "Gaming": 32,
+      "Comedy": 4,
+      "Science & Tech": 11,
+      "Howto & Style": 4,
+      "Education": 1
+    }
   },
+  "emerging_themes": [
+    {
+      "phrase": "tech",
+      "video_count": 30,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "F9rfkgFLjg0",
+          "title": "BIG TECH EARNINGS, POWELL SPEAKS THIS WEEK   |  MARKET OPEN",
+          "channel": "Amit Kukreja",
+          "channel_id": "UCjZnbgPb08NFg7MHyPQRZ3Q",
+          "subscribers": 122000,
+          "thumbnail": "https://i.ytimg.com/vi/F9rfkgFLjg0/mqdefault_live.jpg",
+          "published_at": "2026-04-27T12:30:40Z",
+          "url": "https://www.youtube.com/watch?v=F9rfkgFLjg0"
+        },
+        {
+          "id": "4Gk4PJLHZdY",
+          "title": "🔬📲 mobile 🎤 Mic ✅replace #repair #tech #smartphone",
+          "channel": "Technical repair hub",
+          "channel_id": "UC8rd_qXiJgBKt7T_4KpgHSg",
+          "subscribers": 280,
+          "thumbnail": "https://i.ytimg.com/vi/4Gk4PJLHZdY/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:09Z",
+          "url": "https://www.youtube.com/watch?v=4Gk4PJLHZdY"
+        },
+        {
+          "id": "cakb-QiO4UY",
+          "title": "1 Tap… Phone = Second Screen 🤯 #desksetup #tech #shorts",
+          "channel": "TechNBud",
+          "channel_id": "UCWd-4PxD7SroC2AMhkCL4iA",
+          "subscribers": 2320,
+          "thumbnail": "https://i.ytimg.com/vi/cakb-QiO4UY/mqdefault.jpg",
+          "published_at": "2026-04-27T12:24:29Z",
+          "url": "https://www.youtube.com/watch?v=cakb-QiO4UY"
+        },
+        {
+          "id": "qDh4PD7VVx0",
+          "title": "Top 5 Best Smartwatch Under 10000 #smartwatch #shorts #gadgets #tech",
+          "channel": "Tech Tridib",
+          "channel_id": "UCilKfU2kxVL7nt_X2nz4Zaw",
+          "subscribers": 15700,
+          "thumbnail": "https://i.ytimg.com/vi/qDh4PD7VVx0/mqdefault.jpg",
+          "published_at": "2026-04-27T12:04:11Z",
+          "url": "https://www.youtube.com/watch?v=qDh4PD7VVx0"
+        }
+      ]
+    },
+    {
+      "phrase": "house",
+      "video_count": 30,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "U9yboGvEutU",
+          "title": "“Building Woodens Log Cabin in Forest 🌴👽🌲| Survival House Step by Step” part-11",
+          "channel": "TX Beauty",
+          "channel_id": "UCxcYnWnfyCNpptK5mB_ocjA",
+          "subscribers": 86600,
+          "thumbnail": "https://i.ytimg.com/vi/U9yboGvEutU/mqdefault.jpg",
+          "published_at": "2026-04-27T12:40:02Z",
+          "url": "https://www.youtube.com/watch?v=U9yboGvEutU"
+        },
+        {
+          "id": "WMjSsGDcyg0",
+          "title": "#30x50kagharkanaksha #house #construction #constructionchannel #housedesign #homedesign #home 🧱❌✅",
+          "channel": "NRConstruction Work👷",
+          "channel_id": "UCKmqB3-Ivi3ZvZkC7P08UQg",
+          "subscribers": 3770,
+          "thumbnail": "https://i.ytimg.com/vi/WMjSsGDcyg0/mqdefault.jpg",
+          "published_at": "2026-04-27T12:36:05Z",
+          "url": "https://www.youtube.com/watch?v=WMjSsGDcyg0"
+        },
+        {
+          "id": "TFb22jEqy-c",
+          "title": "Building Wooden Log Cabin in Forest Survival House Step by Step🙂",
+          "channel": "Neesu ki short",
+          "channel_id": "UChUW--pRCb2yAgWpgYFV1IA",
+          "subscribers": 27700,
+          "thumbnail": "https://i.ytimg.com/vi/TFb22jEqy-c/mqdefault.jpg",
+          "published_at": "2026-04-27T12:34:42Z",
+          "url": "https://www.youtube.com/watch?v=TFb22jEqy-c"
+        },
+        {
+          "id": "5UnpBfQAKpM",
+          "title": "#timelapse, start to finish alone build log cabin (wooden house) how to build wooden cabin",
+          "channel": "Dubey Comedy official",
+          "channel_id": "UCDoStWDuR2yumC_Or0ABeoQ",
+          "subscribers": 49700,
+          "thumbnail": "https://i.ytimg.com/vi/5UnpBfQAKpM/mqdefault.jpg",
+          "published_at": "2026-04-27T12:31:44Z",
+          "url": "https://www.youtube.com/watch?v=5UnpBfQAKpM"
+        }
+      ]
+    },
+    {
+      "phrase": "game",
+      "video_count": 29,
+      "channel_count": 29,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "eK5V1R6wBno",
+          "title": "New Crafland Game 📌😱",
+          "channel": "TGO SUJIT",
+          "channel_id": "UCDY8aNFRIpqqfDWbmPyjOhQ",
+          "subscribers": 4550,
+          "thumbnail": "https://i.ytimg.com/vi/eK5V1R6wBno/mqdefault.jpg",
+          "published_at": "2026-04-27T12:47:16Z",
+          "url": "https://www.youtube.com/watch?v=eK5V1R6wBno"
+        },
+        {
+          "id": "Am_T9Ag7VNo",
+          "title": "#indianbikesdriving3de#gta5#game#viralvideo#youtubeshorts#subscribed#100k",
+          "channel": "ibrahim..Gamer..",
+          "channel_id": "UCpPAxbfuc9QrVVUu-dI-91g",
+          "subscribers": 1560,
+          "thumbnail": "https://i.ytimg.com/vi/Am_T9Ag7VNo/mqdefault.jpg",
+          "published_at": "2026-04-27T12:41:49Z",
+          "url": "https://www.youtube.com/watch?v=Am_T9Ag7VNo"
+        },
+        {
+          "id": "d6eQ3arTMSs",
+          "title": "Village big capsicum🫑 vs Big orange 🍊very interesting game chelenge  || viralpost || villagegame",
+          "channel": "Uniq Vdo Gm",
+          "channel_id": "UCl9AuU3vVuRvt0Eq5NIdDNw",
+          "subscribers": 23800,
+          "thumbnail": "https://i.ytimg.com/vi/d6eQ3arTMSs/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:52Z",
+          "url": "https://www.youtube.com/watch?v=d6eQ3arTMSs"
+        },
+        {
+          "id": "I18vIagIRdM",
+          "title": "helpThesliceto#save​#game​#subscribe​#trending​# all#country​#virelshorts​#stumbleguys​#gameplay​",
+          "channel": "Vyrox-66",
+          "channel_id": "UC-DjXb1C37ZqTXxRXyL3knw",
+          "subscribers": 2300,
+          "thumbnail": "https://i.ytimg.com/vi/I18vIagIRdM/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:34Z",
+          "url": "https://www.youtube.com/watch?v=I18vIagIRdM"
+        }
+      ]
+    },
+    {
+      "phrase": "edit",
+      "video_count": 29,
+      "channel_count": 29,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "OLBW1Dd76zw",
+          "title": "fake dairy milk with chalak baccha prank 😜 #viral #shortsfeed #edit #shorts #minivlog",
+          "channel": "shiv Vlogs",
+          "channel_id": "UC4MbKolC07Bk73vYQZg2arg",
+          "subscribers": 555,
+          "thumbnail": "https://i.ytimg.com/vi/OLBW1Dd76zw/mqdefault.jpg",
+          "published_at": "2026-04-27T12:36:43Z",
+          "url": "https://www.youtube.com/watch?v=OLBW1Dd76zw"
+        },
+        {
+          "id": "pco5xwwMxoY",
+          "title": "Golden Eye Climax, Mr Bond Smart Move 🥶💀 #jamesbond #shorts #edit",
+          "channel": "Bond Legacy ",
+          "channel_id": "UC40Fqkw_y69qM5pG-l25tiw",
+          "subscribers": 12000,
+          "thumbnail": "https://i.ytimg.com/vi/pco5xwwMxoY/mqdefault.jpg",
+          "published_at": "2026-04-27T12:35:27Z",
+          "url": "https://www.youtube.com/watch?v=pco5xwwMxoY"
+        },
+        {
+          "id": "ijHxYhS-HLs",
+          "title": "&quot;Kindness circles back❤️&quot; | Edit #shorts #love #sad",
+          "channel": "Axoae",
+          "channel_id": "UCES44iYoBqQ9oGuf-X3DvjA",
+          "subscribers": 101000,
+          "thumbnail": "https://i.ytimg.com/vi/ijHxYhS-HLs/mqdefault.jpg",
+          "published_at": "2026-04-27T12:32:53Z",
+          "url": "https://www.youtube.com/watch?v=ijHxYhS-HLs"
+        },
+        {
+          "id": "hVNRCA4RQSs",
+          "title": "#edit",
+          "channel": "JG 1M!",
+          "channel_id": "UC8mw22XPgXZRw1yC-DIYw9A",
+          "subscribers": 11800,
+          "thumbnail": "https://i.ytimg.com/vi/hVNRCA4RQSs/mqdefault.jpg",
+          "published_at": "2026-04-27T12:31:04Z",
+          "url": "https://www.youtube.com/watch?v=hVNRCA4RQSs"
+        }
+      ]
+    },
+    {
+      "phrase": "roblox",
+      "video_count": 29,
+      "channel_count": 29,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "5B92IponkxA",
+          "title": "DIVINE Brainrot .....😍 #roblox #robloxshorts #gaming #shorts",
+          "channel": "Novex Gaming ",
+          "channel_id": "UCxxBa7li4jpbvn7y-PFLmFQ",
+          "subscribers": 1420,
+          "thumbnail": "https://i.ytimg.com/vi/5B92IponkxA/mqdefault.jpg",
+          "published_at": "2026-04-27T12:33:22Z",
+          "url": "https://www.youtube.com/watch?v=5B92IponkxA"
+        },
+        {
+          "id": "3RTjL3TryCU",
+          "title": "Why You Want to be OG (Part-2) | #roblox #stealabrainrot",
+          "channel": "Tigaru",
+          "channel_id": "UCkv2Paq1YJefDNpjK74rz5A",
+          "subscribers": 81200,
+          "thumbnail": "https://i.ytimg.com/vi/3RTjL3TryCU/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:32Z",
+          "url": "https://www.youtube.com/watch?v=3RTjL3TryCU"
+        },
+        {
+          "id": "avOaofbq_0k",
+          "title": "#roblox",
+          "channel": "Alex Hunter721",
+          "channel_id": "UC_p6_AaqK4mRaWMBkbl795w",
+          "subscribers": 16200,
+          "thumbnail": "https://i.ytimg.com/vi/avOaofbq_0k/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:07Z",
+          "url": "https://www.youtube.com/watch?v=avOaofbq_0k"
+        },
+        {
+          "id": "-ug9BeD-T5M",
+          "title": "PAINFUL INJECTION #shorts #roblox #talkingtom #animation #memes",
+          "channel": "Dank Zone",
+          "channel_id": "UCxkTIStGJobbjqNekSTo9sQ",
+          "subscribers": 30700,
+          "thumbnail": "https://i.ytimg.com/vi/-ug9BeD-T5M/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:00Z",
+          "url": "https://www.youtube.com/watch?v=-ug9BeD-T5M"
+        }
+      ]
+    },
+    {
+      "phrase": "iphone",
+      "video_count": 29,
+      "channel_count": 29,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "Bc5LPQjX4cA",
+          "title": "iPhone 16 Pro Max có phải lựa chọn tốt lúc này?",
+          "channel": "Người Chơi Đồ",
+          "channel_id": "UC3HxHh_jezfVCcXNCyDJHOQ",
+          "subscribers": 121000,
+          "thumbnail": "https://i.ytimg.com/vi/Bc5LPQjX4cA/mqdefault.jpg",
+          "published_at": "2026-04-27T12:20:16Z",
+          "url": "https://www.youtube.com/watch?v=Bc5LPQjX4cA"
+        },
+        {
+          "id": "Gz1V6WNSqGQ",
+          "title": "The orange iPhone is very viral #apple #iphone",
+          "channel": "Muhammad Arsyad st",
+          "channel_id": "UCQ6WS1IvR9AayQKODxZpliA",
+          "subscribers": 83900,
+          "thumbnail": "https://i.ytimg.com/vi/Gz1V6WNSqGQ/mqdefault.jpg",
+          "published_at": "2026-04-27T12:08:46Z",
+          "url": "https://www.youtube.com/watch?v=Gz1V6WNSqGQ"
+        },
+        {
+          "id": "8xDL_P0JZ9s",
+          "title": "iPhone अब छपरियों को भी मिलने लगा है 😂।____#iphone #loan #comedy #funny",
+          "channel": "Satish Babu ",
+          "channel_id": "UCS_nm8gN2XTiXiAz3gbQ3lA",
+          "subscribers": 14100,
+          "thumbnail": "https://i.ytimg.com/vi/8xDL_P0JZ9s/mqdefault.jpg",
+          "published_at": "2026-04-27T11:59:11Z",
+          "url": "https://www.youtube.com/watch?v=8xDL_P0JZ9s"
+        },
+        {
+          "id": "omMHS8AKopQ",
+          "title": "iPhone Camera Evolution X to 17 #iphone17 #camera #evolution",
+          "channel": "TabTUNE",
+          "channel_id": "UCpat8vHc0ss0yv3J8GSlG4w",
+          "subscribers": 33800,
+          "thumbnail": "https://i.ytimg.com/vi/omMHS8AKopQ/mqdefault.jpg",
+          "published_at": "2026-04-27T11:54:18Z",
+          "url": "https://www.youtube.com/watch?v=omMHS8AKopQ"
+        }
+      ]
+    },
+    {
+      "phrase": "they",
+      "video_count": 29,
+      "channel_count": 28,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.33,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "DaTMJ93Ztwo",
+          "title": "They surpassed the og 💀 #anime #animedubvssub",
+          "channel": "Crazy Otaku",
+          "channel_id": "UCwYndttLJqT9SA6ZOfLcEEg",
+          "subscribers": 67900,
+          "thumbnail": "https://i.ytimg.com/vi/DaTMJ93Ztwo/mqdefault.jpg",
+          "published_at": "2026-04-27T12:27:52Z",
+          "url": "https://www.youtube.com/watch?v=DaTMJ93Ztwo"
+        },
+        {
+          "id": "7Tc87LitboM",
+          "title": "He Was the Engine of This Team. They Cut Him to Save a Few Dollars.",
+          "channel": "Victoria",
+          "channel_id": "UCUKMtHIGUuYAqTFHPDVUYNw",
+          "subscribers": 500,
+          "thumbnail": "https://i.ytimg.com/vi/7Tc87LitboM/mqdefault.jpg",
+          "published_at": "2026-04-27T12:20:15Z",
+          "url": "https://www.youtube.com/watch?v=7Tc87LitboM"
+        },
+        {
+          "id": "MtwJ_IEb0R0",
+          "title": "They Recognizer Her Without Knowing Her 🤔 #facts #dog #shorts #trending #viral",
+          "channel": "ENTERTAINMENT SCENES",
+          "channel_id": "UCrwgJcXCUeJo2xk1Lkii8Gw",
+          "subscribers": 390,
+          "thumbnail": "https://i.ytimg.com/vi/MtwJ_IEb0R0/mqdefault.jpg",
+          "published_at": "2026-04-27T12:18:55Z",
+          "url": "https://www.youtube.com/watch?v=MtwJ_IEb0R0"
+        },
+        {
+          "id": "PYdkErP7z-Q",
+          "title": "Wolverine&#39;s life story is as tragic as they come #foryou... #Shorts #wowlife777",
+          "channel": "WowLife Shorts",
+          "channel_id": "UCt95VQszZH3LwOo0wg_m7lg",
+          "subscribers": 6,
+          "thumbnail": "https://i.ytimg.com/vi/PYdkErP7z-Q/mqdefault.jpg",
+          "published_at": "2026-04-27T12:18:30Z",
+          "url": "https://www.youtube.com/watch?v=PYdkErP7z-Q"
+        }
+      ]
+    },
+    {
+      "phrase": "baby",
+      "video_count": 28,
+      "channel_count": 28,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.33,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "v51AuzoSQP8",
+          "title": "মা নিজেই বাচ্চার সর্বনাশ করলো #baby #tips",
+          "channel": "AR Afiyan KIDS",
+          "channel_id": "UCOkrPK9R8nTvQliaZGxnxhg",
+          "subscribers": 150000,
+          "thumbnail": "https://i.ytimg.com/vi/v51AuzoSQP8/mqdefault.jpg",
+          "published_at": "2026-04-27T12:36:43Z",
+          "url": "https://www.youtube.com/watch?v=v51AuzoSQP8"
+        },
+        {
+          "id": "UhJVOJRGpyo",
+          "title": "Baby in yellow 😂#dennome #emily #memes #baby #funnybaby",
+          "channel": "ArmanShadowX",
+          "channel_id": "UCJLsX9NxJoABoC5zX8JjBeg",
+          "subscribers": 39200,
+          "thumbnail": "https://i.ytimg.com/vi/UhJVOJRGpyo/mqdefault.jpg",
+          "published_at": "2026-04-27T12:32:43Z",
+          "url": "https://www.youtube.com/watch?v=UhJVOJRGpyo"
+        },
+        {
+          "id": "6WEMjtGf5E4",
+          "title": "আমিন 🥰 #baby #shorts #cute #sad #trending #cutebaby",
+          "channel": "Arfat 0M",
+          "channel_id": "UC2LxUVZ1pabXd6uKY9zimMw",
+          "subscribers": 349000,
+          "thumbnail": "https://i.ytimg.com/vi/6WEMjtGf5E4/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:18Z",
+          "url": "https://www.youtube.com/watch?v=6WEMjtGf5E4"
+        },
+        {
+          "id": "Dagv8Y4grA4",
+          "title": "Baby Defends Dad in Angry Baby Talk 😂😡👶 #shorts #familyfun #cute #funny #baby #newbaby",
+          "channel": "FUN CITY",
+          "channel_id": "UCuyoaL2tTLtEtg1LXfX6SBg",
+          "subscribers": 83600,
+          "thumbnail": "https://i.ytimg.com/vi/Dagv8Y4grA4/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:14Z",
+          "url": "https://www.youtube.com/watch?v=Dagv8Y4grA4"
+        }
+      ]
+    },
+    {
+      "phrase": "life",
+      "video_count": 28,
+      "channel_count": 28,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.33,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "o0RLKyyfNzQ",
+          "title": "Mast bekar zindagi hai 😂💀#shorts #funny #relatable #life #comedy #viral #meme #lol #fyp #desicomedy",
+          "channel": "Arbaz ClipVerse ",
+          "channel_id": "UCLaXhxtM10YdRc8kiWJ-jtA",
+          "subscribers": 68,
+          "thumbnail": "https://i.ytimg.com/vi/o0RLKyyfNzQ/mqdefault.jpg",
+          "published_at": "2026-04-27T12:48:58Z",
+          "url": "https://www.youtube.com/watch?v=o0RLKyyfNzQ"
+        },
+        {
+          "id": "U1qwiccawzI",
+          "title": "Indian Birds Life 💯✅🐦🦜🐦 || Day 83 || #birds #nature #shorts #ytshorts #kabutar #pigeon #life #viral",
+          "channel": "Royal Challenger Bhai 100 Days",
+          "channel_id": "UC-9N24Q1FmcD-agsgWnPnaw",
+          "subscribers": 44,
+          "thumbnail": "https://i.ytimg.com/vi/U1qwiccawzI/mqdefault.jpg",
+          "published_at": "2026-04-27T12:46:51Z",
+          "url": "https://www.youtube.com/watch?v=U1qwiccawzI"
+        },
+        {
+          "id": "mrYQd7x75tw",
+          "title": "Journey of Life: How Pregnancy Begins (3D Medical Animation) #health tips #trending",
+          "channel": " Drx Vijaykumar kashyap  ",
+          "channel_id": "UCMWYdKBAMwo2xJJ_FSRB20A",
+          "subscribers": 710,
+          "thumbnail": "https://i.ytimg.com/vi/mrYQd7x75tw/mqdefault.jpg",
+          "published_at": "2026-04-27T12:42:38Z",
+          "url": "https://www.youtube.com/watch?v=mrYQd7x75tw"
+        },
+        {
+          "id": "3inaRYFrXys",
+          "title": "Hidup dan rasa syukur #shotrs #renunganhidup #muhasabahdiri #jalanhidup #motivasihidup",
+          "channel": "DAKWAHMEDSOS CHANNEL",
+          "channel_id": "UC9bTSGDD2AAmEUdhGLnJKDA",
+          "subscribers": 2060,
+          "thumbnail": "https://i.ytimg.com/vi/3inaRYFrXys/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:07Z",
+          "url": "https://www.youtube.com/watch?v=3inaRYFrXys"
+        }
+      ]
+    },
+    {
+      "phrase": "vlog",
+      "video_count": 27,
+      "channel_count": 26,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.17,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "d1Hg97FRoMk",
+          "title": "Machine mein hath Chala Gaya Baba ka 😱 #minivlog #vlog #shotvlogs",
+          "channel": "Anukalp Rawat vlogs",
+          "channel_id": "UCEXbFarSbi-sESpHeXkmGBw",
+          "subscribers": 1500,
+          "thumbnail": "https://i.ytimg.com/vi/d1Hg97FRoMk/mqdefault.jpg",
+          "published_at": "2026-04-27T12:37:06Z",
+          "url": "https://www.youtube.com/watch?v=d1Hg97FRoMk"
+        },
+        {
+          "id": "Vb7eOD3w_L0",
+          "title": "aaj ka din Kabhi Nahin bhulunga 🤨💥#shorts #viral #minivlog #vlog",
+          "channel": "HP Vɪᴘɪɴ Vʟᴏɢ",
+          "channel_id": "UCOuXt6JGwTdT_5U3-_v9cLw",
+          "subscribers": 293,
+          "thumbnail": "https://i.ytimg.com/vi/Vb7eOD3w_L0/mqdefault.jpg",
+          "published_at": "2026-04-27T12:36:24Z",
+          "url": "https://www.youtube.com/watch?v=Vb7eOD3w_L0"
+        },
+        {
+          "id": "pOBGxNg8YMY",
+          "title": "Fake CNC Biscuit Return Vlogs-254 #shorts #minivlog #shortsfeed #viral #vlog #monudolly",
+          "channel": "Monu Dolly Vlogs",
+          "channel_id": "UCyvgWG2G3wZQRUqZ3fuFBMw",
+          "subscribers": 201000,
+          "thumbnail": "https://i.ytimg.com/vi/pOBGxNg8YMY/mqdefault.jpg",
+          "published_at": "2026-04-27T12:33:36Z",
+          "url": "https://www.youtube.com/watch?v=pOBGxNg8YMY"
+        },
+        {
+          "id": "hJMbpbQEa6g",
+          "title": "ചൂടത്ത് ഇടാ൯ പറ്റാത്തതാണ് ഞങ്ങൾ ഇട്ടേക്കുന്നത് 😇 എല്ലാവരും കൂടെ പോവ്ണ് #sruthy #shorts #vlog",
+          "channel": "Sruthy's Tips and Vlog",
+          "channel_id": "UCRWU7kJAxT8jV919HpJEIDg",
+          "subscribers": 410000,
+          "thumbnail": "https://i.ytimg.com/vi/hJMbpbQEa6g/mqdefault.jpg",
+          "published_at": "2026-04-27T12:32:44Z",
+          "url": "https://www.youtube.com/watch?v=hJMbpbQEa6g"
+        }
+      ]
+    },
+    {
+      "phrase": "back",
+      "video_count": 26,
+      "channel_count": 26,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.17,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "YrZC26fJBKY",
+          "title": "new#gymexercises #trendingreels #hiphop #viralvideo #back #workout 💪#pleasesubscribe #gymlife #abs 💪",
+          "channel": "Raja Kumar@98",
+          "channel_id": "UCf0gy4zYzwGjF3-t_GAgyCg",
+          "subscribers": 108,
+          "thumbnail": "https://i.ytimg.com/vi/YrZC26fJBKY/mqdefault.jpg",
+          "published_at": "2026-04-27T12:40:07Z",
+          "url": "https://www.youtube.com/watch?v=YrZC26fJBKY"
+        },
+        {
+          "id": "uuCwxXUO9sg",
+          "title": "👌🏽👌🏽 trending mast back neck design #shorts #viral",
+          "channel": "cutting and stitching studio up56",
+          "channel_id": "UCY_sEFHIznuUy6Uo8xiX4Jg",
+          "subscribers": 73,
+          "thumbnail": "https://i.ytimg.com/vi/uuCwxXUO9sg/mqdefault.jpg",
+          "published_at": "2026-04-27T12:36:54Z",
+          "url": "https://www.youtube.com/watch?v=uuCwxXUO9sg"
+        },
+        {
+          "id": "DXKZ6WRjxtM",
+          "title": "Lihatlah‼️ Aksi Luar Biasa BACK TO BACK SERVIS ACE TAILOR SANDER",
+          "channel": "karduk sport",
+          "channel_id": "UCo_QURJkhExTNlT8L2pf_TQ",
+          "subscribers": 67800,
+          "thumbnail": "https://i.ytimg.com/vi/DXKZ6WRjxtM/mqdefault.jpg",
+          "published_at": "2026-04-27T12:34:04Z",
+          "url": "https://www.youtube.com/watch?v=DXKZ6WRjxtM"
+        },
+        {
+          "id": "cuk5b0k1hv4",
+          "title": "Back exercise🏋️gym attitude status💪#viral#shortvideo #shortsfeed#bodybuilding #youtubeshorts",
+          "channel": "satyam fitness club sh",
+          "channel_id": "UCaGwYVPUSOLbw0exDACQY2g",
+          "subscribers": 91,
+          "thumbnail": "https://i.ytimg.com/vi/cuk5b0k1hv4/mqdefault.jpg",
+          "published_at": "2026-04-27T12:19:13Z",
+          "url": "https://www.youtube.com/watch?v=cuk5b0k1hv4"
+        }
+      ]
+    },
+    {
+      "phrase": "family",
+      "video_count": 26,
+      "channel_count": 25,
+      "total_channels_seen": 28,
+      "uploads_per_hour": 2.08,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "4bfu7mn9XwM",
+          "title": "5 Minutes Ke liye Bahar gya tha 🤣🔥| Indian family #shorts #indian #relatable #chaman #comedy #family",
+          "channel": "V.K Fact Duniya",
+          "channel_id": "UCLpb7ldivCnDNYk3f_NLIDQ",
+          "subscribers": 117000,
+          "thumbnail": "https://i.ytimg.com/vi/4bfu7mn9XwM/mqdefault.jpg",
+          "published_at": "2026-04-27T12:31:48Z",
+          "url": "https://www.youtube.com/watch?v=4bfu7mn9XwM"
+        },
+        {
+          "id": "8jpZw6jFYnA",
+          "title": "ছোটবেলা যখন কারো বাড়িতে টিভি দেখতে যাইতাম #funny #familycomedy #family",
+          "channel": "Obaydul Binodon",
+          "channel_id": "UC1f7IFpNOlKWywS8-R9GEHQ",
+          "subscribers": 77000,
+          "thumbnail": "https://i.ytimg.com/vi/8jpZw6jFYnA/mqdefault.jpg",
+          "published_at": "2026-04-27T12:31:45Z",
+          "url": "https://www.youtube.com/watch?v=8jpZw6jFYnA"
+        },
+        {
+          "id": "4F6nsRgKJnU",
+          "title": "Block Launcher #Like Incentive Program #parentchild #usa #family",
+          "channel": "Inza shorts ",
+          "channel_id": "UCUzKRwHWRDih39oJWC_8G3g",
+          "subscribers": 5620,
+          "thumbnail": "https://i.ytimg.com/vi/4F6nsRgKJnU/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:10Z",
+          "url": "https://www.youtube.com/watch?v=4F6nsRgKJnU"
+        },
+        {
+          "id": "aA8cbrGbtzM",
+          "title": "“Family pain”🙍‍♀️part-13#viral #shorts #family #famjamv4",
+          "channel": "FamJam_V4",
+          "channel_id": "UC2xPWjY1nXsgoBdcgtVEYEA",
+          "subscribers": 9640,
+          "thumbnail": "https://i.ytimg.com/vi/aA8cbrGbtzM/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:01Z",
+          "url": "https://www.youtube.com/watch?v=aA8cbrGbtzM"
+        }
+      ]
+    }
+  ],
   "topics": [
     {
-      "phrase": "ai agents",
+      "phrase": "shorts",
+      "video_count": 11,
+      "momentum": 57.85,
+      "example_videos": [
+        {
+          "id": "f7Pb8ym6zTo",
+          "title": "Trying to impress an Asian Mom 🧐 #Shorts #asianmom",
+          "channel": "Silent Loom",
+          "thumbnail": "https://i.ytimg.com/vi/f7Pb8ym6zTo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=f7Pb8ym6zTo",
+          "views": 6616855,
+          "age_hours": 99.6
+        },
+        {
+          "id": "hYkSWVpNgi0",
+          "title": "😂“Nursing Homes: Turning ‘Troubles’ into ‘Standardized Procedures’”⚙️👵#shorts#raisinghope #family",
+          "channel": "Slumberis",
+          "thumbnail": "https://i.ytimg.com/vi/hYkSWVpNgi0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=hYkSWVpNgi0",
+          "views": 2205728,
+          "age_hours": 25.0
+        },
+        {
+          "id": "eoTa8cK61lk",
+          "title": "This father's love hits different #shorts",
+          "channel": "MovieNestTV",
+          "thumbnail": "https://i.ytimg.com/vi/eoTa8cK61lk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=eoTa8cK61lk",
+          "views": 8933810,
+          "age_hours": 169.5
+        }
+      ]
+    },
+    {
+      "phrase": "family",
+      "video_count": 8,
+      "momentum": 38.52,
+      "example_videos": [
+        {
+          "id": "BbRUzXOld1A",
+          "title": "ACT A DAMN FOOL @c4energy #c4partner #meme #family #dad #mom #skit #funny",
+          "channel": "theplumpcover",
+          "thumbnail": "https://i.ytimg.com/vi/BbRUzXOld1A/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=BbRUzXOld1A",
+          "views": 3206089,
+          "age_hours": 20.2
+        },
+        {
+          "id": "hYkSWVpNgi0",
+          "title": "😂“Nursing Homes: Turning ‘Troubles’ into ‘Standardized Procedures’”⚙️👵#shorts#raisinghope #family",
+          "channel": "Slumberis",
+          "thumbnail": "https://i.ytimg.com/vi/hYkSWVpNgi0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=hYkSWVpNgi0",
+          "views": 2205728,
+          "age_hours": 25.0
+        },
+        {
+          "id": "4AoNXAEyhYE",
+          "title": "Part 2 | His Family Knows 😂 #funny #hopecore #hopelesscore",
+          "channel": "Hopeless Core",
+          "thumbnail": "https://i.ytimg.com/vi/4AoNXAEyhYE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=4AoNXAEyhYE",
+          "views": 3626186,
+          "age_hours": 39.8
+        }
+      ]
+    },
+    {
+      "phrase": "funny",
       "video_count": 7,
-      "momentum": 38.42,
+      "momentum": 37.99,
       "example_videos": [
         {
-          "id": "demo1",
-          "title": "I Built an AI Agent That Runs My Entire Business",
-          "channel": "Tech Forward",
-          "thumbnail": "",
-          "url": "#",
-          "views": 1240000,
-          "age_hours": 18.4
+          "id": "BbRUzXOld1A",
+          "title": "ACT A DAMN FOOL @c4energy #c4partner #meme #family #dad #mom #skit #funny",
+          "channel": "theplumpcover",
+          "thumbnail": "https://i.ytimg.com/vi/BbRUzXOld1A/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=BbRUzXOld1A",
+          "views": 3206089,
+          "age_hours": 20.2
         },
         {
-          "id": "demo2",
-          "title": "AI Agents Just Changed Everything (Again)",
-          "channel": "Future Code",
-          "thumbnail": "",
-          "url": "#",
-          "views": 890000,
-          "age_hours": 32.1
+          "id": "4AoNXAEyhYE",
+          "title": "Part 2 | His Family Knows 😂 #funny #hopecore #hopelesscore",
+          "channel": "Hopeless Core",
+          "thumbnail": "https://i.ytimg.com/vi/4AoNXAEyhYE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=4AoNXAEyhYE",
+          "views": 3626186,
+          "age_hours": 39.8
         },
         {
-          "id": "demo3",
-          "title": "The Truth About AI Agents in 2026",
-          "channel": "Decoded",
-          "thumbnail": "",
-          "url": "#",
-          "views": 412000,
-          "age_hours": 9.8
+          "id": "7jnFWvdqspQ",
+          "title": "The dam crisis ended in the funniest way.#movie #foryou #edit #funny",
+          "channel": "BPL Sports 26",
+          "thumbnail": "https://i.ytimg.com/vi/7jnFWvdqspQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=7jnFWvdqspQ",
+          "views": 11699404,
+          "age_hours": 73.6
         }
       ]
     },
     {
-      "phrase": "tier list",
-      "video_count": 5,
-      "momentum": 31.18,
+      "phrase": "game",
+      "video_count": 7,
+      "momentum": 34.63,
       "example_videos": [
         {
-          "id": "demo4",
-          "title": "Ranking EVERY Movie of 2026 (Tier List)",
-          "channel": "Reel Talk",
-          "thumbnail": "",
-          "url": "#",
-          "views": 2100000,
-          "age_hours": 48.0
+          "id": "rs4MwK6iGKU",
+          "title": "I got this game shut down…",
+          "channel": "Flamingo",
+          "thumbnail": "https://i.ytimg.com/vi/rs4MwK6iGKU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=rs4MwK6iGKU",
+          "views": 622537,
+          "age_hours": 12.4
         },
         {
-          "id": "demo5",
-          "title": "The Definitive Pokemon Tier List",
-          "channel": "Battle Royale",
-          "thumbnail": "",
-          "url": "#",
-          "views": 780000,
-          "age_hours": 22.5
+          "id": "FFw7DrauYqM",
+          "title": "Thought this would be a fun game🫟 @stinkyasher ​@scottkress_ @sydneymorgan",
+          "channel": "Carter Kench",
+          "thumbnail": "https://i.ytimg.com/vi/FFw7DrauYqM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=FFw7DrauYqM",
+          "views": 4237257,
+          "age_hours": 66.0
+        },
+        {
+          "id": "oubP9b9Jmp4",
+          "title": "This made me laugh the whole way through… #reels #funny #game #twins #brothers #edit #gay #lgbt #3",
+          "channel": "Timothy Thatcher",
+          "thumbnail": "https://i.ytimg.com/vi/oubP9b9Jmp4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oubP9b9Jmp4",
+          "views": 8596460,
+          "age_hours": 160.2
         }
       ]
     },
     {
-      "phrase": "i tried",
+      "phrase": "trailer",
+      "video_count": 8,
+      "momentum": 34.58,
+      "example_videos": [
+        {
+          "id": "p4ahGSFTY-c",
+          "title": "aespa 에스파 'LEMONADE' Complæxity Trailer",
+          "channel": "aespa",
+          "thumbnail": "https://i.ytimg.com/vi/p4ahGSFTY-c/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=p4ahGSFTY-c",
+          "views": 971227,
+          "age_hours": 21.8
+        },
+        {
+          "id": "cqDrZCcNaio",
+          "title": "Alien: Isolation - Official Sequel Teaser Trailer",
+          "channel": "IGN",
+          "thumbnail": "https://i.ytimg.com/vi/cqDrZCcNaio/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cqDrZCcNaio",
+          "views": 241408,
+          "age_hours": 17.9
+        },
+        {
+          "id": "DfowFyDxUXo",
+          "title": "\"Spider-Noir\" - Authentic Black & White Trailer | Prime Video",
+          "channel": "Prime Video",
+          "thumbnail": "https://i.ytimg.com/vi/DfowFyDxUXo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DfowFyDxUXo",
+          "views": 682668,
+          "age_hours": 36.4
+        }
+      ]
+    },
+    {
+      "phrase": "edit",
       "video_count": 6,
-      "momentum": 29.74,
+      "momentum": 31.76,
       "example_videos": [
         {
-          "id": "demo6",
-          "title": "I Tried Living Like a Monk for 30 Days",
-          "channel": "Real Talk",
-          "thumbnail": "",
-          "url": "#",
-          "views": 1890000,
-          "age_hours": 64.0
+          "id": "dbz5RunybyQ",
+          "title": "\"Villains aren't born, they are made\" - Chronicle | House of Memories - Panic! At The Disco #edit",
+          "channel": "MenZuration",
+          "thumbnail": "https://i.ytimg.com/vi/dbz5RunybyQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dbz5RunybyQ",
+          "views": 20596049,
+          "age_hours": 190.8
+        },
+        {
+          "id": "7jnFWvdqspQ",
+          "title": "The dam crisis ended in the funniest way.#movie #foryou #edit #funny",
+          "channel": "BPL Sports 26",
+          "thumbnail": "https://i.ytimg.com/vi/7jnFWvdqspQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=7jnFWvdqspQ",
+          "views": 11699404,
+          "age_hours": 73.6
+        },
+        {
+          "id": "roD9d2_F3rk",
+          "title": "Every lie told suddenly became the truth #movie #edit",
+          "channel": "FuturePunk Recap",
+          "thumbnail": "https://i.ytimg.com/vi/roD9d2_F3rk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=roD9d2_F3rk",
+          "views": 5412703,
+          "age_hours": 91.1
         }
       ]
     },
     {
-      "phrase": "minecraft hardcore",
+      "phrase": "they",
+      "video_count": 6,
+      "momentum": 31.39,
+      "example_videos": [
+        {
+          "id": "dbz5RunybyQ",
+          "title": "\"Villains aren't born, they are made\" - Chronicle | House of Memories - Panic! At The Disco #edit",
+          "channel": "MenZuration",
+          "thumbnail": "https://i.ytimg.com/vi/dbz5RunybyQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dbz5RunybyQ",
+          "views": 20596049,
+          "age_hours": 190.8
+        },
+        {
+          "id": "jVimd89DoGo",
+          "title": "👀🧊 they found what was in Drake's ice",
+          "channel": "Music Media",
+          "thumbnail": "https://i.ytimg.com/vi/jVimd89DoGo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=jVimd89DoGo",
+          "views": 7727931,
+          "age_hours": 115.2
+        },
+        {
+          "id": "YARFF2eyyKY",
+          "title": "Carl Weber's The Family Business Season 5 | They Stole the Wrong Woman’s Car 😨🚗",
+          "channel": "Choose78",
+          "thumbnail": "https://i.ytimg.com/vi/YARFF2eyyKY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YARFF2eyyKY",
+          "views": 4464703,
+          "age_hours": 167.3
+        }
+      ]
+    },
+    {
+      "phrase": "baby",
+      "video_count": 6,
+      "momentum": 27.59,
+      "example_videos": [
+        {
+          "id": "jF0KxOMlSRM",
+          "title": "Baby Warthog Runs His Mouth… and His Legs 🤣",
+          "channel": "Dusty Douglas",
+          "thumbnail": "https://i.ytimg.com/vi/jF0KxOMlSRM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=jF0KxOMlSRM",
+          "views": 7109376,
+          "age_hours": 63.7
+        },
+        {
+          "id": "9g71xi8JR9I",
+          "title": "This Smart Baby Fooled the Zookeeper 😎",
+          "channel": "Epic Dose",
+          "thumbnail": "https://i.ytimg.com/vi/9g71xi8JR9I/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=9g71xi8JR9I",
+          "views": 4021239,
+          "age_hours": 20.6
+        },
+        {
+          "id": "4of1EXqkwpE",
+          "title": "Who told y'all this baby hair trend was cute?",
+          "channel": "This Bahamian Gyal",
+          "thumbnail": "https://i.ytimg.com/vi/4of1EXqkwpE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=4of1EXqkwpE",
+          "views": 77970,
+          "age_hours": 20.8
+        }
+      ]
+    },
+    {
+      "phrase": "made",
+      "video_count": 5,
+      "momentum": 25.85,
+      "example_videos": [
+        {
+          "id": "dbz5RunybyQ",
+          "title": "\"Villains aren't born, they are made\" - Chronicle | House of Memories - Panic! At The Disco #edit",
+          "channel": "MenZuration",
+          "thumbnail": "https://i.ytimg.com/vi/dbz5RunybyQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dbz5RunybyQ",
+          "views": 20596049,
+          "age_hours": 190.8
+        },
+        {
+          "id": "wK3eAcgNltI",
+          "title": "I Made Mac & Cheese out of Crayons",
+          "channel": "Thrawan",
+          "thumbnail": "https://i.ytimg.com/vi/wK3eAcgNltI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=wK3eAcgNltI",
+          "views": 7567290,
+          "age_hours": 71.8
+        },
+        {
+          "id": "oubP9b9Jmp4",
+          "title": "This made me laugh the whole way through… #reels #funny #game #twins #brothers #edit #gay #lgbt #3",
+          "channel": "Timothy Thatcher",
+          "thumbnail": "https://i.ytimg.com/vi/oubP9b9Jmp4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oubP9b9Jmp4",
+          "views": 8596460,
+          "age_hours": 160.2
+        }
+      ]
+    },
+    {
+      "phrase": "vlog",
+      "video_count": 7,
+      "momentum": 25.41,
+      "example_videos": [
+        {
+          "id": "Ub1zOdFr6p0",
+          "title": "Walt Disney World on a Budget MEGA Vlog | Economy Travel Day & All Star Sports | 2026 | Adam Hattan",
+          "channel": "Adam Hattan",
+          "thumbnail": "https://i.ytimg.com/vi/Ub1zOdFr6p0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Ub1zOdFr6p0",
+          "views": 49421,
+          "age_hours": 20.6
+        },
+        {
+          "id": "jqBOQAOW2w4",
+          "title": "Our Trip To HAWAII.. (VLOG)",
+          "channel": "KatieB",
+          "thumbnail": "https://i.ytimg.com/vi/jqBOQAOW2w4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=jqBOQAOW2w4",
+          "views": 278521,
+          "age_hours": 93.8
+        },
+        {
+          "id": "PjmcasDu2Kg",
+          "title": "A WEEK WITH ME AND PREPPING FOR MY BABY SHOWER | VLOG | MOLLYMAE",
+          "channel": "MollyMae",
+          "thumbnail": "https://i.ytimg.com/vi/PjmcasDu2Kg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=PjmcasDu2Kg",
+          "views": 383720,
+          "age_hours": 66.5
+        }
+      ]
+    },
+    {
+      "phrase": "tech",
       "video_count": 4,
-      "momentum": 27.91,
+      "momentum": 20.23,
       "example_videos": [
         {
-          "id": "demo7",
-          "title": "I Survived 100 Days in Minecraft Hardcore",
-          "channel": "PixelCraft",
-          "thumbnail": "",
-          "url": "#",
-          "views": 3200000,
-          "age_hours": 96.0
+          "id": "JstGCPsj9wg",
+          "title": "How Tech Companies Lie to You.",
+          "channel": "Mrwhosetheboss",
+          "thumbnail": "https://i.ytimg.com/vi/JstGCPsj9wg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=JstGCPsj9wg",
+          "views": 3289067,
+          "age_hours": 48.3
+        },
+        {
+          "id": "vAWzPlUM59Q",
+          "title": "This charger ejects from your phone when it hits 100% #carterpcs #tech #iphonehacks #iphone",
+          "channel": "CarterPCs",
+          "thumbnail": "https://i.ytimg.com/vi/vAWzPlUM59Q/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=vAWzPlUM59Q",
+          "views": 1049060,
+          "age_hours": 29.2
+        },
+        {
+          "id": "LSPEK3-lMSA",
+          "title": "The Craziest Laptop I've Ever Seen 🤯🇨🇳 #tech #china #luxury",
+          "channel": "Sergi",
+          "thumbnail": "https://i.ytimg.com/vi/LSPEK3-lMSA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=LSPEK3-lMSA",
+          "views": 3535889,
+          "age_hours": 163.9
         }
       ]
     },
     {
-      "phrase": "ranking the",
+      "phrase": "life",
+      "video_count": 5,
+      "momentum": 19.04,
+      "example_videos": [
+        {
+          "id": "LsXR79PwiD4",
+          "title": "Dude's reaction when they steal his whole life #hilarious #shortsfeed #trending",
+          "channel": "Whoiscal",
+          "thumbnail": "https://i.ytimg.com/vi/LsXR79PwiD4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=LsXR79PwiD4",
+          "views": 3147925,
+          "age_hours": 138.8
+        },
+        {
+          "id": "vKzsVmDwf1g",
+          "title": "Getting Back Into Routine + Life Updates",
+          "channel": "Evelyn Ha",
+          "thumbnail": "https://i.ytimg.com/vi/vKzsVmDwf1g/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=vKzsVmDwf1g",
+          "views": 900244,
+          "age_hours": 87.3
+        },
+        {
+          "id": "Pvpf1VZ04ko",
+          "title": "HONEST ANSWERS TO YOUR QUESTIONS! | MY LONDON LIFE",
+          "channel": "Jo Good - MiddleAgedMinx",
+          "thumbnail": "https://i.ytimg.com/vi/Pvpf1VZ04ko/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Pvpf1VZ04ko",
+          "views": 28826,
+          "age_hours": 27.8
+        }
+      ]
+    },
+    {
+      "phrase": "back",
+      "video_count": 5,
+      "momentum": 18.97,
+      "example_videos": [
+        {
+          "id": "1mepkJIZyoI",
+          "title": "How it feels to go back to work after vacation! 👀 #fails #CCTV #bears  #scare #shorts",
+          "channel": "Peachy",
+          "thumbnail": "https://i.ytimg.com/vi/1mepkJIZyoI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1mepkJIZyoI",
+          "views": 2166797,
+          "age_hours": 18.8
+        },
+        {
+          "id": "oqRnTW15l6c",
+          "title": "I want my chocolate chips back 😤😤 #shrinkflation",
+          "channel": "Neal Chauhan",
+          "thumbnail": "https://i.ytimg.com/vi/oqRnTW15l6c/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oqRnTW15l6c",
+          "views": 5736492,
+          "age_hours": 178.7
+        },
+        {
+          "id": "vKzsVmDwf1g",
+          "title": "Getting Back Into Routine + Life Updates",
+          "channel": "Evelyn Ha",
+          "thumbnail": "https://i.ytimg.com/vi/vKzsVmDwf1g/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=vKzsVmDwf1g",
+          "views": 900244,
+          "age_hours": 87.3
+        }
+      ]
+    },
+    {
+      "phrase": "roblox",
       "video_count": 4,
-      "momentum": 22.18,
+      "momentum": 18.28,
       "example_videos": [
         {
-          "id": "demo8",
-          "title": "Ranking the Worst Cars I've Ever Driven",
-          "channel": "Driven",
-          "thumbnail": "",
-          "url": "#",
-          "views": 540000,
-          "age_hours": 28.0
+          "id": "DnAXrYqR-9U",
+          "title": "Roblox Kids CAN'T FKN SPELL😐",
+          "channel": "RICHLEV",
+          "thumbnail": "https://i.ytimg.com/vi/DnAXrYqR-9U/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DnAXrYqR-9U",
+          "views": 172923,
+          "age_hours": 14.8
+        },
+        {
+          "id": "sL5MV12Uaf4",
+          "title": "ROBLOX KICK A LUCKY BLOCK!",
+          "channel": "CaylusBlox",
+          "thumbnail": "https://i.ytimg.com/vi/sL5MV12Uaf4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=sL5MV12Uaf4",
+          "views": 414497,
+          "age_hours": 18.1
+        },
+        {
+          "id": "vc6gh38t6f8",
+          "title": "Upgrading From NOOB To PRO in Roblox Ninja Star",
+          "channel": "SSundee",
+          "thumbnail": "https://i.ytimg.com/vi/vc6gh38t6f8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=vc6gh38t6f8",
+          "views": 266641,
+          "age_hours": 19.3
         }
       ]
     },
     {
-      "phrase": "morning routine",
-      "video_count": 3,
-      "momentum": 19.42,
+      "phrase": "season",
+      "video_count": 4,
+      "momentum": 17.48,
       "example_videos": [
         {
-          "id": "demo9",
-          "title": "My 5AM Morning Routine That Changed My Life",
-          "channel": "Slow Living",
-          "thumbnail": "",
-          "url": "#",
-          "views": 720000,
-          "age_hours": 18.0
+          "id": "YARFF2eyyKY",
+          "title": "Carl Weber's The Family Business Season 5 | They Stole the Wrong Woman’s Car 😨🚗",
+          "channel": "Choose78",
+          "thumbnail": "https://i.ytimg.com/vi/YARFF2eyyKY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YARFF2eyyKY",
+          "views": 4464703,
+          "age_hours": 167.3
+        },
+        {
+          "id": "oO1z4yTmKmk",
+          "title": "I Spent 5 Days Terraforming.. | Hermitcraft Season 11 | Ep.14",
+          "channel": "SmallishBeans",
+          "thumbnail": "https://i.ytimg.com/vi/oO1z4yTmKmk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oO1z4yTmKmk",
+          "views": 254072,
+          "age_hours": 22.8
+        },
+        {
+          "id": "7FaPm2QTy5w",
+          "title": "Star Trek: Strange New Worlds | Season 4 Official Teaser | Paramount+ (CCXP Mexico 2026)",
+          "channel": "Paramount Plus",
+          "thumbnail": "https://i.ytimg.com/vi/7FaPm2QTy5w/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=7FaPm2QTy5w",
+          "views": 156372,
+          "age_hours": 37.7
         }
       ]
     },
     {
-      "phrase": "dollar vs",
-      "video_count": 3,
-      "momentum": 18.66,
+      "phrase": "house",
+      "video_count": 5,
+      "momentum": 17.31,
       "example_videos": [
         {
-          "id": "demo10",
-          "title": "$1 Pizza vs $1000 Pizza",
-          "channel": "Foodie Showdown",
-          "thumbnail": "",
-          "url": "#",
-          "views": 4100000,
-          "age_hours": 110.0
+          "id": "dbz5RunybyQ",
+          "title": "\"Villains aren't born, they are made\" - Chronicle | House of Memories - Panic! At The Disco #edit",
+          "channel": "MenZuration",
+          "thumbnail": "https://i.ytimg.com/vi/dbz5RunybyQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dbz5RunybyQ",
+          "views": 20596049,
+          "age_hours": 190.8
+        },
+        {
+          "id": "3clvf2wNoGA",
+          "title": "Hide Your House NOW on Google Maps (Before It’s Too Late) ✅",
+          "channel": "Brandon Thomas",
+          "thumbnail": "https://i.ytimg.com/vi/3clvf2wNoGA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3clvf2wNoGA",
+          "views": 2096730,
+          "age_hours": 334.3
+        },
+        {
+          "id": "egitQ_ey2K4",
+          "title": "TRAVEL WITH ME TO GA TO BUY A HOUSE!🏠🩷#travel#vlog#diml#airport#aesthetic#homeowner#reality#fyp",
+          "channel": "Kaitlyn Johnson",
+          "thumbnail": "https://i.ytimg.com/vi/egitQ_ey2K4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=egitQ_ey2K4",
+          "views": 99282,
+          "age_hours": 60.5
         }
       ]
     },
     {
-      "phrase": "we need to",
-      "video_count": 3,
-      "momentum": 14.21,
+      "phrase": "star",
+      "video_count": 4,
+      "momentum": 15.85,
       "example_videos": [
         {
-          "id": "demo11",
-          "title": "We Need to Talk About This Movie",
-          "channel": "Cinema Sins",
-          "thumbnail": "",
-          "url": "#",
-          "views": 380000,
-          "age_hours": 16.0
+          "id": "vc6gh38t6f8",
+          "title": "Upgrading From NOOB To PRO in Roblox Ninja Star",
+          "channel": "SSundee",
+          "thumbnail": "https://i.ytimg.com/vi/vc6gh38t6f8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=vc6gh38t6f8",
+          "views": 266641,
+          "age_hours": 19.3
+        },
+        {
+          "id": "Ub1zOdFr6p0",
+          "title": "Walt Disney World on a Budget MEGA Vlog | Economy Travel Day & All Star Sports | 2026 | Adam Hattan",
+          "channel": "Adam Hattan",
+          "thumbnail": "https://i.ytimg.com/vi/Ub1zOdFr6p0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Ub1zOdFr6p0",
+          "views": 49421,
+          "age_hours": 20.6
+        },
+        {
+          "id": "7FaPm2QTy5w",
+          "title": "Star Trek: Strange New Worlds | Season 4 Official Teaser | Paramount+ (CCXP Mexico 2026)",
+          "channel": "Paramount Plus",
+          "thumbnail": "https://i.ytimg.com/vi/7FaPm2QTy5w/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=7FaPm2QTy5w",
+          "views": 156372,
+          "age_hours": 37.7
+        }
+      ]
+    },
+    {
+      "phrase": "iphone",
+      "video_count": 3,
+      "momentum": 15.12,
+      "example_videos": [
+        {
+          "id": "nP8_E-xgATE",
+          "title": "iPhone 17 Pro Max Cosmic Orange #shorts #noads",
+          "channel": "Junão no Hype",
+          "thumbnail": "https://i.ytimg.com/vi/nP8_E-xgATE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=nP8_E-xgATE",
+          "views": 7896129,
+          "age_hours": 86.7
+        },
+        {
+          "id": "vAWzPlUM59Q",
+          "title": "This charger ejects from your phone when it hits 100% #carterpcs #tech #iphonehacks #iphone",
+          "channel": "CarterPCs",
+          "thumbnail": "https://i.ytimg.com/vi/vAWzPlUM59Q/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=vAWzPlUM59Q",
+          "views": 1049060,
+          "age_hours": 29.2
+        },
+        {
+          "id": "EnsReOaOUk0",
+          "title": "Sealed iPhone 17 Pro Max at carboot… £400 to £250 instantly. Real or fake?",
+          "channel": "Cal",
+          "thumbnail": "https://i.ytimg.com/vi/EnsReOaOUk0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=EnsReOaOUk0",
+          "views": 1333367,
+          "age_hours": 188.7
         }
       ]
     }
   ],
   "breakout_videos": [
     {
-      "id": "demo1",
-      "title": "I Built an AI Agent That Runs My Entire Business",
-      "channel": "Tech Forward",
-      "channel_id": "x",
-      "thumbnail": "",
-      "url": "#",
-      "views": 1240000,
-      "likes": 89000,
-      "comments": 4200,
-      "age_hours": 18.4,
-      "views_per_hour": 67391,
-      "momentum": 5.42,
-      "category": "Science & Tech",
-      "region": "US"
+      "id": "MiO16KlMPaU",
+      "title": "TWS (투어스) '널 따라가 (You, You)' Official MV",
+      "channel": "HYBE LABELS",
+      "channel_id": "UC3IZKseVpdzPSBaWxBxundA",
+      "thumbnail": "https://i.ytimg.com/vi/MiO16KlMPaU/mqdefault.jpg",
+      "published_at": "2026-04-27T08:58:06Z",
+      "category_id": "10",
+      "views": 235965,
+      "likes": 44989,
+      "comments": 3461,
+      "age_hours": 3.9,
+      "views_per_hour": 60895,
+      "momentum": 7.311,
+      "url": "https://www.youtube.com/watch?v=MiO16KlMPaU",
+      "region": "GB",
+      "category": "Other"
     },
     {
-      "id": "demo3",
-      "title": "The Truth About AI Agents in 2026",
-      "channel": "Decoded",
-      "channel_id": "x",
-      "thumbnail": "",
-      "url": "#",
-      "views": 412000,
-      "likes": 34000,
-      "comments": 1800,
-      "age_hours": 9.8,
-      "views_per_hour": 42040,
-      "momentum": 4.97,
-      "category": "Education",
-      "region": "US"
+      "id": "CFGPPIKWgS0",
+      "title": "British Airsoft Loadout - Part 13",
+      "channel": "Arroyo Airsoft",
+      "channel_id": "UCntGKj-PnB6ZEc5LUs8or4g",
+      "thumbnail": "https://i.ytimg.com/vi/CFGPPIKWgS0/mqdefault.jpg",
+      "published_at": "2026-04-21T04:53:41Z",
+      "category_id": "24",
+      "views": 54874636,
+      "likes": 3312549,
+      "comments": 28976,
+      "age_hours": 151.9,
+      "views_per_hour": 361140,
+      "momentum": 6.258,
+      "url": "https://www.youtube.com/watch?v=CFGPPIKWgS0",
+      "region": "US",
+      "category": "Entertainment"
     },
     {
-      "id": "demo6",
-      "title": "I Tried Living Like a Monk for 30 Days",
-      "channel": "Real Talk",
-      "channel_id": "x",
-      "thumbnail": "",
-      "url": "#",
-      "views": 1890000,
-      "likes": 142000,
-      "comments": 8900,
-      "age_hours": 64.0,
-      "views_per_hour": 29531,
-      "momentum": 4.81,
-      "category": "People & Blogs",
-      "region": "US"
+      "id": "zRtGL0-5rg4",
+      "title": "Last To Leave Grocery Store, Wins $250,000",
+      "channel": "MrBeast",
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "thumbnail": "https://i.ytimg.com/vi/zRtGL0-5rg4/mqdefault.jpg",
+      "published_at": "2026-04-18T16:00:01Z",
+      "category_id": "24",
+      "views": 99867549,
+      "likes": 2549168,
+      "comments": 140853,
+      "age_hours": 212.8,
+      "views_per_hour": 469208,
+      "momentum": 6.041,
+      "url": "https://www.youtube.com/watch?v=zRtGL0-5rg4",
+      "region": "US",
+      "category": "Entertainment"
     },
     {
-      "id": "demo4",
-      "title": "Ranking EVERY Movie of 2026 (Tier List)",
-      "channel": "Reel Talk",
-      "channel_id": "x",
-      "thumbnail": "",
-      "url": "#",
-      "views": 2100000,
-      "likes": 98000,
-      "comments": 12000,
-      "age_hours": 48.0,
-      "views_per_hour": 43750,
-      "momentum": 4.74,
-      "category": "Entertainment",
-      "region": "US"
-    }
-  ],
-  "emerging_themes": [
-    {
-      "phrase": "mobile photography",
-      "video_count": 24,
-      "channel_count": 19,
-      "total_channels_seen": 28,
-      "uploads_per_hour": 1.58,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "d1",
-          "title": "iPhone 17 Pro Camera Test in Low Light",
-          "channel": "PixelGrade",
-          "channel_id": "c1",
-          "subscribers": 84000,
-          "thumbnail": "",
-          "published_at": "2026-04-27T06:30:00Z",
-          "url": "#"
-        },
-        {
-          "id": "d2",
-          "title": "Pixel vs iPhone vs Galaxy: Camera Showdown 2026",
-          "channel": "CamCompare",
-          "channel_id": "c2",
-          "subscribers": 312000,
-          "thumbnail": "",
-          "published_at": "2026-04-27T04:15:00Z",
-          "url": "#"
-        },
-        {
-          "id": "d3",
-          "title": "I Replaced My DSLR With a Phone for 30 Days",
-          "channel": "Frame & Field",
-          "channel_id": "c3",
-          "subscribers": 47000,
-          "thumbnail": "",
-          "published_at": "2026-04-27T02:00:00Z",
-          "url": "#"
-        }
-      ]
+      "id": "3j0G16lOWh0",
+      "title": "Using Crows To Get Rich!",
+      "channel": "SwagSixer",
+      "channel_id": "UCblXCZLiDGWiYpxT0M9t9Dw",
+      "thumbnail": "https://i.ytimg.com/vi/3j0G16lOWh0/mqdefault.jpg",
+      "published_at": "2026-04-25T18:27:30Z",
+      "category_id": "22",
+      "views": 7511887,
+      "likes": 533592,
+      "comments": 6257,
+      "age_hours": 42.4,
+      "views_per_hour": 177231,
+      "momentum": 6.038,
+      "url": "https://www.youtube.com/watch?v=3j0G16lOWh0",
+      "region": "US",
+      "category": "People & Blogs"
     },
     {
-      "phrase": "sourdough starter",
-      "video_count": 16,
-      "channel_count": 14,
-      "total_channels_seen": 20,
-      "uploads_per_hour": 1.17,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "d4",
-          "title": "Why My Sourdough Starter Wouldn't Rise (And the Fix)",
-          "channel": "Crumb Lab",
-          "channel_id": "c4",
-          "subscribers": 28000,
-          "thumbnail": "",
-          "published_at": "2026-04-27T05:45:00Z",
-          "url": "#"
-        },
-        {
-          "id": "d5",
-          "title": "Reviving a 7-Day-Old Starter (Day-by-Day)",
-          "channel": "Slow Bread",
-          "channel_id": "c5",
-          "subscribers": 156000,
-          "thumbnail": "",
-          "published_at": "2026-04-27T03:20:00Z",
-          "url": "#"
-        }
-      ]
+      "id": "BbRUzXOld1A",
+      "title": "ACT A DAMN FOOL @c4energy #c4partner #meme #family #dad #mom #skit #funny",
+      "channel": "theplumpcover",
+      "channel_id": "UCK-JPaRnxWuQym04QEaGDLA",
+      "thumbnail": "https://i.ytimg.com/vi/BbRUzXOld1A/mqdefault.jpg",
+      "published_at": "2026-04-26T16:37:15Z",
+      "category_id": "20",
+      "views": 3206089,
+      "likes": 242113,
+      "comments": 1223,
+      "age_hours": 20.2,
+      "views_per_hour": 158543,
+      "momentum": 6.005,
+      "url": "https://www.youtube.com/watch?v=BbRUzXOld1A",
+      "region": "US",
+      "category": "Gaming"
     },
     {
-      "phrase": "split keyboard",
-      "video_count": 12,
-      "channel_count": 11,
-      "total_channels_seen": 14,
-      "uploads_per_hour": 0.92,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "d6",
-          "title": "My First Week on a Split Keyboard",
-          "channel": "Keys & Caps",
-          "channel_id": "c6",
-          "subscribers": 19000,
-          "thumbnail": "",
-          "published_at": "2026-04-27T07:10:00Z",
-          "url": "#"
-        },
-        {
-          "id": "d7",
-          "title": "Why Programmers Are Switching to Split Keyboards",
-          "channel": "Dev Desk",
-          "channel_id": "c7",
-          "subscribers": 220000,
-          "thumbnail": "",
-          "published_at": "2026-04-27T01:30:00Z",
-          "url": "#"
-        }
-      ]
+      "id": "p4ahGSFTY-c",
+      "title": "aespa 에스파 'LEMONADE' Complæxity Trailer",
+      "channel": "aespa",
+      "channel_id": "UC9GtSLeksfK4yuJ_g1lgQbg",
+      "thumbnail": "https://i.ytimg.com/vi/p4ahGSFTY-c/mqdefault.jpg",
+      "published_at": "2026-04-26T15:00:07Z",
+      "category_id": "10",
+      "views": 971227,
+      "likes": 109858,
+      "comments": 5934,
+      "age_hours": 21.8,
+      "views_per_hour": 44467,
+      "momentum": 5.984,
+      "url": "https://www.youtube.com/watch?v=p4ahGSFTY-c",
+      "region": "GB",
+      "category": "Other"
+    },
+    {
+      "id": "f7Pb8ym6zTo",
+      "title": "Trying to impress an Asian Mom 🧐 #Shorts #asianmom",
+      "channel": "Silent Loom",
+      "channel_id": "UCSrZPLnzKby-VdFF4zggjfw",
+      "thumbnail": "https://i.ytimg.com/vi/f7Pb8ym6zTo/mqdefault.jpg",
+      "published_at": "2026-04-23T09:13:25Z",
+      "category_id": "22",
+      "views": 6616855,
+      "likes": 718139,
+      "comments": 1112,
+      "age_hours": 99.6,
+      "views_per_hour": 66421,
+      "momentum": 5.877,
+      "url": "https://www.youtube.com/watch?v=f7Pb8ym6zTo",
+      "region": "US",
+      "category": "People & Blogs"
+    },
+    {
+      "id": "pzxtGL9kzPs",
+      "title": "Try Not To Get Slimed",
+      "channel": "MrBeast",
+      "channel_id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "thumbnail": "https://i.ytimg.com/vi/pzxtGL9kzPs/mqdefault.jpg",
+      "published_at": "2026-04-24T16:00:00Z",
+      "category_id": "24",
+      "views": 23067883,
+      "likes": 547599,
+      "comments": 8545,
+      "age_hours": 68.8,
+      "views_per_hour": 335077,
+      "momentum": 5.808,
+      "url": "https://www.youtube.com/watch?v=pzxtGL9kzPs",
+      "region": "GB",
+      "category": "Entertainment"
+    },
+    {
+      "id": "Vo6QTBMdUfU",
+      "title": "1 Day vs 50,000 Day Build Challenge",
+      "channel": "MrBeast Gaming",
+      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
+      "thumbnail": "https://i.ytimg.com/vi/Vo6QTBMdUfU/mqdefault.jpg",
+      "published_at": "2026-04-25T16:00:01Z",
+      "category_id": "20",
+      "views": 15614055,
+      "likes": 311950,
+      "comments": 10661,
+      "age_hours": 44.8,
+      "views_per_hour": 348198,
+      "momentum": 5.801,
+      "url": "https://www.youtube.com/watch?v=Vo6QTBMdUfU",
+      "region": "US",
+      "category": "Gaming"
+    },
+    {
+      "id": "hYkSWVpNgi0",
+      "title": "😂“Nursing Homes: Turning ‘Troubles’ into ‘Standardized Procedures’”⚙️👵#shorts#raisinghope #family",
+      "channel": "Slumberis",
+      "channel_id": "UCaUqT1SYRKxqEzx_p6Zr4oA",
+      "thumbnail": "https://i.ytimg.com/vi/hYkSWVpNgi0/mqdefault.jpg",
+      "published_at": "2026-04-26T11:48:00Z",
+      "category_id": "1",
+      "views": 2205728,
+      "likes": 181813,
+      "comments": 197,
+      "age_hours": 25.0,
+      "views_per_hour": 88078,
+      "momentum": 5.764,
+      "url": "https://www.youtube.com/watch?v=hYkSWVpNgi0",
+      "region": "US",
+      "category": "Other"
+    },
+    {
+      "id": "4AoNXAEyhYE",
+      "title": "Part 2 | His Family Knows 😂 #funny #hopecore #hopelesscore",
+      "channel": "Hopeless Core",
+      "channel_id": "UCCK7_HdCFAKTNBwh5KRAscA",
+      "thumbnail": "https://i.ytimg.com/vi/4AoNXAEyhYE/mqdefault.jpg",
+      "published_at": "2026-04-25T21:00:03Z",
+      "category_id": "24",
+      "views": 3626186,
+      "likes": 274200,
+      "comments": 3551,
+      "age_hours": 39.8,
+      "views_per_hour": 91014,
+      "momentum": 5.758,
+      "url": "https://www.youtube.com/watch?v=4AoNXAEyhYE",
+      "region": "US",
+      "category": "Entertainment"
+    },
+    {
+      "id": "4nWo4vdyXOo",
+      "title": "1 Second vs 1 Hour Steak",
+      "channel": "Nick DiGiovanni",
+      "channel_id": "UCMyOj6fhvKFMjxUCp3b_3gA",
+      "thumbnail": "https://i.ytimg.com/vi/4nWo4vdyXOo/mqdefault.jpg",
+      "published_at": "2026-04-24T16:00:08Z",
+      "category_id": "22",
+      "views": 11229121,
+      "likes": 518051,
+      "comments": 3861,
+      "age_hours": 68.8,
+      "views_per_hour": 163117,
+      "momentum": 5.711,
+      "url": "https://www.youtube.com/watch?v=4nWo4vdyXOo",
+      "region": "US",
+      "category": "People & Blogs"
+    },
+    {
+      "id": "Dwi5pAwECOE",
+      "title": "Can We Straighten The Leaning Tower Of Pisa 🤔",
+      "channel": "Zack D. Films",
+      "channel_id": "UCvz84_Q0BbvZThy75mbd-Dg",
+      "thumbnail": "https://i.ytimg.com/vi/Dwi5pAwECOE/mqdefault.jpg",
+      "published_at": "2026-04-24T21:30:03Z",
+      "category_id": "19",
+      "views": 5477912,
+      "likes": 414439,
+      "comments": 1815,
+      "age_hours": 63.3,
+      "views_per_hour": 86481,
+      "momentum": 5.7,
+      "url": "https://www.youtube.com/watch?v=Dwi5pAwECOE",
+      "region": "US",
+      "category": "Other"
+    },
+    {
+      "id": "gykkhn0iMMw",
+      "title": "WHY I USED AUDI AIRBAGS IN THE BUGATTI CHIRON",
+      "channel": "Mat Armstrong MK2",
+      "channel_id": "UC2FZQeaJkpnO6IMkQglvPsg",
+      "thumbnail": "https://i.ytimg.com/vi/gykkhn0iMMw/mqdefault.jpg",
+      "published_at": "2026-04-26T18:01:49Z",
+      "category_id": "2",
+      "views": 2182218,
+      "likes": 113664,
+      "comments": 4153,
+      "age_hours": 18.8,
+      "views_per_hour": 115993,
+      "momentum": 5.688,
+      "url": "https://www.youtube.com/watch?v=gykkhn0iMMw",
+      "region": "GB",
+      "category": "Other"
+    },
+    {
+      "id": "jF0KxOMlSRM",
+      "title": "Baby Warthog Runs His Mouth… and His Legs 🤣",
+      "channel": "Dusty Douglas",
+      "channel_id": "UCMSIDB9jvhqBKby2qk6E4VA",
+      "thumbnail": "https://i.ytimg.com/vi/jF0KxOMlSRM/mqdefault.jpg",
+      "published_at": "2026-04-24T21:05:56Z",
+      "category_id": "24",
+      "views": 7109376,
+      "likes": 406423,
+      "comments": 6618,
+      "age_hours": 63.7,
+      "views_per_hour": 111530,
+      "momentum": 5.671,
+      "url": "https://www.youtube.com/watch?v=jF0KxOMlSRM",
+      "region": "US",
+      "category": "Entertainment"
+    },
+    {
+      "id": "Zp7xeVwLaxs",
+      "title": "He Moved During The RED LIGHT, And STILL WON... 🧠😱",
+      "channel": "Blaze",
+      "channel_id": "UCouXJIEDJdV7oQUTP1V7tXQ",
+      "thumbnail": "https://i.ytimg.com/vi/Zp7xeVwLaxs/mqdefault.jpg",
+      "published_at": "2026-04-26T14:11:47Z",
+      "category_id": "22",
+      "views": 3821954,
+      "likes": 155456,
+      "comments": 494,
+      "age_hours": 22.6,
+      "views_per_hour": 168765,
+      "momentum": 5.659,
+      "url": "https://www.youtube.com/watch?v=Zp7xeVwLaxs",
+      "region": "US",
+      "category": "People & Blogs"
+    },
+    {
+      "id": "t3Ql3T-c7ig",
+      "title": "This restaurant is amazing 😃 @Jefferyzang",
+      "channel": "Steven He",
+      "channel_id": "UCP0_k4INXrwPS6HhIyYqsTg",
+      "thumbnail": "https://i.ytimg.com/vi/t3Ql3T-c7ig/mqdefault.jpg",
+      "published_at": "2026-04-21T19:12:15Z",
+      "category_id": "23",
+      "views": 9979278,
+      "likes": 796350,
+      "comments": 1663,
+      "age_hours": 137.6,
+      "views_per_hour": 72503,
+      "momentum": 5.644,
+      "url": "https://www.youtube.com/watch?v=t3Ql3T-c7ig",
+      "region": "US",
+      "category": "Comedy"
+    },
+    {
+      "id": "E7qK-4BVGxM",
+      "title": "The Popcorn Experiment 🍿",
+      "channel": "Joe Oxley",
+      "channel_id": "UCqV-OlE_Lbe7t8Yy7Dy0wFA",
+      "thumbnail": "https://i.ytimg.com/vi/E7qK-4BVGxM/mqdefault.jpg",
+      "published_at": "2026-04-22T12:54:01Z",
+      "category_id": "22",
+      "views": 5714822,
+      "likes": 569797,
+      "comments": 1572,
+      "age_hours": 119.9,
+      "views_per_hour": 47646,
+      "momentum": 5.624,
+      "url": "https://www.youtube.com/watch?v=E7qK-4BVGxM",
+      "region": "GB",
+      "category": "People & Blogs"
+    },
+    {
+      "id": "rs4MwK6iGKU",
+      "title": "I got this game shut down…",
+      "channel": "Flamingo",
+      "channel_id": "UCm-X6o81nRsXQTmqpyArkBQ",
+      "thumbnail": "https://i.ytimg.com/vi/rs4MwK6iGKU/mqdefault.jpg",
+      "published_at": "2026-04-27T00:25:23Z",
+      "category_id": "20",
+      "views": 622537,
+      "likes": 38391,
+      "comments": 4425,
+      "age_hours": 12.4,
+      "views_per_hour": 50125,
+      "momentum": 5.614,
+      "url": "https://www.youtube.com/watch?v=rs4MwK6iGKU",
+      "region": "US",
+      "category": "Gaming"
+    },
+    {
+      "id": "9g71xi8JR9I",
+      "title": "This Smart Baby Fooled the Zookeeper 😎",
+      "channel": "Epic Dose",
+      "channel_id": "UC1d-UU3cft_hdfyE-7TD54Q",
+      "thumbnail": "https://i.ytimg.com/vi/9g71xi8JR9I/mqdefault.jpg",
+      "published_at": "2026-04-26T16:15:00Z",
+      "category_id": "22",
+      "views": 4021239,
+      "likes": 109039,
+      "comments": 596,
+      "age_hours": 20.6,
+      "views_per_hour": 195272,
+      "momentum": 5.585,
+      "url": "https://www.youtube.com/watch?v=9g71xi8JR9I",
+      "region": "US",
+      "category": "People & Blogs"
+    },
+    {
+      "id": "dbz5RunybyQ",
+      "title": "\"Villains aren't born, they are made\" - Chronicle | House of Memories - Panic! At The Disco #edit",
+      "channel": "MenZuration",
+      "channel_id": "UCviJ2KzLw4W7zRNzPv6FLbA",
+      "thumbnail": "https://i.ytimg.com/vi/dbz5RunybyQ/mqdefault.jpg",
+      "published_at": "2026-04-19T14:00:55Z",
+      "category_id": "24",
+      "views": 20596049,
+      "likes": 1014218,
+      "comments": 14985,
+      "age_hours": 190.8,
+      "views_per_hour": 107930,
+      "momentum": 5.565,
+      "url": "https://www.youtube.com/watch?v=dbz5RunybyQ",
+      "region": "US",
+      "category": "Entertainment"
+    },
+    {
+      "id": "eoTa8cK61lk",
+      "title": "This father's love hits different #shorts",
+      "channel": "MovieNestTV",
+      "channel_id": "UCNe8rPLZdC_nAAoaC191A8g",
+      "thumbnail": "https://i.ytimg.com/vi/eoTa8cK61lk/mqdefault.jpg",
+      "published_at": "2026-04-20T11:20:43Z",
+      "category_id": "22",
+      "views": 8933810,
+      "likes": 774568,
+      "comments": 3522,
+      "age_hours": 169.5,
+      "views_per_hour": 52708,
+      "momentum": 5.559,
+      "url": "https://www.youtube.com/watch?v=eoTa8cK61lk",
+      "region": "US",
+      "category": "People & Blogs"
+    },
+    {
+      "id": "JstGCPsj9wg",
+      "title": "How Tech Companies Lie to You.",
+      "channel": "Mrwhosetheboss",
+      "channel_id": "UCMiJRAwDNSNzuYeN2uWa0pA",
+      "thumbnail": "https://i.ytimg.com/vi/JstGCPsj9wg/mqdefault.jpg",
+      "published_at": "2026-04-25T12:34:13Z",
+      "category_id": "28",
+      "views": 3289067,
+      "likes": 190890,
+      "comments": 10318,
+      "age_hours": 48.3,
+      "views_per_hour": 68135,
+      "momentum": 5.546,
+      "url": "https://www.youtube.com/watch?v=JstGCPsj9wg",
+      "region": "US",
+      "category": "Science & Tech"
+    },
+    {
+      "id": "7jnFWvdqspQ",
+      "title": "The dam crisis ended in the funniest way.#movie #foryou #edit #funny",
+      "channel": "BPL Sports 26",
+      "channel_id": "UCjJkHmxMck6uxKa0PnW5zAw",
+      "thumbnail": "https://i.ytimg.com/vi/7jnFWvdqspQ/mqdefault.jpg",
+      "published_at": "2026-04-24T11:15:51Z",
+      "category_id": "22",
+      "views": 11699404,
+      "likes": 361746,
+      "comments": 850,
+      "age_hours": 73.6,
+      "views_per_hour": 159005,
+      "momentum": 5.527,
+      "url": "https://www.youtube.com/watch?v=7jnFWvdqspQ",
+      "region": "US",
+      "category": "People & Blogs"
     }
   ]
 }
