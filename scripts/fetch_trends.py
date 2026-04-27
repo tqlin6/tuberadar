@@ -52,6 +52,18 @@ MAX_PER_CATEGORY = 25     # API max is 50; 25 keeps quota usage low
 TOP_TOPICS = 18           # how many trending topics to surface
 TOP_VIDEOS = 24           # how many breakout videos to surface
 
+# ---- Emerging themes (zeitgeist detection) ----
+# Looks for phrases that lots of *different* creators have started uploading
+# about in a short window – the signal of a topic catching fire across YouTube,
+# not a single big channel posting.
+THEME_WINDOW_HOURS = 12          # how recent uploads must be
+THEME_MAX_SUBSCRIBERS = 1_000_000  # exclude channels above this size
+THEME_MIN_CHANNELS = 5           # need uploads from at least this many distinct channels
+THEME_MIN_VIDEOS = 8             # and at least this many recent videos
+THEME_CANDIDATES = 25            # how many candidate phrases to validate (quota controller)
+THEME_SEARCH_RESULTS = 30        # videos fetched per phrase via search.list
+TOP_THEMES = 12                  # how many themes to surface in the output
+
 # Words that pollute keyword analysis – they appear on everything.
 STOPWORDS = set("""
 a an the and or but of for to in on at by with from as is are was were be been being
@@ -246,6 +258,152 @@ def extract_topics(videos: list[dict]) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# Emerging themes (zeitgeist detection)
+# ---------------------------------------------------------------------------
+
+def search_recent_uploads(query: str, hours: int = THEME_WINDOW_HOURS,
+                          max_results: int = THEME_SEARCH_RESULTS) -> list[dict]:
+    """Find videos uploaded in the last `hours` whose title contains `query`."""
+    published_after = datetime.now(timezone.utc).timestamp() - hours * 3600
+    published_after_iso = datetime.fromtimestamp(
+        published_after, tz=timezone.utc
+    ).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    params = {
+        "part": "snippet",
+        "q": query,
+        "type": "video",
+        "order": "date",
+        "publishedAfter": published_after_iso,
+        "maxResults": max_results,
+        "key": api_key(),
+    }
+    url = f"{API_BASE}/search?{urlencode(params)}"
+    r = requests.get(url, timeout=20)
+    if r.status_code != 200:
+        print(f"  ! search error {r.status_code} for '{query}': {r.text[:150]}")
+        return []
+    return r.json().get("items", [])
+
+
+def fetch_channel_subscriber_counts(channel_ids: list[str]) -> dict[str, int]:
+    """
+    Look up subscriber counts for a batch of channels.
+    The channels.list endpoint accepts up to 50 IDs per call.
+    """
+    counts: dict[str, int] = {}
+    if not channel_ids:
+        return counts
+
+    # De-dupe and chunk into 50s.
+    unique_ids = list(dict.fromkeys(channel_ids))
+    for i in range(0, len(unique_ids), 50):
+        chunk = unique_ids[i:i + 50]
+        params = {
+            "part": "statistics",
+            "id": ",".join(chunk),
+            "key": api_key(),
+        }
+        url = f"{API_BASE}/channels?{urlencode(params)}"
+        r = requests.get(url, timeout=20)
+        if r.status_code != 200:
+            print(f"  ! channels error {r.status_code}: {r.text[:150]}")
+            continue
+        for item in r.json().get("items", []):
+            stats = item.get("statistics", {})
+            # Some channels hide their subscriber count – treat as 0 (small).
+            if stats.get("hiddenSubscriberCount"):
+                counts[item["id"]] = 0
+            else:
+                counts[item["id"]] = int(stats.get("subscriberCount", 0))
+    return counts
+
+
+def extract_emerging_themes(candidate_phrases: list[str]) -> list[dict]:
+    """
+    For each candidate phrase, find recent uploads via search.list and
+    determine whether it qualifies as an 'emerging theme':
+      - At least THEME_MIN_VIDEOS uploads in the last THEME_WINDOW_HOURS
+      - From at least THEME_MIN_CHANNELS distinct channels
+      - With most uploads coming from sub-THEME_MAX_SUBSCRIBERS channels
+        (so a single big creator can't anoint a phrase as 'trending')
+    """
+    themes = []
+    cutoff_ts = datetime.now(timezone.utc).timestamp() - THEME_WINDOW_HOURS * 3600
+
+    for phrase in candidate_phrases[:THEME_CANDIDATES]:
+        items = search_recent_uploads(phrase)
+        if len(items) < THEME_MIN_VIDEOS:
+            continue
+
+        # Collect channel IDs to look up subscriber counts in one batch.
+        channel_ids = [it["snippet"]["channelId"] for it in items]
+        sub_counts = fetch_channel_subscriber_counts(channel_ids)
+
+        # Filter to videos from sub-cap channels.
+        small_creator_videos = []
+        all_channels = set()
+        for it in items:
+            sn = it["snippet"]
+            ch_id = sn["channelId"]
+            all_channels.add(ch_id)
+            sub_count = sub_counts.get(ch_id, 0)
+            if sub_count > THEME_MAX_SUBSCRIBERS:
+                continue
+            published = datetime.fromisoformat(
+                sn["publishedAt"].replace("Z", "+00:00")
+            ).timestamp()
+            if published < cutoff_ts:
+                continue  # double-check freshness; API can be lenient
+            small_creator_videos.append({
+                "id": it["id"]["videoId"],
+                "title": sn["title"],
+                "channel": sn["channelTitle"],
+                "channel_id": ch_id,
+                "subscribers": sub_count,
+                "thumbnail": sn["thumbnails"].get("medium", {}).get("url", ""),
+                "published_at": sn["publishedAt"],
+                "url": f"https://www.youtube.com/watch?v={it['id']['videoId']}",
+            })
+
+        small_creator_channels = {v["channel_id"] for v in small_creator_videos}
+
+        # Apply the qualification thresholds.
+        if len(small_creator_videos) < THEME_MIN_VIDEOS:
+            continue
+        if len(small_creator_channels) < THEME_MIN_CHANNELS:
+            continue
+
+        # Compute upload velocity: videos per hour from distinct channels,
+        # since a single channel posting 5 videos shouldn't count 5x.
+        velocity = len(small_creator_channels) / THEME_WINDOW_HOURS
+
+        # Sort example videos by recency for display.
+        small_creator_videos.sort(key=lambda v: v["published_at"], reverse=True)
+
+        themes.append({
+            "phrase": phrase,
+            "video_count": len(small_creator_videos),
+            "channel_count": len(small_creator_channels),
+            "total_channels_seen": len(all_channels),
+            "uploads_per_hour": round(velocity, 2),
+            "window_hours": THEME_WINDOW_HOURS,
+            "example_videos": small_creator_videos[:4],
+        })
+        print(f"  ✓ '{phrase}' → {len(small_creator_videos)} videos / "
+              f"{len(small_creator_channels)} channels")
+
+    # Rank by channel diversity first, then total volume – a phrase covered
+    # by 20 different small creators beats one covered by 30 videos from 8.
+    themes.sort(
+        key=lambda t: (t["channel_count"], t["video_count"]),
+        reverse=True,
+    )
+    return themes[:TOP_THEMES]
+
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -278,6 +436,15 @@ def run() -> None:
     topics = extract_topics(videos)
     print(f"Trending topics found: {len(topics)}")
 
+    # Use the topic phrases as candidates for emerging-theme validation.
+    # Each candidate gets its own recent-uploads search to verify it's
+    # actually being picked up by many small creators right now.
+    print(f"\nValidating emerging themes (window: {THEME_WINDOW_HOURS}h, "
+          f"sub cap: {THEME_MAX_SUBSCRIBERS:,})...")
+    candidate_phrases = [t["phrase"] for t in topics]
+    themes = extract_emerging_themes(candidate_phrases)
+    print(f"Emerging themes confirmed: {len(themes)}")
+
     # Build category breakdown – useful for the frontend filter.
     by_category: Counter[str] = Counter()
     for v in videos:
@@ -289,8 +456,10 @@ def run() -> None:
         "stats": {
             "total_videos": len(videos),
             "total_topics": len(topics),
+            "total_themes": len(themes),
             "by_category": dict(by_category),
         },
+        "emerging_themes": themes,
         "topics": topics,
         "breakout_videos": videos[:TOP_VIDEOS],
     }
