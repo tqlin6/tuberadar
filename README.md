@@ -10,7 +10,7 @@ How it works
 ```
    ┌────────────────────────┐         ┌──────────────────────┐
    │  GitHub Actions cron   │ ──run── │ scripts/fetch_trends │
-   │  (every 3 hours)       │         │      .py             │
+   │  (every 6 hours)       │         │      .py             │
    └────────────────────────┘         └──────────┬───────────┘
                                                  │ writes
                                                  ▼
@@ -39,7 +39,7 @@ Create a new project (any name).
 Open APIs & Services → Library, search "YouTube Data API v3", click Enable.
 Open APIs & Services → Credentials, click Create credentials → API key.
 Copy the key. Keep it somewhere safe.
-The free tier is 10,000 quota units/day. With the default every-3-hours schedule, TubeRadar uses about 8,200 units/day (chart fetches + emerging-theme validation). If you want to fetch more often, reduce `THEME_CANDIDATES` proportionally — search.list calls cost 100 units each and that's the dominant cost.
+The free tier is 10,000 quota units/day. With the default every-6-hours schedule and 6 theme candidates per run, TubeRadar uses about 2,500 units/day — comfortably within the free tier. The script also detects quota-exceeded errors and stops calling the API immediately rather than spamming failed requests. If a fetch fails entirely, the previous good data stays on the site (the script never overwrites with empty results).
 2. Push this code to GitHub
 ```bash
 git init
