@@ -1,0 +1,48 @@
+name: Update trends
+
+on:
+  schedule:
+    # Runs at minute 0 every 6 hours (UTC).
+    - cron: "0 */6 * * *"
+  # Allow manual triggers from the Actions tab.
+  workflow_dispatch:
+  # Also run on pushes to main so a fresh deploy kicks off immediately.
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch trends
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          TUBERADAR_REGIONS: ${{ vars.TUBERADAR_REGIONS || 'US,GB' }}
+        run: python scripts/fetch_trends.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "tuberadar-bot"
+          git config user.email "tuberadar-bot@users.noreply.github.com"
+          if git diff --quiet data/trends.json; then
+            echo "No changes — skipping commit."
+          else
+            git add data/trends.json
+            git commit -m "chore: refresh trends $(date -u +'%Y-%m-%dT%H:%MZ')"
+            git push
+          fi
