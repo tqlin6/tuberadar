@@ -23,6 +23,25 @@
     return;
   }
 
+  // Track when the visitor last saw the feed, so we can highlight
+  // themes that appeared since then. Read first, then update.
+  const LAST_VISIT_KEY = 'tuberadar:last-visit';
+  let lastVisitMs = 0;
+  try {
+    const stored = localStorage.getItem(LAST_VISIT_KEY);
+    if (stored) lastVisitMs = parseInt(stored, 10) || 0;
+  } catch (_) { /* localStorage unavailable, ignore */ }
+  // Update it now so refreshing the page within seconds doesn't keep
+  // re-marking everything as new.
+  try {
+    localStorage.setItem(LAST_VISIT_KEY, String(Date.now()));
+  } catch (_) {}
+  const isReturning = lastVisitMs > 0;
+  const visitGapMs = Date.now() - lastVisitMs;
+  // Only show "new since your last visit" if the gap is meaningful –
+  // otherwise opening 5 tabs marks 5 different "visits" pointlessly.
+  const showWhatsNew = isReturning && visitGapMs > 30 * 60 * 1000;
+
   // ---------- masthead ----------
   const updatedDate = new Date(data.generated_at);
   els.updated.textContent = formatRelative(updatedDate);
@@ -35,10 +54,28 @@
   els.themes.innerHTML = '';
 
   if (!data.emerging_themes || data.emerging_themes.length === 0) {
-    els.themes.innerHTML = '<li class="placeholder">No emerging themes detected in the current window. Check back in a few hours — themes need traction across multiple small creators before they show up here.</li>';
+    els.themes.innerHTML = '<li class="placeholder">No emerging themes detected in the current window. Check back later — themes need traction across multiple small creators before they show up here.</li>';
   } else {
+    // Count themes that appeared since the visitor's last visit, for the banner.
+    let newSinceLastVisit = 0;
+    if (showWhatsNew) {
+      newSinceLastVisit = data.emerging_themes.filter(t =>
+        t.first_detected_at && new Date(t.first_detected_at).getTime() > lastVisitMs
+      ).length;
+    }
+    if (newSinceLastVisit > 0) {
+      const banner = document.createElement('li');
+      banner.className = 'themes-banner';
+      banner.innerHTML = `
+        <span class="themes-banner__dot"></span>
+        <span><strong>${newSinceLastVisit}</strong> new ${newSinceLastVisit === 1 ? 'theme has' : 'themes have'} surfaced since your last visit.</span>
+      `;
+      els.themes.appendChild(banner);
+    }
     data.emerging_themes.forEach((theme, i) => {
-      els.themes.appendChild(renderTheme(theme, i + 1));
+      const isNew = showWhatsNew && theme.first_detected_at &&
+        new Date(theme.first_detected_at).getTime() > lastVisitMs;
+      els.themes.appendChild(renderTheme(theme, i + 1, isNew));
     });
   }
 
@@ -68,9 +105,9 @@
 
   // ---------- helpers ----------
 
-  function renderTheme(theme, rank) {
+  function renderTheme(theme, rank, isNew) {
     const li = document.createElement('li');
-    li.className = 'theme';
+    li.className = 'theme' + (isNew ? ' theme--new' : '');
     li.tabIndex = 0;
 
     const examples = (theme.example_videos || []).map(v => `
@@ -83,10 +120,15 @@
       </a>
     `).join('');
 
+    const newBadge = isNew ? '<span class="theme__new-badge">NEW</span>' : '';
+    const firstDetected = theme.first_detected_at
+      ? `<span class="theme__detected">First detected ${formatRelativeFromIso(theme.first_detected_at)}</span>`
+      : '';
+
     li.innerHTML = `
       <div class="theme__rank">${String(rank).padStart(2, '0')}</div>
       <div class="theme__main">
-        <div class="theme__phrase">${escapeHtml(theme.phrase)}</div>
+        <div class="theme__phrase">${escapeHtml(theme.phrase)}${newBadge}</div>
         <div class="theme__stats">
           <span class="theme__stat">
             <strong>${theme.channel_count}</strong>
@@ -101,6 +143,7 @@
             <span class="theme__stat-label">creators / hr</span>
           </span>
         </div>
+        ${firstDetected}
         <div class="theme__examples">${examples}</div>
       </div>
     `;
