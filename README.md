@@ -1,5 +1,5 @@
 TubeRadar
-> A signal feed of emerging YouTube topics for content creators. Updated every six hours.
+> A signal feed of emerging YouTube topics for content creators. Refreshed throughout the day.
 TubeRadar surfaces emerging trends on YouTube two ways:
 Emerging themes — topics that many different small/mid creators (under 1M subscribers) have started uploading about in the last 12 hours. This is the strongest signal of a topic catching fire across YouTube right now, because it filters out the case where one big channel posts and dominates the conversation.
 Topics gaining momentum — phrases recurring across the highest-velocity videos currently on YouTube's "most popular" charts. Useful for spotting hooks and formats that are working.
@@ -10,7 +10,7 @@ How it works
 ```
    ┌────────────────────────┐         ┌──────────────────────┐
    │  GitHub Actions cron   │ ──run── │ scripts/fetch_trends │
-   │  (every 6 hours)       │         │      .py             │
+   │  (every 3 hours)       │         │      .py             │
    └────────────────────────┘         └──────────┬───────────┘
                                                  │ writes
                                                  ▼
@@ -39,7 +39,7 @@ Create a new project (any name).
 Open APIs & Services → Library, search "YouTube Data API v3", click Enable.
 Open APIs & Services → Credentials, click Create credentials → API key.
 Copy the key. Keep it somewhere safe.
-The free tier is 10,000 quota units/day. TubeRadar uses ~120 units/day for the chart-based topic detection, plus an additional ~700-900 units/day for emerging-theme validation (search.list calls cost 100 units each, and channels.list calls cost 1 unit each). Total: ~1,000 units/day, comfortably within the free tier.
+The free tier is 10,000 quota units/day. With the default every-3-hours schedule, TubeRadar uses about 8,200 units/day (chart fetches + emerging-theme validation). If you want to fetch more often, reduce `THEME_CANDIDATES` proportionally — search.list calls cost 100 units each and that's the dominant cost.
 2. Push this code to GitHub
 ```bash
 git init
@@ -72,7 +72,7 @@ Edit the `CATEGORIES` dict at the top of `scripts/fetch_trends.py`. The keys are
 Change which countries get fetched
 Set the `TUBERADAR_REGIONS` repository variable to a comma-separated list of ISO 3166-1 alpha-2 codes (e.g. `US,GB,CA,AU,DE,IN`).
 Change the update frequency
-Edit the `cron:` line in `.github/workflows/update-trends.yml`. Default is `0 */6 * * *` (every 6 hours). Going more frequent than every 2 hours starts to eat noticeable Actions minutes — be aware of the free-tier 2,000 minutes/month limit on private repos. Public repos are unlimited.
+Edit the `cron:` line in `.github/workflows/update-trends.yml`. Default is `0 */3 * * *` (every 3 hours). If you want to fetch more often, reduce `THEME_CANDIDATES` in the Python script proportionally to stay within the YouTube API's 10,000 units/day free quota. Public GitHub repos have unlimited Actions minutes; private repos are limited to 2,000/month, which is still ~10x what TubeRadar needs.
 Change how trending is defined
 Two knobs in `scripts/fetch_trends.py`:
 `momentum_score()` — the formula that ranks individual videos.
