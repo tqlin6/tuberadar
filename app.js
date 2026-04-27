@@ -5,6 +5,7 @@
 
 (async function () {
   const els = {
+    themes:    document.getElementById('themes-list'),
     topics:    document.getElementById('topics-list'),
     videos:    document.getElementById('videos-list'),
     updated:   document.getElementById('updated-at'),
@@ -28,6 +29,18 @@
   els.updated.title = updatedDate.toLocaleString();
   els.regions.textContent = (data.regions || []).join(' · ');
   els.issue.textContent = formatIssue(updatedDate);
+
+  // ---------- emerging themes ----------
+  els.themes.removeAttribute('aria-busy');
+  els.themes.innerHTML = '';
+
+  if (!data.emerging_themes || data.emerging_themes.length === 0) {
+    els.themes.innerHTML = '<li class="placeholder">No emerging themes detected in the current window. Check back in a few hours — themes need traction across multiple small creators before they show up here.</li>';
+  } else {
+    data.emerging_themes.forEach((theme, i) => {
+      els.themes.appendChild(renderTheme(theme, i + 1));
+    });
+  }
 
   // ---------- topics ----------
   els.topics.removeAttribute('aria-busy');
@@ -54,6 +67,57 @@
   }
 
   // ---------- helpers ----------
+
+  function renderTheme(theme, rank) {
+    const li = document.createElement('li');
+    li.className = 'theme';
+    li.tabIndex = 0;
+
+    const examples = (theme.example_videos || []).map(v => `
+      <a class="example" href="${escapeAttr(v.url)}" target="_blank" rel="noopener">
+        <div class="example__thumb" style="background-image:url('${escapeAttr(v.thumbnail)}')"></div>
+        <div class="example__body">
+          <div class="example__title">${escapeHtml(v.title)}</div>
+          <div class="example__meta">${escapeHtml(v.channel)} · ${formatSubs(v.subscribers)} subs · ${formatRelativeFromIso(v.published_at)}</div>
+        </div>
+      </a>
+    `).join('');
+
+    li.innerHTML = `
+      <div class="theme__rank">${String(rank).padStart(2, '0')}</div>
+      <div class="theme__main">
+        <div class="theme__phrase">${escapeHtml(theme.phrase)}</div>
+        <div class="theme__stats">
+          <span class="theme__stat">
+            <strong>${theme.channel_count}</strong>
+            <span class="theme__stat-label">creators</span>
+          </span>
+          <span class="theme__stat">
+            <strong>${theme.video_count}</strong>
+            <span class="theme__stat-label">uploads / ${theme.window_hours}h</span>
+          </span>
+          <span class="theme__stat">
+            <strong>${theme.uploads_per_hour}</strong>
+            <span class="theme__stat-label">creators / hr</span>
+          </span>
+        </div>
+        <div class="theme__examples">${examples}</div>
+      </div>
+    `;
+
+    li.addEventListener('click', (e) => {
+      if (e.target.closest('.example')) return;
+      li.classList.toggle('is-open');
+    });
+    li.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        li.classList.toggle('is-open');
+      }
+    });
+
+    return li;
+  }
 
   function renderTopic(topic, rank) {
     const li = document.createElement('li');
@@ -129,6 +193,8 @@
   }
 
   function showError(msg) {
+    els.themes.removeAttribute('aria-busy');
+    els.themes.innerHTML = '';
     els.topics.removeAttribute('aria-busy');
     els.topics.innerHTML = `<li class="placeholder">Couldn't load the feed (${escapeHtml(msg)}). If you've just deployed, the first GitHub Action run may still be in progress.</li>`;
     els.videos.removeAttribute('aria-busy');
@@ -157,6 +223,19 @@
     if (diff < 3600)      return `${Math.round(diff/60)}m ago`;
     if (diff < 86400)     return `${Math.round(diff/3600)}h ago`;
     return `${Math.round(diff/86400)}d ago`;
+  }
+
+  function formatRelativeFromIso(iso) {
+    if (!iso) return '';
+    return formatRelative(new Date(iso));
+  }
+
+  function formatSubs(n) {
+    if (n == null) return '—';
+    if (n === 0)       return 'hidden';
+    if (n >= 1_000_000) return (n / 1_000_000).toFixed(1).replace(/\.0$/, '') + 'M';
+    if (n >= 1_000)     return (n / 1_000).toFixed(1).replace(/\.0$/, '') + 'K';
+    return String(n);
   }
 
   function formatIssue(date) {
