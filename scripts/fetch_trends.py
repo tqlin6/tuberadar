@@ -60,7 +60,7 @@ THEME_WINDOW_HOURS = 12          # how recent uploads must be
 THEME_MAX_SUBSCRIBERS = 1_000_000  # exclude channels above this size
 THEME_MIN_CHANNELS = 5           # need uploads from at least this many distinct channels
 THEME_MIN_VIDEOS = 8             # and at least this many recent videos
-THEME_CANDIDATES = 10            # how many candidate phrases to validate (quota controller)
+THEME_CANDIDATES = 6             # how many candidate phrases to validate (quota controller)
 THEME_SEARCH_RESULTS = 30        # videos fetched per phrase via search.list
 TOP_THEMES = 12                  # how many themes to surface in the output
 
@@ -111,8 +111,34 @@ def api_key() -> str:
     return key
 
 
+# Global flag: once we hit a quota-exceeded error, stop attempting API calls.
+# YouTube quota resets at midnight Pacific time. Continuing to call the API
+# after hitting the limit just wastes time and pollutes logs.
+_QUOTA_EXHAUSTED = False
+
+
+def _is_quota_error(response: requests.Response) -> bool:
+    """Detect YouTube's 'quota exceeded' error so we can short-circuit."""
+    if response.status_code != 403:
+        return False
+    try:
+        body = response.json()
+        for err in body.get("error", {}).get("errors", []):
+            if err.get("reason") in ("quotaExceeded", "rateLimitExceeded"):
+                return True
+        # Fallback: check the message text.
+        msg = body.get("error", {}).get("message", "").lower()
+        return "quota" in msg
+    except Exception:
+        return "quota" in response.text.lower()
+
+
 def fetch_chart(region: str, category_id: str | None = None) -> list[dict]:
     """Fetch the 'most popular' chart for a region, optionally by category."""
+    global _QUOTA_EXHAUSTED
+    if _QUOTA_EXHAUSTED:
+        return []
+
     params = {
         "part": "snippet,statistics,contentDetails",
         "chart": "mostPopular",
@@ -129,6 +155,11 @@ def fetch_chart(region: str, category_id: str | None = None) -> list[dict]:
     if r.status_code != 200:
         # Some category/region combinations return 404 – that's fine, skip them.
         if r.status_code == 404:
+            return []
+        if _is_quota_error(r):
+            _QUOTA_EXHAUSTED = True
+            print(f"  ✗ Quota exhausted at {region}/{category_id}. "
+                  f"Stopping further API calls.")
             return []
         print(f"  ! API error {r.status_code} for {region}/{category_id}: {r.text[:200]}")
         return []
@@ -319,6 +350,10 @@ def extract_topics(videos: list[dict]) -> list[dict]:
 def search_recent_uploads(query: str, hours: int = THEME_WINDOW_HOURS,
                           max_results: int = THEME_SEARCH_RESULTS) -> list[dict]:
     """Find videos uploaded in the last `hours` whose title contains `query`."""
+    global _QUOTA_EXHAUSTED
+    if _QUOTA_EXHAUSTED:
+        return []
+
     published_after = datetime.now(timezone.utc).timestamp() - hours * 3600
     published_after_iso = datetime.fromtimestamp(
         published_after, tz=timezone.utc
@@ -336,6 +371,10 @@ def search_recent_uploads(query: str, hours: int = THEME_WINDOW_HOURS,
     url = f"{API_BASE}/search?{urlencode(params)}"
     r = requests.get(url, timeout=20)
     if r.status_code != 200:
+        if _is_quota_error(r):
+            _QUOTA_EXHAUSTED = True
+            print(f"  ✗ Quota exhausted during theme validation. Stopping.")
+            return []
         print(f"  ! search error {r.status_code} for '{query}': {r.text[:150]}")
         return []
     return r.json().get("items", [])
@@ -346,13 +385,16 @@ def fetch_channel_subscriber_counts(channel_ids: list[str]) -> dict[str, int]:
     Look up subscriber counts for a batch of channels.
     The channels.list endpoint accepts up to 50 IDs per call.
     """
+    global _QUOTA_EXHAUSTED
     counts: dict[str, int] = {}
-    if not channel_ids:
+    if not channel_ids or _QUOTA_EXHAUSTED:
         return counts
 
     # De-dupe and chunk into 50s.
     unique_ids = list(dict.fromkeys(channel_ids))
     for i in range(0, len(unique_ids), 50):
+        if _QUOTA_EXHAUSTED:
+            break
         chunk = unique_ids[i:i + 50]
         params = {
             "part": "statistics",
@@ -362,6 +404,10 @@ def fetch_channel_subscriber_counts(channel_ids: list[str]) -> dict[str, int]:
         url = f"{API_BASE}/channels?{urlencode(params)}"
         r = requests.get(url, timeout=20)
         if r.status_code != 200:
+            if _is_quota_error(r):
+                _QUOTA_EXHAUSTED = True
+                print(f"  ✗ Quota exhausted fetching channel data.")
+                break
             print(f"  ! channels error {r.status_code}: {r.text[:150]}")
             continue
         for item in r.json().get("items", []):
@@ -488,6 +534,21 @@ def run() -> None:
     videos = sorted(all_videos.values(), key=lambda v: v["momentum"], reverse=True)
     print(f"\nTotal unique videos: {len(videos)}")
 
+    # If we got no videos at all, the API was down or quota was exhausted.
+    # Do NOT overwrite the existing trends.json with an empty result – that
+    # would wipe a working site. Just exit and leave the previous data alone.
+    out_path = Path(__file__).resolve().parent.parent / "data" / "trends.json"
+    if not videos:
+        if _QUOTA_EXHAUSTED:
+            print("✗ No data fetched — YouTube API quota exhausted.")
+        else:
+            print("✗ No data fetched — API returned no videos.")
+        if out_path.exists():
+            print(f"  Keeping previous data at {out_path} (last modified: "
+                  f"{datetime.fromtimestamp(out_path.stat().st_mtime, tz=timezone.utc).isoformat()}).")
+            print("  Site remains live with last successful fetch's data.")
+        sys.exit(0)  # Exit cleanly so workflow doesn't show as failed.
+
     topics = extract_topics(videos)
     print(f"Trending topics found: {len(topics)}")
 
@@ -504,7 +565,6 @@ def run() -> None:
     # We read the existing trends.json (if it exists) and look up each theme.
     # If a theme appeared in the previous run, we keep its original
     # first_detected_at. Otherwise it's brand new and gets the current time.
-    out_path = Path(__file__).resolve().parent.parent / "data" / "trends.json"
     now_iso = datetime.now(timezone.utc).isoformat()
     previous_first_detected: dict[str, str] = {}
     if out_path.exists():
