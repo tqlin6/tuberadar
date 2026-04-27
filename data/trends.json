@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T12:41:53.575133+00:00",
+  "generated_at": "2026-04-27T12:45:08.236739+00:00",
   "regions": [
     "US",
     "GB"
@@ -7,6 +7,7 @@
   "stats": {
     "total_videos": 233,
     "total_topics": 18,
+    "total_themes": 12,
     "by_category": {
       "Other": 25,
       "Entertainment": 71,
@@ -18,6 +19,608 @@
       "Education": 1
     }
   },
+  "emerging_themes": [
+    {
+      "phrase": "tech",
+      "video_count": 30,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "F9rfkgFLjg0",
+          "title": "BIG TECH EARNINGS, POWELL SPEAKS THIS WEEK   |  MARKET OPEN",
+          "channel": "Amit Kukreja",
+          "channel_id": "UCjZnbgPb08NFg7MHyPQRZ3Q",
+          "subscribers": 122000,
+          "thumbnail": "https://i.ytimg.com/vi/F9rfkgFLjg0/mqdefault_live.jpg",
+          "published_at": "2026-04-27T12:30:40Z",
+          "url": "https://www.youtube.com/watch?v=F9rfkgFLjg0"
+        },
+        {
+          "id": "4Gk4PJLHZdY",
+          "title": "🔬📲 mobile 🎤 Mic ✅replace #repair #tech #smartphone",
+          "channel": "Technical repair hub",
+          "channel_id": "UC8rd_qXiJgBKt7T_4KpgHSg",
+          "subscribers": 280,
+          "thumbnail": "https://i.ytimg.com/vi/4Gk4PJLHZdY/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:09Z",
+          "url": "https://www.youtube.com/watch?v=4Gk4PJLHZdY"
+        },
+        {
+          "id": "W3RFS0tZMz8",
+          "title": "itne कम price me इतना tagda phone 😱#tech #facts #phone",
+          "channel": "Tech with Raj",
+          "channel_id": "UCg7Ml_XY-PzXn_QYwltZmEQ",
+          "subscribers": 5650,
+          "thumbnail": "https://i.ytimg.com/vi/W3RFS0tZMz8/mqdefault.jpg",
+          "published_at": "2026-04-27T12:20:02Z",
+          "url": "https://www.youtube.com/watch?v=W3RFS0tZMz8"
+        },
+        {
+          "id": "qDh4PD7VVx0",
+          "title": "Top 5 Best Smartwatch Under 10000 #smartwatch #shorts #gadgets #tech",
+          "channel": "Tech Tridib",
+          "channel_id": "UCilKfU2kxVL7nt_X2nz4Zaw",
+          "subscribers": 15700,
+          "thumbnail": "https://i.ytimg.com/vi/qDh4PD7VVx0/mqdefault.jpg",
+          "published_at": "2026-04-27T12:04:11Z",
+          "url": "https://www.youtube.com/watch?v=qDh4PD7VVx0"
+        }
+      ]
+    },
+    {
+      "phrase": "house",
+      "video_count": 30,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "U9yboGvEutU",
+          "title": "“Building Woodens Log Cabin in Forest 🌴👽🌲| Survival House Step by Step” part-11",
+          "channel": "TX Beauty",
+          "channel_id": "UCxcYnWnfyCNpptK5mB_ocjA",
+          "subscribers": 86600,
+          "thumbnail": "https://i.ytimg.com/vi/U9yboGvEutU/mqdefault.jpg",
+          "published_at": "2026-04-27T12:40:02Z",
+          "url": "https://www.youtube.com/watch?v=U9yboGvEutU"
+        },
+        {
+          "id": "WMjSsGDcyg0",
+          "title": "#30x50kagharkanaksha #house #construction #constructionchannel #housedesign #homedesign #home 🧱❌✅",
+          "channel": "NRConstruction Work👷",
+          "channel_id": "UCKmqB3-Ivi3ZvZkC7P08UQg",
+          "subscribers": 3770,
+          "thumbnail": "https://i.ytimg.com/vi/WMjSsGDcyg0/mqdefault.jpg",
+          "published_at": "2026-04-27T12:36:05Z",
+          "url": "https://www.youtube.com/watch?v=WMjSsGDcyg0"
+        },
+        {
+          "id": "TFb22jEqy-c",
+          "title": "Building Wooden Log Cabin in Forest Survival House Step by Step🙂",
+          "channel": "Neesu ki short",
+          "channel_id": "UChUW--pRCb2yAgWpgYFV1IA",
+          "subscribers": 27700,
+          "thumbnail": "https://i.ytimg.com/vi/TFb22jEqy-c/mqdefault.jpg",
+          "published_at": "2026-04-27T12:34:42Z",
+          "url": "https://www.youtube.com/watch?v=TFb22jEqy-c"
+        },
+        {
+          "id": "d3XkeTK0ZWo",
+          "title": "#TIMELAPSE START to FINISH Alone BUILDLOG Cabin (Wooden House) How To Build Wooden Cabin Shortsup46",
+          "channel": "Ravi bhai",
+          "channel_id": "UCGwvnPYjx7s1JEepjkr7Thg",
+          "subscribers": 17500,
+          "thumbnail": "https://i.ytimg.com/vi/d3XkeTK0ZWo/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:24Z",
+          "url": "https://www.youtube.com/watch?v=d3XkeTK0ZWo"
+        }
+      ]
+    },
+    {
+      "phrase": "game",
+      "video_count": 29,
+      "channel_count": 29,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "I18vIagIRdM",
+          "title": "helpThesliceto#save​#game​#subscribe​#trending​# all#country​#virelshorts​#stumbleguys​#gameplay​",
+          "channel": "Vyrox-66",
+          "channel_id": "UC-DjXb1C37ZqTXxRXyL3knw",
+          "subscribers": 2300,
+          "thumbnail": "https://i.ytimg.com/vi/I18vIagIRdM/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:34Z",
+          "url": "https://www.youtube.com/watch?v=I18vIagIRdM"
+        },
+        {
+          "id": "YbD_H3-xUPQ",
+          "title": "BARRED GAME LEVEL 673//Rotalgameplay//#shorts #viral #gaming #gameplay #barredgame 🎮🎮",
+          "channel": "KARAN GAMER 35",
+          "channel_id": "UCHH63Xm4dN2xdFAI3dGKcsg",
+          "subscribers": 99,
+          "thumbnail": "https://i.ytimg.com/vi/YbD_H3-xUPQ/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:02Z",
+          "url": "https://www.youtube.com/watch?v=YbD_H3-xUPQ"
+        },
+        {
+          "id": "SZHtMyeHd9E",
+          "title": "Garib FF YouTuber lone wolf game play 🖥️ #freefire #shorts #video #viral #please #10ksubscribers",
+          "channel": "ツR~V_GAMING",
+          "channel_id": "UCmJtaW6H5z6jLtFoW-bmPzg",
+          "subscribers": 4080,
+          "thumbnail": "https://i.ytimg.com/vi/SZHtMyeHd9E/mqdefault.jpg",
+          "published_at": "2026-04-27T12:29:37Z",
+          "url": "https://www.youtube.com/watch?v=SZHtMyeHd9E"
+        },
+        {
+          "id": "yVzYDKBPv3g",
+          "title": "✨hello guys new ball 🏀 challenge ✨game Wait for end ?  #short #games #shorts #game",
+          "channel": "itz_dipesh_02",
+          "channel_id": "UCx9MlMQfT3Nbj0QRZVWiyPg",
+          "subscribers": 14800,
+          "thumbnail": "https://i.ytimg.com/vi/yVzYDKBPv3g/mqdefault.jpg",
+          "published_at": "2026-04-27T12:29:07Z",
+          "url": "https://www.youtube.com/watch?v=yVzYDKBPv3g"
+        }
+      ]
+    },
+    {
+      "phrase": "edit",
+      "video_count": 29,
+      "channel_count": 29,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "kuO6ZcBmv3g",
+          "title": "#shorts #bhajans #krishnabhajan #sehar #localstarbinit #edit #fyp #dhurandhar",
+          "channel": "@Vishal9998",
+          "channel_id": "UCKABM6VsIEthkjXHrSW8djQ",
+          "subscribers": 32000,
+          "thumbnail": "https://i.ytimg.com/vi/kuO6ZcBmv3g/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:56Z",
+          "url": "https://www.youtube.com/watch?v=kuO6ZcBmv3g"
+        },
+        {
+          "id": "Qzdcxrjnbj8",
+          "title": "“Hail Hydra”- Steve Rogers | Captain America Edit #shorts",
+          "channel": "LeoEditz",
+          "channel_id": "UCrSXQR3mGNp8ZbB1LcPBGIQ",
+          "subscribers": 51800,
+          "thumbnail": "https://i.ytimg.com/vi/Qzdcxrjnbj8/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:29Z",
+          "url": "https://www.youtube.com/watch?v=Qzdcxrjnbj8"
+        },
+        {
+          "id": "4cKT4-XBbDw",
+          "title": "&quot;The Impossible Doesn&#39;t Exist &quot; | #shorts #edit #movieedits",
+          "channel": "Ulternal art",
+          "channel_id": "UC29qAvs5GuDQz6FwLLFgC4w",
+          "subscribers": 2020,
+          "thumbnail": "https://i.ytimg.com/vi/4cKT4-XBbDw/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:09Z",
+          "url": "https://www.youtube.com/watch?v=4cKT4-XBbDw"
+        },
+        {
+          "id": "RQXtbIo8i0s",
+          "title": "He confessed his feelings😌 Yumi&#39;s cells 3 ] #kdrama #newdrama #edit #perfectcrown",
+          "channel": "StillFrame",
+          "channel_id": "UCx087mn3nAcYvpx4j7FJRqA",
+          "subscribers": 26700,
+          "thumbnail": "https://i.ytimg.com/vi/RQXtbIo8i0s/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:02Z",
+          "url": "https://www.youtube.com/watch?v=RQXtbIo8i0s"
+        }
+      ]
+    },
+    {
+      "phrase": "life",
+      "video_count": 29,
+      "channel_count": 29,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "mrYQd7x75tw",
+          "title": "Journey of Life: How Pregnancy Begins (3D Medical Animation) #health tips #trending",
+          "channel": " Drx Vijaykumar kashyap  ",
+          "channel_id": "UCMWYdKBAMwo2xJJ_FSRB20A",
+          "subscribers": 710,
+          "thumbnail": "https://i.ytimg.com/vi/mrYQd7x75tw/mqdefault.jpg",
+          "published_at": "2026-04-27T12:42:38Z",
+          "url": "https://www.youtube.com/watch?v=mrYQd7x75tw"
+        },
+        {
+          "id": "snfRSDwPq-A",
+          "title": "bawana plastic factory me lgi aag, sector 2 bawana fire, #fire #life #dfs #ambulancedriver #shorts",
+          "channel": "Ajay Ambulance Life",
+          "channel_id": "UCGU7yafibAlD7r-YfqpMWSw",
+          "subscribers": 331,
+          "thumbnail": "https://i.ytimg.com/vi/snfRSDwPq-A/mqdefault.jpg",
+          "published_at": "2026-04-27T12:34:42Z",
+          "url": "https://www.youtube.com/watch?v=snfRSDwPq-A"
+        },
+        {
+          "id": "3inaRYFrXys",
+          "title": "Hidup dan rasa syukur #shotrs #renunganhidup #muhasabahdiri #jalanhidup #motivasihidup",
+          "channel": "DAKWAHMEDSOS CHANNEL",
+          "channel_id": "UC9bTSGDD2AAmEUdhGLnJKDA",
+          "subscribers": 2060,
+          "thumbnail": "https://i.ytimg.com/vi/3inaRYFrXys/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:07Z",
+          "url": "https://www.youtube.com/watch?v=3inaRYFrXys"
+        },
+        {
+          "id": "SRdvEx63lwU",
+          "title": "ഹാപ്പി married life❤️😇 Part - 6(1)",
+          "channel": "mdRighteous",
+          "channel_id": "UCw8dJ8-PNRMFDXX5GLh-TNQ",
+          "subscribers": 178000,
+          "thumbnail": "https://i.ytimg.com/vi/SRdvEx63lwU/mqdefault.jpg",
+          "published_at": "2026-04-27T12:25:12Z",
+          "url": "https://www.youtube.com/watch?v=SRdvEx63lwU"
+        }
+      ]
+    },
+    {
+      "phrase": "iphone",
+      "video_count": 29,
+      "channel_count": 29,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "Bc5LPQjX4cA",
+          "title": "iPhone 16 Pro Max có phải lựa chọn tốt lúc này?",
+          "channel": "Người Chơi Đồ",
+          "channel_id": "UC3HxHh_jezfVCcXNCyDJHOQ",
+          "subscribers": 121000,
+          "thumbnail": "https://i.ytimg.com/vi/Bc5LPQjX4cA/mqdefault.jpg",
+          "published_at": "2026-04-27T12:20:16Z",
+          "url": "https://www.youtube.com/watch?v=Bc5LPQjX4cA"
+        },
+        {
+          "id": "Gz1V6WNSqGQ",
+          "title": "The orange iPhone is very viral #apple #iphone",
+          "channel": "Muhammad Arsyad st",
+          "channel_id": "UCQ6WS1IvR9AayQKODxZpliA",
+          "subscribers": 83900,
+          "thumbnail": "https://i.ytimg.com/vi/Gz1V6WNSqGQ/mqdefault.jpg",
+          "published_at": "2026-04-27T12:08:46Z",
+          "url": "https://www.youtube.com/watch?v=Gz1V6WNSqGQ"
+        },
+        {
+          "id": "8xDL_P0JZ9s",
+          "title": "iPhone अब छपरियों को भी मिलने लगा है 😂।____#iphone #loan #comedy #funny",
+          "channel": "Satish Babu ",
+          "channel_id": "UCS_nm8gN2XTiXiAz3gbQ3lA",
+          "subscribers": 14100,
+          "thumbnail": "https://i.ytimg.com/vi/8xDL_P0JZ9s/mqdefault.jpg",
+          "published_at": "2026-04-27T11:59:11Z",
+          "url": "https://www.youtube.com/watch?v=8xDL_P0JZ9s"
+        },
+        {
+          "id": "omMHS8AKopQ",
+          "title": "iPhone Camera Evolution X to 17 #iphone17 #camera #evolution",
+          "channel": "TabTUNE",
+          "channel_id": "UCpat8vHc0ss0yv3J8GSlG4w",
+          "subscribers": 33800,
+          "thumbnail": "https://i.ytimg.com/vi/omMHS8AKopQ/mqdefault.jpg",
+          "published_at": "2026-04-27T11:54:18Z",
+          "url": "https://www.youtube.com/watch?v=omMHS8AKopQ"
+        }
+      ]
+    },
+    {
+      "phrase": "they",
+      "video_count": 29,
+      "channel_count": 28,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.33,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "MtwJ_IEb0R0",
+          "title": "They Recognizer Her Without Knowing Her 🤔 #facts #dog #shorts #trending #viral",
+          "channel": "ENTERTAINMENT SCENES",
+          "channel_id": "UCrwgJcXCUeJo2xk1Lkii8Gw",
+          "subscribers": 390,
+          "thumbnail": "https://i.ytimg.com/vi/MtwJ_IEb0R0/mqdefault.jpg",
+          "published_at": "2026-04-27T12:18:55Z",
+          "url": "https://www.youtube.com/watch?v=MtwJ_IEb0R0"
+        },
+        {
+          "id": "PYdkErP7z-Q",
+          "title": "Wolverine&#39;s life story is as tragic as they come #foryou... #Shorts #wowlife777",
+          "channel": "WowLife Shorts",
+          "channel_id": "UCt95VQszZH3LwOo0wg_m7lg",
+          "subscribers": 6,
+          "thumbnail": "https://i.ytimg.com/vi/PYdkErP7z-Q/mqdefault.jpg",
+          "published_at": "2026-04-27T12:18:30Z",
+          "url": "https://www.youtube.com/watch?v=PYdkErP7z-Q"
+        },
+        {
+          "id": "kS8GhRUilVU",
+          "title": "They Said He Was &quot;Too Small&quot; to Protect the QB. Now He’s a $100M Protector.",
+          "channel": "Victoria",
+          "channel_id": "UCUKMtHIGUuYAqTFHPDVUYNw",
+          "subscribers": 500,
+          "thumbnail": "https://i.ytimg.com/vi/kS8GhRUilVU/mqdefault.jpg",
+          "published_at": "2026-04-27T12:15:59Z",
+          "url": "https://www.youtube.com/watch?v=kS8GhRUilVU"
+        },
+        {
+          "id": "uZm1x-wdrJ4",
+          "title": "They only do main missions, not side quests | Angie Tribeca#foryou #shorts #funny",
+          "channel": "Easton50",
+          "channel_id": "UC6kBySkyHnItvjaD8lbhvwA",
+          "subscribers": 54000,
+          "thumbnail": "https://i.ytimg.com/vi/uZm1x-wdrJ4/mqdefault.jpg",
+          "published_at": "2026-04-27T12:15:30Z",
+          "url": "https://www.youtube.com/watch?v=uZm1x-wdrJ4"
+        }
+      ]
+    },
+    {
+      "phrase": "baby",
+      "video_count": 28,
+      "channel_count": 28,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.33,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "v51AuzoSQP8",
+          "title": "মা নিজেই বাচ্চার সর্বনাশ করলো #baby #tips",
+          "channel": "AR Afiyan KIDS",
+          "channel_id": "UCOkrPK9R8nTvQliaZGxnxhg",
+          "subscribers": 150000,
+          "thumbnail": "https://i.ytimg.com/vi/v51AuzoSQP8/mqdefault.jpg",
+          "published_at": "2026-04-27T12:36:43Z",
+          "url": "https://www.youtube.com/watch?v=v51AuzoSQP8"
+        },
+        {
+          "id": "UhJVOJRGpyo",
+          "title": "Baby in yellow 😂#dennome #emily #memes #baby #funnybaby",
+          "channel": "ArmanShadowX",
+          "channel_id": "UCJLsX9NxJoABoC5zX8JjBeg",
+          "subscribers": 39200,
+          "thumbnail": "https://i.ytimg.com/vi/UhJVOJRGpyo/mqdefault.jpg",
+          "published_at": "2026-04-27T12:32:43Z",
+          "url": "https://www.youtube.com/watch?v=UhJVOJRGpyo"
+        },
+        {
+          "id": "Dagv8Y4grA4",
+          "title": "Baby Defends Dad in Angry Baby Talk 😂😡👶 #shorts #familyfun #cute #funny #baby #newbaby",
+          "channel": "FUN CITY",
+          "channel_id": "UCuyoaL2tTLtEtg1LXfX6SBg",
+          "subscribers": 83600,
+          "thumbnail": "https://i.ytimg.com/vi/Dagv8Y4grA4/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:14Z",
+          "url": "https://www.youtube.com/watch?v=Dagv8Y4grA4"
+        },
+        {
+          "id": "M6pjcSp59y4",
+          "title": "She asked to became a flower girl to a baby... #facts #viral #trending",
+          "channel": "Hard Truth Therapist",
+          "channel_id": "UCjPU5XKrMIlDYV6V-FI55hw",
+          "subscribers": 326,
+          "thumbnail": "https://i.ytimg.com/vi/M6pjcSp59y4/mqdefault.jpg",
+          "published_at": "2026-04-27T12:22:41Z",
+          "url": "https://www.youtube.com/watch?v=M6pjcSp59y4"
+        }
+      ]
+    },
+    {
+      "phrase": "roblox",
+      "video_count": 28,
+      "channel_count": 28,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.33,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "5B92IponkxA",
+          "title": "DIVINE Brainrot .....😍 #roblox #robloxshorts #gaming #shorts",
+          "channel": "Novex Gaming ",
+          "channel_id": "UCxxBa7li4jpbvn7y-PFLmFQ",
+          "subscribers": 1420,
+          "thumbnail": "https://i.ytimg.com/vi/5B92IponkxA/mqdefault.jpg",
+          "published_at": "2026-04-27T12:33:22Z",
+          "url": "https://www.youtube.com/watch?v=5B92IponkxA"
+        },
+        {
+          "id": "3RTjL3TryCU",
+          "title": "Why You Want to be OG (Part-2) | #roblox #stealabrainrot",
+          "channel": "Tigaru",
+          "channel_id": "UCkv2Paq1YJefDNpjK74rz5A",
+          "subscribers": 81200,
+          "thumbnail": "https://i.ytimg.com/vi/3RTjL3TryCU/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:32Z",
+          "url": "https://www.youtube.com/watch?v=3RTjL3TryCU"
+        },
+        {
+          "id": "-ug9BeD-T5M",
+          "title": "PAINFUL INJECTION #shorts #roblox #talkingtom #animation #memes",
+          "channel": "Dank Zone",
+          "channel_id": "UCxkTIStGJobbjqNekSTo9sQ",
+          "subscribers": 30700,
+          "thumbnail": "https://i.ytimg.com/vi/-ug9BeD-T5M/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:00Z",
+          "url": "https://www.youtube.com/watch?v=-ug9BeD-T5M"
+        },
+        {
+          "id": "UT5GtVVU3xw",
+          "title": "Top three Hardest Things to Get in BloxFruits 😱💀 #bloxfruits #roblox #giveaway #robux #shorts",
+          "channel": "@Abyss Gaming ",
+          "channel_id": "UCiiC-a3WENNrVgYAiAS0hOg",
+          "subscribers": 3510,
+          "thumbnail": "https://i.ytimg.com/vi/UT5GtVVU3xw/mqdefault.jpg",
+          "published_at": "2026-04-27T12:18:41Z",
+          "url": "https://www.youtube.com/watch?v=UT5GtVVU3xw"
+        }
+      ]
+    },
+    {
+      "phrase": "back",
+      "video_count": 26,
+      "channel_count": 26,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.17,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "YrZC26fJBKY",
+          "title": "new#gymexercises #trendingreels #hiphop #viralvideo #back #workout 💪#pleasesubscribe #gymlife #abs 💪",
+          "channel": "Raja Kumar@98",
+          "channel_id": "UCf0gy4zYzwGjF3-t_GAgyCg",
+          "subscribers": 108,
+          "thumbnail": "https://i.ytimg.com/vi/YrZC26fJBKY/mqdefault.jpg",
+          "published_at": "2026-04-27T12:40:07Z",
+          "url": "https://www.youtube.com/watch?v=YrZC26fJBKY"
+        },
+        {
+          "id": "uuCwxXUO9sg",
+          "title": "👌🏽👌🏽 trending mast back neck design #shorts #viral",
+          "channel": "cutting and stitching studio up56",
+          "channel_id": "UCY_sEFHIznuUy6Uo8xiX4Jg",
+          "subscribers": 73,
+          "thumbnail": "https://i.ytimg.com/vi/uuCwxXUO9sg/mqdefault.jpg",
+          "published_at": "2026-04-27T12:36:54Z",
+          "url": "https://www.youtube.com/watch?v=uuCwxXUO9sg"
+        },
+        {
+          "id": "cuk5b0k1hv4",
+          "title": "Back exercise🏋️gym attitude status💪#viral#shortvideo #shortsfeed#bodybuilding #youtubeshorts",
+          "channel": "satyam fitness club sh",
+          "channel_id": "UCaGwYVPUSOLbw0exDACQY2g",
+          "subscribers": 91,
+          "thumbnail": "https://i.ytimg.com/vi/cuk5b0k1hv4/mqdefault.jpg",
+          "published_at": "2026-04-27T12:19:13Z",
+          "url": "https://www.youtube.com/watch?v=cuk5b0k1hv4"
+        },
+        {
+          "id": "Yk_Vng1CLzQ",
+          "title": "&quot;Kar98&quot; Lover is back in PUBG battlegrounds - Aao thodi baate kare aur thoda pyaar baate",
+          "channel": "BlackDott ",
+          "channel_id": "UCTJrhj6TSSt_QXrcjcwp8JA",
+          "subscribers": 9010,
+          "thumbnail": "https://i.ytimg.com/vi/Yk_Vng1CLzQ/mqdefault.jpg",
+          "published_at": "2026-04-27T12:16:16Z",
+          "url": "https://www.youtube.com/watch?v=Yk_Vng1CLzQ"
+        }
+      ]
+    },
+    {
+      "phrase": "family",
+      "video_count": 26,
+      "channel_count": 25,
+      "total_channels_seen": 28,
+      "uploads_per_hour": 2.08,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "8jpZw6jFYnA",
+          "title": "ছোটবেলা যখন কারো বাড়িতে টিভি দেখতে যাইতাম #funny #familycomedy #family",
+          "channel": "Obaydul Binodon",
+          "channel_id": "UC1f7IFpNOlKWywS8-R9GEHQ",
+          "subscribers": 77000,
+          "thumbnail": "https://i.ytimg.com/vi/8jpZw6jFYnA/mqdefault.jpg",
+          "published_at": "2026-04-27T12:31:45Z",
+          "url": "https://www.youtube.com/watch?v=8jpZw6jFYnA"
+        },
+        {
+          "id": "6Pfjy8GKJUE",
+          "title": "Brother 🥺 emotional sister wedding #shorts #sister #wedding #family #emotional #viral #youtubeshorts",
+          "channel": "VARANIYA AMITKUMAR",
+          "channel_id": "UCqsAo4uHkfgsEWgYFRZp_dw",
+          "subscribers": 25,
+          "thumbnail": "https://i.ytimg.com/vi/6Pfjy8GKJUE/mqdefault.jpg",
+          "published_at": "2026-04-27T12:31:22Z",
+          "url": "https://www.youtube.com/watch?v=6Pfjy8GKJUE"
+        },
+        {
+          "id": "aA8cbrGbtzM",
+          "title": "“Family pain”🙍‍♀️part-13#viral #shorts #family #famjamv4",
+          "channel": "FamJam_V4",
+          "channel_id": "UC2xPWjY1nXsgoBdcgtVEYEA",
+          "subscribers": 9640,
+          "thumbnail": "https://i.ytimg.com/vi/aA8cbrGbtzM/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:01Z",
+          "url": "https://www.youtube.com/watch?v=aA8cbrGbtzM"
+        },
+        {
+          "id": "ASoEGF2qiLg",
+          "title": "Shock ayara🤣🤣 #anjalisisters #comedy #telugushorts #funny #family #trending #memes #funnyvideo",
+          "channel": "Anjali Sisters",
+          "channel_id": "UCoMptVvYAMq_0bmTy8E9Uyw",
+          "subscribers": 318000,
+          "thumbnail": "https://i.ytimg.com/vi/ASoEGF2qiLg/mqdefault.jpg",
+          "published_at": "2026-04-27T12:28:34Z",
+          "url": "https://www.youtube.com/watch?v=ASoEGF2qiLg"
+        }
+      ]
+    },
+    {
+      "phrase": "vlog",
+      "video_count": 26,
+      "channel_count": 25,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.08,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "pOBGxNg8YMY",
+          "title": "Fake CNC Biscuit Return Vlogs-254 #shorts #minivlog #shortsfeed #viral #vlog #monudolly",
+          "channel": "Monu Dolly Vlogs",
+          "channel_id": "UCyvgWG2G3wZQRUqZ3fuFBMw",
+          "subscribers": 201000,
+          "thumbnail": "https://i.ytimg.com/vi/pOBGxNg8YMY/mqdefault.jpg",
+          "published_at": "2026-04-27T12:33:36Z",
+          "url": "https://www.youtube.com/watch?v=pOBGxNg8YMY"
+        },
+        {
+          "id": "hJMbpbQEa6g",
+          "title": "ചൂടത്ത് ഇടാ൯ പറ്റാത്തതാണ് ഞങ്ങൾ ഇട്ടേക്കുന്നത് 😇 എല്ലാവരും കൂടെ പോവ്ണ് #sruthy #shorts #vlog",
+          "channel": "Sruthy's Tips and Vlog",
+          "channel_id": "UCRWU7kJAxT8jV919HpJEIDg",
+          "subscribers": 410000,
+          "thumbnail": "https://i.ytimg.com/vi/hJMbpbQEa6g/mqdefault.jpg",
+          "published_at": "2026-04-27T12:32:44Z",
+          "url": "https://www.youtube.com/watch?v=hJMbpbQEa6g"
+        },
+        {
+          "id": "PnChDRXOjws",
+          "title": "Minivlog Day 05 | Daily Series🍁 #shorts #vlog #minivlog",
+          "channel": "DarChinee",
+          "channel_id": "UCsxe3WGOl14pN6MeF2qJXaQ",
+          "subscribers": 169000,
+          "thumbnail": "https://i.ytimg.com/vi/PnChDRXOjws/mqdefault.jpg",
+          "published_at": "2026-04-27T12:30:29Z",
+          "url": "https://www.youtube.com/watch?v=PnChDRXOjws"
+        },
+        {
+          "id": "q3MCJWvQLdk",
+          "title": "Struggle life part_02 😨🥹 #minivlog  #vlog #youtubeshorts #trending #viral",
+          "channel": "Rahulblogger2772",
+          "channel_id": "UCugty2J-5ya-NhS22EEM49A",
+          "subscribers": 70,
+          "thumbnail": "https://i.ytimg.com/vi/q3MCJWvQLdk/mqdefault.jpg",
+          "published_at": "2026-04-27T12:29:35Z",
+          "url": "https://www.youtube.com/watch?v=q3MCJWvQLdk"
+        }
+      ]
+    }
+  ],
   "topics": [
     {
       "phrase": "shorts",
@@ -39,7 +642,7 @@
           "channel": "Slumberis",
           "thumbnail": "https://i.ytimg.com/vi/hYkSWVpNgi0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=hYkSWVpNgi0",
-          "views": 2188890,
+          "views": 2194483,
           "age_hours": 24.9
         },
         {
@@ -48,7 +651,7 @@
           "channel": "MovieNestTV",
           "thumbnail": "https://i.ytimg.com/vi/eoTa8cK61lk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=eoTa8cK61lk",
-          "views": 8928136,
+          "views": 8931166,
           "age_hours": 169.4
         }
       ]
@@ -64,7 +667,7 @@
           "channel": "theplumpcover",
           "thumbnail": "https://i.ytimg.com/vi/BbRUzXOld1A/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=BbRUzXOld1A",
-          "views": 3174355,
+          "views": 3184434,
           "age_hours": 20.1
         },
         {
@@ -73,7 +676,7 @@
           "channel": "Slumberis",
           "thumbnail": "https://i.ytimg.com/vi/hYkSWVpNgi0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=hYkSWVpNgi0",
-          "views": 2188890,
+          "views": 2194483,
           "age_hours": 24.9
         },
         {
@@ -82,7 +685,7 @@
           "channel": "Hopeless Core",
           "thumbnail": "https://i.ytimg.com/vi/4AoNXAEyhYE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=4AoNXAEyhYE",
-          "views": 3615391,
+          "views": 3615481,
           "age_hours": 39.7
         }
       ]
@@ -98,7 +701,7 @@
           "channel": "theplumpcover",
           "thumbnail": "https://i.ytimg.com/vi/BbRUzXOld1A/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=BbRUzXOld1A",
-          "views": 3174355,
+          "views": 3184434,
           "age_hours": 20.1
         },
         {
@@ -107,7 +710,7 @@
           "channel": "Hopeless Core",
           "thumbnail": "https://i.ytimg.com/vi/4AoNXAEyhYE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=4AoNXAEyhYE",
-          "views": 3615391,
+          "views": 3615481,
           "age_hours": 39.7
         },
         {
@@ -116,15 +719,15 @@
           "channel": "BPL Sports 26",
           "thumbnail": "https://i.ytimg.com/vi/7jnFWvdqspQ/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=7jnFWvdqspQ",
-          "views": 11656736,
-          "age_hours": 73.4
+          "views": 11675100,
+          "age_hours": 73.5
         }
       ]
     },
     {
       "phrase": "game",
       "video_count": 7,
-      "momentum": 34.65,
+      "momentum": 34.64,
       "example_videos": [
         {
           "id": "rs4MwK6iGKU",
@@ -132,7 +735,7 @@
           "channel": "Flamingo",
           "thumbnail": "https://i.ytimg.com/vi/rs4MwK6iGKU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=rs4MwK6iGKU",
-          "views": 617286,
+          "views": 619940,
           "age_hours": 12.3
         },
         {
@@ -158,7 +761,7 @@
     {
       "phrase": "trailer",
       "video_count": 8,
-      "momentum": 34.6,
+      "momentum": 34.59,
       "example_videos": [
         {
           "id": "p4ahGSFTY-c",
@@ -166,7 +769,7 @@
           "channel": "aespa",
           "thumbnail": "https://i.ytimg.com/vi/p4ahGSFTY-c/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=p4ahGSFTY-c",
-          "views": 959954,
+          "views": 964591,
           "age_hours": 21.7
         },
         {
@@ -176,7 +779,7 @@
           "thumbnail": "https://i.ytimg.com/vi/cqDrZCcNaio/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=cqDrZCcNaio",
           "views": 239099,
-          "age_hours": 17.7
+          "age_hours": 17.8
         },
         {
           "id": "DfowFyDxUXo",
@@ -184,8 +787,8 @@
           "channel": "Prime Video",
           "thumbnail": "https://i.ytimg.com/vi/DfowFyDxUXo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=DfowFyDxUXo",
-          "views": 680875,
-          "age_hours": 36.2
+          "views": 681803,
+          "age_hours": 36.3
         }
       ]
     },
@@ -200,7 +803,7 @@
           "channel": "MenZuration",
           "thumbnail": "https://i.ytimg.com/vi/dbz5RunybyQ/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=dbz5RunybyQ",
-          "views": 20586075,
+          "views": 20590357,
           "age_hours": 190.7
         },
         {
@@ -209,8 +812,8 @@
           "channel": "BPL Sports 26",
           "thumbnail": "https://i.ytimg.com/vi/7jnFWvdqspQ/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=7jnFWvdqspQ",
-          "views": 11656736,
-          "age_hours": 73.4
+          "views": 11675100,
+          "age_hours": 73.5
         },
         {
           "id": "roD9d2_F3rk",
@@ -218,8 +821,8 @@
           "channel": "FuturePunk Recap",
           "thumbnail": "https://i.ytimg.com/vi/roD9d2_F3rk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=roD9d2_F3rk",
-          "views": 5400272,
-          "age_hours": 90.9
+          "views": 5404834,
+          "age_hours": 91.0
         }
       ]
     },
@@ -234,7 +837,7 @@
           "channel": "MenZuration",
           "thumbnail": "https://i.ytimg.com/vi/dbz5RunybyQ/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=dbz5RunybyQ",
-          "views": 20586075,
+          "views": 20590357,
           "age_hours": 190.7
         },
         {
@@ -244,7 +847,7 @@
           "thumbnail": "https://i.ytimg.com/vi/jVimd89DoGo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=jVimd89DoGo",
           "views": 7726901,
-          "age_hours": 115.0
+          "age_hours": 115.1
         },
         {
           "id": "YARFF2eyyKY",
@@ -253,7 +856,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YARFF2eyyKY/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=YARFF2eyyKY",
           "views": 4462582,
-          "age_hours": 167.1
+          "age_hours": 167.2
         }
       ]
     },
@@ -268,8 +871,8 @@
           "channel": "Dusty Douglas",
           "thumbnail": "https://i.ytimg.com/vi/jF0KxOMlSRM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=jF0KxOMlSRM",
-          "views": 7089378,
-          "age_hours": 63.6
+          "views": 7089831,
+          "age_hours": 63.7
         },
         {
           "id": "9g71xi8JR9I",
@@ -277,8 +880,8 @@
           "channel": "Epic Dose",
           "thumbnail": "https://i.ytimg.com/vi/9g71xi8JR9I/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=9g71xi8JR9I",
-          "views": 3996994,
-          "age_hours": 20.4
+          "views": 4010641,
+          "age_hours": 20.5
         },
         {
           "id": "4of1EXqkwpE",
@@ -286,7 +889,7 @@
           "channel": "This Bahamian Gyal",
           "thumbnail": "https://i.ytimg.com/vi/4of1EXqkwpE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=4of1EXqkwpE",
-          "views": 77826,
+          "views": 77900,
           "age_hours": 20.7
         }
       ]
@@ -294,7 +897,7 @@
     {
       "phrase": "made",
       "video_count": 5,
-      "momentum": 25.86,
+      "momentum": 25.85,
       "example_videos": [
         {
           "id": "dbz5RunybyQ",
@@ -302,7 +905,7 @@
           "channel": "MenZuration",
           "thumbnail": "https://i.ytimg.com/vi/dbz5RunybyQ/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=dbz5RunybyQ",
-          "views": 20586075,
+          "views": 20590357,
           "age_hours": 190.7
         },
         {
@@ -311,7 +914,7 @@
           "channel": "Thrawan",
           "thumbnail": "https://i.ytimg.com/vi/wK3eAcgNltI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=wK3eAcgNltI",
-          "views": 7557188,
+          "views": 7557747,
           "age_hours": 71.7
         },
         {
@@ -336,8 +939,8 @@
           "channel": "Adam Hattan",
           "thumbnail": "https://i.ytimg.com/vi/Ub1zOdFr6p0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Ub1zOdFr6p0",
-          "views": 49144,
-          "age_hours": 20.5
+          "views": 49248,
+          "age_hours": 20.6
         },
         {
           "id": "jqBOQAOW2w4",
@@ -354,7 +957,7 @@
           "channel": "MollyMae",
           "thumbnail": "https://i.ytimg.com/vi/PjmcasDu2Kg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=PjmcasDu2Kg",
-          "views": 383165,
+          "views": 383438,
           "age_hours": 66.4
         }
       ]
@@ -370,8 +973,8 @@
           "channel": "Mrwhosetheboss",
           "thumbnail": "https://i.ytimg.com/vi/JstGCPsj9wg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=JstGCPsj9wg",
-          "views": 3282347,
-          "age_hours": 48.1
+          "views": 3285674,
+          "age_hours": 48.2
         },
         {
           "id": "vAWzPlUM59Q",
@@ -379,7 +982,7 @@
           "channel": "CarterPCs",
           "thumbnail": "https://i.ytimg.com/vi/vAWzPlUM59Q/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=vAWzPlUM59Q",
-          "views": 1048166,
+          "views": 1048566,
           "age_hours": 29.1
         },
         {
@@ -388,7 +991,7 @@
           "channel": "Sergi",
           "thumbnail": "https://i.ytimg.com/vi/LSPEK3-lMSA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=LSPEK3-lMSA",
-          "views": 3532426,
+          "views": 3532429,
           "age_hours": 163.8
         }
       ]
@@ -396,7 +999,7 @@
     {
       "phrase": "life",
       "video_count": 5,
-      "momentum": 19.05,
+      "momentum": 19.04,
       "example_videos": [
         {
           "id": "LsXR79PwiD4",
@@ -413,8 +1016,8 @@
           "channel": "Evelyn Ha",
           "thumbnail": "https://i.ytimg.com/vi/vKzsVmDwf1g/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=vKzsVmDwf1g",
-          "views": 899016,
-          "age_hours": 87.1
+          "views": 899576,
+          "age_hours": 87.2
         },
         {
           "id": "Pvpf1VZ04ko",
@@ -423,7 +1026,7 @@
           "thumbnail": "https://i.ytimg.com/vi/Pvpf1VZ04ko/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Pvpf1VZ04ko",
           "views": 28816,
-          "age_hours": 27.7
+          "age_hours": 27.8
         }
       ]
     },
@@ -438,7 +1041,7 @@
           "channel": "Peachy",
           "thumbnail": "https://i.ytimg.com/vi/1mepkJIZyoI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=1mepkJIZyoI",
-          "views": 2138400,
+          "views": 2149582,
           "age_hours": 18.7
         },
         {
@@ -447,8 +1050,8 @@
           "channel": "Neal Chauhan",
           "thumbnail": "https://i.ytimg.com/vi/oqRnTW15l6c/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=oqRnTW15l6c",
-          "views": 5735205,
-          "age_hours": 178.5
+          "views": 5735527,
+          "age_hours": 178.6
         },
         {
           "id": "vKzsVmDwf1g",
@@ -456,15 +1059,15 @@
           "channel": "Evelyn Ha",
           "thumbnail": "https://i.ytimg.com/vi/vKzsVmDwf1g/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=vKzsVmDwf1g",
-          "views": 899016,
-          "age_hours": 87.1
+          "views": 899576,
+          "age_hours": 87.2
         }
       ]
     },
     {
       "phrase": "roblox",
       "video_count": 4,
-      "momentum": 18.29,
+      "momentum": 18.28,
       "example_videos": [
         {
           "id": "DnAXrYqR-9U",
@@ -472,7 +1075,7 @@
           "channel": "RICHLEV",
           "thumbnail": "https://i.ytimg.com/vi/DnAXrYqR-9U/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=DnAXrYqR-9U",
-          "views": 170487,
+          "views": 171349,
           "age_hours": 14.7
         },
         {
@@ -507,7 +1110,7 @@
           "thumbnail": "https://i.ytimg.com/vi/YARFF2eyyKY/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=YARFF2eyyKY",
           "views": 4462582,
-          "age_hours": 167.1
+          "age_hours": 167.2
         },
         {
           "id": "oO1z4yTmKmk",
@@ -540,7 +1143,7 @@
           "channel": "MenZuration",
           "thumbnail": "https://i.ytimg.com/vi/dbz5RunybyQ/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=dbz5RunybyQ",
-          "views": 20586075,
+          "views": 20590357,
           "age_hours": 190.7
         },
         {
@@ -558,7 +1161,7 @@
           "channel": "Kaitlyn Johnson",
           "thumbnail": "https://i.ytimg.com/vi/egitQ_ey2K4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=egitQ_ey2K4",
-          "views": 99226,
+          "views": 99252,
           "age_hours": 60.4
         }
       ]
@@ -583,8 +1186,8 @@
           "channel": "Adam Hattan",
           "thumbnail": "https://i.ytimg.com/vi/Ub1zOdFr6p0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Ub1zOdFr6p0",
-          "views": 49144,
-          "age_hours": 20.5
+          "views": 49248,
+          "age_hours": 20.6
         },
         {
           "id": "7FaPm2QTy5w",
@@ -608,7 +1211,7 @@
           "channel": "Junão no Hype",
           "thumbnail": "https://i.ytimg.com/vi/nP8_E-xgATE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=nP8_E-xgATE",
-          "views": 7855895,
+          "views": 7870629,
           "age_hours": 86.6
         },
         {
@@ -617,7 +1220,7 @@
           "channel": "CarterPCs",
           "thumbnail": "https://i.ytimg.com/vi/vAWzPlUM59Q/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=vAWzPlUM59Q",
-          "views": 1048166,
+          "views": 1048566,
           "age_hours": 29.1
         },
         {
@@ -627,7 +1230,7 @@
           "thumbnail": "https://i.ytimg.com/vi/EnsReOaOUk0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=EnsReOaOUk0",
           "views": 1332841,
-          "age_hours": 188.5
+          "age_hours": 188.6
         }
       ]
     }
@@ -641,12 +1244,12 @@
       "thumbnail": "https://i.ytimg.com/vi/MiO16KlMPaU/mqdefault.jpg",
       "published_at": "2026-04-27T08:58:06Z",
       "category_id": "10",
-      "views": 229628,
-      "likes": 44335,
-      "comments": 3444,
-      "age_hours": 3.7,
-      "views_per_hour": 61571,
-      "momentum": 7.357,
+      "views": 230420,
+      "likes": 44539,
+      "comments": 3449,
+      "age_hours": 3.8,
+      "views_per_hour": 60941,
+      "momentum": 7.351,
       "url": "https://www.youtube.com/watch?v=MiO16KlMPaU",
       "region": "GB",
       "category": "Other"
@@ -659,11 +1262,11 @@
       "thumbnail": "https://i.ytimg.com/vi/CFGPPIKWgS0/mqdefault.jpg",
       "published_at": "2026-04-21T04:53:41Z",
       "category_id": "24",
-      "views": 54852687,
-      "likes": 3310555,
-      "comments": 28966,
-      "age_hours": 151.8,
-      "views_per_hour": 361341,
+      "views": 54854904,
+      "likes": 3311302,
+      "comments": 28971,
+      "age_hours": 151.9,
+      "views_per_hour": 361233,
       "momentum": 6.258,
       "url": "https://www.youtube.com/watch?v=CFGPPIKWgS0",
       "region": "US",
@@ -677,11 +1280,11 @@
       "thumbnail": "https://i.ytimg.com/vi/zRtGL0-5rg4/mqdefault.jpg",
       "published_at": "2026-04-18T16:00:01Z",
       "category_id": "24",
-      "views": 99843092,
-      "likes": 2548887,
-      "comments": 140843,
+      "views": 99851658,
+      "likes": 2549001,
+      "comments": 140848,
       "age_hours": 212.7,
-      "views_per_hour": 469414,
+      "views_per_hour": 469340,
       "momentum": 6.041,
       "url": "https://www.youtube.com/watch?v=zRtGL0-5rg4",
       "region": "US",
@@ -695,12 +1298,12 @@
       "thumbnail": "https://i.ytimg.com/vi/3j0G16lOWh0/mqdefault.jpg",
       "published_at": "2026-04-25T18:27:30Z",
       "category_id": "22",
-      "views": 7501901,
-      "likes": 532676,
-      "comments": 6250,
-      "age_hours": 42.2,
-      "views_per_hour": 177605,
-      "momentum": 6.039,
+      "views": 7505895,
+      "likes": 533030,
+      "comments": 6254,
+      "age_hours": 42.3,
+      "views_per_hour": 177483,
+      "momentum": 6.038,
       "url": "https://www.youtube.com/watch?v=3j0G16lOWh0",
       "region": "US",
       "category": "People & Blogs"
@@ -713,11 +1316,11 @@
       "thumbnail": "https://i.ytimg.com/vi/BbRUzXOld1A/mqdefault.jpg",
       "published_at": "2026-04-26T16:37:15Z",
       "category_id": "20",
-      "views": 3174355,
-      "likes": 239862,
-      "comments": 1217,
+      "views": 3184434,
+      "likes": 240644,
+      "comments": 1219,
       "age_hours": 20.1,
-      "views_per_hour": 158111,
+      "views_per_hour": 158206,
       "momentum": 6.005,
       "url": "https://www.youtube.com/watch?v=BbRUzXOld1A",
       "region": "US",
@@ -731,12 +1334,12 @@
       "thumbnail": "https://i.ytimg.com/vi/p4ahGSFTY-c/mqdefault.jpg",
       "published_at": "2026-04-26T15:00:07Z",
       "category_id": "10",
-      "views": 959954,
-      "likes": 109366,
-      "comments": 5920,
+      "views": 964591,
+      "likes": 109533,
+      "comments": 5924,
       "age_hours": 21.7,
-      "views_per_hour": 44246,
-      "momentum": 5.991,
+      "views_per_hour": 44354,
+      "momentum": 5.988,
       "url": "https://www.youtube.com/watch?v=p4ahGSFTY-c",
       "region": "GB",
       "category": "Other"
@@ -750,10 +1353,10 @@
       "published_at": "2026-04-23T09:13:25Z",
       "category_id": "22",
       "views": 6615012,
-      "likes": 717271,
+      "likes": 717617,
       "comments": 1111,
       "age_hours": 99.5,
-      "views_per_hour": 66500,
+      "views_per_hour": 66465,
       "momentum": 5.877,
       "url": "https://www.youtube.com/watch?v=f7Pb8ym6zTo",
       "region": "US",
@@ -767,11 +1370,11 @@
       "thumbnail": "https://i.ytimg.com/vi/pzxtGL9kzPs/mqdefault.jpg",
       "published_at": "2026-04-24T16:00:00Z",
       "category_id": "24",
-      "views": 23047623,
-      "likes": 546673,
+      "views": 23047624,
+      "likes": 546995,
       "comments": 8542,
       "age_hours": 68.7,
-      "views_per_hour": 335492,
+      "views_per_hour": 335241,
       "momentum": 5.808,
       "url": "https://www.youtube.com/watch?v=pzxtGL9kzPs",
       "region": "GB",
@@ -785,11 +1388,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Vo6QTBMdUfU/mqdefault.jpg",
       "published_at": "2026-04-25T16:00:01Z",
       "category_id": "20",
-      "views": 15579975,
-      "likes": 311470,
-      "comments": 10651,
+      "views": 15599757,
+      "likes": 311660,
+      "comments": 10656,
       "age_hours": 44.7,
-      "views_per_hour": 348568,
+      "views_per_hour": 348608,
       "momentum": 5.802,
       "url": "https://www.youtube.com/watch?v=Vo6QTBMdUfU",
       "region": "US",
@@ -803,11 +1406,11 @@
       "thumbnail": "https://i.ytimg.com/vi/hYkSWVpNgi0/mqdefault.jpg",
       "published_at": "2026-04-26T11:48:00Z",
       "category_id": "1",
-      "views": 2188890,
-      "likes": 180694,
-      "comments": 195,
+      "views": 2194483,
+      "likes": 181117,
+      "comments": 196,
       "age_hours": 24.9,
-      "views_per_hour": 87916,
+      "views_per_hour": 87958,
       "momentum": 5.765,
       "url": "https://www.youtube.com/watch?v=hYkSWVpNgi0",
       "region": "US",
@@ -821,11 +1424,11 @@
       "thumbnail": "https://i.ytimg.com/vi/4AoNXAEyhYE/mqdefault.jpg",
       "published_at": "2026-04-25T21:00:03Z",
       "category_id": "24",
-      "views": 3615391,
-      "likes": 273858,
-      "comments": 3544,
+      "views": 3615481,
+      "likes": 273986,
+      "comments": 3546,
       "age_hours": 39.7,
-      "views_per_hour": 91075,
+      "views_per_hour": 90959,
       "momentum": 5.759,
       "url": "https://www.youtube.com/watch?v=4AoNXAEyhYE",
       "region": "US",
@@ -839,11 +1442,11 @@
       "thumbnail": "https://i.ytimg.com/vi/4nWo4vdyXOo/mqdefault.jpg",
       "published_at": "2026-04-24T16:00:08Z",
       "category_id": "22",
-      "views": 11221946,
-      "likes": 517737,
-      "comments": 3860,
+      "views": 11225146,
+      "likes": 517841,
+      "comments": 3861,
       "age_hours": 68.7,
-      "views_per_hour": 163358,
+      "views_per_hour": 163282,
       "momentum": 5.712,
       "url": "https://www.youtube.com/watch?v=4nWo4vdyXOo",
       "region": "US",
@@ -857,11 +1460,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Dwi5pAwECOE/mqdefault.jpg",
       "published_at": "2026-04-24T21:30:03Z",
       "category_id": "19",
-      "views": 5474027,
-      "likes": 414052,
-      "comments": 1812,
+      "views": 5474992,
+      "likes": 414190,
+      "comments": 1813,
       "age_hours": 63.2,
-      "views_per_hour": 86619,
+      "views_per_hour": 86563,
       "momentum": 5.701,
       "url": "https://www.youtube.com/watch?v=Dwi5pAwECOE",
       "region": "US",
@@ -876,10 +1479,10 @@
       "published_at": "2026-04-26T18:01:49Z",
       "category_id": "2",
       "views": 2176971,
-      "likes": 113271,
-      "comments": 4141,
+      "likes": 113407,
+      "comments": 4147,
       "age_hours": 18.7,
-      "views_per_hour": 116616,
+      "views_per_hour": 116295,
       "momentum": 5.69,
       "url": "https://www.youtube.com/watch?v=gykkhn0iMMw",
       "region": "GB",
@@ -893,11 +1496,11 @@
       "thumbnail": "https://i.ytimg.com/vi/jF0KxOMlSRM/mqdefault.jpg",
       "published_at": "2026-04-24T21:05:56Z",
       "category_id": "24",
-      "views": 7089378,
-      "likes": 404337,
-      "comments": 6590,
-      "age_hours": 63.6,
-      "views_per_hour": 111470,
+      "views": 7089831,
+      "likes": 405026,
+      "comments": 6600,
+      "age_hours": 63.7,
+      "views_per_hour": 111387,
       "momentum": 5.67,
       "url": "https://www.youtube.com/watch?v=jF0KxOMlSRM",
       "region": "US",
@@ -911,12 +1514,12 @@
       "thumbnail": "https://i.ytimg.com/vi/Zp7xeVwLaxs/mqdefault.jpg",
       "published_at": "2026-04-26T14:11:47Z",
       "category_id": "22",
-      "views": 3790613,
-      "likes": 153184,
+      "views": 3804869,
+      "likes": 154023,
       "comments": 494,
-      "age_hours": 22.5,
-      "views_per_hour": 168463,
-      "momentum": 5.656,
+      "age_hours": 22.6,
+      "views_per_hour": 168709,
+      "momentum": 5.657,
       "url": "https://www.youtube.com/watch?v=Zp7xeVwLaxs",
       "region": "US",
       "category": "People & Blogs"
@@ -929,12 +1532,12 @@
       "thumbnail": "https://i.ytimg.com/vi/t3Ql3T-c7ig/mqdefault.jpg",
       "published_at": "2026-04-21T19:12:15Z",
       "category_id": "23",
-      "views": 9975993,
-      "likes": 796091,
+      "views": 9977249,
+      "likes": 796185,
       "comments": 1662,
       "age_hours": 137.5,
-      "views_per_hour": 72556,
-      "momentum": 5.645,
+      "views_per_hour": 72538,
+      "momentum": 5.644,
       "url": "https://www.youtube.com/watch?v=t3Ql3T-c7ig",
       "region": "US",
       "category": "Comedy"
@@ -947,11 +1550,11 @@
       "thumbnail": "https://i.ytimg.com/vi/E7qK-4BVGxM/mqdefault.jpg",
       "published_at": "2026-04-22T12:54:01Z",
       "category_id": "22",
-      "views": 5710822,
-      "likes": 569448,
+      "views": 5711865,
+      "likes": 569588,
       "comments": 1570,
       "age_hours": 119.8,
-      "views_per_hour": 47670,
+      "views_per_hour": 47659,
       "momentum": 5.624,
       "url": "https://www.youtube.com/watch?v=E7qK-4BVGxM",
       "region": "GB",
@@ -965,12 +1568,12 @@
       "thumbnail": "https://i.ytimg.com/vi/rs4MwK6iGKU/mqdefault.jpg",
       "published_at": "2026-04-27T00:25:23Z",
       "category_id": "20",
-      "views": 617286,
-      "likes": 38175,
-      "comments": 4413,
+      "views": 619940,
+      "likes": 38260,
+      "comments": 4419,
       "age_hours": 12.3,
-      "views_per_hour": 50291,
-      "momentum": 5.619,
+      "views_per_hour": 50296,
+      "momentum": 5.617,
       "url": "https://www.youtube.com/watch?v=rs4MwK6iGKU",
       "region": "US",
       "category": "Gaming"
@@ -983,11 +1586,11 @@
       "thumbnail": "https://i.ytimg.com/vi/9g71xi8JR9I/mqdefault.jpg",
       "published_at": "2026-04-26T16:15:00Z",
       "category_id": "22",
-      "views": 3996994,
-      "likes": 108600,
-      "comments": 591,
-      "age_hours": 20.4,
-      "views_per_hour": 195475,
+      "views": 4010641,
+      "likes": 108761,
+      "comments": 592,
+      "age_hours": 20.5,
+      "views_per_hour": 195649,
       "momentum": 5.586,
       "url": "https://www.youtube.com/watch?v=9g71xi8JR9I",
       "region": "US",
@@ -1001,11 +1604,11 @@
       "thumbnail": "https://i.ytimg.com/vi/dbz5RunybyQ/mqdefault.jpg",
       "published_at": "2026-04-19T14:00:55Z",
       "category_id": "24",
-      "views": 20586075,
-      "likes": 1014000,
+      "views": 20590357,
+      "likes": 1014075,
       "comments": 14983,
       "age_hours": 190.7,
-      "views_per_hour": 107960,
+      "views_per_hour": 107953,
       "momentum": 5.566,
       "url": "https://www.youtube.com/watch?v=dbz5RunybyQ",
       "region": "US",
@@ -1019,11 +1622,11 @@
       "thumbnail": "https://i.ytimg.com/vi/eoTa8cK61lk/mqdefault.jpg",
       "published_at": "2026-04-20T11:20:43Z",
       "category_id": "22",
-      "views": 8928136,
-      "likes": 774439,
+      "views": 8931166,
+      "likes": 774489,
       "comments": 3522,
       "age_hours": 169.4,
-      "views_per_hour": 52719,
+      "views_per_hour": 52721,
       "momentum": 5.56,
       "url": "https://www.youtube.com/watch?v=eoTa8cK61lk",
       "region": "US",
@@ -1037,12 +1640,12 @@
       "thumbnail": "https://i.ytimg.com/vi/JstGCPsj9wg/mqdefault.jpg",
       "published_at": "2026-04-25T12:34:13Z",
       "category_id": "28",
-      "views": 3282347,
-      "likes": 190590,
-      "comments": 10304,
-      "age_hours": 48.1,
-      "views_per_hour": 68201,
-      "momentum": 5.547,
+      "views": 3285674,
+      "likes": 190690,
+      "comments": 10305,
+      "age_hours": 48.2,
+      "views_per_hour": 68197,
+      "momentum": 5.546,
       "url": "https://www.youtube.com/watch?v=JstGCPsj9wg",
       "region": "US",
       "category": "Science & Tech"
@@ -1055,12 +1658,12 @@
       "thumbnail": "https://i.ytimg.com/vi/7jnFWvdqspQ/mqdefault.jpg",
       "published_at": "2026-04-24T11:15:51Z",
       "category_id": "22",
-      "views": 11656736,
-      "likes": 360876,
-      "comments": 848,
-      "age_hours": 73.4,
-      "views_per_hour": 158739,
-      "momentum": 5.526,
+      "views": 11675100,
+      "likes": 361201,
+      "comments": 849,
+      "age_hours": 73.5,
+      "views_per_hour": 158877,
+      "momentum": 5.527,
       "url": "https://www.youtube.com/watch?v=7jnFWvdqspQ",
       "region": "US",
       "category": "People & Blogs"
