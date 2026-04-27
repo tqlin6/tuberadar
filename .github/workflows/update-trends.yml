@@ -2,8 +2,8 @@ name: Update trends
 
 on:
   schedule:
-    # Runs at minute 0 every 6 hours (UTC).
-    - cron: "0 */6 * * *"
+    # Runs at minute 0 every 3 hours (UTC).
+    - cron: "0 */3 * * *"
   # Allow manual triggers from the Actions tab.
   workflow_dispatch:
   # Also run on pushes to main so a fresh deploy kicks off immediately.
