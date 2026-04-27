@@ -60,7 +60,7 @@ THEME_WINDOW_HOURS = 12          # how recent uploads must be
 THEME_MAX_SUBSCRIBERS = 1_000_000  # exclude channels above this size
 THEME_MIN_CHANNELS = 5           # need uploads from at least this many distinct channels
 THEME_MIN_VIDEOS = 8             # and at least this many recent videos
-THEME_CANDIDATES = 25            # how many candidate phrases to validate (quota controller)
+THEME_CANDIDATES = 10            # how many candidate phrases to validate (quota controller)
 THEME_SEARCH_RESULTS = 30        # videos fetched per phrase via search.list
 TOP_THEMES = 12                  # how many themes to surface in the output
 
@@ -71,13 +71,34 @@ this that these those it its it's i'm we're you're they're he she them us our yo
 how what why when where who which whose whom about into onto out up down off over
 under again further then once here there all any both each few more most other some
 such no nor not only own same so than too very can will just don should now
-new newest latest official video full part episode ep day days week vs versus
-2023 2024 2025 2026 watch ft feat featuring music
+new newest latest full part episode ep day days week vs versus
+2023 2024 2025 2026 watch ft feat featuring
 ll ve re
 """.split())
 # Note: kept first-person/second-person pronouns (i, we, you, they) – they anchor
 # common hook patterns like "I tried X" and "You won't believe Y" that creators
 # actively want to spot.
+
+# YouTube-specific vocabulary that appears across half of all videos and isn't
+# a meaningful trend signal on its own. These are rejected as topics unless
+# they're part of a multi-word phrase (e.g. "speedrun world record" is fine
+# even though "speedrun" alone isn't).
+YOUTUBE_VOCAB = set("""
+shorts short reel reels clip clips video videos movie movies film films
+funny lol haha cringe hilarious wild crazy insane unbelievable shocking
+game gaming gameplay playthrough walkthrough speedrun stream livestream
+edit edits edited editing montage compilation highlights highlight
+review reviews reacting reaction reactions react reacts unboxing
+tutorial guide tips tricks hacks how-to howto explained explainer
+top best worst greatest ultimate every all-time
+official music song songs lyrics audio
+channel subscribe subscriber subscribers like comment share
+youtube tiktok instagram twitter
+content creator creators
+asmr vlog vlogs blog blogs podcast podcasts interview interviews
+trailer trailers teaser teasers preview
+behind scenes bts shorts
+""".split())
 
 # ---------------------------------------------------------------------------
 # YouTube API
@@ -202,10 +223,14 @@ def extract_topics(videos: list[dict]) -> list[dict]:
     """
     Surface phrases that recur across multiple high-momentum videos.
 
-    A 'topic' is a 1, 2, or 3-word phrase. We score each phrase by:
-        sum(momentum) of videos that contain it × frequency boost
-    and filter to phrases that appear in at least 2 videos.
+    A 'topic' is a 1, 2, or 3-word phrase. Single words are heavily restricted
+    because YouTube vocabulary ('shorts', 'funny', 'edit') saturates titles
+    and isn't a meaningful trend signal. Multi-word phrases get most of the
+    weight since they describe actual subjects.
     """
+    if not videos:
+        return []
+
     phrase_videos: dict[str, list[dict]] = defaultdict(list)
     phrase_counts: Counter[str] = Counter()
 
@@ -215,7 +240,6 @@ def extract_topics(videos: list[dict]) -> list[dict]:
 
         for n in (3, 2, 1):  # prefer longer phrases when they exist
             for phrase in ngrams(tokens, n):
-                # Skip phrases that are just a single stopword-adjacent term.
                 if len(phrase) < 4:
                     continue
                 if phrase in seen_in_video:
@@ -224,13 +248,41 @@ def extract_topics(videos: list[dict]) -> list[dict]:
                 phrase_videos[phrase].append(v)
                 phrase_counts[phrase] += 1
 
+    total_videos = len(videos)
     topics = []
+
     for phrase, vids in phrase_videos.items():
         if len(vids) < 2:
             continue  # need at least 2 videos to count as a "trend"
 
-        # Skip phrases fully contained in a more popular longer phrase –
-        # avoids "minecraft" duplicating "minecraft hardcore".
+        words = phrase.split()
+
+        # --- Single-word filtering: very strict ---
+        # Single-word "topics" are almost always noise. Reject them if:
+        #   (a) the word is in our YouTube-vocab blocklist, OR
+        #   (b) the word appears in too many other phrases (suggesting it's
+        #       generic vocabulary, not a specific subject), OR
+        #   (c) it appears in more than 15% of all sampled videos – at that
+        #       point it's not "trending", it's "common".
+        if len(words) == 1:
+            word = words[0]
+            if word in YOUTUBE_VOCAB:
+                continue
+            if len(vids) / total_videos > 0.15:
+                continue
+            # Single words need stronger evidence: at least 4 videos, not 2.
+            if len(vids) < 4:
+                continue
+
+        # --- Multi-word filtering: lighter ---
+        # Even multi-word phrases get rejected if EVERY token is just
+        # YouTube vocabulary glued together (e.g. "best gaming" or
+        # "funny edit"). Real topics have at least one distinctive token.
+        elif all(w in YOUTUBE_VOCAB for w in words):
+            continue
+
+        # --- Subsumption check: prefer longer phrases over shorter ones ---
+        # If "minecraft hardcore" is a topic, suppress "minecraft" alone.
         is_subsumed = any(
             phrase != other
             and phrase in other
@@ -240,7 +292,10 @@ def extract_topics(videos: list[dict]) -> list[dict]:
         if is_subsumed:
             continue
 
-        total_momentum = sum(v["momentum"] for v in vids)
+        # Score: total momentum, with a bonus for multi-word specificity.
+        word_count_bonus = 1.0 + 0.25 * (len(words) - 1)  # 1.0 / 1.25 / 1.5
+        total_momentum = sum(v["momentum"] for v in vids) * word_count_bonus
+
         topics.append({
             "phrase": phrase,
             "video_count": len(vids),
@@ -445,13 +500,39 @@ def run() -> None:
     themes = extract_emerging_themes(candidate_phrases)
     print(f"Emerging themes confirmed: {len(themes)}")
 
+    # ---- Merge with previous run to preserve "first detected" timestamps ----
+    # We read the existing trends.json (if it exists) and look up each theme.
+    # If a theme appeared in the previous run, we keep its original
+    # first_detected_at. Otherwise it's brand new and gets the current time.
+    out_path = Path(__file__).resolve().parent.parent / "data" / "trends.json"
+    now_iso = datetime.now(timezone.utc).isoformat()
+    previous_first_detected: dict[str, str] = {}
+    if out_path.exists():
+        try:
+            previous = json.loads(out_path.read_text())
+            for prev_theme in previous.get("emerging_themes", []):
+                if "first_detected_at" in prev_theme:
+                    previous_first_detected[prev_theme["phrase"]] = prev_theme["first_detected_at"]
+        except Exception as e:
+            print(f"  (couldn't read previous trends.json: {e})")
+
+    fresh_count = 0
+    for theme in themes:
+        if theme["phrase"] in previous_first_detected:
+            theme["first_detected_at"] = previous_first_detected[theme["phrase"]]
+        else:
+            theme["first_detected_at"] = now_iso
+            fresh_count += 1
+        theme["last_seen_at"] = now_iso
+    print(f"  → {fresh_count} brand new theme(s), {len(themes) - fresh_count} continuing from previous run")
+
     # Build category breakdown – useful for the frontend filter.
     by_category: Counter[str] = Counter()
     for v in videos:
         by_category[v["category"]] += 1
 
     output = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "generated_at": now_iso,
         "regions": REGIONS,
         "stats": {
             "total_videos": len(videos),
@@ -464,7 +545,6 @@ def run() -> None:
         "breakout_videos": videos[:TOP_VIDEOS],
     }
 
-    out_path = Path(__file__).resolve().parent.parent / "data" / "trends.json"
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(output, indent=2, ensure_ascii=False))
     print(f"\nWrote {out_path}")
