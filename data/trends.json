@@ -1,0 +1,92 @@
+{
+  "generated_at": "2026-04-27T08:00:00+00:00",
+  "regions": ["US", "GB"],
+  "stats": {
+    "total_videos": 87,
+    "total_topics": 12,
+    "by_category": {
+      "Gaming": 14,
+      "Howto & Style": 11,
+      "Entertainment": 18,
+      "Education": 9,
+      "Science & Tech": 12,
+      "Comedy": 8,
+      "People & Blogs": 15
+    }
+  },
+  "topics": [
+    {
+      "phrase": "ai agents",
+      "video_count": 7,
+      "momentum": 38.42,
+      "example_videos": [
+        {"id": "demo1", "title": "I Built an AI Agent That Runs My Entire Business", "channel": "Tech Forward", "thumbnail": "", "url": "#", "views": 1240000, "age_hours": 18.4},
+        {"id": "demo2", "title": "AI Agents Just Changed Everything (Again)", "channel": "Future Code", "thumbnail": "", "url": "#", "views": 890000, "age_hours": 32.1},
+        {"id": "demo3", "title": "The Truth About AI Agents in 2026", "channel": "Decoded", "thumbnail": "", "url": "#", "views": 412000, "age_hours": 9.8}
+      ]
+    },
+    {
+      "phrase": "tier list",
+      "video_count": 5,
+      "momentum": 31.18,
+      "example_videos": [
+        {"id": "demo4", "title": "Ranking EVERY Movie of 2026 (Tier List)", "channel": "Reel Talk", "thumbnail": "", "url": "#", "views": 2100000, "age_hours": 48.0},
+        {"id": "demo5", "title": "The Definitive Pokemon Tier List", "channel": "Battle Royale", "thumbnail": "", "url": "#", "views": 780000, "age_hours": 22.5}
+      ]
+    },
+    {
+      "phrase": "i tried",
+      "video_count": 6,
+      "momentum": 29.74,
+      "example_videos": [
+        {"id": "demo6", "title": "I Tried Living Like a Monk for 30 Days", "channel": "Real Talk", "thumbnail": "", "url": "#", "views": 1890000, "age_hours": 64.0}
+      ]
+    },
+    {
+      "phrase": "minecraft hardcore",
+      "video_count": 4,
+      "momentum": 27.91,
+      "example_videos": [
+        {"id": "demo7", "title": "I Survived 100 Days in Minecraft Hardcore", "channel": "PixelCraft", "thumbnail": "", "url": "#", "views": 3200000, "age_hours": 96.0}
+      ]
+    },
+    {
+      "phrase": "ranking the",
+      "video_count": 4,
+      "momentum": 22.18,
+      "example_videos": [
+        {"id": "demo8", "title": "Ranking the Worst Cars I've Ever Driven", "channel": "Driven", "thumbnail": "", "url": "#", "views": 540000, "age_hours": 28.0}
+      ]
+    },
+    {
+      "phrase": "morning routine",
+      "video_count": 3,
+      "momentum": 19.42,
+      "example_videos": [
+        {"id": "demo9", "title": "My 5AM Morning Routine That Changed My Life", "channel": "Slow Living", "thumbnail": "", "url": "#", "views": 720000, "age_hours": 18.0}
+      ]
+    },
+    {
+      "phrase": "dollar vs",
+      "video_count": 3,
+      "momentum": 18.66,
+      "example_videos": [
+        {"id": "demo10", "title": "$1 Pizza vs $1000 Pizza", "channel": "Foodie Showdown", "thumbnail": "", "url": "#", "views": 4100000, "age_hours": 110.0}
+      ]
+    },
+    {
+      "phrase": "we need to",
+      "video_count": 3,
+      "momentum": 14.21,
+      "example_videos": [
+        {"id": "demo11", "title": "We Need to Talk About This Movie", "channel": "Cinema Sins", "thumbnail": "", "url": "#", "views": 380000, "age_hours": 16.0}
+      ]
+    }
+  ],
+  "breakout_videos": [
+    {"id": "demo1", "title": "I Built an AI Agent That Runs My Entire Business", "channel": "Tech Forward", "channel_id": "x", "thumbnail": "", "url": "#", "views": 1240000, "likes": 89000, "comments": 4200, "age_hours": 18.4, "views_per_hour": 67391, "momentum": 5.42, "category": "Science & Tech", "region": "US"},
+    {"id": "demo3", "title": "The Truth About AI Agents in 2026", "channel": "Decoded", "channel_id": "x", "thumbnail": "", "url": "#", "views": 412000, "likes": 34000, "comments": 1800, "age_hours": 9.8, "views_per_hour": 42040, "momentum": 4.97, "category": "Education", "region": "US"},
+    {"id": "demo6", "title": "I Tried Living Like a Monk for 30 Days", "channel": "Real Talk", "channel_id": "x", "thumbnail": "", "url": "#", "views": 1890000, "likes": 142000, "comments": 8900, "age_hours": 64.0, "views_per_hour": 29531, "momentum": 4.81, "category": "People & Blogs", "region": "US"},
+    {"id": "demo4", "title": "Ranking EVERY Movie of 2026 (Tier List)", "channel": "Reel Talk", "channel_id": "x", "thumbnail": "", "url": "#", "views": 2100000, "likes": 98000, "comments": 12000, "age_hours": 48.0, "views_per_hour": 43750, "momentum": 4.74, "category": "Entertainment", "region": "US"}
+  ]
+}
