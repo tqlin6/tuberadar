@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T17:58:44.678783+00:00",
+  "generated_at": "2026-04-28T21:40:31.499313+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,27 +40,27 @@
     }
   ],
   "stats": {
-    "total_videos": 239,
-    "total_topics": 12,
+    "total_videos": 140,
+    "total_topics": 5,
     "total_themes": 0,
     "total_searches": 12,
     "by_category": {
-      "Other": 29,
-      "Gaming": 48,
-      "Entertainment": 58,
-      "People & Blogs": 76,
-      "Comedy": 10,
+      "Other": 22,
+      "Gaming": 23,
+      "Entertainment": 33,
+      "People & Blogs": 47,
       "Education": 2,
-      "Science & Tech": 10,
-      "Howto & Style": 6
+      "Science & Tech": 9,
+      "Comedy": 2,
+      "Howto & Style": 2
     }
   },
   "emerging_themes": [],
   "topics": [
     {
       "phrase": "steam controller",
-      "video_count": 4,
-      "momentum": 25.97,
+      "video_count": 3,
+      "momentum": 19.35,
       "regions": [
         "US"
       ],
@@ -72,8 +72,8 @@
           "channel": "Garett",
           "thumbnail": "https://i.ytimg.com/vi/igXOKbi-OAM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=igXOKbi-OAM",
-          "views": 272250,
-          "age_hours": 18.9
+          "views": 305127,
+          "age_hours": 22.6
         },
         {
           "id": "MpJB7LTs5_s",
@@ -81,100 +81,24 @@
           "channel": "Linus Tech Tips",
           "thumbnail": "https://i.ytimg.com/vi/MpJB7LTs5_s/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=MpJB7LTs5_s",
-          "views": 1096648,
-          "age_hours": 25.0
+          "views": 1169208,
+          "age_hours": 28.7
         },
         {
-          "id": "wfr4QN1Hvhs",
-          "title": "Valve Steam Controller Review | Latency Benchmarks, Battery Life, Repairability",
-          "channel": "Gamers Nexus",
-          "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-          "views": 440611,
-          "age_hours": 25.0
-        }
-      ]
-    },
-    {
-      "phrase": "franklin",
-      "video_count": 5,
-      "momentum": 20.29,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "OOq97vqPcho",
-          "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-          "channel": "NpsDude",
-          "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-          "views": 848784,
-          "age_hours": 53.6
-        },
-        {
-          "id": "BJbmTT_SQ_M",
-          "title": "Franklin Enter Inside Granny,Kamla and Squid Doll Horror House In Indian Bike Driving 3D:",
-          "channel": "Saccu Gamer",
-          "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-          "views": 148592,
-          "age_hours": 12.7
-        },
-        {
-          "id": "48vOtWj-Q6k",
-          "title": "Franklin Created Spiderman Suit To Become Spiderman in GTA 5 !",
-          "channel": "ABISOME",
-          "thumbnail": "https://i.ytimg.com/vi/48vOtWj-Q6k/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=48vOtWj-Q6k",
-          "views": 119569,
-          "age_hours": 15.3
-        }
-      ]
-    },
-    {
-      "phrase": "indian",
-      "video_count": 4,
-      "momentum": 18.63,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "k5fueWMAiI4",
-          "title": "Paseena days are back 😂🔥| india family #shorts #indian #chaman #relatable #garmi #comedy #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-          "views": 6438756,
-          "age_hours": 50.9
-        },
-        {
-          "id": "7LN5Da3oCgU",
-          "title": "Chewing gum aur papa ke baal🥵🔥| Indian family😂|| #shorts #indian #relatable #chewinggum #comedy",
-          "channel": "Jagiya the fun",
-          "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-          "views": 10241167,
-          "age_hours": 96.0
-        },
-        {
-          "id": "OOq97vqPcho",
-          "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-          "channel": "NpsDude",
-          "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-          "views": 848784,
-          "age_hours": 53.6
+          "id": "2gJtFpLdPcI",
+          "title": "The Valve Steam Controller is Here!",
+          "channel": "Linus Tech Tips",
+          "thumbnail": "https://i.ytimg.com/vi/2gJtFpLdPcI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=2gJtFpLdPcI",
+          "views": 654140,
+          "age_hours": 25.5
         }
       ]
     },
     {
       "phrase": "travel",
       "video_count": 4,
-      "momentum": 18.06,
+      "momentum": 17.97,
       "regions": [
         "US"
       ],
@@ -186,8 +110,8 @@
           "channel": "Kayla Ryan",
           "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
-          "views": 3048164,
-          "age_hours": 22.8
+          "views": 3348223,
+          "age_hours": 26.5
         },
         {
           "id": "M4GEOiXdbIM",
@@ -195,8 +119,8 @@
           "channel": "Kayla Ryan",
           "thumbnail": "https://i.ytimg.com/vi/M4GEOiXdbIM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=M4GEOiXdbIM",
-          "views": 123816,
-          "age_hours": 22.7
+          "views": 138939,
+          "age_hours": 26.4
         },
         {
           "id": "OVgJBTs8Nmk",
@@ -204,102 +128,44 @@
           "channel": "Faith Mcpeek",
           "thumbnail": "https://i.ytimg.com/vi/OVgJBTs8Nmk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=OVgJBTs8Nmk",
-          "views": 52790,
-          "age_hours": 17.6
+          "views": 60653,
+          "age_hours": 21.3
         }
       ]
     },
     {
-      "phrase": "family shorts indian",
+      "phrase": "season official teaser",
       "video_count": 2,
-      "momentum": 15.45,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "k5fueWMAiI4",
-          "title": "Paseena days are back 😂🔥| india family #shorts #indian #chaman #relatable #garmi #comedy #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-          "views": 6438756,
-          "age_hours": 50.9
-        },
-        {
-          "id": "7LN5Da3oCgU",
-          "title": "Chewing gum aur papa ke baal🥵🔥| Indian family😂|| #shorts #indian #relatable #chewinggum #comedy",
-          "channel": "Jagiya the fun",
-          "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-          "views": 10241167,
-          "age_hours": 96.0
-        }
-      ]
-    },
-    {
-      "phrase": "valve steam controller",
-      "video_count": 2,
-      "momentum": 15.18,
+      "momentum": 15.48,
       "regions": [
         "US"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "wfr4QN1Hvhs",
-          "title": "Valve Steam Controller Review | Latency Benchmarks, Battery Life, Repairability",
-          "channel": "Gamers Nexus",
-          "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-          "views": 440611,
-          "age_hours": 25.0
+          "id": "5X1dMFuHZhc",
+          "title": "House of the Dragon Season 3 | Official Teaser Trailer | HBO Max",
+          "channel": "HBO Max",
+          "thumbnail": "https://i.ytimg.com/vi/5X1dMFuHZhc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5X1dMFuHZhc",
+          "views": 2092526,
+          "age_hours": 31.2
         },
         {
-          "id": "2gJtFpLdPcI",
-          "title": "The Valve Steam Controller is Here!",
-          "channel": "Linus Tech Tips",
-          "thumbnail": "https://i.ytimg.com/vi/2gJtFpLdPcI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2gJtFpLdPcI",
-          "views": 576692,
-          "age_hours": 21.8
-        }
-      ]
-    },
-    {
-      "phrase": "challenge shorts",
-      "video_count": 2,
-      "momentum": 13.38,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "_xtbjsDjVsY",
-          "title": "Hostel girls Vs Warden! Chai challenge #shorts",
-          "channel": "Shreemani Tripathi",
-          "thumbnail": "https://i.ytimg.com/vi/_xtbjsDjVsY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=_xtbjsDjVsY",
-          "views": 38288391,
-          "age_hours": 298.1
-        },
-        {
-          "id": "GEwszGFecU8",
-          "title": "Fruits Craft Challenge😍 #shorts",
-          "channel": "TeAm STARS",
-          "thumbnail": "https://i.ytimg.com/vi/GEwszGFecU8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=GEwszGFecU8",
-          "views": 8665218,
-          "age_hours": 84.1
+          "id": "PxZg4SfIURg",
+          "title": "Ted Lasso — Season 4 Official Teaser | Apple TV",
+          "channel": "Apple TV",
+          "thumbnail": "https://i.ytimg.com/vi/PxZg4SfIURg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=PxZg4SfIURg",
+          "views": 400865,
+          "age_hours": 7.6
         }
       ]
     },
     {
       "phrase": "made me",
       "video_count": 2,
-      "momentum": 12.89,
+      "momentum": 12.87,
       "regions": [
         "US"
       ],
@@ -311,8 +177,8 @@
           "channel": "Timothy Thatcher",
           "thumbnail": "https://i.ytimg.com/vi/oubP9b9Jmp4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=oubP9b9Jmp4",
-          "views": 9990339,
-          "age_hours": 189.4
+          "views": 10119293,
+          "age_hours": 193.1
         },
         {
           "id": "ll9PY86VG5Q",
@@ -320,66 +186,8 @@
           "channel": "Movie_Cuts_",
           "thumbnail": "https://i.ytimg.com/vi/ll9PY86VG5Q/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ll9PY86VG5Q",
-          "views": 2667647,
-          "age_hours": 80.7
-        }
-      ]
-    },
-    {
-      "phrase": "indian bike driving",
-      "video_count": 2,
-      "momentum": 12.49,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "OOq97vqPcho",
-          "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-          "channel": "NpsDude",
-          "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-          "views": 848784,
-          "age_hours": 53.6
-        },
-        {
-          "id": "BJbmTT_SQ_M",
-          "title": "Franklin Enter Inside Granny,Kamla and Squid Doll Horror House In Indian Bike Driving 3D:",
-          "channel": "Saccu Gamer",
-          "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-          "views": 148592,
-          "age_hours": 12.7
-        }
-      ]
-    },
-    {
-      "phrase": "bike driving 3d",
-      "video_count": 2,
-      "momentum": 12.49,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "OOq97vqPcho",
-          "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-          "channel": "NpsDude",
-          "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-          "views": 848784,
-          "age_hours": 53.6
-        },
-        {
-          "id": "BJbmTT_SQ_M",
-          "title": "Franklin Enter Inside Granny,Kamla and Squid Doll Horror House In Indian Bike Driving 3D:",
-          "channel": "Saccu Gamer",
-          "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-          "views": 148592,
-          "age_hours": 12.7
+          "views": 2733453,
+          "age_hours": 84.4
         }
       ]
     },
@@ -398,8 +206,8 @@
           "channel": "Godfrey Twins",
           "thumbnail": "https://i.ytimg.com/vi/mMXhd0wBPb0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=mMXhd0wBPb0",
-          "views": 6748494,
-          "age_hours": 142.1
+          "views": 6865669,
+          "age_hours": 145.8
         },
         {
           "id": "JIG-28wCYkA",
@@ -407,37 +215,8 @@
           "channel": "Abigail",
           "thumbnail": "https://i.ytimg.com/vi/JIG-28wCYkA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=JIG-28wCYkA",
-          "views": 2956483,
-          "age_hours": 120.3
-        }
-      ]
-    },
-    {
-      "phrase": "gta telugu",
-      "video_count": 2,
-      "momentum": 9.85,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "gc_lZMajezw",
-          "title": "Franklin Upgraded Ironman Suit to Destroy Military Zombies 😱 | GTA 5 Telugu | Dhanu Dino",
-          "channel": "DHANU DINO",
-          "thumbnail": "https://i.ytimg.com/vi/gc_lZMajezw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=gc_lZMajezw",
-          "views": 325268,
-          "age_hours": 37.5
-        },
-        {
-          "id": "FzCgVL0xBOw",
-          "title": "Franklin and Shinchan Buy an Ultra Luxury Bus in GTA 5 in Telugu | Pennem Star",
-          "channel": "Pennem Star",
-          "thumbnail": "https://i.ytimg.com/vi/FzCgVL0xBOw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=FzCgVL0xBOw",
-          "views": 165776,
-          "age_hours": 31.0
+          "views": 3073217,
+          "age_hours": 124.0
         }
       ]
     }
@@ -446,8 +225,8 @@
     "US": [
       {
         "phrase": "steam controller",
-        "video_count": 4,
-        "momentum": 25.97,
+        "video_count": 3,
+        "momentum": 19.35,
         "regions": [
           "US"
         ],
@@ -459,8 +238,8 @@
             "channel": "Garett",
             "thumbnail": "https://i.ytimg.com/vi/igXOKbi-OAM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=igXOKbi-OAM",
-            "views": 272250,
-            "age_hours": 18.9
+            "views": 305127,
+            "age_hours": 22.6
           },
           {
             "id": "MpJB7LTs5_s",
@@ -468,24 +247,24 @@
             "channel": "Linus Tech Tips",
             "thumbnail": "https://i.ytimg.com/vi/MpJB7LTs5_s/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=MpJB7LTs5_s",
-            "views": 1096648,
-            "age_hours": 25.0
+            "views": 1169208,
+            "age_hours": 28.7
           },
           {
-            "id": "wfr4QN1Hvhs",
-            "title": "Valve Steam Controller Review | Latency Benchmarks, Battery Life, Repairability",
-            "channel": "Gamers Nexus",
-            "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-            "views": 440611,
-            "age_hours": 25.0
+            "id": "2gJtFpLdPcI",
+            "title": "The Valve Steam Controller is Here!",
+            "channel": "Linus Tech Tips",
+            "thumbnail": "https://i.ytimg.com/vi/2gJtFpLdPcI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=2gJtFpLdPcI",
+            "views": 654140,
+            "age_hours": 25.5
           }
         ]
       },
       {
         "phrase": "travel",
         "video_count": 4,
-        "momentum": 18.06,
+        "momentum": 17.97,
         "regions": [
           "US"
         ],
@@ -497,8 +276,8 @@
             "channel": "Kayla Ryan",
             "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
-            "views": 3048164,
-            "age_hours": 22.8
+            "views": 3348223,
+            "age_hours": 26.5
           },
           {
             "id": "M4GEOiXdbIM",
@@ -506,8 +285,8 @@
             "channel": "Kayla Ryan",
             "thumbnail": "https://i.ytimg.com/vi/M4GEOiXdbIM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=M4GEOiXdbIM",
-            "views": 123816,
-            "age_hours": 22.7
+            "views": 138939,
+            "age_hours": 26.4
           },
           {
             "id": "OVgJBTs8Nmk",
@@ -515,44 +294,44 @@
             "channel": "Faith Mcpeek",
             "thumbnail": "https://i.ytimg.com/vi/OVgJBTs8Nmk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OVgJBTs8Nmk",
-            "views": 52790,
-            "age_hours": 17.6
+            "views": 60653,
+            "age_hours": 21.3
           }
         ]
       },
       {
-        "phrase": "valve steam controller",
+        "phrase": "season official teaser",
         "video_count": 2,
-        "momentum": 15.18,
+        "momentum": 15.48,
         "regions": [
           "US"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "wfr4QN1Hvhs",
-            "title": "Valve Steam Controller Review | Latency Benchmarks, Battery Life, Repairability",
-            "channel": "Gamers Nexus",
-            "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-            "views": 440611,
-            "age_hours": 25.0
+            "id": "5X1dMFuHZhc",
+            "title": "House of the Dragon Season 3 | Official Teaser Trailer | HBO Max",
+            "channel": "HBO Max",
+            "thumbnail": "https://i.ytimg.com/vi/5X1dMFuHZhc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5X1dMFuHZhc",
+            "views": 2092526,
+            "age_hours": 31.2
           },
           {
-            "id": "2gJtFpLdPcI",
-            "title": "The Valve Steam Controller is Here!",
-            "channel": "Linus Tech Tips",
-            "thumbnail": "https://i.ytimg.com/vi/2gJtFpLdPcI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2gJtFpLdPcI",
-            "views": 576692,
-            "age_hours": 21.8
+            "id": "PxZg4SfIURg",
+            "title": "Ted Lasso — Season 4 Official Teaser | Apple TV",
+            "channel": "Apple TV",
+            "thumbnail": "https://i.ytimg.com/vi/PxZg4SfIURg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=PxZg4SfIURg",
+            "views": 400865,
+            "age_hours": 7.6
           }
         ]
       },
       {
         "phrase": "made me",
         "video_count": 2,
-        "momentum": 12.89,
+        "momentum": 12.87,
         "regions": [
           "US"
         ],
@@ -564,8 +343,8 @@
             "channel": "Timothy Thatcher",
             "thumbnail": "https://i.ytimg.com/vi/oubP9b9Jmp4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=oubP9b9Jmp4",
-            "views": 9990339,
-            "age_hours": 189.4
+            "views": 10119293,
+            "age_hours": 193.1
           },
           {
             "id": "ll9PY86VG5Q",
@@ -573,8 +352,8 @@
             "channel": "Movie_Cuts_",
             "thumbnail": "https://i.ytimg.com/vi/ll9PY86VG5Q/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ll9PY86VG5Q",
-            "views": 2667647,
-            "age_hours": 80.7
+            "views": 2733453,
+            "age_hours": 84.4
           }
         ]
       }
@@ -595,8 +374,8 @@
             "channel": "Godfrey Twins",
             "thumbnail": "https://i.ytimg.com/vi/mMXhd0wBPb0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=mMXhd0wBPb0",
-            "views": 6748494,
-            "age_hours": 142.1
+            "views": 6865669,
+            "age_hours": 145.8
           },
           {
             "id": "JIG-28wCYkA",
@@ -604,242 +383,17 @@
             "channel": "Abigail",
             "thumbnail": "https://i.ytimg.com/vi/JIG-28wCYkA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=JIG-28wCYkA",
-            "views": 2956483,
-            "age_hours": 120.3
+            "views": 3073217,
+            "age_hours": 124.0
           }
         ]
       }
     ],
-    "CA": [],
-    "IN": [
-      {
-        "phrase": "franklin",
-        "video_count": 5,
-        "momentum": 20.29,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "OOq97vqPcho",
-            "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-            "channel": "NpsDude",
-            "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 848784,
-            "age_hours": 53.6
-          },
-          {
-            "id": "BJbmTT_SQ_M",
-            "title": "Franklin Enter Inside Granny,Kamla and Squid Doll Horror House In Indian Bike Driving 3D:",
-            "channel": "Saccu Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-            "views": 148592,
-            "age_hours": 12.7
-          },
-          {
-            "id": "48vOtWj-Q6k",
-            "title": "Franklin Created Spiderman Suit To Become Spiderman in GTA 5 !",
-            "channel": "ABISOME",
-            "thumbnail": "https://i.ytimg.com/vi/48vOtWj-Q6k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=48vOtWj-Q6k",
-            "views": 119569,
-            "age_hours": 15.3
-          }
-        ]
-      },
-      {
-        "phrase": "indian",
-        "video_count": 4,
-        "momentum": 18.63,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "k5fueWMAiI4",
-            "title": "Paseena days are back 😂🔥| india family #shorts #indian #chaman #relatable #garmi #comedy #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-            "views": 6438756,
-            "age_hours": 50.9
-          },
-          {
-            "id": "7LN5Da3oCgU",
-            "title": "Chewing gum aur papa ke baal🥵🔥| Indian family😂|| #shorts #indian #relatable #chewinggum #comedy",
-            "channel": "Jagiya the fun",
-            "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-            "views": 10241167,
-            "age_hours": 96.0
-          },
-          {
-            "id": "OOq97vqPcho",
-            "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-            "channel": "NpsDude",
-            "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 848784,
-            "age_hours": 53.6
-          }
-        ]
-      },
-      {
-        "phrase": "family shorts indian",
-        "video_count": 2,
-        "momentum": 15.45,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "k5fueWMAiI4",
-            "title": "Paseena days are back 😂🔥| india family #shorts #indian #chaman #relatable #garmi #comedy #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-            "views": 6438756,
-            "age_hours": 50.9
-          },
-          {
-            "id": "7LN5Da3oCgU",
-            "title": "Chewing gum aur papa ke baal🥵🔥| Indian family😂|| #shorts #indian #relatable #chewinggum #comedy",
-            "channel": "Jagiya the fun",
-            "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-            "views": 10241167,
-            "age_hours": 96.0
-          }
-        ]
-      },
-      {
-        "phrase": "challenge shorts",
-        "video_count": 2,
-        "momentum": 13.38,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "_xtbjsDjVsY",
-            "title": "Hostel girls Vs Warden! Chai challenge #shorts",
-            "channel": "Shreemani Tripathi",
-            "thumbnail": "https://i.ytimg.com/vi/_xtbjsDjVsY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=_xtbjsDjVsY",
-            "views": 38288391,
-            "age_hours": 298.1
-          },
-          {
-            "id": "GEwszGFecU8",
-            "title": "Fruits Craft Challenge😍 #shorts",
-            "channel": "TeAm STARS",
-            "thumbnail": "https://i.ytimg.com/vi/GEwszGFecU8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GEwszGFecU8",
-            "views": 8665218,
-            "age_hours": 84.1
-          }
-        ]
-      },
-      {
-        "phrase": "indian bike driving",
-        "video_count": 2,
-        "momentum": 12.49,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "OOq97vqPcho",
-            "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-            "channel": "NpsDude",
-            "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 848784,
-            "age_hours": 53.6
-          },
-          {
-            "id": "BJbmTT_SQ_M",
-            "title": "Franklin Enter Inside Granny,Kamla and Squid Doll Horror House In Indian Bike Driving 3D:",
-            "channel": "Saccu Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-            "views": 148592,
-            "age_hours": 12.7
-          }
-        ]
-      },
-      {
-        "phrase": "bike driving 3d",
-        "video_count": 2,
-        "momentum": 12.49,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "OOq97vqPcho",
-            "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-            "channel": "NpsDude",
-            "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 848784,
-            "age_hours": 53.6
-          },
-          {
-            "id": "BJbmTT_SQ_M",
-            "title": "Franklin Enter Inside Granny,Kamla and Squid Doll Horror House In Indian Bike Driving 3D:",
-            "channel": "Saccu Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-            "views": 148592,
-            "age_hours": 12.7
-          }
-        ]
-      },
-      {
-        "phrase": "gta telugu",
-        "video_count": 2,
-        "momentum": 9.85,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "gc_lZMajezw",
-            "title": "Franklin Upgraded Ironman Suit to Destroy Military Zombies 😱 | GTA 5 Telugu | Dhanu Dino",
-            "channel": "DHANU DINO",
-            "thumbnail": "https://i.ytimg.com/vi/gc_lZMajezw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gc_lZMajezw",
-            "views": 325268,
-            "age_hours": 37.5
-          },
-          {
-            "id": "FzCgVL0xBOw",
-            "title": "Franklin and Shinchan Buy an Ultra Luxury Bus in GTA 5 in Telugu | Pennem Star",
-            "channel": "Pennem Star",
-            "thumbnail": "https://i.ytimg.com/vi/FzCgVL0xBOw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=FzCgVL0xBOw",
-            "views": 165776,
-            "age_hours": 31.0
-          }
-        ]
-      }
-    ],
-    "AU": [],
     "ALL": [
       {
         "phrase": "steam controller",
-        "video_count": 4,
-        "momentum": 25.97,
+        "video_count": 3,
+        "momentum": 19.35,
         "regions": [
           "US"
         ],
@@ -851,8 +405,8 @@
             "channel": "Garett",
             "thumbnail": "https://i.ytimg.com/vi/igXOKbi-OAM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=igXOKbi-OAM",
-            "views": 272250,
-            "age_hours": 18.9
+            "views": 305127,
+            "age_hours": 22.6
           },
           {
             "id": "MpJB7LTs5_s",
@@ -860,100 +414,24 @@
             "channel": "Linus Tech Tips",
             "thumbnail": "https://i.ytimg.com/vi/MpJB7LTs5_s/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=MpJB7LTs5_s",
-            "views": 1096648,
-            "age_hours": 25.0
+            "views": 1169208,
+            "age_hours": 28.7
           },
           {
-            "id": "wfr4QN1Hvhs",
-            "title": "Valve Steam Controller Review | Latency Benchmarks, Battery Life, Repairability",
-            "channel": "Gamers Nexus",
-            "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-            "views": 440611,
-            "age_hours": 25.0
-          }
-        ]
-      },
-      {
-        "phrase": "franklin",
-        "video_count": 5,
-        "momentum": 20.29,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "OOq97vqPcho",
-            "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-            "channel": "NpsDude",
-            "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 848784,
-            "age_hours": 53.6
-          },
-          {
-            "id": "BJbmTT_SQ_M",
-            "title": "Franklin Enter Inside Granny,Kamla and Squid Doll Horror House In Indian Bike Driving 3D:",
-            "channel": "Saccu Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-            "views": 148592,
-            "age_hours": 12.7
-          },
-          {
-            "id": "48vOtWj-Q6k",
-            "title": "Franklin Created Spiderman Suit To Become Spiderman in GTA 5 !",
-            "channel": "ABISOME",
-            "thumbnail": "https://i.ytimg.com/vi/48vOtWj-Q6k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=48vOtWj-Q6k",
-            "views": 119569,
-            "age_hours": 15.3
-          }
-        ]
-      },
-      {
-        "phrase": "indian",
-        "video_count": 4,
-        "momentum": 18.63,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "k5fueWMAiI4",
-            "title": "Paseena days are back 😂🔥| india family #shorts #indian #chaman #relatable #garmi #comedy #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-            "views": 6438756,
-            "age_hours": 50.9
-          },
-          {
-            "id": "7LN5Da3oCgU",
-            "title": "Chewing gum aur papa ke baal🥵🔥| Indian family😂|| #shorts #indian #relatable #chewinggum #comedy",
-            "channel": "Jagiya the fun",
-            "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-            "views": 10241167,
-            "age_hours": 96.0
-          },
-          {
-            "id": "OOq97vqPcho",
-            "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-            "channel": "NpsDude",
-            "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 848784,
-            "age_hours": 53.6
+            "id": "2gJtFpLdPcI",
+            "title": "The Valve Steam Controller is Here!",
+            "channel": "Linus Tech Tips",
+            "thumbnail": "https://i.ytimg.com/vi/2gJtFpLdPcI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=2gJtFpLdPcI",
+            "views": 654140,
+            "age_hours": 25.5
           }
         ]
       },
       {
         "phrase": "travel",
         "video_count": 4,
-        "momentum": 18.06,
+        "momentum": 17.97,
         "regions": [
           "US"
         ],
@@ -965,8 +443,8 @@
             "channel": "Kayla Ryan",
             "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
-            "views": 3048164,
-            "age_hours": 22.8
+            "views": 3348223,
+            "age_hours": 26.5
           },
           {
             "id": "M4GEOiXdbIM",
@@ -974,8 +452,8 @@
             "channel": "Kayla Ryan",
             "thumbnail": "https://i.ytimg.com/vi/M4GEOiXdbIM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=M4GEOiXdbIM",
-            "views": 123816,
-            "age_hours": 22.7
+            "views": 138939,
+            "age_hours": 26.4
           },
           {
             "id": "OVgJBTs8Nmk",
@@ -983,102 +461,44 @@
             "channel": "Faith Mcpeek",
             "thumbnail": "https://i.ytimg.com/vi/OVgJBTs8Nmk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OVgJBTs8Nmk",
-            "views": 52790,
-            "age_hours": 17.6
+            "views": 60653,
+            "age_hours": 21.3
           }
         ]
       },
       {
-        "phrase": "family shorts indian",
+        "phrase": "season official teaser",
         "video_count": 2,
-        "momentum": 15.45,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "k5fueWMAiI4",
-            "title": "Paseena days are back 😂🔥| india family #shorts #indian #chaman #relatable #garmi #comedy #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-            "views": 6438756,
-            "age_hours": 50.9
-          },
-          {
-            "id": "7LN5Da3oCgU",
-            "title": "Chewing gum aur papa ke baal🥵🔥| Indian family😂|| #shorts #indian #relatable #chewinggum #comedy",
-            "channel": "Jagiya the fun",
-            "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-            "views": 10241167,
-            "age_hours": 96.0
-          }
-        ]
-      },
-      {
-        "phrase": "valve steam controller",
-        "video_count": 2,
-        "momentum": 15.18,
+        "momentum": 15.48,
         "regions": [
           "US"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "wfr4QN1Hvhs",
-            "title": "Valve Steam Controller Review | Latency Benchmarks, Battery Life, Repairability",
-            "channel": "Gamers Nexus",
-            "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-            "views": 440611,
-            "age_hours": 25.0
+            "id": "5X1dMFuHZhc",
+            "title": "House of the Dragon Season 3 | Official Teaser Trailer | HBO Max",
+            "channel": "HBO Max",
+            "thumbnail": "https://i.ytimg.com/vi/5X1dMFuHZhc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5X1dMFuHZhc",
+            "views": 2092526,
+            "age_hours": 31.2
           },
           {
-            "id": "2gJtFpLdPcI",
-            "title": "The Valve Steam Controller is Here!",
-            "channel": "Linus Tech Tips",
-            "thumbnail": "https://i.ytimg.com/vi/2gJtFpLdPcI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2gJtFpLdPcI",
-            "views": 576692,
-            "age_hours": 21.8
-          }
-        ]
-      },
-      {
-        "phrase": "challenge shorts",
-        "video_count": 2,
-        "momentum": 13.38,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "_xtbjsDjVsY",
-            "title": "Hostel girls Vs Warden! Chai challenge #shorts",
-            "channel": "Shreemani Tripathi",
-            "thumbnail": "https://i.ytimg.com/vi/_xtbjsDjVsY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=_xtbjsDjVsY",
-            "views": 38288391,
-            "age_hours": 298.1
-          },
-          {
-            "id": "GEwszGFecU8",
-            "title": "Fruits Craft Challenge😍 #shorts",
-            "channel": "TeAm STARS",
-            "thumbnail": "https://i.ytimg.com/vi/GEwszGFecU8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GEwszGFecU8",
-            "views": 8665218,
-            "age_hours": 84.1
+            "id": "PxZg4SfIURg",
+            "title": "Ted Lasso — Season 4 Official Teaser | Apple TV",
+            "channel": "Apple TV",
+            "thumbnail": "https://i.ytimg.com/vi/PxZg4SfIURg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=PxZg4SfIURg",
+            "views": 400865,
+            "age_hours": 7.6
           }
         ]
       },
       {
         "phrase": "made me",
         "video_count": 2,
-        "momentum": 12.89,
+        "momentum": 12.87,
         "regions": [
           "US"
         ],
@@ -1090,8 +510,8 @@
             "channel": "Timothy Thatcher",
             "thumbnail": "https://i.ytimg.com/vi/oubP9b9Jmp4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=oubP9b9Jmp4",
-            "views": 9990339,
-            "age_hours": 189.4
+            "views": 10119293,
+            "age_hours": 193.1
           },
           {
             "id": "ll9PY86VG5Q",
@@ -1099,66 +519,8 @@
             "channel": "Movie_Cuts_",
             "thumbnail": "https://i.ytimg.com/vi/ll9PY86VG5Q/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ll9PY86VG5Q",
-            "views": 2667647,
-            "age_hours": 80.7
-          }
-        ]
-      },
-      {
-        "phrase": "indian bike driving",
-        "video_count": 2,
-        "momentum": 12.49,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "OOq97vqPcho",
-            "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-            "channel": "NpsDude",
-            "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 848784,
-            "age_hours": 53.6
-          },
-          {
-            "id": "BJbmTT_SQ_M",
-            "title": "Franklin Enter Inside Granny,Kamla and Squid Doll Horror House In Indian Bike Driving 3D:",
-            "channel": "Saccu Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-            "views": 148592,
-            "age_hours": 12.7
-          }
-        ]
-      },
-      {
-        "phrase": "bike driving 3d",
-        "video_count": 2,
-        "momentum": 12.49,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "OOq97vqPcho",
-            "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-            "channel": "NpsDude",
-            "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 848784,
-            "age_hours": 53.6
-          },
-          {
-            "id": "BJbmTT_SQ_M",
-            "title": "Franklin Enter Inside Granny,Kamla and Squid Doll Horror House In Indian Bike Driving 3D:",
-            "channel": "Saccu Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-            "views": 148592,
-            "age_hours": 12.7
+            "views": 2733453,
+            "age_hours": 84.4
           }
         ]
       },
@@ -1177,8 +539,8 @@
             "channel": "Godfrey Twins",
             "thumbnail": "https://i.ytimg.com/vi/mMXhd0wBPb0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=mMXhd0wBPb0",
-            "views": 6748494,
-            "age_hours": 142.1
+            "views": 6865669,
+            "age_hours": 145.8
           },
           {
             "id": "JIG-28wCYkA",
@@ -1186,37 +548,8 @@
             "channel": "Abigail",
             "thumbnail": "https://i.ytimg.com/vi/JIG-28wCYkA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=JIG-28wCYkA",
-            "views": 2956483,
-            "age_hours": 120.3
-          }
-        ]
-      },
-      {
-        "phrase": "gta telugu",
-        "video_count": 2,
-        "momentum": 9.85,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "gc_lZMajezw",
-            "title": "Franklin Upgraded Ironman Suit to Destroy Military Zombies 😱 | GTA 5 Telugu | Dhanu Dino",
-            "channel": "DHANU DINO",
-            "thumbnail": "https://i.ytimg.com/vi/gc_lZMajezw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gc_lZMajezw",
-            "views": 325268,
-            "age_hours": 37.5
-          },
-          {
-            "id": "FzCgVL0xBOw",
-            "title": "Franklin and Shinchan Buy an Ultra Luxury Bus in GTA 5 in Telugu | Pennem Star",
-            "channel": "Pennem Star",
-            "thumbnail": "https://i.ytimg.com/vi/FzCgVL0xBOw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=FzCgVL0xBOw",
-            "views": 165776,
-            "age_hours": 31.0
+            "views": 3073217,
+            "age_hours": 124.0
           }
         ]
       }
@@ -1224,87 +557,87 @@
   },
   "trending_searches": [
     {
-      "phrase": "how to tie a tie",
+      "phrase": "is it a crime mariah the scientist",
+      "prefix": "is it",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T21:40:31.500940+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "should i stay or should i go",
+      "prefix": "should i",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T21:40:31.500940+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "can you stand the rain new edition",
+      "prefix": "can you",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T21:40:31.500940+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how to draw",
       "prefix": "how to",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:58:44.679134+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T21:40:31.500940+00:00",
       "is_new": true
     },
     {
-      "phrase": "how do i say goodbye dean lewis",
-      "prefix": "how do",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:58:44.679134+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how does it feel d'angelo",
+      "phrase": "how does it feel",
       "prefix": "how does",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:58:44.679134+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T21:40:31.500940+00:00",
       "is_new": true
     },
     {
-      "phrase": "why is it spicy",
+      "phrase": "why is my bus driver playing mitski",
       "prefix": "why is",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:58:44.679134+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T21:40:31.500940+00:00",
       "is_new": true
     },
     {
-      "phrase": "why do birds suddenly appear",
+      "phrase": "why don't we fall in love",
       "prefix": "why do",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:58:44.679134+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T21:40:31.500940+00:00",
       "is_new": true
     },
     {
-      "phrase": "why does he call you darling",
+      "phrase": "why does it hurt to love you",
       "prefix": "why does",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:58:44.679134+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T21:40:31.500940+00:00",
       "is_new": true
     },
     {
-      "phrase": "what is this diddy blud doing on the calculator",
+      "phrase": "what is love",
       "prefix": "what is",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:58:44.679134+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T21:40:31.500940+00:00",
       "is_new": true
     },
     {
-      "phrase": "what are you listening to chris stapleton",
+      "phrase": "what are you doing",
       "prefix": "what are",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:58:44.679134+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T21:40:31.500940+00:00",
       "is_new": true
     },
     {
-      "phrase": "what happened to virgil",
+      "phrase": "what happened to that boy",
       "prefix": "what happened",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:58:44.679134+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T21:40:31.500940+00:00",
       "is_new": true
     },
     {
-      "phrase": "best build 2k26",
+      "phrase": "best part",
       "prefix": "best",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:58:44.679134+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "worst way riley green",
-      "prefix": "worst",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:58:44.679134+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "topoppgen",
-      "prefix": "top",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:58:44.679134+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T21:40:31.500940+00:00",
       "is_new": true
     }
   ],
@@ -1317,35 +650,35 @@
       "thumbnail": "https://i.ytimg.com/vi/lJZ8wWCnwow/mqdefault.jpg",
       "published_at": "2026-04-27T16:30:07Z",
       "category_id": "10",
-      "views": 6877505,
-      "likes": 1104687,
-      "comments": 321287,
-      "age_hours": 25.5,
-      "views_per_hour": 269962,
-      "momentum": 9.713,
+      "views": 7427584,
+      "likes": 1128213,
+      "comments": 324816,
+      "age_hours": 29.2,
+      "views_per_hour": 254608,
+      "momentum": 9.412,
       "url": "https://www.youtube.com/watch?v=lJZ8wWCnwow",
       "region": "US",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "cL0KKSPjZf8",
-      "title": "Boom Shaka (Official Music Video) | KR$NA |  Dhanda Nyoliwala",
-      "channel": "KRSNA",
-      "channel_id": "UChDX4wagpTQS0aTm4eyhJaw",
-      "thumbnail": "https://i.ytimg.com/vi/cL0KKSPjZf8/mqdefault.jpg",
-      "published_at": "2026-04-28T05:30:05Z",
-      "category_id": "10",
-      "views": 864662,
-      "likes": 135204,
-      "comments": 9458,
-      "age_hours": 12.5,
-      "views_per_hour": 69303,
-      "momentum": 6.884,
-      "url": "https://www.youtube.com/watch?v=cL0KKSPjZf8",
-      "region": "GB",
-      "category": "Other",
-      "_detected_lang": "pt"
+      "id": "u21St-Q58GI",
+      "title": "Searching For 1000 Players Who Went Missing",
+      "channel": "Spoke",
+      "channel_id": "UCk2uxbWi5py_iJXaEsh2YRA",
+      "thumbnail": "https://i.ytimg.com/vi/u21St-Q58GI/mqdefault.jpg",
+      "published_at": "2026-04-28T13:34:06Z",
+      "category_id": "20",
+      "views": 636701,
+      "likes": 55357,
+      "comments": 14225,
+      "age_hours": 8.1,
+      "views_per_hour": 78544,
+      "momentum": 6.84,
+      "url": "https://www.youtube.com/watch?v=u21St-Q58GI",
+      "region": "US",
+      "category": "Gaming",
+      "_detected_lang": "en"
     },
     {
       "id": "-SEKt_0pdHM",
@@ -1355,12 +688,12 @@
       "thumbnail": "https://i.ytimg.com/vi/-SEKt_0pdHM/mqdefault.jpg",
       "published_at": "2026-04-28T09:00:01Z",
       "category_id": "10",
-      "views": 646698,
-      "likes": 100087,
-      "comments": 6001,
-      "age_hours": 9.0,
-      "views_per_hour": 72036,
-      "momentum": 6.812,
+      "views": 802518,
+      "likes": 114028,
+      "comments": 6597,
+      "age_hours": 12.7,
+      "views_per_hour": 63318,
+      "momentum": 6.561,
       "url": "https://www.youtube.com/watch?v=-SEKt_0pdHM",
       "region": "US",
       "category": "Other",
@@ -1374,53 +707,15 @@
       "thumbnail": "https://i.ytimg.com/vi/XXIX2WnfbpE/mqdefault.jpg",
       "published_at": "2026-04-27T19:00:23Z",
       "category_id": "10",
-      "views": 2533098,
-      "likes": 292567,
-      "comments": 17793,
-      "age_hours": 23.0,
-      "views_per_hour": 110272,
-      "momentum": 6.561,
+      "views": 2940008,
+      "likes": 318315,
+      "comments": 18710,
+      "age_hours": 26.7,
+      "views_per_hour": 110244,
+      "momentum": 6.455,
       "url": "https://www.youtube.com/watch?v=XXIX2WnfbpE",
       "region": "US",
       "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "b7HthrWVH5U",
-      "title": "Helldivers 2 Patch Notes - Patch 6.2.2",
-      "channel": "HELLDIVERS™ 2",
-      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
-      "thumbnail": "https://i.ytimg.com/vi/b7HthrWVH5U/mqdefault.jpg",
-      "published_at": "2026-04-28T09:05:56Z",
-      "category_id": "20",
-      "views": 160196,
-      "likes": 10044,
-      "comments": 6537,
-      "age_hours": 8.9,
-      "views_per_hour": 18042,
-      "momentum": 6.527,
-      "url": "https://www.youtube.com/watch?v=b7HthrWVH5U",
-      "region": "GB",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "JfozPo2L7xQ",
-      "title": "My Hero Academia x Brawl Stars",
-      "channel": "Brawl Stars",
-      "channel_id": "UCooVYzDxdwTtGYAkcPmOgOw",
-      "thumbnail": "https://i.ytimg.com/vi/JfozPo2L7xQ/mqdefault.jpg",
-      "published_at": "2026-04-28T08:01:45Z",
-      "category_id": "20",
-      "views": 3202287,
-      "likes": 178366,
-      "comments": 8560,
-      "age_hours": 9.9,
-      "views_per_hour": 321875,
-      "momentum": 6.268,
-      "url": "https://www.youtube.com/watch?v=JfozPo2L7xQ",
-      "region": "GB",
-      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -1431,12 +726,12 @@
       "thumbnail": "https://i.ytimg.com/vi/NK9-nmfUyf4/mqdefault.jpg",
       "published_at": "2026-04-27T17:30:11Z",
       "category_id": "19",
-      "views": 11027819,
-      "likes": 565667,
-      "comments": 4303,
-      "age_hours": 24.5,
-      "views_per_hour": 450578,
-      "momentum": 6.256,
+      "views": 12210243,
+      "likes": 601666,
+      "comments": 4466,
+      "age_hours": 28.2,
+      "views_per_hour": 433421,
+      "momentum": 6.213,
       "url": "https://www.youtube.com/watch?v=NK9-nmfUyf4",
       "region": "US",
       "category": "Other",
@@ -1450,15 +745,34 @@
       "thumbnail": "https://i.ytimg.com/vi/CFGPPIKWgS0/mqdefault.jpg",
       "published_at": "2026-04-21T04:53:41Z",
       "category_id": "24",
-      "views": 60215450,
-      "likes": 3559888,
-      "comments": 30894,
-      "age_hours": 181.1,
-      "views_per_hour": 332529,
-      "momentum": 6.203,
+      "views": 60777884,
+      "likes": 3583078,
+      "comments": 31067,
+      "age_hours": 184.8,
+      "views_per_hour": 328920,
+      "momentum": 6.196,
       "url": "https://www.youtube.com/watch?v=CFGPPIKWgS0",
       "region": "US",
       "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "JfozPo2L7xQ",
+      "title": "My Hero Academia x Brawl Stars",
+      "channel": "Brawl Stars",
+      "channel_id": "UCooVYzDxdwTtGYAkcPmOgOw",
+      "thumbnail": "https://i.ytimg.com/vi/JfozPo2L7xQ/mqdefault.jpg",
+      "published_at": "2026-04-28T08:01:45Z",
+      "category_id": "20",
+      "views": 4038170,
+      "likes": 203759,
+      "comments": 9677,
+      "age_hours": 13.6,
+      "views_per_hour": 295935,
+      "momentum": 6.154,
+      "url": "https://www.youtube.com/watch?v=JfozPo2L7xQ",
+      "region": "US",
+      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -1469,12 +783,12 @@
       "thumbnail": "https://i.ytimg.com/vi/Zp7xeVwLaxs/mqdefault.jpg",
       "published_at": "2026-04-26T14:11:47Z",
       "category_id": "22",
-      "views": 14555012,
-      "likes": 861862,
-      "comments": 1921,
-      "age_hours": 51.8,
-      "views_per_hour": 281085,
-      "momentum": 6.101,
+      "views": 16401985,
+      "likes": 971780,
+      "comments": 2104,
+      "age_hours": 55.5,
+      "views_per_hour": 295646,
+      "momentum": 6.126,
       "url": "https://www.youtube.com/watch?v=Zp7xeVwLaxs",
       "region": "US",
       "category": "People & Blogs",
@@ -1488,53 +802,15 @@
       "thumbnail": "https://i.ytimg.com/vi/FEJsT4kqYhA/mqdefault.jpg",
       "published_at": "2026-04-27T14:28:08Z",
       "category_id": "20",
-      "views": 4045988,
-      "likes": 326427,
-      "comments": 2620,
-      "age_hours": 27.5,
-      "views_per_hour": 147079,
-      "momentum": 6.035,
+      "views": 4346544,
+      "likes": 351598,
+      "comments": 2822,
+      "age_hours": 31.2,
+      "views_per_hour": 139286,
+      "momentum": 6.01,
       "url": "https://www.youtube.com/watch?v=FEJsT4kqYhA",
       "region": "US",
       "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "zust6eID9mk",
-      "title": "Jimmy Kimmel on Melania & Donald Trump Demanding His Firing & The White House Correspondents’ Dinner",
-      "channel": "Jimmy Kimmel Live",
-      "channel_id": "UCa6vGFO9ty8v5KZJXQxdhaw",
-      "thumbnail": "https://i.ytimg.com/vi/zust6eID9mk/mqdefault.jpg",
-      "published_at": "2026-04-28T03:45:11Z",
-      "category_id": "23",
-      "views": 3098182,
-      "likes": 143804,
-      "comments": 10051,
-      "age_hours": 14.2,
-      "views_per_hour": 217793,
-      "momentum": 6.007,
-      "url": "https://www.youtube.com/watch?v=zust6eID9mk",
-      "region": "CA",
-      "category": "Comedy",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "J7VBotXmkwc",
-      "title": "Which Handcuffs Are The Strongest?",
-      "channel": "Topper Guild",
-      "channel_id": "UCPuEAY09CtdTzFNWuqVZgDw",
-      "thumbnail": "https://i.ytimg.com/vi/J7VBotXmkwc/mqdefault.jpg",
-      "published_at": "2026-04-26T12:00:26Z",
-      "category_id": "24",
-      "views": 19132822,
-      "likes": 758677,
-      "comments": 940,
-      "age_hours": 54.0,
-      "views_per_hour": 354496,
-      "momentum": 5.992,
-      "url": "https://www.youtube.com/watch?v=J7VBotXmkwc",
-      "region": "IN",
-      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -1545,51 +821,13 @@
       "thumbnail": "https://i.ytimg.com/vi/3j0G16lOWh0/mqdefault.jpg",
       "published_at": "2026-04-25T18:27:30Z",
       "category_id": "22",
-      "views": 9519441,
-      "likes": 697509,
-      "comments": 8027,
-      "age_hours": 71.5,
-      "views_per_hour": 133103,
-      "momentum": 5.918,
+      "views": 9736857,
+      "likes": 712974,
+      "comments": 8216,
+      "age_hours": 75.2,
+      "views_per_hour": 129451,
+      "momentum": 5.904,
       "url": "https://www.youtube.com/watch?v=3j0G16lOWh0",
-      "region": "US",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "X_JEZMEw_-Q",
-      "title": "Trump Spins Dinner Shooting for Ballroom Agenda & Blitzer Is CNN's One-Shoed Hero | The Daily Show",
-      "channel": "The Daily Show",
-      "channel_id": "UCwWhs_6x42TyRM4Wstoq8HA",
-      "thumbnail": "https://i.ytimg.com/vi/X_JEZMEw_-Q/mqdefault.jpg",
-      "published_at": "2026-04-28T03:00:06Z",
-      "category_id": "23",
-      "views": 3024325,
-      "likes": 112871,
-      "comments": 8363,
-      "age_hours": 15.0,
-      "views_per_hour": 201935,
-      "momentum": 5.848,
-      "url": "https://www.youtube.com/watch?v=X_JEZMEw_-Q",
-      "region": "CA",
-      "category": "Comedy",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "f7Pb8ym6zTo",
-      "title": "Trying to impress an Asian Mom 🧐 #Shorts #asianmom",
-      "channel": "Silent Loom",
-      "channel_id": "UCSrZPLnzKby-VdFF4zggjfw",
-      "thumbnail": "https://i.ytimg.com/vi/f7Pb8ym6zTo/mqdefault.jpg",
-      "published_at": "2026-04-23T09:13:25Z",
-      "category_id": "22",
-      "views": 7101750,
-      "likes": 783738,
-      "comments": 1188,
-      "age_hours": 128.8,
-      "views_per_hour": 55157,
-      "momentum": 5.796,
-      "url": "https://www.youtube.com/watch?v=f7Pb8ym6zTo",
       "region": "US",
       "category": "People & Blogs",
       "_detected_lang": "en"
@@ -1602,14 +840,52 @@
       "thumbnail": "https://i.ytimg.com/vi/hYkSWVpNgi0/mqdefault.jpg",
       "published_at": "2026-04-26T11:48:00Z",
       "category_id": "1",
-      "views": 4617817,
-      "likes": 397407,
-      "comments": 484,
-      "age_hours": 54.2,
-      "views_per_hour": 85234,
-      "momentum": 5.784,
+      "views": 4984191,
+      "likes": 429561,
+      "comments": 531,
+      "age_hours": 57.9,
+      "views_per_hour": 86120,
+      "momentum": 5.791,
       "url": "https://www.youtube.com/watch?v=hYkSWVpNgi0",
       "region": "US",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "-oyxpAgnzD4",
+      "title": "Lifeguards and police confront inappropriate man 🚨 #bondirescue #lifeguard #beach #shortsfeed",
+      "channel": "BondiRescue",
+      "channel_id": "UCxEct2HUBYj_mt4t7qR9UYg",
+      "thumbnail": "https://i.ytimg.com/vi/-oyxpAgnzD4/mqdefault.jpg",
+      "published_at": "2026-04-25T21:00:01Z",
+      "category_id": "24",
+      "views": 7034346,
+      "likes": 503165,
+      "comments": 10396,
+      "age_hours": 72.7,
+      "views_per_hour": 96792,
+      "momentum": 5.773,
+      "url": "https://www.youtube.com/watch?v=-oyxpAgnzD4",
+      "region": "US",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "PTOejkbK5Tk",
+      "title": "Sabrina Carpenter - House Tour (Behind The Scenes)",
+      "channel": "Sabrina Carpenter",
+      "channel_id": "UCPKWE1H6xhxwPlqUlKgHb_w",
+      "thumbnail": "https://i.ytimg.com/vi/PTOejkbK5Tk/mqdefault.jpg",
+      "published_at": "2026-04-28T14:00:39Z",
+      "category_id": "10",
+      "views": 122836,
+      "likes": 17966,
+      "comments": 977,
+      "age_hours": 7.7,
+      "views_per_hour": 16027,
+      "momentum": 5.769,
+      "url": "https://www.youtube.com/watch?v=PTOejkbK5Tk",
+      "region": "GB",
       "category": "Other",
       "_detected_lang": "en"
     },
@@ -1621,32 +897,32 @@
       "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
       "published_at": "2026-04-27T19:12:25Z",
       "category_id": "22",
-      "views": 3048164,
-      "likes": 174857,
-      "comments": 1576,
-      "age_hours": 22.8,
-      "views_per_hour": 133862,
-      "momentum": 5.741,
+      "views": 3348223,
+      "likes": 186369,
+      "comments": 1718,
+      "age_hours": 26.5,
+      "views_per_hour": 126501,
+      "momentum": 5.696,
       "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
       "region": "US",
       "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
-      "id": "-oyxpAgnzD4",
-      "title": "Lifeguards and police confront inappropriate man 🚨 #bondirescue #lifeguard #beach #shortsfeed",
-      "channel": "BondiRescue",
-      "channel_id": "UCxEct2HUBYj_mt4t7qR9UYg",
-      "thumbnail": "https://i.ytimg.com/vi/-oyxpAgnzD4/mqdefault.jpg",
-      "published_at": "2026-04-25T21:00:01Z",
+      "id": "jF0KxOMlSRM",
+      "title": "Baby Warthog Runs His Mouth… and His Legs 🤣",
+      "channel": "Dusty Douglas",
+      "channel_id": "UCMSIDB9jvhqBKby2qk6E4VA",
+      "thumbnail": "https://i.ytimg.com/vi/jF0KxOMlSRM/mqdefault.jpg",
+      "published_at": "2026-04-24T21:05:56Z",
       "category_id": "24",
-      "views": 6088341,
-      "likes": 441609,
-      "comments": 9188,
-      "age_hours": 69.0,
-      "views_per_hour": 88265,
-      "momentum": 5.738,
-      "url": "https://www.youtube.com/watch?v=-oyxpAgnzD4",
+      "views": 12333686,
+      "likes": 641970,
+      "comments": 11398,
+      "age_hours": 96.6,
+      "views_per_hour": 127710,
+      "momentum": 5.685,
+      "url": "https://www.youtube.com/watch?v=jF0KxOMlSRM",
       "region": "US",
       "category": "Entertainment",
       "_detected_lang": "en"
@@ -1659,53 +935,15 @@
       "thumbnail": "https://i.ytimg.com/vi/0-IVhrlMbBU/mqdefault.jpg",
       "published_at": "2026-04-18T13:06:10Z",
       "category_id": "1",
-      "views": 19098562,
-      "likes": 1509774,
-      "comments": 9875,
-      "age_hours": 244.9,
-      "views_per_hour": 77993,
-      "momentum": 5.691,
+      "views": 19236926,
+      "likes": 1514429,
+      "comments": 9900,
+      "age_hours": 248.6,
+      "views_per_hour": 77390,
+      "momentum": 5.684,
       "url": "https://www.youtube.com/watch?v=0-IVhrlMbBU",
       "region": "US",
       "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "jF0KxOMlSRM",
-      "title": "Baby Warthog Runs His Mouth… and His Legs 🤣",
-      "channel": "Dusty Douglas",
-      "channel_id": "UCMSIDB9jvhqBKby2qk6E4VA",
-      "thumbnail": "https://i.ytimg.com/vi/jF0KxOMlSRM/mqdefault.jpg",
-      "published_at": "2026-04-24T21:05:56Z",
-      "category_id": "24",
-      "views": 11904748,
-      "likes": 623261,
-      "comments": 10919,
-      "age_hours": 92.9,
-      "views_per_hour": 128175,
-      "momentum": 5.689,
-      "url": "https://www.youtube.com/watch?v=jF0KxOMlSRM",
-      "region": "US",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "Vo6QTBMdUfU",
-      "title": "1 Day vs 50,000 Day Build Challenge",
-      "channel": "MrBeast Gaming",
-      "channel_id": "UCIPPMRA040LQr5QPyJEbmXA",
-      "thumbnail": "https://i.ytimg.com/vi/Vo6QTBMdUfU/mqdefault.jpg",
-      "published_at": "2026-04-25T16:00:01Z",
-      "category_id": "20",
-      "views": 19573484,
-      "likes": 361411,
-      "comments": 11814,
-      "age_hours": 74.0,
-      "views_per_hour": 264584,
-      "momentum": 5.656,
-      "url": "https://www.youtube.com/watch?v=Vo6QTBMdUfU",
-      "region": "AU",
-      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -1716,15 +954,34 @@
       "thumbnail": "https://i.ytimg.com/vi/0QgvDKEra08/mqdefault.jpg",
       "published_at": "2026-04-27T18:00:03Z",
       "category_id": "27",
-      "views": 2174411,
-      "likes": 128970,
-      "comments": 1985,
-      "age_hours": 24.0,
-      "views_per_hour": 90687,
-      "momentum": 5.591,
+      "views": 2469967,
+      "likes": 146815,
+      "comments": 2181,
+      "age_hours": 27.7,
+      "views_per_hour": 89252,
+      "momentum": 5.583,
       "url": "https://www.youtube.com/watch?v=0QgvDKEra08",
       "region": "US",
       "category": "Education",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "zPPoqtqrDTk",
+      "title": "I Quit! Worst Rage Bait Game Ever! | Trees Hate You",
+      "channel": "Daz Games",
+      "channel_id": "UCDBCCMlFD-hArPbWv38FINA",
+      "thumbnail": "https://i.ytimg.com/vi/zPPoqtqrDTk/mqdefault.jpg",
+      "published_at": "2026-04-28T17:00:29Z",
+      "category_id": "20",
+      "views": 88526,
+      "likes": 10489,
+      "comments": 561,
+      "age_hours": 4.7,
+      "views_per_hour": 18969,
+      "momentum": 5.563,
+      "url": "https://www.youtube.com/watch?v=zPPoqtqrDTk",
+      "region": "GB",
+      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -1735,34 +992,110 @@
       "thumbnail": "https://i.ytimg.com/vi/4nWo4vdyXOo/mqdefault.jpg",
       "published_at": "2026-04-24T16:00:08Z",
       "category_id": "22",
-      "views": 12065140,
-      "likes": 554092,
-      "comments": 4056,
-      "age_hours": 98.0,
-      "views_per_hour": 123144,
-      "momentum": 5.575,
+      "views": 12145609,
+      "likes": 557217,
+      "comments": 4079,
+      "age_hours": 101.7,
+      "views_per_hour": 119458,
+      "momentum": 5.56,
       "url": "https://www.youtube.com/watch?v=4nWo4vdyXOo",
       "region": "US",
       "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
-      "id": "t3Ql3T-c7ig",
-      "title": "This restaurant is amazing 😃 @Jefferyzang",
-      "channel": "Steven He",
-      "channel_id": "UCP0_k4INXrwPS6HhIyYqsTg",
-      "thumbnail": "https://i.ytimg.com/vi/t3Ql3T-c7ig/mqdefault.jpg",
-      "published_at": "2026-04-21T19:12:15Z",
-      "category_id": "23",
-      "views": 10545737,
-      "likes": 836076,
-      "comments": 1767,
-      "age_hours": 166.8,
-      "views_per_hour": 63234,
-      "momentum": 5.57,
-      "url": "https://www.youtube.com/watch?v=t3Ql3T-c7ig",
-      "region": "CA",
-      "category": "Comedy",
+      "id": "iwYxrHF2T80",
+      "title": "I compared every smartwatch",
+      "channel": "Mrwhosetheboss",
+      "channel_id": "UCMiJRAwDNSNzuYeN2uWa0pA",
+      "thumbnail": "https://i.ytimg.com/vi/iwYxrHF2T80/mqdefault.jpg",
+      "published_at": "2026-04-27T11:47:40Z",
+      "category_id": "28",
+      "views": 2240546,
+      "likes": 164794,
+      "comments": 977,
+      "age_hours": 33.9,
+      "views_per_hour": 66130,
+      "momentum": 5.551,
+      "url": "https://www.youtube.com/watch?v=iwYxrHF2T80",
+      "region": "GB",
+      "category": "Science & Tech",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "54fr3-aRHbg",
+      "title": "😨🧨 Little sister almost blew up the house! 💥🏠 #everybodyhateschris #funny #fun",
+      "channel": "Cine Decode Pro",
+      "channel_id": "UCk2hKm3uZF-44Rp8vUPWe_w",
+      "thumbnail": "https://i.ytimg.com/vi/54fr3-aRHbg/mqdefault.jpg",
+      "published_at": "2026-04-27T17:59:32Z",
+      "category_id": "1",
+      "views": 3440831,
+      "likes": 147144,
+      "comments": 601,
+      "age_hours": 27.7,
+      "views_per_hour": 124296,
+      "momentum": 5.539,
+      "url": "https://www.youtube.com/watch?v=54fr3-aRHbg",
+      "region": "US",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "2MLx5DE1nHc",
+      "title": "falling thru the hole looks crazy!",
+      "channel": "Justin Flom",
+      "channel_id": "UCb9A6uotqUiuVCvVp4GMqOg",
+      "thumbnail": "https://i.ytimg.com/vi/2MLx5DE1nHc/mqdefault.jpg",
+      "published_at": "2026-04-26T00:56:53Z",
+      "category_id": "24",
+      "views": 11616604,
+      "likes": 321033,
+      "comments": 849,
+      "age_hours": 68.7,
+      "views_per_hour": 169026,
+      "momentum": 5.521,
+      "url": "https://www.youtube.com/watch?v=2MLx5DE1nHc",
+      "region": "US",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "7jnFWvdqspQ",
+      "title": "The dam crisis ended in the funniest way.#movie #foryou #edit #funny",
+      "channel": "BPL Sports 26",
+      "channel_id": "UCjJkHmxMck6uxKa0PnW5zAw",
+      "thumbnail": "https://i.ytimg.com/vi/7jnFWvdqspQ/mqdefault.jpg",
+      "published_at": "2026-04-24T11:15:51Z",
+      "category_id": "22",
+      "views": 17175025,
+      "likes": 473936,
+      "comments": 1146,
+      "age_hours": 106.4,
+      "views_per_hour": 161403,
+      "momentum": 5.499,
+      "url": "https://www.youtube.com/watch?v=7jnFWvdqspQ",
+      "region": "GB",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "qb00PDb7eqM",
+      "title": "Apex Legends: Overclocked Anthem Trailer",
+      "channel": "Apex Legends",
+      "channel_id": "UC0ZV6M2THA81QT9hrVWJG3A",
+      "thumbnail": "https://i.ytimg.com/vi/qb00PDb7eqM/mqdefault.jpg",
+      "published_at": "2026-04-28T15:00:06Z",
+      "category_id": "20",
+      "views": 372120,
+      "likes": 20559,
+      "comments": 1735,
+      "age_hours": 6.7,
+      "views_per_hour": 55765,
+      "momentum": 5.492,
+      "url": "https://www.youtube.com/watch?v=qb00PDb7eqM",
+      "region": "US",
+      "category": "Gaming",
       "_detected_lang": "en"
     }
   ]
