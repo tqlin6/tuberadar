@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T17:47:37.450461+00:00",
+  "generated_at": "2026-04-28T17:49:19.602673+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,2443 +40,105 @@
     }
   ],
   "stats": {
-    "total_videos": 429,
-    "total_topics": 18,
-    "total_themes": 1,
+    "total_videos": 15,
+    "total_topics": 0,
+    "total_themes": 0,
     "total_searches": 12,
     "by_category": {
-      "Other": 51,
-      "Gaming": 78,
-      "Entertainment": 114,
-      "People & Blogs": 132,
-      "Comedy": 14,
-      "Howto & Style": 11,
-      "Education": 4,
-      "Science & Tech": 25
+      "Other": 8,
+      "Entertainment": 6,
+      "Gaming": 1
     }
   },
-  "emerging_themes": [
-    {
-      "phrase": "steam controller",
-      "video_count": 30,
-      "channel_count": 29,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.42,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "VrXLogz8yEA",
-          "title": "MFG на Radeon // Российский процессор Иртыш // Анонс Steam Controller // Ryzen 9 9950X3D2 хорош, но",
-          "channel": "Kazzka",
-          "channel_id": "UCNj2-kX0-d8SGpsqUCbm4PQ",
-          "subscribers": 0,
-          "thumbnail": "https://i.ytimg.com/vi/VrXLogz8yEA/mqdefault.jpg",
-          "published_at": "2026-04-28T17:37:08Z",
-          "url": "https://www.youtube.com/watch?v=VrXLogz8yEA"
-        },
-        {
-          "id": "lIK4hKCXZHs",
-          "title": "Valve&#39;s Steam Controller Is Almost Here!!!",
-          "channel": "Brodie Robertson",
-          "channel_id": "UCld68syR8Wi-GY_n4CaoJGA",
-          "subscribers": 0,
-          "thumbnail": "https://i.ytimg.com/vi/lIK4hKCXZHs/mqdefault.jpg",
-          "published_at": "2026-04-28T17:30:22Z",
-          "url": "https://www.youtube.com/watch?v=lIK4hKCXZHs"
-        },
-        {
-          "id": "Yz5Rz4KuQmw",
-          "title": "Es MUY mala señal que Valve adelante el Steam Controller",
-          "channel": "Chicocartera",
-          "channel_id": "UCL8HWH1n49MeACxkJFfmcVg",
-          "subscribers": 0,
-          "thumbnail": "https://i.ytimg.com/vi/Yz5Rz4KuQmw/mqdefault.jpg",
-          "published_at": "2026-04-28T17:30:10Z",
-          "url": "https://www.youtube.com/watch?v=Yz5Rz4KuQmw"
-        },
-        {
-          "id": "wyUlMxB9fRo",
-          "title": "كل لاعب PC محتاج يعرف عن هذا الكنترولر الجديد #SteamController #TrendingNow",
-          "channel": "KZ CoreX",
-          "channel_id": "UCl28S09Kw-96Sglrn43PEUw",
-          "subscribers": 0,
-          "thumbnail": "https://i.ytimg.com/vi/wyUlMxB9fRo/mqdefault.jpg",
-          "published_at": "2026-04-28T17:30:00Z",
-          "url": "https://www.youtube.com/watch?v=wyUlMxB9fRo"
-        }
-      ],
-      "first_detected_at": "2026-04-28T17:47:37.450461+00:00",
-      "last_seen_at": "2026-04-28T17:47:37.450461+00:00"
-    }
-  ],
-  "topics": [
-    {
-      "phrase": "steam controller",
-      "video_count": 4,
-      "momentum": 25.99,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "igXOKbi-OAM",
-          "title": "Steam Controller Price and Release Date ANNOUNCED! 👀",
-          "channel": "Garett",
-          "thumbnail": "https://i.ytimg.com/vi/igXOKbi-OAM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=igXOKbi-OAM",
-          "views": 270154,
-          "age_hours": 18.8
-        },
-        {
-          "id": "MpJB7LTs5_s",
-          "title": "The Steam Controller is Here",
-          "channel": "Linus Tech Tips",
-          "thumbnail": "https://i.ytimg.com/vi/MpJB7LTs5_s/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=MpJB7LTs5_s",
-          "views": 1091186,
-          "age_hours": 24.8
-        },
-        {
-          "id": "wfr4QN1Hvhs",
-          "title": "Valve Steam Controller Review | Latency Benchmarks, Battery Life, Repairability",
-          "channel": "Gamers Nexus",
-          "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-          "views": 439218,
-          "age_hours": 24.8
-        }
-      ]
-    },
-    {
-      "phrase": "casa",
-      "video_count": 6,
-      "momentum": 25.02,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "a8ThkG3-70Q",
-          "title": "MINHA FILHA SE SEPAROU… E VOLTOU PRA CASA 😭",
-          "channel": "Cantinho da nany ",
-          "thumbnail": "https://i.ytimg.com/vi/a8ThkG3-70Q/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=a8ThkG3-70Q",
-          "views": 17732,
-          "age_hours": 20.8
-        },
-        {
-          "id": "CutUfymJAPk",
-          "title": "O QUE TEM ACONTECIDO NO OFF | Contei o que eu tenho vivido + Rotina de casa!",
-          "channel": "FRANCIELLE NOGUEIRA",
-          "thumbnail": "https://i.ytimg.com/vi/CutUfymJAPk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=CutUfymJAPk",
-          "views": 20732,
-          "age_hours": 20.3
-        },
-        {
-          "id": "gSJoZ-3914c",
-          "title": "A Casa do Dragão - Temporada 3 | Teaser Trailer Dublado | HBO Max",
-          "channel": "HBO Max Brasil",
-          "thumbnail": "https://i.ytimg.com/vi/gSJoZ-3914c/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=gSJoZ-3914c",
-          "views": 147437,
-          "age_hours": 27.2
-        }
-      ]
-    },
-    {
-      "phrase": "indian",
-      "video_count": 5,
-      "momentum": 24.03,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "9IcrpmTrxFQ",
-          "title": "Russian Beauty in Indian Bridal Glam 🩷 Parul Garg",
-          "channel": "Makeup by Parul Garg",
-          "thumbnail": "https://i.ytimg.com/vi/9IcrpmTrxFQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=9IcrpmTrxFQ",
-          "views": 3618762,
-          "age_hours": 35.5
-        },
-        {
-          "id": "k5fueWMAiI4",
-          "title": "Paseena days are back 😂🔥| india family #shorts #indian #chaman #relatable #garmi #comedy #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-          "views": 6385817,
-          "age_hours": 50.8
-        },
-        {
-          "id": "7LN5Da3oCgU",
-          "title": "Chewing gum aur papa ke baal🥵🔥| Indian family😂|| #shorts #indian #relatable #chewinggum #comedy",
-          "channel": "Jagiya the fun",
-          "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-          "views": 10230019,
-          "age_hours": 95.8
-        }
-      ]
-    },
-    {
-      "phrase": "humor",
-      "video_count": 5,
-      "momentum": 23.93,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "fQKC-Te8AsI",
-          "title": "#arthurlima #humor #shorts #tiktok",
-          "channel": "Artthur Lima",
-          "thumbnail": "https://i.ytimg.com/vi/fQKC-Te8AsI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=fQKC-Te8AsI",
-          "views": 6011162,
-          "age_hours": 92.2
-        },
-        {
-          "id": "-A2FVavQFkA",
-          "title": "A vizinhança do Hamster até que é bem boa 😅 #edit #humor #memes #fyp #animals",
-          "channel": "DaniDubs",
-          "thumbnail": "https://i.ytimg.com/vi/-A2FVavQFkA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-A2FVavQFkA",
-          "views": 2076643,
-          "age_hours": 68.3
-        },
-        {
-          "id": "Jmq2w-qQXzs",
-          "title": "GIN DE 10PROMAX 😂🥷🏼👋🏼🥤 #foryou #memes #viral #humor #explore #shots",
-          "channel": "tuiugrauu46",
-          "thumbnail": "https://i.ytimg.com/vi/Jmq2w-qQXzs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Jmq2w-qQXzs",
-          "views": 3121375,
-          "age_hours": 68.3
-        }
-      ]
-    },
-    {
-      "phrase": "assim",
-      "video_count": 5,
-      "momentum": 22.61,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "wiszO68zpR4",
-          "title": "Só eu que tenho amigos assim?",
-          "channel": "Lara Vidal",
-          "thumbnail": "https://i.ytimg.com/vi/wiszO68zpR4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=wiszO68zpR4",
-          "views": 3461538,
-          "age_hours": 49.9
-        },
-        {
-          "id": "D2h24d98jb0",
-          "title": "MAIS ALGUÉM ASSIM?",
-          "channel": "Bomtalvão",
-          "thumbnail": "https://i.ytimg.com/vi/D2h24d98jb0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=D2h24d98jb0",
-          "views": 1776434,
-          "age_hours": 53.0
-        },
-        {
-          "id": "yn36Ey2K89M",
-          "title": "Você é assim também?",
-          "channel": "Página Dois",
-          "thumbnail": "https://i.ytimg.com/vi/yn36Ey2K89M/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=yn36Ey2K89M",
-          "views": 3790081,
-          "age_hours": 115.8
-        }
-      ]
-    },
-    {
-      "phrase": "franklin",
-      "video_count": 5,
-      "momentum": 20.3,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "OOq97vqPcho",
-          "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-          "channel": "NpsDude",
-          "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-          "views": 846566,
-          "age_hours": 53.5
-        },
-        {
-          "id": "BJbmTT_SQ_M",
-          "title": "Franklin Enter Inside Granny,Kamla and Squid Doll Horror House In Indian Bike Driving 3D:",
-          "channel": "Saccu Gamer",
-          "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-          "views": 147294,
-          "age_hours": 12.5
-        },
-        {
-          "id": "48vOtWj-Q6k",
-          "title": "Franklin Created Spiderman Suit To Become Spiderman in GTA 5 !",
-          "channel": "ABISOME",
-          "thumbnail": "https://i.ytimg.com/vi/48vOtWj-Q6k/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=48vOtWj-Q6k",
-          "views": 118609,
-          "age_hours": 15.1
-        }
-      ]
-    },
-    {
-      "phrase": "roblox",
-      "video_count": 5,
-      "momentum": 19.97,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "uLYFbv6_bZ4",
-          "title": "SUBA A TORRE FANTASMA DO YOMIKO NO ROBLOX",
-          "channel": "Amy Scarletona",
-          "thumbnail": "https://i.ytimg.com/vi/uLYFbv6_bZ4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=uLYFbv6_bZ4",
-          "views": 138297,
-          "age_hours": 18.8
-        },
-        {
-          "id": "FXMDHB5QMs4",
-          "title": "VIRAMOS BRAINROTS NO EVENTO DE ADMIN DO VIRE UM BRAINROT no ROBLOX!",
-          "channel": "PIZÃO",
-          "thumbnail": "https://i.ytimg.com/vi/FXMDHB5QMs4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=FXMDHB5QMs4",
-          "views": 127775,
-          "age_hours": 19.8
-        },
-        {
-          "id": "MdsUU2h3jCY",
-          "title": "Fim do Roblox? Lei felca... @jonvlogs #jonvlogs",
-          "channel": "Hype Cortes IRL",
-          "thumbnail": "https://i.ytimg.com/vi/MdsUU2h3jCY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=MdsUU2h3jCY",
-          "views": 2597547,
-          "age_hours": 573.6
-        }
-      ]
-    },
-    {
-      "phrase": "challenge shorts",
-      "video_count": 3,
-      "momentum": 19.63,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "_xtbjsDjVsY",
-          "title": "Hostel girls Vs Warden! Chai challenge #shorts",
-          "channel": "Shreemani Tripathi",
-          "thumbnail": "https://i.ytimg.com/vi/_xtbjsDjVsY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=_xtbjsDjVsY",
-          "views": 38262915,
-          "age_hours": 297.9
-        },
-        {
-          "id": "GEwszGFecU8",
-          "title": "Fruits Craft Challenge😍 #shorts",
-          "channel": "TeAm STARS",
-          "thumbnail": "https://i.ytimg.com/vi/GEwszGFecU8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=GEwszGFecU8",
-          "views": 8651932,
-          "age_hours": 83.9
-        },
-        {
-          "id": "9UcVdPx8GAE",
-          "title": "Watch till the End 🏃💨 Running with Weight Challenge #shorts",
-          "channel": "Chattambees",
-          "thumbnail": "https://i.ytimg.com/vi/9UcVdPx8GAE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=9UcVdPx8GAE",
-          "views": 2260117,
-          "age_hours": 52.1
-        }
-      ]
-    },
-    {
-      "phrase": "challenge",
-      "video_count": 4,
-      "momentum": 19.63,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "_xtbjsDjVsY",
-          "title": "Hostel girls Vs Warden! Chai challenge #shorts",
-          "channel": "Shreemani Tripathi",
-          "thumbnail": "https://i.ytimg.com/vi/_xtbjsDjVsY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=_xtbjsDjVsY",
-          "views": 38262915,
-          "age_hours": 297.9
-        },
-        {
-          "id": "GEwszGFecU8",
-          "title": "Fruits Craft Challenge😍 #shorts",
-          "channel": "TeAm STARS",
-          "thumbnail": "https://i.ytimg.com/vi/GEwszGFecU8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=GEwszGFecU8",
-          "views": 8651932,
-          "age_hours": 83.9
-        },
-        {
-          "id": "9UcVdPx8GAE",
-          "title": "Watch till the End 🏃💨 Running with Weight Challenge #shorts",
-          "channel": "Chattambees",
-          "thumbnail": "https://i.ytimg.com/vi/9UcVdPx8GAE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=9UcVdPx8GAE",
-          "views": 2260117,
-          "age_hours": 52.1
-        }
-      ]
-    },
-    {
-      "phrase": "minecraft",
-      "video_count": 4,
-      "momentum": 18.48,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "bei3qYO5tvI",
-          "title": "O CÉU DO MINECRAFT ESCONDE UM SEGREDO BIZARRO!",
-          "channel": "Jazzghost",
-          "thumbnail": "https://i.ytimg.com/vi/bei3qYO5tvI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=bei3qYO5tvI",
-          "views": 1184613,
-          "age_hours": 26.8
-        },
-        {
-          "id": "kTHuntqM-OQ",
-          "title": "Turma do Problems Zerando Minecraft Com Hacks!  👾",
-          "channel": "ProbIems",
-          "thumbnail": "https://i.ytimg.com/vi/kTHuntqM-OQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=kTHuntqM-OQ",
-          "views": 556809,
-          "age_hours": 28.8
-        },
-        {
-          "id": "e9FxqsL1Kno",
-          "title": "ROUBARAM MINHA PARTES DO CORPO no MINECRAFT",
-          "channel": "Athos",
-          "thumbnail": "https://i.ytimg.com/vi/e9FxqsL1Kno/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=e9FxqsL1Kno",
-          "views": 570677,
-          "age_hours": 28.3
-        }
-      ]
-    },
-    {
-      "phrase": "iphone",
-      "video_count": 4,
-      "momentum": 18.2,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "nP8_E-xgATE",
-          "title": "iPhone 17 Pro Max Cosmic Orange #shorts #noads",
-          "channel": "Junão no Hype",
-          "thumbnail": "https://i.ytimg.com/vi/nP8_E-xgATE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nP8_E-xgATE",
-          "views": 10622529,
-          "age_hours": 115.7
-        },
-        {
-          "id": "Z11W-tbRZWk",
-          "title": "É impossível salvar o iPhone 17 😱 #shorts",
-          "channel": "Leozin jhon",
-          "thumbnail": "https://i.ytimg.com/vi/Z11W-tbRZWk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Z11W-tbRZWk",
-          "views": 1654115,
-          "age_hours": 308.8
-        },
-        {
-          "id": "JjC7SeDlijY",
-          "title": "Bateria removível está voltando para os celulares?#bateria #remover #iphone #android #shorts",
-          "channel": "Wesley Tech4",
-          "thumbnail": "https://i.ytimg.com/vi/JjC7SeDlijY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=JjC7SeDlijY",
-          "views": 558195,
-          "age_hours": 139.8
-        }
-      ]
-    },
-    {
-      "phrase": "travel",
-      "video_count": 4,
-      "momentum": 18.07,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "8LbV2gg8rag",
-          "title": "I’m already going insane 😀😵‍💫 see u n KOREA!!! 🇰🇷💗✈️🍣 #travel #relatable #trending #seoul",
-          "channel": "Kayla Ryan",
-          "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
-          "views": 3027804,
-          "age_hours": 22.6
-        },
-        {
-          "id": "M4GEOiXdbIM",
-          "title": "Unpack with me after 20 HOURS OF TRAVEL 😳✈️🇰🇷 #korea #trending #vlog",
-          "channel": "Kayla Ryan",
-          "thumbnail": "https://i.ytimg.com/vi/M4GEOiXdbIM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=M4GEOiXdbIM",
-          "views": 122945,
-          "age_hours": 22.5
-        },
-        {
-          "id": "OVgJBTs8Nmk",
-          "title": "Catching up on weekend plans and vlogs!! #fypシ #travel #vlog #countrymusic #teacher #stagecoach",
-          "channel": "Faith Mcpeek",
-          "thumbnail": "https://i.ytimg.com/vi/OVgJBTs8Nmk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OVgJBTs8Nmk",
-          "views": 52399,
-          "age_hours": 17.4
-        }
-      ]
-    },
-    {
-      "phrase": "family shorts indian",
-      "video_count": 2,
-      "momentum": 15.45,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "k5fueWMAiI4",
-          "title": "Paseena days are back 😂🔥| india family #shorts #indian #chaman #relatable #garmi #comedy #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-          "views": 6385817,
-          "age_hours": 50.8
-        },
-        {
-          "id": "7LN5Da3oCgU",
-          "title": "Chewing gum aur papa ke baal🥵🔥| Indian family😂|| #shorts #indian #relatable #chewinggum #comedy",
-          "channel": "Jagiya the fun",
-          "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-          "views": 10230019,
-          "age_hours": 95.8
-        }
-      ]
-    },
-    {
-      "phrase": "gauravaroravlogs youtubeshorts shorts",
-      "video_count": 2,
-      "momentum": 15.36,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "4wopTAReMUo",
-          "title": "Gaurav ki icecream cat kha gayi #gauravaroravlogs #youtubeshorts #shorts",
-          "channel": "Gauravaroravlogs ",
-          "thumbnail": "https://i.ytimg.com/vi/4wopTAReMUo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=4wopTAReMUo",
-          "views": 6546819,
-          "age_hours": 52.0
-        },
-        {
-          "id": "kDMFtdcLvns",
-          "title": "Gaurav nai mummy nikita k saath ye kya kardiya #gauravaroravlogs #youtubeshorts #shorts",
-          "channel": "Gauravaroravlogs ",
-          "thumbnail": "https://i.ytimg.com/vi/kDMFtdcLvns/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=kDMFtdcLvns",
-          "views": 5129711,
-          "age_hours": 58.3
-        }
-      ]
-    },
-    {
-      "phrase": "valve steam controller",
-      "video_count": 2,
-      "momentum": 15.18,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "wfr4QN1Hvhs",
-          "title": "Valve Steam Controller Review | Latency Benchmarks, Battery Life, Repairability",
-          "channel": "Gamers Nexus",
-          "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-          "views": 439218,
-          "age_hours": 24.8
-        },
-        {
-          "id": "2gJtFpLdPcI",
-          "title": "The Valve Steam Controller is Here!",
-          "channel": "Linus Tech Tips",
-          "thumbnail": "https://i.ytimg.com/vi/2gJtFpLdPcI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2gJtFpLdPcI",
-          "views": 571184,
-          "age_hours": 21.6
-        }
-      ]
-    },
-    {
-      "phrase": "kajalsoni vlogs",
-      "video_count": 2,
-      "momentum": 13.21,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "XoYYwCQTKog",
-          "title": "में रोटी बनाना सिख गई 🫓😅 #youtubeshorts #shorts #roti #kajalsoni #comedyshorts @K@Kajalsoni_vlogs",
-          "channel": "Kajal Soni",
-          "thumbnail": "https://i.ytimg.com/vi/XoYYwCQTKog/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=XoYYwCQTKog",
-          "views": 6404339,
-          "age_hours": 37.3
-        },
-        {
-          "id": "CgJuMKPy09w",
-          "title": "आम 🥭 का रस बनाया🥳 #youtubeshorts #shorts #mango #shortvideos #kajalsoni @Kajalsoni_vlogs",
-          "channel": "Kajal Soni",
-          "thumbnail": "https://i.ytimg.com/vi/CgJuMKPy09w/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=CgJuMKPy09w",
-          "views": 5352913,
-          "age_hours": 61.3
-        }
-      ]
-    },
-    {
-      "phrase": "made me",
-      "video_count": 2,
-      "momentum": 12.89,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "oubP9b9Jmp4",
-          "title": "This made me laugh the whole way through… #reels #funny #game #twins #brothers #edit #gay #lgbt #3",
-          "channel": "Timothy Thatcher",
-          "thumbnail": "https://i.ytimg.com/vi/oubP9b9Jmp4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=oubP9b9Jmp4",
-          "views": 9979786,
-          "age_hours": 189.2
-        },
-        {
-          "id": "ll9PY86VG5Q",
-          "title": "This scene made me realize something.. #onespoonofchocolate #movieclips za",
-          "channel": "Movie_Cuts_",
-          "thumbnail": "https://i.ytimg.com/vi/ll9PY86VG5Q/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ll9PY86VG5Q",
-          "views": 2663503,
-          "age_hours": 80.5
-        }
-      ]
-    },
-    {
-      "phrase": "iphone pro",
-      "video_count": 2,
-      "momentum": 12.59,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "7bPLc9UnYZI",
-          "title": "Unboxing iPhone 17 pro 🩷 #amalashaji",
-          "channel": "AmalaShaji",
-          "thumbnail": "https://i.ytimg.com/vi/7bPLc9UnYZI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=7bPLc9UnYZI",
-          "views": 73090,
-          "age_hours": 6.5
-        },
-        {
-          "id": "gP7t0_5qMa4",
-          "title": "iPhone 17 Pro Max vs Nokia 1100: Road Roller Ne Sab Khatam Kar Diya! 🤯",
-          "channel": "Tech Master Shorts",
-          "thumbnail": "https://i.ytimg.com/vi/gP7t0_5qMa4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=gP7t0_5qMa4",
-          "views": 11784882,
-          "age_hours": 315.5
-        }
-      ]
-    }
-  ],
+  "emerging_themes": [],
+  "topics": [],
   "topics_by_region": {
-    "US": [
-      {
-        "phrase": "steam controller",
-        "video_count": 4,
-        "momentum": 25.99,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "igXOKbi-OAM",
-            "title": "Steam Controller Price and Release Date ANNOUNCED! 👀",
-            "channel": "Garett",
-            "thumbnail": "https://i.ytimg.com/vi/igXOKbi-OAM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=igXOKbi-OAM",
-            "views": 270154,
-            "age_hours": 18.8
-          },
-          {
-            "id": "MpJB7LTs5_s",
-            "title": "The Steam Controller is Here",
-            "channel": "Linus Tech Tips",
-            "thumbnail": "https://i.ytimg.com/vi/MpJB7LTs5_s/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MpJB7LTs5_s",
-            "views": 1091186,
-            "age_hours": 24.8
-          },
-          {
-            "id": "wfr4QN1Hvhs",
-            "title": "Valve Steam Controller Review | Latency Benchmarks, Battery Life, Repairability",
-            "channel": "Gamers Nexus",
-            "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-            "views": 439218,
-            "age_hours": 24.8
-          }
-        ]
-      },
-      {
-        "phrase": "travel",
-        "video_count": 4,
-        "momentum": 18.07,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "8LbV2gg8rag",
-            "title": "I’m already going insane 😀😵‍💫 see u n KOREA!!! 🇰🇷💗✈️🍣 #travel #relatable #trending #seoul",
-            "channel": "Kayla Ryan",
-            "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
-            "views": 3027804,
-            "age_hours": 22.6
-          },
-          {
-            "id": "M4GEOiXdbIM",
-            "title": "Unpack with me after 20 HOURS OF TRAVEL 😳✈️🇰🇷 #korea #trending #vlog",
-            "channel": "Kayla Ryan",
-            "thumbnail": "https://i.ytimg.com/vi/M4GEOiXdbIM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=M4GEOiXdbIM",
-            "views": 122945,
-            "age_hours": 22.5
-          },
-          {
-            "id": "OVgJBTs8Nmk",
-            "title": "Catching up on weekend plans and vlogs!! #fypシ #travel #vlog #countrymusic #teacher #stagecoach",
-            "channel": "Faith Mcpeek",
-            "thumbnail": "https://i.ytimg.com/vi/OVgJBTs8Nmk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OVgJBTs8Nmk",
-            "views": 52399,
-            "age_hours": 17.4
-          }
-        ]
-      },
-      {
-        "phrase": "valve steam controller",
-        "video_count": 2,
-        "momentum": 15.18,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "wfr4QN1Hvhs",
-            "title": "Valve Steam Controller Review | Latency Benchmarks, Battery Life, Repairability",
-            "channel": "Gamers Nexus",
-            "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-            "views": 439218,
-            "age_hours": 24.8
-          },
-          {
-            "id": "2gJtFpLdPcI",
-            "title": "The Valve Steam Controller is Here!",
-            "channel": "Linus Tech Tips",
-            "thumbnail": "https://i.ytimg.com/vi/2gJtFpLdPcI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2gJtFpLdPcI",
-            "views": 571184,
-            "age_hours": 21.6
-          }
-        ]
-      },
-      {
-        "phrase": "made me",
-        "video_count": 2,
-        "momentum": 12.89,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "oubP9b9Jmp4",
-            "title": "This made me laugh the whole way through… #reels #funny #game #twins #brothers #edit #gay #lgbt #3",
-            "channel": "Timothy Thatcher",
-            "thumbnail": "https://i.ytimg.com/vi/oubP9b9Jmp4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oubP9b9Jmp4",
-            "views": 9979786,
-            "age_hours": 189.2
-          },
-          {
-            "id": "ll9PY86VG5Q",
-            "title": "This scene made me realize something.. #onespoonofchocolate #movieclips za",
-            "channel": "Movie_Cuts_",
-            "thumbnail": "https://i.ytimg.com/vi/ll9PY86VG5Q/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ll9PY86VG5Q",
-            "views": 2663503,
-            "age_hours": 80.5
-          }
-        ]
-      }
-    ],
-    "BR": [
-      {
-        "phrase": "casa",
-        "video_count": 6,
-        "momentum": 25.02,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "a8ThkG3-70Q",
-            "title": "MINHA FILHA SE SEPAROU… E VOLTOU PRA CASA 😭",
-            "channel": "Cantinho da nany ",
-            "thumbnail": "https://i.ytimg.com/vi/a8ThkG3-70Q/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=a8ThkG3-70Q",
-            "views": 17732,
-            "age_hours": 20.8
-          },
-          {
-            "id": "CutUfymJAPk",
-            "title": "O QUE TEM ACONTECIDO NO OFF | Contei o que eu tenho vivido + Rotina de casa!",
-            "channel": "FRANCIELLE NOGUEIRA",
-            "thumbnail": "https://i.ytimg.com/vi/CutUfymJAPk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CutUfymJAPk",
-            "views": 20732,
-            "age_hours": 20.3
-          },
-          {
-            "id": "gSJoZ-3914c",
-            "title": "A Casa do Dragão - Temporada 3 | Teaser Trailer Dublado | HBO Max",
-            "channel": "HBO Max Brasil",
-            "thumbnail": "https://i.ytimg.com/vi/gSJoZ-3914c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gSJoZ-3914c",
-            "views": 147437,
-            "age_hours": 27.2
-          }
-        ]
-      },
-      {
-        "phrase": "humor",
-        "video_count": 5,
-        "momentum": 23.93,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "fQKC-Te8AsI",
-            "title": "#arthurlima #humor #shorts #tiktok",
-            "channel": "Artthur Lima",
-            "thumbnail": "https://i.ytimg.com/vi/fQKC-Te8AsI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=fQKC-Te8AsI",
-            "views": 6011162,
-            "age_hours": 92.2
-          },
-          {
-            "id": "-A2FVavQFkA",
-            "title": "A vizinhança do Hamster até que é bem boa 😅 #edit #humor #memes #fyp #animals",
-            "channel": "DaniDubs",
-            "thumbnail": "https://i.ytimg.com/vi/-A2FVavQFkA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-A2FVavQFkA",
-            "views": 2076643,
-            "age_hours": 68.3
-          },
-          {
-            "id": "Jmq2w-qQXzs",
-            "title": "GIN DE 10PROMAX 😂🥷🏼👋🏼🥤 #foryou #memes #viral #humor #explore #shots",
-            "channel": "tuiugrauu46",
-            "thumbnail": "https://i.ytimg.com/vi/Jmq2w-qQXzs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Jmq2w-qQXzs",
-            "views": 3121375,
-            "age_hours": 68.3
-          }
-        ]
-      },
-      {
-        "phrase": "assim",
-        "video_count": 5,
-        "momentum": 22.61,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "wiszO68zpR4",
-            "title": "Só eu que tenho amigos assim?",
-            "channel": "Lara Vidal",
-            "thumbnail": "https://i.ytimg.com/vi/wiszO68zpR4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wiszO68zpR4",
-            "views": 3461538,
-            "age_hours": 49.9
-          },
-          {
-            "id": "D2h24d98jb0",
-            "title": "MAIS ALGUÉM ASSIM?",
-            "channel": "Bomtalvão",
-            "thumbnail": "https://i.ytimg.com/vi/D2h24d98jb0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=D2h24d98jb0",
-            "views": 1776434,
-            "age_hours": 53.0
-          },
-          {
-            "id": "yn36Ey2K89M",
-            "title": "Você é assim também?",
-            "channel": "Página Dois",
-            "thumbnail": "https://i.ytimg.com/vi/yn36Ey2K89M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=yn36Ey2K89M",
-            "views": 3790081,
-            "age_hours": 115.8
-          }
-        ]
-      },
-      {
-        "phrase": "roblox",
-        "video_count": 5,
-        "momentum": 19.97,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "uLYFbv6_bZ4",
-            "title": "SUBA A TORRE FANTASMA DO YOMIKO NO ROBLOX",
-            "channel": "Amy Scarletona",
-            "thumbnail": "https://i.ytimg.com/vi/uLYFbv6_bZ4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=uLYFbv6_bZ4",
-            "views": 138297,
-            "age_hours": 18.8
-          },
-          {
-            "id": "FXMDHB5QMs4",
-            "title": "VIRAMOS BRAINROTS NO EVENTO DE ADMIN DO VIRE UM BRAINROT no ROBLOX!",
-            "channel": "PIZÃO",
-            "thumbnail": "https://i.ytimg.com/vi/FXMDHB5QMs4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=FXMDHB5QMs4",
-            "views": 127775,
-            "age_hours": 19.8
-          },
-          {
-            "id": "MdsUU2h3jCY",
-            "title": "Fim do Roblox? Lei felca... @jonvlogs #jonvlogs",
-            "channel": "Hype Cortes IRL",
-            "thumbnail": "https://i.ytimg.com/vi/MdsUU2h3jCY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MdsUU2h3jCY",
-            "views": 2597547,
-            "age_hours": 573.6
-          }
-        ]
-      },
-      {
-        "phrase": "minecraft",
-        "video_count": 4,
-        "momentum": 18.48,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "bei3qYO5tvI",
-            "title": "O CÉU DO MINECRAFT ESCONDE UM SEGREDO BIZARRO!",
-            "channel": "Jazzghost",
-            "thumbnail": "https://i.ytimg.com/vi/bei3qYO5tvI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=bei3qYO5tvI",
-            "views": 1184613,
-            "age_hours": 26.8
-          },
-          {
-            "id": "kTHuntqM-OQ",
-            "title": "Turma do Problems Zerando Minecraft Com Hacks!  👾",
-            "channel": "ProbIems",
-            "thumbnail": "https://i.ytimg.com/vi/kTHuntqM-OQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=kTHuntqM-OQ",
-            "views": 556809,
-            "age_hours": 28.8
-          },
-          {
-            "id": "e9FxqsL1Kno",
-            "title": "ROUBARAM MINHA PARTES DO CORPO no MINECRAFT",
-            "channel": "Athos",
-            "thumbnail": "https://i.ytimg.com/vi/e9FxqsL1Kno/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=e9FxqsL1Kno",
-            "views": 570677,
-            "age_hours": 28.3
-          }
-        ]
-      },
-      {
-        "phrase": "iphone",
-        "video_count": 4,
-        "momentum": 18.2,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "nP8_E-xgATE",
-            "title": "iPhone 17 Pro Max Cosmic Orange #shorts #noads",
-            "channel": "Junão no Hype",
-            "thumbnail": "https://i.ytimg.com/vi/nP8_E-xgATE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nP8_E-xgATE",
-            "views": 10622529,
-            "age_hours": 115.7
-          },
-          {
-            "id": "Z11W-tbRZWk",
-            "title": "É impossível salvar o iPhone 17 😱 #shorts",
-            "channel": "Leozin jhon",
-            "thumbnail": "https://i.ytimg.com/vi/Z11W-tbRZWk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Z11W-tbRZWk",
-            "views": 1654115,
-            "age_hours": 308.8
-          },
-          {
-            "id": "JjC7SeDlijY",
-            "title": "Bateria removível está voltando para os celulares?#bateria #remover #iphone #android #shorts",
-            "channel": "Wesley Tech4",
-            "thumbnail": "https://i.ytimg.com/vi/JjC7SeDlijY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=JjC7SeDlijY",
-            "views": 558195,
-            "age_hours": 139.8
-          }
-        ]
-      },
-      {
-        "phrase": "casa dragão temporada",
-        "video_count": 2,
-        "momentum": 11.63,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "gSJoZ-3914c",
-            "title": "A Casa do Dragão - Temporada 3 | Teaser Trailer Dublado | HBO Max",
-            "channel": "HBO Max Brasil",
-            "thumbnail": "https://i.ytimg.com/vi/gSJoZ-3914c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gSJoZ-3914c",
-            "views": 147437,
-            "age_hours": 27.2
-          },
-          {
-            "id": "dRSa7hI-oa8",
-            "title": "A Casa do Dragão - Temporada 3 | Teaser Trailer Dublado",
-            "channel": "Warner Play",
-            "thumbnail": "https://i.ytimg.com/vi/dRSa7hI-oa8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=dRSa7hI-oa8",
-            "views": 23185,
-            "age_hours": 26.8
-          }
-        ]
-      },
-      {
-        "phrase": "dragão temporada teaser",
-        "video_count": 2,
-        "momentum": 11.63,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "gSJoZ-3914c",
-            "title": "A Casa do Dragão - Temporada 3 | Teaser Trailer Dublado | HBO Max",
-            "channel": "HBO Max Brasil",
-            "thumbnail": "https://i.ytimg.com/vi/gSJoZ-3914c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gSJoZ-3914c",
-            "views": 147437,
-            "age_hours": 27.2
-          },
-          {
-            "id": "dRSa7hI-oa8",
-            "title": "A Casa do Dragão - Temporada 3 | Teaser Trailer Dublado",
-            "channel": "Warner Play",
-            "thumbnail": "https://i.ytimg.com/vi/dRSa7hI-oa8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=dRSa7hI-oa8",
-            "views": 23185,
-            "age_hours": 26.8
-          }
-        ]
-      },
-      {
-        "phrase": "temporada teaser trailer",
-        "video_count": 2,
-        "momentum": 11.63,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "gSJoZ-3914c",
-            "title": "A Casa do Dragão - Temporada 3 | Teaser Trailer Dublado | HBO Max",
-            "channel": "HBO Max Brasil",
-            "thumbnail": "https://i.ytimg.com/vi/gSJoZ-3914c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gSJoZ-3914c",
-            "views": 147437,
-            "age_hours": 27.2
-          },
-          {
-            "id": "dRSa7hI-oa8",
-            "title": "A Casa do Dragão - Temporada 3 | Teaser Trailer Dublado",
-            "channel": "Warner Play",
-            "thumbnail": "https://i.ytimg.com/vi/dRSa7hI-oa8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=dRSa7hI-oa8",
-            "views": 23185,
-            "age_hours": 26.8
-          }
-        ]
-      },
-      {
-        "phrase": "teaser trailer dublado",
-        "video_count": 2,
-        "momentum": 11.63,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "gSJoZ-3914c",
-            "title": "A Casa do Dragão - Temporada 3 | Teaser Trailer Dublado | HBO Max",
-            "channel": "HBO Max Brasil",
-            "thumbnail": "https://i.ytimg.com/vi/gSJoZ-3914c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gSJoZ-3914c",
-            "views": 147437,
-            "age_hours": 27.2
-          },
-          {
-            "id": "dRSa7hI-oa8",
-            "title": "A Casa do Dragão - Temporada 3 | Teaser Trailer Dublado",
-            "channel": "Warner Play",
-            "thumbnail": "https://i.ytimg.com/vi/dRSa7hI-oa8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=dRSa7hI-oa8",
-            "views": 23185,
-            "age_hours": 26.8
-          }
-        ]
-      },
-      {
-        "phrase": "deu ruim",
-        "video_count": 2,
-        "momentum": 10.75,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "z603Go30nXA",
-            "title": "deu ruim...",
-            "channel": "Taspio",
-            "thumbnail": "https://i.ytimg.com/vi/z603Go30nXA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=z603Go30nXA",
-            "views": 2226173,
-            "age_hours": 100.8
-          },
-          {
-            "id": "7FPbGz0KI88",
-            "title": "Deu ruim no monitor curvo",
-            "channel": "Cortes do PoisonStp [OFICIAL]",
-            "thumbnail": "https://i.ytimg.com/vi/7FPbGz0KI88/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7FPbGz0KI88",
-            "views": 680350,
-            "age_hours": 145.8
-          }
-        ]
-      },
-      {
-        "phrase": "deu errado",
-        "video_count": 2,
-        "momentum": 10.62,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "zsYXPt9gCv8",
-            "title": "NÃO FOI UMA BOA IDEIA FAZER ISSO COM A MÃE!! DEU MUITO ERRADO NO FINAL KKKK #reação #sobrinha",
-            "channel": "Léo Borges Shorts",
-            "thumbnail": "https://i.ytimg.com/vi/zsYXPt9gCv8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=zsYXPt9gCv8",
-            "views": 1687140,
-            "age_hours": 50.2
-          },
-          {
-            "id": "8zxoQhCIP6g",
-            "title": "Uma Festa Que Deu Errado e Restaurante Italiano Que Surpreendeu | Da Marino",
-            "channel": "Canal dos Caçadores",
-            "thumbnail": "https://i.ytimg.com/vi/8zxoQhCIP6g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=8zxoQhCIP6g",
-            "views": 47056,
-            "age_hours": 26.3
-          }
-        ]
-      }
-    ],
-    "AU": [],
-    "GB": [
-      {
-        "phrase": "do you",
-        "video_count": 2,
-        "momentum": 12.28,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "mMXhd0wBPb0",
-            "title": "Do you know how to EAT these chocolates the RIGHT way? 🍫 (Part 3)",
-            "channel": "Godfrey Twins",
-            "thumbnail": "https://i.ytimg.com/vi/mMXhd0wBPb0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=mMXhd0wBPb0",
-            "views": 6742147,
-            "age_hours": 141.9
-          },
-          {
-            "id": "JIG-28wCYkA",
-            "title": "Honest opinions what do you think 🫣👀 #diy #gardening #garden #couple #marriage",
-            "channel": "Abigail",
-            "thumbnail": "https://i.ytimg.com/vi/JIG-28wCYkA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=JIG-28wCYkA",
-            "views": 2949082,
-            "age_hours": 120.1
-          }
-        ]
-      }
-    ],
-    "CA": [],
-    "IN": [
-      {
-        "phrase": "indian",
-        "video_count": 5,
-        "momentum": 24.03,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "9IcrpmTrxFQ",
-            "title": "Russian Beauty in Indian Bridal Glam 🩷 Parul Garg",
-            "channel": "Makeup by Parul Garg",
-            "thumbnail": "https://i.ytimg.com/vi/9IcrpmTrxFQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=9IcrpmTrxFQ",
-            "views": 3618762,
-            "age_hours": 35.5
-          },
-          {
-            "id": "k5fueWMAiI4",
-            "title": "Paseena days are back 😂🔥| india family #shorts #indian #chaman #relatable #garmi #comedy #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-            "views": 6385817,
-            "age_hours": 50.8
-          },
-          {
-            "id": "7LN5Da3oCgU",
-            "title": "Chewing gum aur papa ke baal🥵🔥| Indian family😂|| #shorts #indian #relatable #chewinggum #comedy",
-            "channel": "Jagiya the fun",
-            "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-            "views": 10230019,
-            "age_hours": 95.8
-          }
-        ]
-      },
-      {
-        "phrase": "franklin",
-        "video_count": 5,
-        "momentum": 20.3,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "OOq97vqPcho",
-            "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-            "channel": "NpsDude",
-            "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 846566,
-            "age_hours": 53.5
-          },
-          {
-            "id": "BJbmTT_SQ_M",
-            "title": "Franklin Enter Inside Granny,Kamla and Squid Doll Horror House In Indian Bike Driving 3D:",
-            "channel": "Saccu Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-            "views": 147294,
-            "age_hours": 12.5
-          },
-          {
-            "id": "48vOtWj-Q6k",
-            "title": "Franklin Created Spiderman Suit To Become Spiderman in GTA 5 !",
-            "channel": "ABISOME",
-            "thumbnail": "https://i.ytimg.com/vi/48vOtWj-Q6k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=48vOtWj-Q6k",
-            "views": 118609,
-            "age_hours": 15.1
-          }
-        ]
-      },
-      {
-        "phrase": "challenge shorts",
-        "video_count": 3,
-        "momentum": 19.63,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "_xtbjsDjVsY",
-            "title": "Hostel girls Vs Warden! Chai challenge #shorts",
-            "channel": "Shreemani Tripathi",
-            "thumbnail": "https://i.ytimg.com/vi/_xtbjsDjVsY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=_xtbjsDjVsY",
-            "views": 38262915,
-            "age_hours": 297.9
-          },
-          {
-            "id": "GEwszGFecU8",
-            "title": "Fruits Craft Challenge😍 #shorts",
-            "channel": "TeAm STARS",
-            "thumbnail": "https://i.ytimg.com/vi/GEwszGFecU8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GEwszGFecU8",
-            "views": 8651932,
-            "age_hours": 83.9
-          },
-          {
-            "id": "9UcVdPx8GAE",
-            "title": "Watch till the End 🏃💨 Running with Weight Challenge #shorts",
-            "channel": "Chattambees",
-            "thumbnail": "https://i.ytimg.com/vi/9UcVdPx8GAE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=9UcVdPx8GAE",
-            "views": 2260117,
-            "age_hours": 52.1
-          }
-        ]
-      },
-      {
-        "phrase": "challenge",
-        "video_count": 4,
-        "momentum": 19.63,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "_xtbjsDjVsY",
-            "title": "Hostel girls Vs Warden! Chai challenge #shorts",
-            "channel": "Shreemani Tripathi",
-            "thumbnail": "https://i.ytimg.com/vi/_xtbjsDjVsY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=_xtbjsDjVsY",
-            "views": 38262915,
-            "age_hours": 297.9
-          },
-          {
-            "id": "GEwszGFecU8",
-            "title": "Fruits Craft Challenge😍 #shorts",
-            "channel": "TeAm STARS",
-            "thumbnail": "https://i.ytimg.com/vi/GEwszGFecU8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GEwszGFecU8",
-            "views": 8651932,
-            "age_hours": 83.9
-          },
-          {
-            "id": "9UcVdPx8GAE",
-            "title": "Watch till the End 🏃💨 Running with Weight Challenge #shorts",
-            "channel": "Chattambees",
-            "thumbnail": "https://i.ytimg.com/vi/9UcVdPx8GAE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=9UcVdPx8GAE",
-            "views": 2260117,
-            "age_hours": 52.1
-          }
-        ]
-      },
-      {
-        "phrase": "family shorts indian",
-        "video_count": 2,
-        "momentum": 15.45,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "k5fueWMAiI4",
-            "title": "Paseena days are back 😂🔥| india family #shorts #indian #chaman #relatable #garmi #comedy #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-            "views": 6385817,
-            "age_hours": 50.8
-          },
-          {
-            "id": "7LN5Da3oCgU",
-            "title": "Chewing gum aur papa ke baal🥵🔥| Indian family😂|| #shorts #indian #relatable #chewinggum #comedy",
-            "channel": "Jagiya the fun",
-            "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-            "views": 10230019,
-            "age_hours": 95.8
-          }
-        ]
-      },
-      {
-        "phrase": "gauravaroravlogs youtubeshorts shorts",
-        "video_count": 2,
-        "momentum": 15.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "4wopTAReMUo",
-            "title": "Gaurav ki icecream cat kha gayi #gauravaroravlogs #youtubeshorts #shorts",
-            "channel": "Gauravaroravlogs ",
-            "thumbnail": "https://i.ytimg.com/vi/4wopTAReMUo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4wopTAReMUo",
-            "views": 6546819,
-            "age_hours": 52.0
-          },
-          {
-            "id": "kDMFtdcLvns",
-            "title": "Gaurav nai mummy nikita k saath ye kya kardiya #gauravaroravlogs #youtubeshorts #shorts",
-            "channel": "Gauravaroravlogs ",
-            "thumbnail": "https://i.ytimg.com/vi/kDMFtdcLvns/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=kDMFtdcLvns",
-            "views": 5129711,
-            "age_hours": 58.3
-          }
-        ]
-      },
-      {
-        "phrase": "kajalsoni vlogs",
-        "video_count": 2,
-        "momentum": 13.21,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "XoYYwCQTKog",
-            "title": "में रोटी बनाना सिख गई 🫓😅 #youtubeshorts #shorts #roti #kajalsoni #comedyshorts @K@Kajalsoni_vlogs",
-            "channel": "Kajal Soni",
-            "thumbnail": "https://i.ytimg.com/vi/XoYYwCQTKog/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=XoYYwCQTKog",
-            "views": 6404339,
-            "age_hours": 37.3
-          },
-          {
-            "id": "CgJuMKPy09w",
-            "title": "आम 🥭 का रस बनाया🥳 #youtubeshorts #shorts #mango #shortvideos #kajalsoni @Kajalsoni_vlogs",
-            "channel": "Kajal Soni",
-            "thumbnail": "https://i.ytimg.com/vi/CgJuMKPy09w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CgJuMKPy09w",
-            "views": 5352913,
-            "age_hours": 61.3
-          }
-        ]
-      },
-      {
-        "phrase": "iphone pro",
-        "video_count": 2,
-        "momentum": 12.59,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "7bPLc9UnYZI",
-            "title": "Unboxing iPhone 17 pro 🩷 #amalashaji",
-            "channel": "AmalaShaji",
-            "thumbnail": "https://i.ytimg.com/vi/7bPLc9UnYZI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7bPLc9UnYZI",
-            "views": 73090,
-            "age_hours": 6.5
-          },
-          {
-            "id": "gP7t0_5qMa4",
-            "title": "iPhone 17 Pro Max vs Nokia 1100: Road Roller Ne Sab Khatam Kar Diya! 🤯",
-            "channel": "Tech Master Shorts",
-            "thumbnail": "https://i.ytimg.com/vi/gP7t0_5qMa4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gP7t0_5qMa4",
-            "views": 11784882,
-            "age_hours": 315.5
-          }
-        ]
-      },
-      {
-        "phrase": "indian bike driving",
-        "video_count": 2,
-        "momentum": 12.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "OOq97vqPcho",
-            "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-            "channel": "NpsDude",
-            "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 846566,
-            "age_hours": 53.5
-          },
-          {
-            "id": "BJbmTT_SQ_M",
-            "title": "Franklin Enter Inside Granny,Kamla and Squid Doll Horror House In Indian Bike Driving 3D:",
-            "channel": "Saccu Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-            "views": 147294,
-            "age_hours": 12.5
-          }
-        ]
-      },
-      {
-        "phrase": "bike driving 3d",
-        "video_count": 2,
-        "momentum": 12.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "OOq97vqPcho",
-            "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-            "channel": "NpsDude",
-            "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 846566,
-            "age_hours": 53.5
-          },
-          {
-            "id": "BJbmTT_SQ_M",
-            "title": "Franklin Enter Inside Granny,Kamla and Squid Doll Horror House In Indian Bike Driving 3D:",
-            "channel": "Saccu Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-            "views": 147294,
-            "age_hours": 12.5
-          }
-        ]
-      },
-      {
-        "phrase": "ytshorts trending",
-        "video_count": 2,
-        "momentum": 11.48,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "lB8fPPtkeog",
-            "title": "Bal Bal Bach Gaya Aaj Toh 🥲 #neetubisht #funny #comedy #lakhneet #ytshorts #trending #viral",
-            "channel": "Neetu Bisht",
-            "thumbnail": "https://i.ytimg.com/vi/lB8fPPtkeog/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=lB8fPPtkeog",
-            "views": 4857431,
-            "age_hours": 85.3
-          },
-          {
-            "id": "d_Ci9UysBaU",
-            "title": "ఆ iPhone ఫ్రెండ్ నే అడగండి #iPhone #ytshorts #trending",
-            "channel": "VaasuTechVlogs",
-            "thumbnail": "https://i.ytimg.com/vi/d_Ci9UysBaU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=d_Ci9UysBaU",
-            "views": 171811,
-            "age_hours": 33.3
-          }
-        ]
-      },
-      {
-        "phrase": "after years",
-        "video_count": 2,
-        "momentum": 10.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "pNDna5acXSo",
-            "title": "Finally After 10 Years i Got Freedom 251 Mobile",
-            "channel": "PrasadLifeStyle",
-            "thumbnail": "https://i.ytimg.com/vi/pNDna5acXSo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=pNDna5acXSo",
-            "views": 483145,
-            "age_hours": 99.0
-          },
-          {
-            "id": "nhc3P10AK_I",
-            "title": "🤯Rs.251 Smartphone 📱 Delivered After 10 Years 😱",
-            "channel": "Tamil Tech - MrTT",
-            "thumbnail": "https://i.ytimg.com/vi/nhc3P10AK_I/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nhc3P10AK_I",
-            "views": 551361,
-            "age_hours": 230.5
-          }
-        ]
-      },
-      {
-        "phrase": "gta telugu",
-        "video_count": 2,
-        "momentum": 9.85,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "gc_lZMajezw",
-            "title": "Franklin Upgraded Ironman Suit to Destroy Military Zombies 😱 | GTA 5 Telugu | Dhanu Dino",
-            "channel": "DHANU DINO",
-            "thumbnail": "https://i.ytimg.com/vi/gc_lZMajezw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gc_lZMajezw",
-            "views": 324587,
-            "age_hours": 37.3
-          },
-          {
-            "id": "FzCgVL0xBOw",
-            "title": "Franklin and Shinchan Buy an Ultra Luxury Bus in GTA 5 in Telugu | Pennem Star",
-            "channel": "Pennem Star",
-            "thumbnail": "https://i.ytimg.com/vi/FzCgVL0xBOw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=FzCgVL0xBOw",
-            "views": 165193,
-            "age_hours": 30.8
-          }
-        ]
-      }
-    ],
-    "DE": [
-      {
-        "phrase": "omidmouazzen autohandel",
-        "video_count": 2,
-        "momentum": 9.68,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "YwsyJxgQyAE",
-            "title": "Findest du diese Handyhalterung sinnvoll #omidmouazzen #autohandel",
-            "channel": "OMID MOUAZZEN",
-            "thumbnail": "https://i.ytimg.com/vi/YwsyJxgQyAE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YwsyJxgQyAE",
-            "views": 848270,
-            "age_hours": 100.6
-          },
-          {
-            "id": "v9IfBOiuqRo",
-            "title": "Überwacht Xiaomi seine Kunden mit den ganzen Kameras #omidmouazzen #autohandel",
-            "channel": "OMID MOUAZZEN",
-            "thumbnail": "https://i.ytimg.com/vi/v9IfBOiuqRo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=v9IfBOiuqRo",
-            "views": 314304,
-            "age_hours": 121.3
-          }
-        ]
-      }
-    ],
-    "ALL": [
-      {
-        "phrase": "steam controller",
-        "video_count": 4,
-        "momentum": 25.99,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "igXOKbi-OAM",
-            "title": "Steam Controller Price and Release Date ANNOUNCED! 👀",
-            "channel": "Garett",
-            "thumbnail": "https://i.ytimg.com/vi/igXOKbi-OAM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=igXOKbi-OAM",
-            "views": 270154,
-            "age_hours": 18.8
-          },
-          {
-            "id": "MpJB7LTs5_s",
-            "title": "The Steam Controller is Here",
-            "channel": "Linus Tech Tips",
-            "thumbnail": "https://i.ytimg.com/vi/MpJB7LTs5_s/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MpJB7LTs5_s",
-            "views": 1091186,
-            "age_hours": 24.8
-          },
-          {
-            "id": "wfr4QN1Hvhs",
-            "title": "Valve Steam Controller Review | Latency Benchmarks, Battery Life, Repairability",
-            "channel": "Gamers Nexus",
-            "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-            "views": 439218,
-            "age_hours": 24.8
-          }
-        ]
-      },
-      {
-        "phrase": "casa",
-        "video_count": 6,
-        "momentum": 25.02,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "a8ThkG3-70Q",
-            "title": "MINHA FILHA SE SEPAROU… E VOLTOU PRA CASA 😭",
-            "channel": "Cantinho da nany ",
-            "thumbnail": "https://i.ytimg.com/vi/a8ThkG3-70Q/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=a8ThkG3-70Q",
-            "views": 17732,
-            "age_hours": 20.8
-          },
-          {
-            "id": "CutUfymJAPk",
-            "title": "O QUE TEM ACONTECIDO NO OFF | Contei o que eu tenho vivido + Rotina de casa!",
-            "channel": "FRANCIELLE NOGUEIRA",
-            "thumbnail": "https://i.ytimg.com/vi/CutUfymJAPk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CutUfymJAPk",
-            "views": 20732,
-            "age_hours": 20.3
-          },
-          {
-            "id": "gSJoZ-3914c",
-            "title": "A Casa do Dragão - Temporada 3 | Teaser Trailer Dublado | HBO Max",
-            "channel": "HBO Max Brasil",
-            "thumbnail": "https://i.ytimg.com/vi/gSJoZ-3914c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gSJoZ-3914c",
-            "views": 147437,
-            "age_hours": 27.2
-          }
-        ]
-      },
-      {
-        "phrase": "indian",
-        "video_count": 5,
-        "momentum": 24.03,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "9IcrpmTrxFQ",
-            "title": "Russian Beauty in Indian Bridal Glam 🩷 Parul Garg",
-            "channel": "Makeup by Parul Garg",
-            "thumbnail": "https://i.ytimg.com/vi/9IcrpmTrxFQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=9IcrpmTrxFQ",
-            "views": 3618762,
-            "age_hours": 35.5
-          },
-          {
-            "id": "k5fueWMAiI4",
-            "title": "Paseena days are back 😂🔥| india family #shorts #indian #chaman #relatable #garmi #comedy #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-            "views": 6385817,
-            "age_hours": 50.8
-          },
-          {
-            "id": "7LN5Da3oCgU",
-            "title": "Chewing gum aur papa ke baal🥵🔥| Indian family😂|| #shorts #indian #relatable #chewinggum #comedy",
-            "channel": "Jagiya the fun",
-            "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-            "views": 10230019,
-            "age_hours": 95.8
-          }
-        ]
-      },
-      {
-        "phrase": "humor",
-        "video_count": 5,
-        "momentum": 23.93,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "fQKC-Te8AsI",
-            "title": "#arthurlima #humor #shorts #tiktok",
-            "channel": "Artthur Lima",
-            "thumbnail": "https://i.ytimg.com/vi/fQKC-Te8AsI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=fQKC-Te8AsI",
-            "views": 6011162,
-            "age_hours": 92.2
-          },
-          {
-            "id": "-A2FVavQFkA",
-            "title": "A vizinhança do Hamster até que é bem boa 😅 #edit #humor #memes #fyp #animals",
-            "channel": "DaniDubs",
-            "thumbnail": "https://i.ytimg.com/vi/-A2FVavQFkA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-A2FVavQFkA",
-            "views": 2076643,
-            "age_hours": 68.3
-          },
-          {
-            "id": "Jmq2w-qQXzs",
-            "title": "GIN DE 10PROMAX 😂🥷🏼👋🏼🥤 #foryou #memes #viral #humor #explore #shots",
-            "channel": "tuiugrauu46",
-            "thumbnail": "https://i.ytimg.com/vi/Jmq2w-qQXzs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Jmq2w-qQXzs",
-            "views": 3121375,
-            "age_hours": 68.3
-          }
-        ]
-      },
-      {
-        "phrase": "assim",
-        "video_count": 5,
-        "momentum": 22.61,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "wiszO68zpR4",
-            "title": "Só eu que tenho amigos assim?",
-            "channel": "Lara Vidal",
-            "thumbnail": "https://i.ytimg.com/vi/wiszO68zpR4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wiszO68zpR4",
-            "views": 3461538,
-            "age_hours": 49.9
-          },
-          {
-            "id": "D2h24d98jb0",
-            "title": "MAIS ALGUÉM ASSIM?",
-            "channel": "Bomtalvão",
-            "thumbnail": "https://i.ytimg.com/vi/D2h24d98jb0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=D2h24d98jb0",
-            "views": 1776434,
-            "age_hours": 53.0
-          },
-          {
-            "id": "yn36Ey2K89M",
-            "title": "Você é assim também?",
-            "channel": "Página Dois",
-            "thumbnail": "https://i.ytimg.com/vi/yn36Ey2K89M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=yn36Ey2K89M",
-            "views": 3790081,
-            "age_hours": 115.8
-          }
-        ]
-      },
-      {
-        "phrase": "franklin",
-        "video_count": 5,
-        "momentum": 20.3,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "OOq97vqPcho",
-            "title": "Franklin Save His Hulk Team From Mr Meat Team In Indian Bike Driving 3D",
-            "channel": "NpsDude",
-            "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 846566,
-            "age_hours": 53.5
-          },
-          {
-            "id": "BJbmTT_SQ_M",
-            "title": "Franklin Enter Inside Granny,Kamla and Squid Doll Horror House In Indian Bike Driving 3D:",
-            "channel": "Saccu Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-            "views": 147294,
-            "age_hours": 12.5
-          },
-          {
-            "id": "48vOtWj-Q6k",
-            "title": "Franklin Created Spiderman Suit To Become Spiderman in GTA 5 !",
-            "channel": "ABISOME",
-            "thumbnail": "https://i.ytimg.com/vi/48vOtWj-Q6k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=48vOtWj-Q6k",
-            "views": 118609,
-            "age_hours": 15.1
-          }
-        ]
-      },
-      {
-        "phrase": "roblox",
-        "video_count": 5,
-        "momentum": 19.97,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "uLYFbv6_bZ4",
-            "title": "SUBA A TORRE FANTASMA DO YOMIKO NO ROBLOX",
-            "channel": "Amy Scarletona",
-            "thumbnail": "https://i.ytimg.com/vi/uLYFbv6_bZ4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=uLYFbv6_bZ4",
-            "views": 138297,
-            "age_hours": 18.8
-          },
-          {
-            "id": "FXMDHB5QMs4",
-            "title": "VIRAMOS BRAINROTS NO EVENTO DE ADMIN DO VIRE UM BRAINROT no ROBLOX!",
-            "channel": "PIZÃO",
-            "thumbnail": "https://i.ytimg.com/vi/FXMDHB5QMs4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=FXMDHB5QMs4",
-            "views": 127775,
-            "age_hours": 19.8
-          },
-          {
-            "id": "MdsUU2h3jCY",
-            "title": "Fim do Roblox? Lei felca... @jonvlogs #jonvlogs",
-            "channel": "Hype Cortes IRL",
-            "thumbnail": "https://i.ytimg.com/vi/MdsUU2h3jCY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MdsUU2h3jCY",
-            "views": 2597547,
-            "age_hours": 573.6
-          }
-        ]
-      },
-      {
-        "phrase": "challenge shorts",
-        "video_count": 3,
-        "momentum": 19.63,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "_xtbjsDjVsY",
-            "title": "Hostel girls Vs Warden! Chai challenge #shorts",
-            "channel": "Shreemani Tripathi",
-            "thumbnail": "https://i.ytimg.com/vi/_xtbjsDjVsY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=_xtbjsDjVsY",
-            "views": 38262915,
-            "age_hours": 297.9
-          },
-          {
-            "id": "GEwszGFecU8",
-            "title": "Fruits Craft Challenge😍 #shorts",
-            "channel": "TeAm STARS",
-            "thumbnail": "https://i.ytimg.com/vi/GEwszGFecU8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GEwszGFecU8",
-            "views": 8651932,
-            "age_hours": 83.9
-          },
-          {
-            "id": "9UcVdPx8GAE",
-            "title": "Watch till the End 🏃💨 Running with Weight Challenge #shorts",
-            "channel": "Chattambees",
-            "thumbnail": "https://i.ytimg.com/vi/9UcVdPx8GAE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=9UcVdPx8GAE",
-            "views": 2260117,
-            "age_hours": 52.1
-          }
-        ]
-      },
-      {
-        "phrase": "challenge",
-        "video_count": 4,
-        "momentum": 19.63,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "_xtbjsDjVsY",
-            "title": "Hostel girls Vs Warden! Chai challenge #shorts",
-            "channel": "Shreemani Tripathi",
-            "thumbnail": "https://i.ytimg.com/vi/_xtbjsDjVsY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=_xtbjsDjVsY",
-            "views": 38262915,
-            "age_hours": 297.9
-          },
-          {
-            "id": "GEwszGFecU8",
-            "title": "Fruits Craft Challenge😍 #shorts",
-            "channel": "TeAm STARS",
-            "thumbnail": "https://i.ytimg.com/vi/GEwszGFecU8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GEwszGFecU8",
-            "views": 8651932,
-            "age_hours": 83.9
-          },
-          {
-            "id": "9UcVdPx8GAE",
-            "title": "Watch till the End 🏃💨 Running with Weight Challenge #shorts",
-            "channel": "Chattambees",
-            "thumbnail": "https://i.ytimg.com/vi/9UcVdPx8GAE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=9UcVdPx8GAE",
-            "views": 2260117,
-            "age_hours": 52.1
-          }
-        ]
-      },
-      {
-        "phrase": "minecraft",
-        "video_count": 4,
-        "momentum": 18.48,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "bei3qYO5tvI",
-            "title": "O CÉU DO MINECRAFT ESCONDE UM SEGREDO BIZARRO!",
-            "channel": "Jazzghost",
-            "thumbnail": "https://i.ytimg.com/vi/bei3qYO5tvI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=bei3qYO5tvI",
-            "views": 1184613,
-            "age_hours": 26.8
-          },
-          {
-            "id": "kTHuntqM-OQ",
-            "title": "Turma do Problems Zerando Minecraft Com Hacks!  👾",
-            "channel": "ProbIems",
-            "thumbnail": "https://i.ytimg.com/vi/kTHuntqM-OQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=kTHuntqM-OQ",
-            "views": 556809,
-            "age_hours": 28.8
-          },
-          {
-            "id": "e9FxqsL1Kno",
-            "title": "ROUBARAM MINHA PARTES DO CORPO no MINECRAFT",
-            "channel": "Athos",
-            "thumbnail": "https://i.ytimg.com/vi/e9FxqsL1Kno/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=e9FxqsL1Kno",
-            "views": 570677,
-            "age_hours": 28.3
-          }
-        ]
-      },
-      {
-        "phrase": "iphone",
-        "video_count": 4,
-        "momentum": 18.2,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "nP8_E-xgATE",
-            "title": "iPhone 17 Pro Max Cosmic Orange #shorts #noads",
-            "channel": "Junão no Hype",
-            "thumbnail": "https://i.ytimg.com/vi/nP8_E-xgATE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nP8_E-xgATE",
-            "views": 10622529,
-            "age_hours": 115.7
-          },
-          {
-            "id": "Z11W-tbRZWk",
-            "title": "É impossível salvar o iPhone 17 😱 #shorts",
-            "channel": "Leozin jhon",
-            "thumbnail": "https://i.ytimg.com/vi/Z11W-tbRZWk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Z11W-tbRZWk",
-            "views": 1654115,
-            "age_hours": 308.8
-          },
-          {
-            "id": "JjC7SeDlijY",
-            "title": "Bateria removível está voltando para os celulares?#bateria #remover #iphone #android #shorts",
-            "channel": "Wesley Tech4",
-            "thumbnail": "https://i.ytimg.com/vi/JjC7SeDlijY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=JjC7SeDlijY",
-            "views": 558195,
-            "age_hours": 139.8
-          }
-        ]
-      },
-      {
-        "phrase": "travel",
-        "video_count": 4,
-        "momentum": 18.07,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "8LbV2gg8rag",
-            "title": "I’m already going insane 😀😵‍💫 see u n KOREA!!! 🇰🇷💗✈️🍣 #travel #relatable #trending #seoul",
-            "channel": "Kayla Ryan",
-            "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
-            "views": 3027804,
-            "age_hours": 22.6
-          },
-          {
-            "id": "M4GEOiXdbIM",
-            "title": "Unpack with me after 20 HOURS OF TRAVEL 😳✈️🇰🇷 #korea #trending #vlog",
-            "channel": "Kayla Ryan",
-            "thumbnail": "https://i.ytimg.com/vi/M4GEOiXdbIM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=M4GEOiXdbIM",
-            "views": 122945,
-            "age_hours": 22.5
-          },
-          {
-            "id": "OVgJBTs8Nmk",
-            "title": "Catching up on weekend plans and vlogs!! #fypシ #travel #vlog #countrymusic #teacher #stagecoach",
-            "channel": "Faith Mcpeek",
-            "thumbnail": "https://i.ytimg.com/vi/OVgJBTs8Nmk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OVgJBTs8Nmk",
-            "views": 52399,
-            "age_hours": 17.4
-          }
-        ]
-      },
-      {
-        "phrase": "family shorts indian",
-        "video_count": 2,
-        "momentum": 15.45,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "k5fueWMAiI4",
-            "title": "Paseena days are back 😂🔥| india family #shorts #indian #chaman #relatable #garmi #comedy #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-            "views": 6385817,
-            "age_hours": 50.8
-          },
-          {
-            "id": "7LN5Da3oCgU",
-            "title": "Chewing gum aur papa ke baal🥵🔥| Indian family😂|| #shorts #indian #relatable #chewinggum #comedy",
-            "channel": "Jagiya the fun",
-            "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-            "views": 10230019,
-            "age_hours": 95.8
-          }
-        ]
-      },
-      {
-        "phrase": "gauravaroravlogs youtubeshorts shorts",
-        "video_count": 2,
-        "momentum": 15.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "4wopTAReMUo",
-            "title": "Gaurav ki icecream cat kha gayi #gauravaroravlogs #youtubeshorts #shorts",
-            "channel": "Gauravaroravlogs ",
-            "thumbnail": "https://i.ytimg.com/vi/4wopTAReMUo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4wopTAReMUo",
-            "views": 6546819,
-            "age_hours": 52.0
-          },
-          {
-            "id": "kDMFtdcLvns",
-            "title": "Gaurav nai mummy nikita k saath ye kya kardiya #gauravaroravlogs #youtubeshorts #shorts",
-            "channel": "Gauravaroravlogs ",
-            "thumbnail": "https://i.ytimg.com/vi/kDMFtdcLvns/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=kDMFtdcLvns",
-            "views": 5129711,
-            "age_hours": 58.3
-          }
-        ]
-      },
-      {
-        "phrase": "valve steam controller",
-        "video_count": 2,
-        "momentum": 15.18,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "wfr4QN1Hvhs",
-            "title": "Valve Steam Controller Review | Latency Benchmarks, Battery Life, Repairability",
-            "channel": "Gamers Nexus",
-            "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-            "views": 439218,
-            "age_hours": 24.8
-          },
-          {
-            "id": "2gJtFpLdPcI",
-            "title": "The Valve Steam Controller is Here!",
-            "channel": "Linus Tech Tips",
-            "thumbnail": "https://i.ytimg.com/vi/2gJtFpLdPcI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2gJtFpLdPcI",
-            "views": 571184,
-            "age_hours": 21.6
-          }
-        ]
-      },
-      {
-        "phrase": "kajalsoni vlogs",
-        "video_count": 2,
-        "momentum": 13.21,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "XoYYwCQTKog",
-            "title": "में रोटी बनाना सिख गई 🫓😅 #youtubeshorts #shorts #roti #kajalsoni #comedyshorts @K@Kajalsoni_vlogs",
-            "channel": "Kajal Soni",
-            "thumbnail": "https://i.ytimg.com/vi/XoYYwCQTKog/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=XoYYwCQTKog",
-            "views": 6404339,
-            "age_hours": 37.3
-          },
-          {
-            "id": "CgJuMKPy09w",
-            "title": "आम 🥭 का रस बनाया🥳 #youtubeshorts #shorts #mango #shortvideos #kajalsoni @Kajalsoni_vlogs",
-            "channel": "Kajal Soni",
-            "thumbnail": "https://i.ytimg.com/vi/CgJuMKPy09w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CgJuMKPy09w",
-            "views": 5352913,
-            "age_hours": 61.3
-          }
-        ]
-      },
-      {
-        "phrase": "made me",
-        "video_count": 2,
-        "momentum": 12.89,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "oubP9b9Jmp4",
-            "title": "This made me laugh the whole way through… #reels #funny #game #twins #brothers #edit #gay #lgbt #3",
-            "channel": "Timothy Thatcher",
-            "thumbnail": "https://i.ytimg.com/vi/oubP9b9Jmp4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oubP9b9Jmp4",
-            "views": 9979786,
-            "age_hours": 189.2
-          },
-          {
-            "id": "ll9PY86VG5Q",
-            "title": "This scene made me realize something.. #onespoonofchocolate #movieclips za",
-            "channel": "Movie_Cuts_",
-            "thumbnail": "https://i.ytimg.com/vi/ll9PY86VG5Q/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ll9PY86VG5Q",
-            "views": 2663503,
-            "age_hours": 80.5
-          }
-        ]
-      },
-      {
-        "phrase": "iphone pro",
-        "video_count": 2,
-        "momentum": 12.59,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "7bPLc9UnYZI",
-            "title": "Unboxing iPhone 17 pro 🩷 #amalashaji",
-            "channel": "AmalaShaji",
-            "thumbnail": "https://i.ytimg.com/vi/7bPLc9UnYZI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7bPLc9UnYZI",
-            "views": 73090,
-            "age_hours": 6.5
-          },
-          {
-            "id": "gP7t0_5qMa4",
-            "title": "iPhone 17 Pro Max vs Nokia 1100: Road Roller Ne Sab Khatam Kar Diya! 🤯",
-            "channel": "Tech Master Shorts",
-            "thumbnail": "https://i.ytimg.com/vi/gP7t0_5qMa4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gP7t0_5qMa4",
-            "views": 11784882,
-            "age_hours": 315.5
-          }
-        ]
-      }
-    ]
+    "US": [],
+    "ALL": []
   },
   "trending_searches": [
     {
-      "phrase": "how to tie a tie",
+      "phrase": "is it a crime mariah the scientist",
+      "prefix": "is it",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T17:49:19.606036+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "should i stay or should i go",
+      "prefix": "should i",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T17:49:19.606036+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "can you stand the rain new edition",
+      "prefix": "can you",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T17:49:19.606036+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how to draw",
       "prefix": "how to",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T17:49:19.606036+00:00",
       "is_new": true
     },
     {
-      "phrase": "how do i say goodbye dean lewis",
-      "prefix": "how do",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how does it feel d'angelo",
+      "phrase": "how does it feel",
       "prefix": "how does",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T17:49:19.606036+00:00",
       "is_new": true
     },
     {
-      "phrase": "why is it spicy",
+      "phrase": "why is my bus driver playing mitski",
       "prefix": "why is",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T17:49:19.606036+00:00",
       "is_new": true
     },
     {
-      "phrase": "why do birds suddenly appear",
+      "phrase": "why don't we fall in love",
       "prefix": "why do",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T17:49:19.606036+00:00",
       "is_new": true
     },
     {
-      "phrase": "why does he call you darling",
+      "phrase": "why does it hurt to love you",
       "prefix": "why does",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T17:49:19.606036+00:00",
       "is_new": true
     },
     {
-      "phrase": "what is this diddy blud doing on the calculator",
+      "phrase": "what is love",
       "prefix": "what is",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T17:49:19.606036+00:00",
       "is_new": true
     },
     {
-      "phrase": "what are you listening to chris stapleton",
+      "phrase": "what are you doing",
       "prefix": "what are",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T17:49:19.606036+00:00",
       "is_new": true
     },
     {
-      "phrase": "what happened to virgil",
+      "phrase": "what happened to that boy",
       "prefix": "what happened",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T17:49:19.606036+00:00",
       "is_new": true
     },
     {
-      "phrase": "best build 2k26",
+      "phrase": "best part",
       "prefix": "best",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "worst way riley green",
-      "prefix": "worst",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "topoppgen",
-      "prefix": "top",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T17:49:19.606036+00:00",
       "is_new": true
     }
   ],
@@ -2489,54 +151,16 @@
       "thumbnail": "https://i.ytimg.com/vi/lJZ8wWCnwow/mqdefault.jpg",
       "published_at": "2026-04-27T16:30:07Z",
       "category_id": "10",
-      "views": 6827762,
-      "likes": 1101876,
-      "comments": 320949,
+      "views": 6827765,
+      "likes": 1102384,
+      "comments": 321023,
       "age_hours": 25.3,
-      "views_per_hour": 269993,
-      "momentum": 9.737,
+      "views_per_hour": 269658,
+      "momentum": 9.738,
       "url": "https://www.youtube.com/watch?v=lJZ8wWCnwow",
       "region": "US",
       "category": "Other",
       "_detected_lang": "en"
-    },
-    {
-      "id": "N1TgyA_cQPU",
-      "title": "DEPOIS DE 3 ANOS SEM JOGAR… VOLTEI E PEGUEI OS ITENS MAIS RAROS DO BLOX FRUITS 😳🔥",
-      "channel": "Canal Clash War",
-      "channel_id": "UCR-Y4lWmrCYbr1XavmNMlvQ",
-      "thumbnail": "https://i.ytimg.com/vi/N1TgyA_cQPU/mqdefault.jpg",
-      "published_at": "2026-04-27T22:15:01Z",
-      "category_id": "20",
-      "views": 197638,
-      "likes": 15138,
-      "comments": 14068,
-      "age_hours": 19.5,
-      "views_per_hour": 10113,
-      "momentum": 7.469,
-      "url": "https://www.youtube.com/watch?v=N1TgyA_cQPU",
-      "region": "BR",
-      "category": "Gaming",
-      "_detected_lang": "pt"
-    },
-    {
-      "id": "cL0KKSPjZf8",
-      "title": "Boom Shaka (Official Music Video) | KR$NA |  Dhanda Nyoliwala",
-      "channel": "KRSNA",
-      "channel_id": "UChDX4wagpTQS0aTm4eyhJaw",
-      "thumbnail": "https://i.ytimg.com/vi/cL0KKSPjZf8/mqdefault.jpg",
-      "published_at": "2026-04-28T05:30:05Z",
-      "category_id": "10",
-      "views": 850568,
-      "likes": 134052,
-      "comments": 9397,
-      "age_hours": 12.3,
-      "views_per_hour": 69205,
-      "momentum": 6.901,
-      "url": "https://www.youtube.com/watch?v=cL0KKSPjZf8",
-      "region": "AU",
-      "category": "Other",
-      "_detected_lang": "pt"
     },
     {
       "id": "-SEKt_0pdHM",
@@ -2546,12 +170,12 @@
       "thumbnail": "https://i.ytimg.com/vi/-SEKt_0pdHM/mqdefault.jpg",
       "published_at": "2026-04-28T09:00:01Z",
       "category_id": "10",
-      "views": 636729,
-      "likes": 99235,
-      "comments": 5976,
+      "views": 639298,
+      "likes": 99409,
+      "comments": 5983,
       "age_hours": 8.8,
-      "views_per_hour": 72435,
-      "momentum": 6.831,
+      "views_per_hour": 72468,
+      "momentum": 6.826,
       "url": "https://www.youtube.com/watch?v=-SEKt_0pdHM",
       "region": "US",
       "category": "Other",
@@ -2566,10 +190,10 @@
       "published_at": "2026-04-27T19:00:23Z",
       "category_id": "10",
       "views": 2508488,
-      "likes": 291175,
-      "comments": 17740,
+      "likes": 291410,
+      "comments": 17745,
       "age_hours": 22.8,
-      "views_per_hour": 110097,
+      "views_per_hour": 109946,
       "momentum": 6.569,
       "url": "https://www.youtube.com/watch?v=XXIX2WnfbpE",
       "region": "US",
@@ -2577,362 +201,229 @@
       "_detected_lang": "en"
     },
     {
-      "id": "b7HthrWVH5U",
-      "title": "Helldivers 2 Patch Notes - Patch 6.2.2",
-      "channel": "HELLDIVERS™ 2",
-      "channel_id": "UCUs70zlHBT0iIpzDZ-a4_Ag",
-      "thumbnail": "https://i.ytimg.com/vi/b7HthrWVH5U/mqdefault.jpg",
-      "published_at": "2026-04-28T09:05:56Z",
-      "category_id": "20",
-      "views": 157676,
-      "likes": 9971,
-      "comments": 6485,
-      "age_hours": 8.7,
-      "views_per_hour": 18140,
-      "momentum": 6.549,
-      "url": "https://www.youtube.com/watch?v=b7HthrWVH5U",
-      "region": "GB",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "JfozPo2L7xQ",
-      "title": "My Hero Academia x Brawl Stars",
-      "channel": "Brawl Stars",
-      "channel_id": "UCooVYzDxdwTtGYAkcPmOgOw",
-      "thumbnail": "https://i.ytimg.com/vi/JfozPo2L7xQ/mqdefault.jpg",
-      "published_at": "2026-04-28T08:01:45Z",
-      "category_id": "20",
-      "views": 3139942,
-      "likes": 176950,
-      "comments": 8502,
-      "age_hours": 9.8,
-      "views_per_hour": 321652,
-      "momentum": 6.277,
-      "url": "https://www.youtube.com/watch?v=JfozPo2L7xQ",
-      "region": "GB",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "NK9-nmfUyf4",
-      "title": "The Toddler Who Got Stuck On A Balcony 😱",
-      "channel": "Zack D. Films",
-      "channel_id": "UCvz84_Q0BbvZThy75mbd-Dg",
-      "thumbnail": "https://i.ytimg.com/vi/NK9-nmfUyf4/mqdefault.jpg",
-      "published_at": "2026-04-27T17:30:11Z",
-      "category_id": "19",
-      "views": 10957076,
-      "likes": 565030,
-      "comments": 4298,
-      "age_hours": 24.3,
-      "views_per_hour": 451134,
-      "momentum": 6.26,
-      "url": "https://www.youtube.com/watch?v=NK9-nmfUyf4",
+      "id": "sNwzFhGwA94",
+      "title": "jackass: best and last | Official Trailer (2026 Movie)",
+      "channel": "Paramount Pictures",
+      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
+      "thumbnail": "https://i.ytimg.com/vi/sNwzFhGwA94/mqdefault.jpg",
+      "published_at": "2026-04-27T13:00:02Z",
+      "category_id": "1",
+      "views": 4825574,
+      "likes": 79626,
+      "comments": 4402,
+      "age_hours": 28.8,
+      "views_per_hour": 167430,
+      "momentum": 5.444,
+      "url": "https://www.youtube.com/watch?v=sNwzFhGwA94",
       "region": "US",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "CFGPPIKWgS0",
-      "title": "British Airsoft Loadout - Part 13",
-      "channel": "Arroyo Airsoft",
-      "channel_id": "UCntGKj-PnB6ZEc5LUs8or4g",
-      "thumbnail": "https://i.ytimg.com/vi/CFGPPIKWgS0/mqdefault.jpg",
-      "published_at": "2026-04-21T04:53:41Z",
+      "id": "nFDsUUyF66w",
+      "title": "Vybz Kartel - Victory (Official Music Video)",
+      "channel": "VybzKartelVEVO",
+      "channel_id": "UCeRe0C1x1w8We6ghjVn4M5w",
+      "thumbnail": "https://i.ytimg.com/vi/nFDsUUyF66w/mqdefault.jpg",
+      "published_at": "2026-04-27T17:01:05Z",
+      "category_id": "10",
+      "views": 318577,
+      "likes": 28818,
+      "comments": 4090,
+      "age_hours": 24.8,
+      "views_per_hour": 12844,
+      "momentum": 5.38,
+      "url": "https://www.youtube.com/watch?v=nFDsUUyF66w",
+      "region": "US",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "5X1dMFuHZhc",
+      "title": "House of the Dragon Season 3 | Official Teaser Trailer | HBO Max",
+      "channel": "HBO Max",
+      "channel_id": "UCx-KWLTKlB83hDI6UKECtJQ",
+      "thumbnail": "https://i.ytimg.com/vi/5X1dMFuHZhc/mqdefault.jpg",
+      "published_at": "2026-04-27T14:30:04Z",
       "category_id": "24",
-      "views": 60175837,
-      "likes": 3558848,
-      "comments": 30882,
-      "age_hours": 180.9,
-      "views_per_hour": 332654,
-      "momentum": 6.203,
-      "url": "https://www.youtube.com/watch?v=CFGPPIKWgS0",
-      "region": "US",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "Zp7xeVwLaxs",
-      "title": "He Moved During The RED LIGHT, And STILL WON... 🧠😱",
-      "channel": "Blaze",
-      "channel_id": "UCouXJIEDJdV7oQUTP1V7tXQ",
-      "thumbnail": "https://i.ytimg.com/vi/Zp7xeVwLaxs/mqdefault.jpg",
-      "published_at": "2026-04-26T14:11:47Z",
-      "category_id": "22",
-      "views": 14434440,
-      "likes": 858722,
-      "comments": 1915,
-      "age_hours": 51.6,
-      "views_per_hour": 279767,
-      "momentum": 6.102,
-      "url": "https://www.youtube.com/watch?v=Zp7xeVwLaxs",
-      "region": "US",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "FEJsT4kqYhA",
-      "title": "I took a Micheal Jackson impersonator to the MJ Movie #tiktok",
-      "channel": "YaitsTac",
-      "channel_id": "UCGlwaDSesS1-hf0i6RjyJvA",
-      "thumbnail": "https://i.ytimg.com/vi/FEJsT4kqYhA/mqdefault.jpg",
-      "published_at": "2026-04-27T14:28:08Z",
-      "category_id": "20",
-      "views": 4023456,
-      "likes": 325781,
-      "comments": 2607,
+      "views": 1894146,
+      "likes": 71896,
+      "comments": 3247,
       "age_hours": 27.3,
-      "views_per_hour": 147261,
-      "momentum": 6.039,
-      "url": "https://www.youtube.com/watch?v=FEJsT4kqYhA",
+      "views_per_hour": 69329,
+      "momentum": 5.291,
+      "url": "https://www.youtube.com/watch?v=5X1dMFuHZhc",
+      "region": "US",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "LFJJA8Qeqz4",
+      "title": "KAGURABACHI｜Official Teaser Trailer",
+      "channel": "SHOCHIKU animeチャンネル【公式】",
+      "channel_id": "UC6VPE3kztGEtFVcJI0oIiUg",
+      "thumbnail": "https://i.ytimg.com/vi/LFJJA8Qeqz4/mqdefault.jpg",
+      "published_at": "2026-04-27T12:09:37Z",
+      "category_id": "1",
+      "views": 956741,
+      "likes": 79540,
+      "comments": 107,
+      "age_hours": 29.7,
+      "views_per_hour": 32255,
+      "momentum": 5.263,
+      "url": "https://www.youtube.com/watch?v=LFJJA8Qeqz4",
+      "region": "US",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "zXY7En43YDo",
+      "title": "This Anomaly Game Got Even Weirder...",
+      "channel": "SMii7Y",
+      "channel_id": "UCzXwjTI6c6mVn6oui_p6oiw",
+      "thumbnail": "https://i.ytimg.com/vi/zXY7En43YDo/mqdefault.jpg",
+      "published_at": "2026-04-27T19:13:00Z",
+      "category_id": "20",
+      "views": 1008476,
+      "likes": 54113,
+      "comments": 1882,
+      "age_hours": 22.6,
+      "views_per_hour": 44612,
+      "momentum": 5.235,
+      "url": "https://www.youtube.com/watch?v=zXY7En43YDo",
       "region": "US",
       "category": "Gaming",
       "_detected_lang": "en"
     },
     {
-      "id": "zust6eID9mk",
-      "title": "Jimmy Kimmel on Melania & Donald Trump Demanding His Firing & The White House Correspondents’ Dinner",
-      "channel": "Jimmy Kimmel Live",
-      "channel_id": "UCa6vGFO9ty8v5KZJXQxdhaw",
-      "thumbnail": "https://i.ytimg.com/vi/zust6eID9mk/mqdefault.jpg",
-      "published_at": "2026-04-28T03:45:11Z",
-      "category_id": "23",
-      "views": 3059620,
-      "likes": 142914,
-      "comments": 9993,
-      "age_hours": 14.0,
-      "views_per_hour": 217943,
-      "momentum": 6.011,
-      "url": "https://www.youtube.com/watch?v=zust6eID9mk",
-      "region": "CA",
-      "category": "Comedy",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "J7VBotXmkwc",
-      "title": "Which Handcuffs Are The Strongest?",
-      "channel": "Topper Guild",
-      "channel_id": "UCPuEAY09CtdTzFNWuqVZgDw",
-      "thumbnail": "https://i.ytimg.com/vi/J7VBotXmkwc/mqdefault.jpg",
-      "published_at": "2026-04-26T12:00:26Z",
+      "id": "wbMNy_djxGk",
+      "title": "Verity | Official Teaser",
+      "channel": "Amazon MGM Studios",
+      "channel_id": "UCf5CjDJvsFvtVIhkfmKAwAA",
+      "thumbnail": "https://i.ytimg.com/vi/wbMNy_djxGk/mqdefault.jpg",
+      "published_at": "2026-04-27T21:05:40Z",
       "category_id": "24",
-      "views": 19045366,
-      "likes": 756888,
-      "comments": 937,
-      "age_hours": 53.8,
-      "views_per_hour": 354100,
-      "momentum": 5.993,
-      "url": "https://www.youtube.com/watch?v=J7VBotXmkwc",
-      "region": "IN",
+      "views": 2043215,
+      "likes": 5255,
+      "comments": 223,
+      "age_hours": 20.7,
+      "views_per_hour": 98574,
+      "momentum": 5.025,
+      "url": "https://www.youtube.com/watch?v=wbMNy_djxGk",
+      "region": "US",
       "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
-      "id": "3j0G16lOWh0",
-      "title": "Using Crows To Get Rich!",
-      "channel": "SwagSixer",
-      "channel_id": "UCblXCZLiDGWiYpxT0M9t9Dw",
-      "thumbnail": "https://i.ytimg.com/vi/3j0G16lOWh0/mqdefault.jpg",
-      "published_at": "2026-04-25T18:27:30Z",
-      "category_id": "22",
-      "views": 9503799,
-      "likes": 696745,
-      "comments": 8021,
-      "age_hours": 71.3,
-      "views_per_hour": 133232,
-      "momentum": 5.919,
-      "url": "https://www.youtube.com/watch?v=3j0G16lOWh0",
-      "region": "US",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "A_hbIDK09LI",
-      "title": "PIZZA CHALLENGE RATE @ChefRush @albert_cancook",
-      "channel": "Lionfield",
-      "channel_id": "UCHwpDpLoyJgtFXoAaaSut4Q",
-      "thumbnail": "https://i.ytimg.com/vi/A_hbIDK09LI/mqdefault.jpg",
-      "published_at": "2026-04-24T15:00:31Z",
-      "category_id": "23",
-      "views": 27667928,
-      "likes": 1050850,
-      "comments": 2284,
-      "age_hours": 98.8,
-      "views_per_hour": 280084,
-      "momentum": 5.866,
-      "url": "https://www.youtube.com/watch?v=A_hbIDK09LI",
-      "region": "DE",
-      "category": "Comedy",
-      "_detected_lang": "de"
-    },
-    {
-      "id": "X_JEZMEw_-Q",
-      "title": "Trump Spins Dinner Shooting for Ballroom Agenda & Blitzer Is CNN's One-Shoed Hero | The Daily Show",
-      "channel": "The Daily Show",
-      "channel_id": "UCwWhs_6x42TyRM4Wstoq8HA",
-      "thumbnail": "https://i.ytimg.com/vi/X_JEZMEw_-Q/mqdefault.jpg",
-      "published_at": "2026-04-28T03:00:06Z",
-      "category_id": "23",
-      "views": 2990183,
-      "likes": 112088,
-      "comments": 8321,
-      "age_hours": 14.8,
-      "views_per_hour": 202175,
-      "momentum": 5.851,
-      "url": "https://www.youtube.com/watch?v=X_JEZMEw_-Q",
-      "region": "CA",
-      "category": "Comedy",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "cnLi2lt4Fv8",
-      "title": "ele tinha CÂNCER e queria bater 100K",
-      "channel": "Giuliana Mafra",
-      "channel_id": "UCcO3pf47GO1rxL4tlWEs5Ow",
-      "thumbnail": "https://i.ytimg.com/vi/cnLi2lt4Fv8/mqdefault.jpg",
-      "published_at": "2026-04-27T21:00:00Z",
-      "category_id": "24",
-      "views": 2392406,
-      "likes": 169732,
-      "comments": 1054,
-      "age_hours": 20.8,
-      "views_per_hour": 115055,
-      "momentum": 5.801,
-      "url": "https://www.youtube.com/watch?v=cnLi2lt4Fv8",
-      "region": "BR",
-      "category": "Entertainment",
-      "_detected_lang": "pt"
-    },
-    {
-      "id": "f7Pb8ym6zTo",
-      "title": "Trying to impress an Asian Mom 🧐 #Shorts #asianmom",
-      "channel": "Silent Loom",
-      "channel_id": "UCSrZPLnzKby-VdFF4zggjfw",
-      "thumbnail": "https://i.ytimg.com/vi/f7Pb8ym6zTo/mqdefault.jpg",
-      "published_at": "2026-04-23T09:13:25Z",
-      "category_id": "22",
-      "views": 7098104,
-      "likes": 783412,
-      "comments": 1187,
-      "age_hours": 128.6,
-      "views_per_hour": 55209,
-      "momentum": 5.797,
-      "url": "https://www.youtube.com/watch?v=f7Pb8ym6zTo",
-      "region": "US",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "AhrIex7XezY",
-      "title": "você acredita nos livramento de Jesus?",
-      "channel": "Atalaia Bíblico",
-      "channel_id": "UCbmbnwhVmxKCO16UM022jXA",
-      "thumbnail": "https://i.ytimg.com/vi/AhrIex7XezY/mqdefault.jpg",
-      "published_at": "2026-04-24T00:30:15Z",
-      "category_id": "22",
-      "views": 4065348,
-      "likes": 436593,
-      "comments": 23434,
-      "age_hours": 113.3,
-      "views_per_hour": 35885,
-      "momentum": 5.796,
-      "url": "https://www.youtube.com/watch?v=AhrIex7XezY",
-      "region": "BR",
-      "category": "People & Blogs",
-      "_detected_lang": "pt"
-    },
-    {
-      "id": "hYkSWVpNgi0",
-      "title": "😂“Nursing Homes: Turning ‘Troubles’ into ‘Standardized Procedures’”⚙️👵#shorts#raisinghope #family",
-      "channel": "Slumberis",
-      "channel_id": "UCaUqT1SYRKxqEzx_p6Zr4oA",
-      "thumbnail": "https://i.ytimg.com/vi/hYkSWVpNgi0/mqdefault.jpg",
-      "published_at": "2026-04-26T11:48:00Z",
+      "id": "E-TJyp3TWPU",
+      "title": "The Boys Season 5 Episode 5 Trailer",
+      "channel": "Rotten Tomatoes TV",
+      "channel_id": "UCz1GPotHecuLngiLuY739QQ",
+      "thumbnail": "https://i.ytimg.com/vi/E-TJyp3TWPU/mqdefault.jpg",
+      "published_at": "2026-04-27T18:15:00Z",
       "category_id": "1",
-      "views": 4592427,
-      "likes": 396461,
-      "comments": 482,
-      "age_hours": 54.0,
-      "views_per_hour": 85059,
-      "momentum": 5.786,
-      "url": "https://www.youtube.com/watch?v=hYkSWVpNgi0",
+      "views": 814900,
+      "likes": 18171,
+      "comments": 1432,
+      "age_hours": 23.6,
+      "views_per_hour": 34571,
+      "momentum": 4.821,
+      "url": "https://www.youtube.com/watch?v=E-TJyp3TWPU",
       "region": "US",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "8LbV2gg8rag",
-      "title": "I’m already going insane 😀😵‍💫 see u n KOREA!!! 🇰🇷💗✈️🍣 #travel #relatable #trending #seoul",
-      "channel": "Kayla Ryan",
-      "channel_id": "UCf_35VVsKHPmWAQjXrDOvtw",
-      "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
-      "published_at": "2026-04-27T19:12:25Z",
-      "category_id": "22",
-      "views": 3027804,
-      "likes": 174456,
-      "comments": 1559,
-      "age_hours": 22.6,
-      "views_per_hour": 134069,
-      "momentum": 5.745,
-      "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
-      "region": "US",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "-oyxpAgnzD4",
-      "title": "Lifeguards and police confront inappropriate man 🚨 #bondirescue #lifeguard #beach #shortsfeed",
-      "channel": "BondiRescue",
-      "channel_id": "UCxEct2HUBYj_mt4t7qR9UYg",
-      "thumbnail": "https://i.ytimg.com/vi/-oyxpAgnzD4/mqdefault.jpg",
-      "published_at": "2026-04-25T21:00:01Z",
-      "category_id": "24",
-      "views": 6036502,
-      "likes": 439024,
-      "comments": 9121,
-      "age_hours": 68.8,
-      "views_per_hour": 87752,
-      "momentum": 5.737,
-      "url": "https://www.youtube.com/watch?v=-oyxpAgnzD4",
-      "region": "US",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "0-IVhrlMbBU",
-      "title": "He's in agonizing pain, right?",
-      "channel": "ProAlemi QJ",
-      "channel_id": "UCHgIFASI5wT6cnOwpJNk3Sg",
-      "thumbnail": "https://i.ytimg.com/vi/0-IVhrlMbBU/mqdefault.jpg",
-      "published_at": "2026-04-18T13:06:10Z",
-      "category_id": "1",
-      "views": 19090527,
-      "likes": 1509538,
-      "comments": 9874,
-      "age_hours": 244.7,
-      "views_per_hour": 78020,
-      "momentum": 5.691,
-      "url": "https://www.youtube.com/watch?v=0-IVhrlMbBU",
+      "id": "WAHaBF2YJL8",
+      "title": "Gilberto Santa Rosa - Conciencia",
+      "channel": "SEIKO",
+      "channel_id": "UCgIOaBJD7k7NiiLxxmahkCA",
+      "thumbnail": "https://i.ytimg.com/vi/WAHaBF2YJL8/mqdefault.jpg",
+      "published_at": "2026-04-26T21:41:51Z",
+      "category_id": "10",
+      "views": 529005,
+      "likes": 894,
+      "comments": 5,
+      "age_hours": 44.1,
+      "views_per_hour": 11989,
+      "momentum": 4.093,
+      "url": "https://www.youtube.com/watch?v=WAHaBF2YJL8",
       "region": "US",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "jF0KxOMlSRM",
-      "title": "Baby Warthog Runs His Mouth… and His Legs 🤣",
-      "channel": "Dusty Douglas",
-      "channel_id": "UCMSIDB9jvhqBKby2qk6E4VA",
-      "thumbnail": "https://i.ytimg.com/vi/jF0KxOMlSRM/mqdefault.jpg",
-      "published_at": "2026-04-24T21:05:56Z",
+      "id": "gsUZDHkMxOs",
+      "title": "Philadelphia Flyers at Pittsburgh Penguins",
+      "channel": "ESPN",
+      "channel_id": "UCW7W_WAogi3qWDbO9PqOmZQ",
+      "thumbnail": "https://i.ytimg.com/vi/gsUZDHkMxOs/mqdefault.jpg",
+      "published_at": "2026-04-28T08:46:55Z",
       "category_id": "24",
-      "views": 11878927,
-      "likes": 622242,
-      "comments": 10889,
-      "age_hours": 92.7,
-      "views_per_hour": 128155,
-      "momentum": 5.69,
-      "url": "https://www.youtube.com/watch?v=jF0KxOMlSRM",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "age_hours": 9.0,
+      "views_per_hour": 0,
+      "momentum": 0.0,
+      "url": "https://www.youtube.com/watch?v=gsUZDHkMxOs",
+      "region": "US",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "3cp1EamgqdQ",
+      "title": "Jesse Watters Primetime",
+      "channel": "FOX News",
+      "channel_id": "UCqWYIzQLZFW4NFXPfWBLW1w",
+      "thumbnail": "https://i.ytimg.com/vi/3cp1EamgqdQ/mqdefault.jpg",
+      "published_at": "2026-04-28T07:45:59Z",
+      "category_id": "24",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "age_hours": 10.1,
+      "views_per_hour": 0,
+      "momentum": 0.0,
+      "url": "https://www.youtube.com/watch?v=3cp1EamgqdQ",
+      "region": "US",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "1hX0NfXf91w",
+      "title": "Tampa Bay Rays at Cleveland Guardians",
+      "channel": "FS1",
+      "channel_id": "UC8f_6NxAk-x_HqzrIHTem9w",
+      "thumbnail": "https://i.ytimg.com/vi/1hX0NfXf91w/mqdefault.jpg",
+      "published_at": "2026-04-28T08:18:09Z",
+      "category_id": "24",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "age_hours": 9.5,
+      "views_per_hour": 0,
+      "momentum": 0.0,
+      "url": "https://www.youtube.com/watch?v=1hX0NfXf91w",
+      "region": "US",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "iN4Duo2JVYc",
+      "title": "The Rachel Maddow Show",
+      "channel": "MSNBC",
+      "channel_id": "UCPMoZoTUinLM-MngPHWijUw",
+      "thumbnail": "https://i.ytimg.com/vi/iN4Duo2JVYc/mqdefault.jpg",
+      "published_at": "2026-04-28T08:21:10Z",
+      "category_id": "24",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "age_hours": 9.5,
+      "views_per_hour": 0,
+      "momentum": 0.0,
+      "url": "https://www.youtube.com/watch?v=iN4Duo2JVYc",
       "region": "US",
       "category": "Entertainment",
       "_detected_lang": "en"
