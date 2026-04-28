@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T10:11:15.138646+00:00",
+  "generated_at": "2026-04-28T10:14:23.452006+00:00",
   "regions": [
     "US",
     "GB"
@@ -15,14 +15,14 @@
     }
   ],
   "stats": {
-    "total_videos": 140,
-    "total_topics": 12,
+    "total_videos": 138,
+    "total_topics": 11,
     "total_themes": 2,
     "total_searches": 12,
     "by_category": {
       "Other": 18,
       "Entertainment": 35,
-      "Gaming": 24,
+      "Gaming": 22,
       "People & Blogs": 49,
       "Education": 2,
       "Science & Tech": 8,
@@ -34,11 +34,31 @@
     {
       "phrase": "steam controller",
       "video_count": 29,
-      "channel_count": 26,
-      "total_channels_seen": 27,
-      "uploads_per_hour": 2.17,
+      "channel_count": 27,
+      "total_channels_seen": 28,
+      "uploads_per_hour": 2.25,
       "window_hours": 12,
       "example_videos": [
+        {
+          "id": "CysRgYZ-xO0",
+          "title": "Le Steam Controller sera vendu... 99 euros !",
+          "channel": "Clubic",
+          "channel_id": "UCIorGsaWVmlkpNsngTQPDAg",
+          "subscribers": 33000,
+          "thumbnail": "https://i.ytimg.com/vi/CysRgYZ-xO0/mqdefault.jpg",
+          "published_at": "2026-04-28T10:12:58Z",
+          "url": "https://www.youtube.com/watch?v=CysRgYZ-xO0"
+        },
+        {
+          "id": "vk11slwPWAI",
+          "title": "Valve Steam Controller Release May 4 2026 Price $99 #Shorts",
+          "channel": "JumboFrames",
+          "channel_id": "UCTwpauurTXhbDhR8TUVm6LA",
+          "subscribers": 78,
+          "thumbnail": "https://i.ytimg.com/vi/vk11slwPWAI/mqdefault.jpg",
+          "published_at": "2026-04-28T10:10:55Z",
+          "url": "https://www.youtube.com/watch?v=vk11slwPWAI"
+        },
         {
           "id": "Ggc1ekJ80ms",
           "title": "Nouvelle Manette Steam - Actualité 28.04.2026 #steam #manette #controller",
@@ -58,30 +78,10 @@
           "thumbnail": "https://i.ytimg.com/vi/ysk_3zRw-v4/mqdefault.jpg",
           "published_at": "2026-04-28T10:02:59Z",
           "url": "https://www.youtube.com/watch?v=ysk_3zRw-v4"
-        },
-        {
-          "id": "VpC_Pd8qctg",
-          "title": "Steam新コントローラー高すぎ？評価が真っ二つ #Steam #valve #steammachine #steamcontroller #steamframe #ゲーム最新情報 #ゲームニュース",
-          "channel": "ゲーム最新情報をお届け、ひみつきちチャンネルです。",
-          "channel_id": "UCL8OHXLH4XfU9nC16GzR0ig",
-          "subscribers": 14300,
-          "thumbnail": "https://i.ytimg.com/vi/VpC_Pd8qctg/mqdefault.jpg",
-          "published_at": "2026-04-28T10:01:00Z",
-          "url": "https://www.youtube.com/watch?v=VpC_Pd8qctg"
-        },
-        {
-          "id": "S9ZQt6yKALQ",
-          "title": "【Steam Controller】と僕が考えた最強のコントローラー",
-          "channel": "One Who Knocks (OWK)",
-          "channel_id": "UCVThUWQudhuFCBZOqdw4tFA",
-          "subscribers": 111,
-          "thumbnail": "https://i.ytimg.com/vi/S9ZQt6yKALQ/mqdefault.jpg",
-          "published_at": "2026-04-28T10:00:46Z",
-          "url": "https://www.youtube.com/watch?v=S9ZQt6yKALQ"
         }
       ],
       "first_detected_at": "2026-04-28T09:24:14.167835+00:00",
-      "last_seen_at": "2026-04-28T10:11:15.138646+00:00"
+      "last_seen_at": "2026-04-28T10:14:23.452006+00:00"
     },
     {
       "phrase": "valve steam controller",
@@ -91,6 +91,26 @@
       "uploads_per_hour": 2.0,
       "window_hours": 12,
       "example_videos": [
+        {
+          "id": "CysRgYZ-xO0",
+          "title": "Le Steam Controller sera vendu... 99 euros !",
+          "channel": "Clubic",
+          "channel_id": "UCIorGsaWVmlkpNsngTQPDAg",
+          "subscribers": 33000,
+          "thumbnail": "https://i.ytimg.com/vi/CysRgYZ-xO0/mqdefault.jpg",
+          "published_at": "2026-04-28T10:12:58Z",
+          "url": "https://www.youtube.com/watch?v=CysRgYZ-xO0"
+        },
+        {
+          "id": "vk11slwPWAI",
+          "title": "Valve Steam Controller Release May 4 2026 Price $99 #Shorts",
+          "channel": "JumboFrames",
+          "channel_id": "UCTwpauurTXhbDhR8TUVm6LA",
+          "subscribers": 78,
+          "thumbnail": "https://i.ytimg.com/vi/vk11slwPWAI/mqdefault.jpg",
+          "published_at": "2026-04-28T10:10:55Z",
+          "url": "https://www.youtube.com/watch?v=vk11slwPWAI"
+        },
         {
           "id": "ysk_3zRw-v4",
           "title": "Valve&#39;s New Steam Controller Sparks Debate 🎮",
@@ -110,37 +130,17 @@
           "thumbnail": "https://i.ytimg.com/vi/VpC_Pd8qctg/mqdefault.jpg",
           "published_at": "2026-04-28T10:01:00Z",
           "url": "https://www.youtube.com/watch?v=VpC_Pd8qctg"
-        },
-        {
-          "id": "svRoMNTbOIw",
-          "title": "Valve Steam Controller 2026 - 15 тысяч рублей #twitch #alcoreru #shorts #steam #valve",
-          "channel": "AlCorePlay",
-          "channel_id": "UC4BjMLLMoP_SP3Ul21X7eqA",
-          "subscribers": 3030,
-          "thumbnail": "https://i.ytimg.com/vi/svRoMNTbOIw/mqdefault.jpg",
-          "published_at": "2026-04-28T09:50:25Z",
-          "url": "https://www.youtube.com/watch?v=svRoMNTbOIw"
-        },
-        {
-          "id": "l3ZwjS5BTFI",
-          "title": "Valve Gives an Update on Steam Deck 2 - IGN Daily Fix",
-          "channel": "Shahab Gaming ",
-          "channel_id": "UCdOFKXpFxS-LvhX0Tf3GHWA",
-          "subscribers": 1190,
-          "thumbnail": "https://i.ytimg.com/vi/l3ZwjS5BTFI/mqdefault.jpg",
-          "published_at": "2026-04-28T09:40:33Z",
-          "url": "https://www.youtube.com/watch?v=l3ZwjS5BTFI"
         }
       ],
       "first_detected_at": "2026-04-28T09:24:14.167835+00:00",
-      "last_seen_at": "2026-04-28T10:11:15.138646+00:00"
+      "last_seen_at": "2026-04-28T10:14:23.452006+00:00"
     }
   ],
   "topics": [
     {
       "phrase": "steam controller",
       "video_count": 4,
-      "momentum": 26.61,
+      "momentum": 26.6,
       "regions": [
         "GB",
         "US"
@@ -152,7 +152,7 @@
           "channel": "Garett",
           "thumbnail": "https://i.ytimg.com/vi/igXOKbi-OAM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=igXOKbi-OAM",
-          "views": 208290,
+          "views": 209036,
           "age_hours": 11.2
         },
         {
@@ -161,7 +161,7 @@
           "channel": "Gamers Nexus",
           "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-          "views": 374651,
+          "views": 375604,
           "age_hours": 17.2
         },
         {
@@ -170,7 +170,7 @@
           "channel": "Linus Tech Tips",
           "thumbnail": "https://i.ytimg.com/vi/MpJB7LTs5_s/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=MpJB7LTs5_s",
-          "views": 908329,
+          "views": 910433,
           "age_hours": 17.2
         }
       ]
@@ -190,7 +190,7 @@
           "channel": "theplumpcover",
           "thumbnail": "https://i.ytimg.com/vi/BbRUzXOld1A/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=BbRUzXOld1A",
-          "views": 5051677,
+          "views": 5055979,
           "age_hours": 41.6
         },
         {
@@ -199,7 +199,7 @@
           "channel": "Slumberis",
           "thumbnail": "https://i.ytimg.com/vi/hYkSWVpNgi0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=hYkSWVpNgi0",
-          "views": 3958308,
+          "views": 3963945,
           "age_hours": 46.4
         },
         {
@@ -228,7 +228,7 @@
           "channel": "Dusty Douglas",
           "thumbnail": "https://i.ytimg.com/vi/jF0KxOMlSRM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=jF0KxOMlSRM",
-          "views": 10842408,
+          "views": 10855874,
           "age_hours": 85.1
         },
         {
@@ -237,8 +237,8 @@
           "channel": "Epic Dose",
           "thumbnail": "https://i.ytimg.com/vi/9g71xi8JR9I/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=9g71xi8JR9I",
-          "views": 5418280,
-          "age_hours": 41.9
+          "views": 5423990,
+          "age_hours": 42.0
         },
         {
           "id": "PjmcasDu2Kg",
@@ -246,7 +246,7 @@
           "channel": "MollyMae",
           "thumbnail": "https://i.ytimg.com/vi/PjmcasDu2Kg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=PjmcasDu2Kg",
-          "views": 447693,
+          "views": 447974,
           "age_hours": 87.9
         }
       ]
@@ -266,7 +266,7 @@
           "channel": "Kayla Ryan",
           "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
-          "views": 2154789,
+          "views": 2166809,
           "age_hours": 15.0
         },
         {
@@ -275,8 +275,8 @@
           "channel": "Kayla Ryan",
           "thumbnail": "https://i.ytimg.com/vi/M4GEOiXdbIM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=M4GEOiXdbIM",
-          "views": 96173,
-          "age_hours": 14.9
+          "views": 96315,
+          "age_hours": 15.0
         },
         {
           "id": "Ub1zOdFr6p0",
@@ -290,47 +290,9 @@
       ]
     },
     {
-      "phrase": "roblox",
-      "video_count": 4,
-      "momentum": 17.5,
-      "regions": [
-        "GB",
-        "US"
-      ],
-      "example_videos": [
-        {
-          "id": "jjZEyYnkqH4",
-          "title": "Finding EVERY FOOD In Roblox..",
-          "channel": "Foltyn",
-          "thumbnail": "https://i.ytimg.com/vi/jjZEyYnkqH4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=jjZEyYnkqH4",
-          "views": 267069,
-          "age_hours": 10.0
-        },
-        {
-          "id": "Wy_OZMWznIA",
-          "title": "I Got DRAFTED in Football Rush Simulator (Roblox)",
-          "channel": "SSundee",
-          "thumbnail": "https://i.ytimg.com/vi/Wy_OZMWznIA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Wy_OZMWznIA",
-          "views": 218762,
-          "age_hours": 13.2
-        },
-        {
-          "id": "-_J7PLDk0Fg",
-          "title": "I Snuck Into a Famous Roblox YouTuber’s Video..",
-          "channel": "KAYE",
-          "thumbnail": "https://i.ytimg.com/vi/-_J7PLDk0Fg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-_J7PLDk0Fg",
-          "views": 132746,
-          "age_hours": 16.0
-        }
-      ]
-    },
-    {
       "phrase": "life",
       "video_count": 4,
-      "momentum": 17.15,
+      "momentum": 17.14,
       "regions": [
         "GB",
         "US"
@@ -342,7 +304,7 @@
           "channel": "Gamers Nexus",
           "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-          "views": 374651,
+          "views": 375604,
           "age_hours": 17.2
         },
         {
@@ -351,8 +313,8 @@
           "channel": "Evelyn Ha",
           "thumbnail": "https://i.ytimg.com/vi/vKzsVmDwf1g/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=vKzsVmDwf1g",
-          "views": 988285,
-          "age_hours": 108.6
+          "views": 988487,
+          "age_hours": 108.7
         },
         {
           "id": "84vA-r5JViI",
@@ -360,7 +322,7 @@
           "channel": "Faithlouisak",
           "thumbnail": "https://i.ytimg.com/vi/84vA-r5JViI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=84vA-r5JViI",
-          "views": 63580,
+          "views": 63900,
           "age_hours": 15.3
         }
       ]
@@ -368,7 +330,7 @@
     {
       "phrase": "valve steam controller",
       "video_count": 2,
-      "momentum": 15.51,
+      "momentum": 15.5,
       "regions": [
         "GB",
         "US"
@@ -380,7 +342,7 @@
           "channel": "Gamers Nexus",
           "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-          "views": 374651,
+          "views": 375604,
           "age_hours": 17.2
         },
         {
@@ -389,8 +351,8 @@
           "channel": "Linus Tech Tips",
           "thumbnail": "https://i.ytimg.com/vi/2gJtFpLdPcI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=2gJtFpLdPcI",
-          "views": 405555,
-          "age_hours": 14.0
+          "views": 407966,
+          "age_hours": 14.1
         }
       ]
     },
@@ -408,7 +370,7 @@
           "channel": "Timothy Thatcher",
           "thumbnail": "https://i.ytimg.com/vi/oubP9b9Jmp4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=oubP9b9Jmp4",
-          "views": 9760529,
+          "views": 9760560,
           "age_hours": 181.6
         },
         {
@@ -418,7 +380,7 @@
           "thumbnail": "https://i.ytimg.com/vi/ll9PY86VG5Q/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ll9PY86VG5Q",
           "views": 2561811,
-          "age_hours": 72.9
+          "age_hours": 73.0
         }
       ]
     },
@@ -437,7 +399,7 @@
           "channel": "Mat Armstrong MK2",
           "thumbnail": "https://i.ytimg.com/vi/gykkhn0iMMw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=gykkhn0iMMw",
-          "views": 3230574,
+          "views": 3232421,
           "age_hours": 40.2
         },
         {
@@ -447,7 +409,7 @@
           "thumbnail": "https://i.ytimg.com/vi/_CEZWu0ib1c/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=_CEZWu0ib1c",
           "views": 249405,
-          "age_hours": 14.6
+          "age_hours": 14.7
         }
       ]
     },
@@ -465,7 +427,7 @@
           "channel": "Godfrey Twins",
           "thumbnail": "https://i.ytimg.com/vi/mMXhd0wBPb0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=mMXhd0wBPb0",
-          "views": 6604191,
+          "views": 6605355,
           "age_hours": 134.3
         },
         {
@@ -474,8 +436,8 @@
           "channel": "Abigail",
           "thumbnail": "https://i.ytimg.com/vi/JIG-28wCYkA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=JIG-28wCYkA",
-          "views": 2751586,
-          "age_hours": 112.5
+          "views": 2753612,
+          "age_hours": 112.6
         }
       ]
     },
@@ -503,8 +465,8 @@
           "channel": "Abigail",
           "thumbnail": "https://i.ytimg.com/vi/JIG-28wCYkA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=JIG-28wCYkA",
-          "views": 2751586,
-          "age_hours": 112.5
+          "views": 2753612,
+          "age_hours": 112.6
         }
       ]
     },
@@ -531,7 +493,7 @@
           "channel": "Nathaly Cuevas",
           "thumbnail": "https://i.ytimg.com/vi/LJ6k79WLSgU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=LJ6k79WLSgU",
-          "views": 146206,
+          "views": 146221,
           "age_hours": 105.6
         }
       ]
@@ -539,87 +501,87 @@
   ],
   "trending_searches": [
     {
-      "phrase": "how to tie a tie",
+      "phrase": "is it a crime mariah the scientist",
+      "prefix": "is it",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T10:14:23.452863+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "should i stay or should i go",
+      "prefix": "should i",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T10:14:23.452863+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "can you stand the rain new edition",
+      "prefix": "can you",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T10:14:23.452863+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how to draw",
       "prefix": "how to",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T10:11:15.139624+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T10:14:23.452863+00:00",
       "is_new": true
     },
     {
-      "phrase": "how do i say goodbye dean lewis",
-      "prefix": "how do",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T10:11:15.139624+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how does it feel d'angelo",
+      "phrase": "how does it feel",
       "prefix": "how does",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T10:11:15.139624+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T10:14:23.452863+00:00",
       "is_new": true
     },
     {
-      "phrase": "why is it spicy",
+      "phrase": "why is my bus driver playing mitski",
       "prefix": "why is",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T10:11:15.139624+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T10:14:23.452863+00:00",
       "is_new": true
     },
     {
-      "phrase": "why do birds suddenly appear",
+      "phrase": "why don't we fall in love",
       "prefix": "why do",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T10:11:15.139624+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T10:14:23.452863+00:00",
       "is_new": true
     },
     {
-      "phrase": "why does he call you darling",
+      "phrase": "why does it hurt to love you",
       "prefix": "why does",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T10:11:15.139624+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T10:14:23.452863+00:00",
       "is_new": true
     },
     {
-      "phrase": "what is this diddy blud doing on the calculator",
+      "phrase": "what is love",
       "prefix": "what is",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T10:11:15.139624+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T10:14:23.452863+00:00",
       "is_new": true
     },
     {
-      "phrase": "what are you listening to chris stapleton",
+      "phrase": "what are you doing",
       "prefix": "what are",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T10:11:15.139624+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T10:14:23.452863+00:00",
       "is_new": true
     },
     {
-      "phrase": "what happened to virgil",
+      "phrase": "what happened to that boy",
       "prefix": "what happened",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T10:11:15.139624+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T10:14:23.452863+00:00",
       "is_new": true
     },
     {
-      "phrase": "best build 2k26",
+      "phrase": "best part",
       "prefix": "best",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T10:11:15.139624+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "worst way riley green",
-      "prefix": "worst",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T10:11:15.139624+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "topoppgen",
-      "prefix": "top",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T10:11:15.139624+00:00",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T10:14:23.452863+00:00",
       "is_new": true
     }
   ],
@@ -632,14 +594,14 @@
       "thumbnail": "https://i.ytimg.com/vi/lJZ8wWCnwow/mqdefault.jpg",
       "published_at": "2026-04-27T16:30:07Z",
       "category_id": "10",
-      "views": 4964230,
-      "likes": 945638,
-      "comments": 296846,
+      "views": 4996078,
+      "likes": 946996,
+      "comments": 297013,
       "age_hours": 17.7,
-      "views_per_hour": 280705,
-      "momentum": 10.782,
+      "views_per_hour": 281669,
+      "momentum": 10.756,
       "url": "https://www.youtube.com/watch?v=lJZ8wWCnwow",
-      "region": "US",
+      "region": "GB",
       "category": "Other"
     },
     {
@@ -651,11 +613,11 @@
       "published_at": "2026-04-27T19:00:23Z",
       "category_id": "10",
       "views": 1803586,
-      "likes": 237303,
-      "comments": 15504,
+      "likes": 237565,
+      "comments": 15520,
       "age_hours": 15.2,
-      "views_per_hour": 118810,
-      "momentum": 6.847,
+      "views_per_hour": 118402,
+      "momentum": 6.846,
       "url": "https://www.youtube.com/watch?v=XXIX2WnfbpE",
       "region": "US",
       "category": "Other"
@@ -668,11 +630,11 @@
       "thumbnail": "https://i.ytimg.com/vi/NK9-nmfUyf4/mqdefault.jpg",
       "published_at": "2026-04-27T17:30:11Z",
       "category_id": "19",
-      "views": 6938720,
-      "likes": 418826,
-      "comments": 3518,
+      "views": 6940944,
+      "likes": 419722,
+      "comments": 3521,
       "age_hours": 16.7,
-      "views_per_hour": 415892,
+      "views_per_hour": 414726,
       "momentum": 6.326,
       "url": "https://www.youtube.com/watch?v=NK9-nmfUyf4",
       "region": "US",
@@ -686,11 +648,11 @@
       "thumbnail": "https://i.ytimg.com/vi/CFGPPIKWgS0/mqdefault.jpg",
       "published_at": "2026-04-21T04:53:41Z",
       "category_id": "24",
-      "views": 59002869,
-      "likes": 3507697,
-      "comments": 30425,
+      "views": 59012634,
+      "likes": 3507980,
+      "comments": 30428,
       "age_hours": 173.3,
-      "views_per_hour": 340482,
+      "views_per_hour": 340435,
       "momentum": 6.218,
       "url": "https://www.youtube.com/watch?v=CFGPPIKWgS0",
       "region": "US",
@@ -704,11 +666,11 @@
       "thumbnail": "https://i.ytimg.com/vi/FEJsT4kqYhA/mqdefault.jpg",
       "published_at": "2026-04-27T14:28:08Z",
       "category_id": "20",
-      "views": 2612392,
-      "likes": 227257,
-      "comments": 1839,
-      "age_hours": 19.7,
-      "views_per_hour": 132487,
+      "views": 2626745,
+      "likes": 228018,
+      "comments": 1848,
+      "age_hours": 19.8,
+      "views_per_hour": 132863,
       "momentum": 6.049,
       "url": "https://www.youtube.com/watch?v=FEJsT4kqYhA",
       "region": "US",
@@ -722,11 +684,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Zp7xeVwLaxs/mqdefault.jpg",
       "published_at": "2026-04-26T14:11:47Z",
       "category_id": "22",
-      "views": 11280791,
-      "likes": 653941,
-      "comments": 1499,
+      "views": 11319636,
+      "likes": 655193,
+      "comments": 1501,
       "age_hours": 44.0,
-      "views_per_hour": 256437,
+      "views_per_hour": 257014,
       "momentum": 6.043,
       "url": "https://www.youtube.com/watch?v=Zp7xeVwLaxs",
       "region": "US",
@@ -740,12 +702,12 @@
       "thumbnail": "https://i.ytimg.com/vi/rw6uJU6JxE0/mqdefault.jpg",
       "published_at": "2026-04-28T05:54:13Z",
       "category_id": "25",
-      "views": 2858032,
+      "views": 2858326,
       "likes": 51348,
       "comments": 47,
       "age_hours": 4.3,
-      "views_per_hour": 667262,
-      "momentum": 6.035,
+      "views_per_hour": 659286,
+      "momentum": 6.029,
       "url": "https://www.youtube.com/watch?v=rw6uJU6JxE0",
       "region": "US",
       "category": "Other"
@@ -758,11 +720,11 @@
       "thumbnail": "https://i.ytimg.com/vi/3j0G16lOWh0/mqdefault.jpg",
       "published_at": "2026-04-25T18:27:30Z",
       "category_id": "22",
-      "views": 9021156,
-      "likes": 660276,
-      "comments": 7577,
-      "age_hours": 63.7,
-      "views_per_hour": 141556,
+      "views": 9027453,
+      "likes": 660489,
+      "comments": 7585,
+      "age_hours": 63.8,
+      "views_per_hour": 141538,
       "momentum": 5.948,
       "url": "https://www.youtube.com/watch?v=3j0G16lOWh0",
       "region": "US",
@@ -776,11 +738,11 @@
       "thumbnail": "https://i.ytimg.com/vi/BbRUzXOld1A/mqdefault.jpg",
       "published_at": "2026-04-26T16:37:15Z",
       "category_id": "20",
-      "views": 5051677,
-      "likes": 376758,
-      "comments": 1780,
+      "views": 5055979,
+      "likes": 376994,
+      "comments": 1781,
       "age_hours": 41.6,
-      "views_per_hour": 121533,
+      "views_per_hour": 121484,
       "momentum": 5.861,
       "url": "https://www.youtube.com/watch?v=BbRUzXOld1A",
       "region": "US",
@@ -794,11 +756,11 @@
       "thumbnail": "https://i.ytimg.com/vi/f7Pb8ym6zTo/mqdefault.jpg",
       "published_at": "2026-04-23T09:13:25Z",
       "category_id": "22",
-      "views": 7000053,
-      "likes": 768494,
+      "views": 7000817,
+      "likes": 768577,
       "comments": 1169,
       "age_hours": 121.0,
-      "views_per_hour": 57869,
+      "views_per_hour": 57851,
       "momentum": 5.816,
       "url": "https://www.youtube.com/watch?v=f7Pb8ym6zTo",
       "region": "US",
@@ -812,12 +774,12 @@
       "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
       "published_at": "2026-04-27T19:12:25Z",
       "category_id": "22",
-      "views": 2154789,
-      "likes": 131373,
-      "comments": 1150,
+      "views": 2166809,
+      "likes": 131653,
+      "comments": 1151,
       "age_hours": 15.0,
-      "views_per_hour": 143844,
-      "momentum": 5.814,
+      "views_per_hour": 144143,
+      "momentum": 5.813,
       "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
       "region": "US",
       "category": "People & Blogs"
@@ -830,11 +792,11 @@
       "thumbnail": "https://i.ytimg.com/vi/hYkSWVpNgi0/mqdefault.jpg",
       "published_at": "2026-04-26T11:48:00Z",
       "category_id": "1",
-      "views": 3958308,
-      "likes": 339840,
+      "views": 3963945,
+      "likes": 340122,
       "comments": 403,
       "age_hours": 46.4,
-      "views_per_hour": 85332,
+      "views_per_hour": 85358,
       "momentum": 5.783,
       "url": "https://www.youtube.com/watch?v=hYkSWVpNgi0",
       "region": "US",
@@ -849,10 +811,10 @@
       "published_at": "2026-04-18T13:06:10Z",
       "category_id": "1",
       "views": 18864639,
-      "likes": 1500544,
+      "likes": 1500599,
       "comments": 9835,
       "age_hours": 237.1,
-      "views_per_hour": 79569,
+      "views_per_hour": 79552,
       "momentum": 5.706,
       "url": "https://www.youtube.com/watch?v=0-IVhrlMbBU",
       "region": "US",
@@ -866,11 +828,11 @@
       "thumbnail": "https://i.ytimg.com/vi/jF0KxOMlSRM/mqdefault.jpg",
       "published_at": "2026-04-24T21:05:56Z",
       "category_id": "24",
-      "views": 10842408,
-      "likes": 580487,
-      "comments": 9845,
+      "views": 10855874,
+      "likes": 580733,
+      "comments": 9849,
       "age_hours": 85.1,
-      "views_per_hour": 127426,
+      "views_per_hour": 127506,
       "momentum": 5.698,
       "url": "https://www.youtube.com/watch?v=jF0KxOMlSRM",
       "region": "US",
@@ -885,10 +847,10 @@
       "published_at": "2026-04-27T17:01:05Z",
       "category_id": "10",
       "views": 231329,
-      "likes": 24194,
-      "comments": 3575,
+      "likes": 24232,
+      "comments": 3577,
       "age_hours": 17.2,
-      "views_per_hour": 13474,
+      "views_per_hour": 13433,
       "momentum": 5.631,
       "url": "https://www.youtube.com/watch?v=nFDsUUyF66w",
       "region": "US",
@@ -902,12 +864,12 @@
       "thumbnail": "https://i.ytimg.com/vi/-oyxpAgnzD4/mqdefault.jpg",
       "published_at": "2026-04-25T21:00:01Z",
       "category_id": "24",
-      "views": 4405083,
-      "likes": 311719,
-      "comments": 6174,
+      "views": 4406125,
+      "likes": 312473,
+      "comments": 6188,
       "age_hours": 61.2,
-      "views_per_hour": 71994,
-      "momentum": 5.613,
+      "views_per_hour": 71950,
+      "momentum": 5.614,
       "url": "https://www.youtube.com/watch?v=-oyxpAgnzD4",
       "region": "US",
       "category": "Entertainment"
@@ -920,12 +882,12 @@
       "thumbnail": "https://i.ytimg.com/vi/0QgvDKEra08/mqdefault.jpg",
       "published_at": "2026-04-27T18:00:03Z",
       "category_id": "27",
-      "views": 1537058,
-      "likes": 90208,
+      "views": 1547152,
+      "likes": 90404,
       "comments": 1500,
       "age_hours": 16.2,
-      "views_per_hour": 94961,
-      "momentum": 5.61,
+      "views_per_hour": 95277,
+      "momentum": 5.609,
       "url": "https://www.youtube.com/watch?v=0QgvDKEra08",
       "region": "US",
       "category": "Education"
@@ -938,12 +900,12 @@
       "thumbnail": "https://i.ytimg.com/vi/sHmnnNxu6Ww/mqdefault.jpg",
       "published_at": "2026-04-27T17:00:07Z",
       "category_id": "24",
-      "views": 257204,
-      "likes": 33632,
-      "comments": 2102,
+      "views": 257535,
+      "likes": 33672,
+      "comments": 2104,
       "age_hours": 17.2,
-      "views_per_hour": 14967,
-      "momentum": 5.608,
+      "views_per_hour": 14941,
+      "momentum": 5.607,
       "url": "https://www.youtube.com/watch?v=sHmnnNxu6Ww",
       "region": "US",
       "category": "Entertainment"
@@ -956,12 +918,12 @@
       "thumbnail": "https://i.ytimg.com/vi/4nWo4vdyXOo/mqdefault.jpg",
       "published_at": "2026-04-24T16:00:08Z",
       "category_id": "22",
-      "views": 11869076,
-      "likes": 546143,
+      "views": 11870352,
+      "likes": 546189,
       "comments": 4010,
       "age_hours": 90.2,
-      "views_per_hour": 131608,
-      "momentum": 5.608,
+      "views_per_hour": 131546,
+      "momentum": 5.607,
       "url": "https://www.youtube.com/watch?v=4nWo4vdyXOo",
       "region": "US",
       "category": "People & Blogs"
@@ -974,33 +936,15 @@
       "thumbnail": "https://i.ytimg.com/vi/f3zv0-zOqak/mqdefault.jpg",
       "published_at": "2026-04-27T16:44:43Z",
       "category_id": "10",
-      "views": 323378,
-      "likes": 40426,
-      "comments": 1890,
-      "age_hours": 17.4,
+      "views": 324347,
+      "likes": 40469,
+      "comments": 1894,
+      "age_hours": 17.5,
       "views_per_hour": 18540,
-      "momentum": 5.585,
+      "momentum": 5.582,
       "url": "https://www.youtube.com/watch?v=f3zv0-zOqak",
       "region": "GB",
       "category": "Other"
-    },
-    {
-      "id": "igXOKbi-OAM",
-      "title": "Steam Controller Price and Release Date ANNOUNCED! 👀",
-      "channel": "Garett",
-      "channel_id": "UCCQi3X-PJGmd6DrPN9Rb6iw",
-      "thumbnail": "https://i.ytimg.com/vi/igXOKbi-OAM/mqdefault.jpg",
-      "published_at": "2026-04-27T23:01:59Z",
-      "category_id": "20",
-      "views": 208290,
-      "likes": 26922,
-      "comments": 965,
-      "age_hours": 11.2,
-      "views_per_hour": 18674,
-      "momentum": 5.573,
-      "url": "https://www.youtube.com/watch?v=igXOKbi-OAM",
-      "region": "US",
-      "category": "Gaming"
     },
     {
       "id": "4AoNXAEyhYE",
@@ -1011,14 +955,32 @@
       "published_at": "2026-04-25T21:00:03Z",
       "category_id": "24",
       "views": 4364818,
-      "likes": 302492,
+      "likes": 302511,
       "comments": 4049,
       "age_hours": 61.2,
-      "views_per_hour": 71337,
+      "views_per_hour": 71276,
       "momentum": 5.571,
       "url": "https://www.youtube.com/watch?v=4AoNXAEyhYE",
       "region": "US",
       "category": "Entertainment"
+    },
+    {
+      "id": "igXOKbi-OAM",
+      "title": "Steam Controller Price and Release Date ANNOUNCED! 👀",
+      "channel": "Garett",
+      "channel_id": "UCCQi3X-PJGmd6DrPN9Rb6iw",
+      "thumbnail": "https://i.ytimg.com/vi/igXOKbi-OAM/mqdefault.jpg",
+      "published_at": "2026-04-27T23:01:59Z",
+      "category_id": "20",
+      "views": 209036,
+      "likes": 26973,
+      "comments": 966,
+      "age_hours": 11.2,
+      "views_per_hour": 18653,
+      "momentum": 5.57,
+      "url": "https://www.youtube.com/watch?v=igXOKbi-OAM",
+      "region": "US",
+      "category": "Gaming"
     },
     {
       "id": "E7qK-4BVGxM",
@@ -1028,11 +990,11 @@
       "thumbnail": "https://i.ytimg.com/vi/E7qK-4BVGxM/mqdefault.jpg",
       "published_at": "2026-04-22T12:54:01Z",
       "category_id": "22",
-      "views": 6030672,
-      "likes": 597774,
+      "views": 6030687,
+      "likes": 597808,
       "comments": 1641,
       "age_hours": 141.3,
-      "views_per_hour": 42684,
+      "views_per_hour": 42668,
       "momentum": 5.561,
       "url": "https://www.youtube.com/watch?v=E7qK-4BVGxM",
       "region": "GB",
@@ -1046,12 +1008,12 @@
       "thumbnail": "https://i.ytimg.com/vi/iwYxrHF2T80/mqdefault.jpg",
       "published_at": "2026-04-27T11:47:40Z",
       "category_id": "28",
-      "views": 1298237,
-      "likes": 102330,
-      "comments": 729,
+      "views": 1303725,
+      "likes": 102500,
+      "comments": 730,
       "age_hours": 22.4,
-      "views_per_hour": 57975,
-      "momentum": 5.541,
+      "views_per_hour": 58085,
+      "momentum": 5.54,
       "url": "https://www.youtube.com/watch?v=iwYxrHF2T80",
       "region": "GB",
       "category": "Science & Tech"
