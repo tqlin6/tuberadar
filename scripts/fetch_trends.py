@@ -934,10 +934,27 @@ def run() -> None:
     topics = topics_by_region.get("ALL", [])
     print(f"Trending topics (all regions, deduped): {len(topics)}")
 
-    # Use the global topic phrases as candidates for emerging-theme validation.
+    # Build a wider candidate pool for theme validation. Themes need
+    # multi-word, descriptive phrases — those don't always survive the
+    # topic-list cut, so we pull from all regional topic lists, prefer
+    # multi-word phrases, and dedupe.
     print(f"\nValidating emerging themes (window: {THEME_WINDOW_HOURS}h, "
           f"sub cap: {THEME_MAX_SUBSCRIBERS:,})...")
-    candidate_phrases = [t["phrase"] for t in topics]
+    candidate_pool: dict[str, float] = {}
+    for region_topics in topics_by_region.values():
+        for t in region_topics:
+            phrase = t["phrase"]
+            momentum = t.get("momentum", 0)
+            if len(phrase.split()) < 2:
+                continue
+            if phrase not in candidate_pool or momentum > candidate_pool[phrase]:
+                candidate_pool[phrase] = momentum
+    candidate_phrases = sorted(
+        candidate_pool.keys(),
+        key=lambda p: candidate_pool[p],
+        reverse=True
+    )
+    print(f"  Candidate pool: {len(candidate_phrases)} multi-word phrases")
     themes = extract_emerging_themes(candidate_phrases)
     print(f"Emerging themes confirmed: {len(themes)}")
 
