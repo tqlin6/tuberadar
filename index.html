@@ -3,8 +3,25 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>TubeRadar — YouTube trends, before they break.</title>
-  <meta name="description" content="A signal feed of emerging YouTube topics for content creators. Refreshed throughout the day." />
+  <title>TubeRadar — Free YouTube trend tracker for content creators</title>
+  <meta name="description" content="A free, live feed showing what creators are starting to upload, what's gaining momentum, and what viewers are searching for — across seven regions. Spot the wave before it breaks. No signup." />
+  <meta name="keywords" content="youtube trends, youtube trend tracker, emerging youtube topics, youtube content ideas, free youtube tools, content creator trends, youtube search trends, video ideas" />
+  <meta name="author" content="TubeRadar" />
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://tuberadar.info/" />
+
+  <!-- Open Graph (for sharing on Facebook, LinkedIn, etc.) -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="TubeRadar — Know what to make next, before everyone else does" />
+  <meta property="og:description" content="A free, live feed of YouTube ideas, momentum, and search demand — refreshed throughout the day. No signup, no upsell." />
+  <meta property="og:url" content="https://tuberadar.info/" />
+  <meta property="og:site_name" content="TubeRadar" />
+
+  <!-- Twitter card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="TubeRadar — Know what to make next, before everyone else does" />
+  <meta name="twitter:description" content="Free, live YouTube trend feed. Ideas, insights, edge — refreshed throughout the day." />
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -33,6 +50,29 @@
        Until you do this, the script does nothing visible. -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
           crossorigin="anonymous"></script>
+
+  <!-- Structured data: tells Google this is a free web app -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "TubeRadar",
+    "url": "https://tuberadar.info/",
+    "description": "Free YouTube trend tracker for content creators. Surfaces what creators are starting to make, what's gaining momentum, and what viewers are searching for — refreshed throughout the day, across seven regions.",
+    "applicationCategory": "BusinessApplication",
+    "operatingSystem": "Any",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "audience": {
+      "@type": "Audience",
+      "audienceType": "Content creators, YouTubers, small creators"
+    }
+  }
+  </script>
+
 </head>
 <body>
 
@@ -70,13 +110,13 @@
 
   <section class="hero">
     <div class="hero__rule"></div>
-    <p class="hero__eyebrow">A signal feed for content creators</p>
+    <p class="hero__eyebrow">Ideas · Insights · Edge</p>
     <h1 class="hero__title">
-      YouTube trends,<br />
-      <em>before</em> they break.
+      Know what to make next,<br />
+      <em>before</em> everyone else does.
     </h1>
     <p class="hero__lede">
-      Throughout the day we surface the topics gaining the most momentum across YouTube — phrases recurring in the titles of breakout videos, ranked by view velocity. Pick your next subject before everyone else does.
+      A free, live feed of what creators are starting to upload, what's gaining the most momentum, and what viewers are actively searching for — refreshed throughout the day across seven regions. Spot the wave early. Pick your next video with confidence.
     </p>
     <div class="hero__rule"></div>
   </section>
@@ -104,7 +144,7 @@
             <span class="themes-pulse" aria-hidden="true"></span>
             Emerging themes
           </h2>
-          <p class="column__sub">Topics that lots of <em>different</em> creators have started uploading about in the last 12 hours. The signal of a theme catching fire across YouTube — not one big channel posting.</p>
+          <p class="column__sub">Topics multiple <em>different</em> small and mid-size creators have just started uploading about. A clear signal a wave is building — and a chance to ride it before the niche saturates.</p>
         </header>
         <ol class="themes" id="themes-list" aria-busy="true">
           <li class="placeholder">Loading…</li>
@@ -114,7 +154,7 @@
       <section class="topics-section" aria-labelledby="topics-title">
         <header class="column__head">
           <h2 class="column__title" id="topics-title">Topics gaining momentum</h2>
-          <p class="column__sub">Phrases recurring across the highest-velocity videos right now. The bigger the number, the louder the signal.</p>
+          <p class="column__sub">Phrases showing up again and again in the videos racking up views fastest right now. The bigger the number, the louder the signal.</p>
         </header>
         <ol class="topics" id="topics-list" aria-busy="true">
           <li class="placeholder">Loading…</li>
@@ -128,7 +168,7 @@
       <section class="searches-section" aria-labelledby="searches-title">
         <header class="column__head">
           <h2 class="column__title" id="searches-title">What's being searched</h2>
-          <p class="column__sub">Top YouTube autocomplete suggestions right now. New ones since last visit are flagged.</p>
+          <p class="column__sub">Live YouTube autocomplete — what people are typing into the search bar right now. New since your last visit gets flagged.</p>
         </header>
         <ol class="searches" id="searches-list" aria-busy="true">
           <li class="placeholder">Loading…</li>
@@ -138,7 +178,7 @@
       <section class="videos-section" aria-labelledby="videos-title">
         <header class="column__head">
           <h2 class="column__title" id="videos-title">Breakout videos</h2>
-          <p class="column__sub">Individual videos with the highest view velocity right now.</p>
+          <p class="column__sub">The single videos picking up views fastest right now. Useful for spotting the exact framing, thumbnail and hook that's working.</p>
         </header>
         <ul class="videos" id="videos-list" aria-busy="true">
           <li class="placeholder">Loading…</li>
@@ -168,22 +208,22 @@
         <div class="how__item">
           <span class="how__num">01</span>
           <h4>Emerging themes</h4>
-          <p>Topics that many <em>different</em> small/mid creators (under 1M subscribers) have started uploading about in the last 12 hours.</p>
+          <p>Topics multiple small and mid-size creators have just started making videos about. The clearest signal that a wave is building — get in early, before the niche saturates.</p>
         </div>
         <div class="how__item">
           <span class="how__num">02</span>
-          <h4>Topics gaining momentum</h4>
-          <p>Phrases recurring across the highest-velocity videos on the popular charts right now. Often a format ("tier list"), a topic ("ai agents"), or a hook ("i tried").</p>
+          <h4>Topics with momentum</h4>
+          <p>Phrases recurring across the videos racking up views fastest right now. Use these to spot proven subjects, hooks, and formats your audience is rewarding today.</p>
         </div>
         <div class="how__item">
           <span class="how__num">03</span>
-          <h4>What's being searched</h4>
-          <p>Top YouTube autocomplete completions for common search prefixes. The leading edge of viewer demand — what people are typing right now.</p>
+          <h4>What viewers are searching</h4>
+          <p>Live YouTube autocomplete — the demand side of the equation. Match a video to one of these and you're answering a question people are actively typing.</p>
         </div>
         <div class="how__item">
           <span class="how__num">04</span>
-          <h4>Action</h4>
-          <p>Use the feeds as briefs, not scripts. Clone the topic, not the title — ride the wave, don't copy the surfer.</p>
+          <h4>Your next move</h4>
+          <p>Treat the feed as a brief, not a script. Clone the topic, not the title. Bring your angle, your voice, your audience. Ride the wave — don't copy the surfer.</p>
         </div>
       </div>
     </div>
