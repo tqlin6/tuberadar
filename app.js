@@ -5,13 +5,25 @@
 
 (async function () {
   const els = {
-    themes:    document.getElementById('themes-list'),
-    topics:    document.getElementById('topics-list'),
-    videos:    document.getElementById('videos-list'),
-    updated:   document.getElementById('updated-at'),
-    regions:   document.getElementById('regions'),
-    issue:     document.getElementById('issue-number'),
+    themes:       document.getElementById('themes-list'),
+    topics:       document.getElementById('topics-list'),
+    videos:       document.getElementById('videos-list'),
+    searches:     document.getElementById('searches-list'),
+    updated:      document.getElementById('updated-at'),
+    regionSelect: document.getElementById('region-select'),
+    issue:        document.getElementById('issue-number'),
+    themeToggle:  document.getElementById('theme-toggle'),
   };
+
+  // ---------- Theme toggle ----------
+  if (els.themeToggle) {
+    els.themeToggle.addEventListener('click', () => {
+      const current = document.documentElement.getAttribute('data-theme') || 'dark';
+      const next = current === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      try { localStorage.setItem('tuberadar:theme', next); } catch (_) {}
+    });
+  }
 
   let data;
   try {
@@ -46,64 +58,154 @@
   const updatedDate = new Date(data.generated_at);
   els.updated.textContent = formatRelative(updatedDate);
   els.updated.title = updatedDate.toLocaleString();
-  els.regions.textContent = (data.regions || []).join(' · ');
   els.issue.textContent = formatIssue(updatedDate);
 
-  // ---------- emerging themes ----------
-  els.themes.removeAttribute('aria-busy');
-  els.themes.innerHTML = '';
+  // ---------- Region selector ----------
+  const REGION_KEY = 'tuberadar:region';
+  let savedRegion = 'all';
+  try { savedRegion = localStorage.getItem(REGION_KEY) || 'all'; } catch (_) {}
 
-  if (!data.emerging_themes || data.emerging_themes.length === 0) {
-    els.themes.innerHTML = '<li class="placeholder">No emerging themes detected in the current window. Check back later — themes need traction across multiple small creators before they show up here.</li>';
-  } else {
-    // Count themes that appeared since the visitor's last visit, for the banner.
-    let newSinceLastVisit = 0;
-    if (showWhatsNew) {
-      newSinceLastVisit = data.emerging_themes.filter(t =>
-        t.first_detected_at && new Date(t.first_detected_at).getTime() > lastVisitMs
-      ).length;
+  // Populate the dropdown.
+  const regionsMeta = data.regions_meta || (data.regions || []).map(r => ({ code: r, name: r }));
+  if (els.regionSelect) {
+    // Clear any existing options except the "ALL" option.
+    els.regionSelect.innerHTML = '<option value="all">ALL</option>';
+    for (const r of regionsMeta) {
+      const opt = document.createElement('option');
+      opt.value = r.code;
+      opt.textContent = `${r.code} — ${r.name}`;
+      els.regionSelect.appendChild(opt);
     }
-    if (newSinceLastVisit > 0) {
-      const banner = document.createElement('li');
-      banner.className = 'themes-banner';
-      banner.innerHTML = `
-        <span class="themes-banner__dot"></span>
-        <span><strong>${newSinceLastVisit}</strong> new ${newSinceLastVisit === 1 ? 'theme has' : 'themes have'} surfaced since your last visit.</span>
-      `;
-      els.themes.appendChild(banner);
+    // Default-select the saved region if it exists in our list.
+    const validRegions = ['all', ...regionsMeta.map(r => r.code)];
+    if (!validRegions.includes(savedRegion)) savedRegion = 'all';
+    els.regionSelect.value = savedRegion;
+
+    els.regionSelect.addEventListener('change', () => {
+      const newRegion = els.regionSelect.value;
+      try { localStorage.setItem(REGION_KEY, newRegion); } catch (_) {}
+      renderForRegion(newRegion);
+    });
+  }
+
+  function regionMatches(item, region) {
+    if (region === 'all') return true;
+    if (item.region === region) return true;
+    if (Array.isArray(item.regions) && item.regions.includes(region)) return true;
+    return false;
+  }
+
+  function renderForRegion(region) {
+    // ---------- emerging themes (always global - they're search-validated) ----------
+    els.themes.removeAttribute('aria-busy');
+    els.themes.innerHTML = '';
+
+    if (!data.emerging_themes || data.emerging_themes.length === 0) {
+      els.themes.innerHTML = '<li class="placeholder">No emerging themes detected in the current window. Check back later — themes need traction across multiple small creators before they show up here.</li>';
+    } else {
+      let newSinceLastVisit = 0;
+      if (showWhatsNew) {
+        newSinceLastVisit = data.emerging_themes.filter(t =>
+          t.first_detected_at && new Date(t.first_detected_at).getTime() > lastVisitMs
+        ).length;
+      }
+      if (newSinceLastVisit > 0) {
+        const banner = document.createElement('li');
+        banner.className = 'themes-banner';
+        banner.innerHTML = `
+          <span class="themes-banner__dot"></span>
+          <span><strong>${newSinceLastVisit}</strong> new ${newSinceLastVisit === 1 ? 'theme has' : 'themes have'} surfaced since your last visit.</span>
+        `;
+        els.themes.appendChild(banner);
+      }
+      data.emerging_themes.forEach((theme, i) => {
+        const isNew = showWhatsNew && theme.first_detected_at &&
+          new Date(theme.first_detected_at).getTime() > lastVisitMs;
+        els.themes.appendChild(renderTheme(theme, i + 1, isNew));
+      });
     }
-    data.emerging_themes.forEach((theme, i) => {
-      const isNew = showWhatsNew && theme.first_detected_at &&
-        new Date(theme.first_detected_at).getTime() > lastVisitMs;
-      els.themes.appendChild(renderTheme(theme, i + 1, isNew));
-    });
+
+    // ---------- topics (filtered by region) ----------
+    els.topics.removeAttribute('aria-busy');
+    els.topics.innerHTML = '';
+
+    const filteredTopics = (data.topics || []).filter(t => regionMatches(t, region));
+    if (filteredTopics.length === 0) {
+      const msg = region === 'all'
+        ? 'No topics yet — the feed will populate after the next fetch.'
+        : `No topics for this region right now. Try ALL or another region.`;
+      els.topics.innerHTML = `<li class="placeholder">${msg}</li>`;
+    } else {
+      filteredTopics.forEach((topic, i) => {
+        els.topics.appendChild(renderTopic(topic, i + 1));
+      });
+    }
+
+    // ---------- videos (filtered by region) ----------
+    els.videos.removeAttribute('aria-busy');
+    els.videos.innerHTML = '';
+
+    const filteredVideos = (data.breakout_videos || []).filter(v => regionMatches(v, region));
+    if (filteredVideos.length === 0) {
+      const msg = region === 'all'
+        ? 'No videos yet.'
+        : 'No videos for this region right now.';
+      els.videos.innerHTML = `<li class="placeholder">${msg}</li>`;
+    } else {
+      filteredVideos.slice(0, 12).forEach((video, i) => {
+        els.videos.appendChild(renderVideo(video, i + 1));
+      });
+    }
+
+    // ---------- trending searches (always global) ----------
+    if (els.searches) {
+      els.searches.removeAttribute('aria-busy');
+      els.searches.innerHTML = '';
+      const searches = data.trending_searches || [];
+      if (searches.length === 0) {
+        els.searches.innerHTML = '<li class="placeholder">No search trends yet — populates after next fetch.</li>';
+      } else {
+        searches.forEach((s, i) => {
+          els.searches.appendChild(renderSearchTerm(s, i + 1));
+        });
+      }
+    }
   }
 
-  // ---------- topics ----------
-  els.topics.removeAttribute('aria-busy');
-  els.topics.innerHTML = '';
-
-  if (!data.topics || data.topics.length === 0) {
-    els.topics.innerHTML = '<li class="placeholder">No topics yet — the feed will populate after the next fetch.</li>';
-  } else {
-    data.topics.forEach((topic, i) => {
-      els.topics.appendChild(renderTopic(topic, i + 1));
-    });
-  }
-
-  // ---------- videos ----------
-  els.videos.removeAttribute('aria-busy');
-  els.videos.innerHTML = '';
-
-  if (!data.breakout_videos || data.breakout_videos.length === 0) {
-    els.videos.innerHTML = '<li class="placeholder">No videos yet.</li>';
-  } else {
-    data.breakout_videos.slice(0, 12).forEach((video, i) => {
-      els.videos.appendChild(renderVideo(video, i + 1));
-    });
-  }
+  // Initial render.
+  renderForRegion(savedRegion);
 
   // ---------- helpers ----------
+
+  function renderSearchTerm(term, rank) {
+    const li = document.createElement('li');
+    li.className = 'search-term';
+    li.tabIndex = 0;
+
+    const isNew = !!term.is_new;
+    const newBadge = isNew ? '<span class="search-term__badge">NEW</span>' : '';
+
+    li.innerHTML = `
+      <div class="search-term__rank">${String(rank).padStart(2, '0')}</div>
+      <div class="search-term__main">
+        <div class="search-term__phrase">${escapeHtml(term.phrase)}</div>
+        <span class="search-term__prefix">From "${escapeHtml(term.prefix)}…"</span>
+      </div>
+      ${newBadge}
+    `;
+
+    // Clicking opens a YouTube search for the term in a new tab.
+    const ytUrl = `https://www.youtube.com/results?search_query=${encodeURIComponent(term.phrase)}`;
+    li.addEventListener('click', () => window.open(ytUrl, '_blank', 'noopener'));
+    li.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        window.open(ytUrl, '_blank', 'noopener');
+      }
+    });
+
+    return li;
+  }
 
   function renderTheme(theme, rank, isNew) {
     const li = document.createElement('li');
@@ -236,12 +338,22 @@
   }
 
   function showError(msg) {
-    els.themes.removeAttribute('aria-busy');
-    els.themes.innerHTML = '';
-    els.topics.removeAttribute('aria-busy');
-    els.topics.innerHTML = `<li class="placeholder">Couldn't load the feed (${escapeHtml(msg)}). If you've just deployed, the first GitHub Action run may still be in progress.</li>`;
-    els.videos.removeAttribute('aria-busy');
-    els.videos.innerHTML = '';
+    if (els.themes) {
+      els.themes.removeAttribute('aria-busy');
+      els.themes.innerHTML = '';
+    }
+    if (els.topics) {
+      els.topics.removeAttribute('aria-busy');
+      els.topics.innerHTML = `<li class="placeholder">Couldn't load the feed (${escapeHtml(msg)}). If you've just deployed, the first GitHub Action run may still be in progress.</li>`;
+    }
+    if (els.videos) {
+      els.videos.removeAttribute('aria-busy');
+      els.videos.innerHTML = '';
+    }
+    if (els.searches) {
+      els.searches.removeAttribute('aria-busy');
+      els.searches.innerHTML = '';
+    }
   }
 
   function formatViews(n) {
