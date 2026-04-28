@@ -178,7 +178,11 @@ youtube tiktok instagram twitter
 content creator creators
 asmr vlog vlogs blog blogs podcast podcasts interview interviews
 trailer trailers teaser teasers preview
-behind scenes bts shorts
+behind scenes bts
+youtubeshorts shortsvideo shortsfeed viralshorts trendingshorts
+viralvideo viral trending trendy fyp foryou foryoupage
+prank pranks comedy relatable mood vibe vibes daily
+new latest live update updates
 """.split()),
 
     "pt": set("""
