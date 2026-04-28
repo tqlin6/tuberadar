@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T17:43:39.035554+00:00",
+  "generated_at": "2026-04-28T17:47:37.450461+00:00",
   "regions": [
     "US",
     "GB",
@@ -42,7 +42,7 @@
   "stats": {
     "total_videos": 429,
     "total_topics": 18,
-    "total_themes": 0,
+    "total_themes": 1,
     "total_searches": 12,
     "by_category": {
       "Other": 51,
@@ -55,7 +55,60 @@
       "Science & Tech": 25
     }
   },
-  "emerging_themes": [],
+  "emerging_themes": [
+    {
+      "phrase": "steam controller",
+      "video_count": 30,
+      "channel_count": 29,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "VrXLogz8yEA",
+          "title": "MFG на Radeon // Российский процессор Иртыш // Анонс Steam Controller // Ryzen 9 9950X3D2 хорош, но",
+          "channel": "Kazzka",
+          "channel_id": "UCNj2-kX0-d8SGpsqUCbm4PQ",
+          "subscribers": 0,
+          "thumbnail": "https://i.ytimg.com/vi/VrXLogz8yEA/mqdefault.jpg",
+          "published_at": "2026-04-28T17:37:08Z",
+          "url": "https://www.youtube.com/watch?v=VrXLogz8yEA"
+        },
+        {
+          "id": "lIK4hKCXZHs",
+          "title": "Valve&#39;s Steam Controller Is Almost Here!!!",
+          "channel": "Brodie Robertson",
+          "channel_id": "UCld68syR8Wi-GY_n4CaoJGA",
+          "subscribers": 0,
+          "thumbnail": "https://i.ytimg.com/vi/lIK4hKCXZHs/mqdefault.jpg",
+          "published_at": "2026-04-28T17:30:22Z",
+          "url": "https://www.youtube.com/watch?v=lIK4hKCXZHs"
+        },
+        {
+          "id": "Yz5Rz4KuQmw",
+          "title": "Es MUY mala señal que Valve adelante el Steam Controller",
+          "channel": "Chicocartera",
+          "channel_id": "UCL8HWH1n49MeACxkJFfmcVg",
+          "subscribers": 0,
+          "thumbnail": "https://i.ytimg.com/vi/Yz5Rz4KuQmw/mqdefault.jpg",
+          "published_at": "2026-04-28T17:30:10Z",
+          "url": "https://www.youtube.com/watch?v=Yz5Rz4KuQmw"
+        },
+        {
+          "id": "wyUlMxB9fRo",
+          "title": "كل لاعب PC محتاج يعرف عن هذا الكنترولر الجديد #SteamController #TrendingNow",
+          "channel": "KZ CoreX",
+          "channel_id": "UCl28S09Kw-96Sglrn43PEUw",
+          "subscribers": 0,
+          "thumbnail": "https://i.ytimg.com/vi/wyUlMxB9fRo/mqdefault.jpg",
+          "published_at": "2026-04-28T17:30:00Z",
+          "url": "https://www.youtube.com/watch?v=wyUlMxB9fRo"
+        }
+      ],
+      "first_detected_at": "2026-04-28T17:47:37.450461+00:00",
+      "last_seen_at": "2026-04-28T17:47:37.450461+00:00"
+    }
+  ],
   "topics": [
     {
       "phrase": "steam controller",
@@ -72,8 +125,8 @@
           "channel": "Garett",
           "thumbnail": "https://i.ytimg.com/vi/igXOKbi-OAM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=igXOKbi-OAM",
-          "views": 269784,
-          "age_hours": 18.7
+          "views": 270154,
+          "age_hours": 18.8
         },
         {
           "id": "MpJB7LTs5_s",
@@ -81,8 +134,8 @@
           "channel": "Linus Tech Tips",
           "thumbnail": "https://i.ytimg.com/vi/MpJB7LTs5_s/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=MpJB7LTs5_s",
-          "views": 1090021,
-          "age_hours": 24.7
+          "views": 1091186,
+          "age_hours": 24.8
         },
         {
           "id": "wfr4QN1Hvhs",
@@ -90,8 +143,8 @@
           "channel": "Gamers Nexus",
           "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-          "views": 438873,
-          "age_hours": 24.7
+          "views": 439218,
+          "age_hours": 24.8
         }
       ]
     },
@@ -110,8 +163,8 @@
           "channel": "Cantinho da nany ",
           "thumbnail": "https://i.ytimg.com/vi/a8ThkG3-70Q/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=a8ThkG3-70Q",
-          "views": 17716,
-          "age_hours": 20.7
+          "views": 17732,
+          "age_hours": 20.8
         },
         {
           "id": "CutUfymJAPk",
@@ -119,8 +172,8 @@
           "channel": "FRANCIELLE NOGUEIRA",
           "thumbnail": "https://i.ytimg.com/vi/CutUfymJAPk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=CutUfymJAPk",
-          "views": 20706,
-          "age_hours": 20.2
+          "views": 20732,
+          "age_hours": 20.3
         },
         {
           "id": "gSJoZ-3914c",
@@ -129,14 +182,14 @@
           "thumbnail": "https://i.ytimg.com/vi/gSJoZ-3914c/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=gSJoZ-3914c",
           "views": 147437,
-          "age_hours": 27.1
+          "age_hours": 27.2
         }
       ]
     },
     {
       "phrase": "indian",
       "video_count": 5,
-      "momentum": 24.04,
+      "momentum": 24.03,
       "regions": [
         "IN"
       ],
@@ -148,7 +201,7 @@
           "channel": "Makeup by Parul Garg",
           "thumbnail": "https://i.ytimg.com/vi/9IcrpmTrxFQ/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=9IcrpmTrxFQ",
-          "views": 3617355,
+          "views": 3618762,
           "age_hours": 35.5
         },
         {
@@ -157,8 +210,8 @@
           "channel": "We r Loser",
           "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-          "views": 6377927,
-          "age_hours": 50.7
+          "views": 6385817,
+          "age_hours": 50.8
         },
         {
           "id": "7LN5Da3oCgU",
@@ -166,7 +219,7 @@
           "channel": "Jagiya the fun",
           "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-          "views": 10227690,
+          "views": 10230019,
           "age_hours": 95.8
         }
       ]
@@ -186,8 +239,8 @@
           "channel": "Artthur Lima",
           "thumbnail": "https://i.ytimg.com/vi/fQKC-Te8AsI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=fQKC-Te8AsI",
-          "views": 6011135,
-          "age_hours": 92.1
+          "views": 6011162,
+          "age_hours": 92.2
         },
         {
           "id": "-A2FVavQFkA",
@@ -195,8 +248,8 @@
           "channel": "DaniDubs",
           "thumbnail": "https://i.ytimg.com/vi/-A2FVavQFkA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=-A2FVavQFkA",
-          "views": 2075591,
-          "age_hours": 68.2
+          "views": 2076643,
+          "age_hours": 68.3
         },
         {
           "id": "Jmq2w-qQXzs",
@@ -204,8 +257,8 @@
           "channel": "tuiugrauu46",
           "thumbnail": "https://i.ytimg.com/vi/Jmq2w-qQXzs/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Jmq2w-qQXzs",
-          "views": 3119563,
-          "age_hours": 68.2
+          "views": 3121375,
+          "age_hours": 68.3
         }
       ]
     },
@@ -224,7 +277,7 @@
           "channel": "Lara Vidal",
           "thumbnail": "https://i.ytimg.com/vi/wiszO68zpR4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=wiszO68zpR4",
-          "views": 3458804,
+          "views": 3461538,
           "age_hours": 49.9
         },
         {
@@ -242,8 +295,8 @@
           "channel": "Página Dois",
           "thumbnail": "https://i.ytimg.com/vi/yn36Ey2K89M/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=yn36Ey2K89M",
-          "views": 3788883,
-          "age_hours": 115.7
+          "views": 3790081,
+          "age_hours": 115.8
         }
       ]
     },
@@ -262,8 +315,8 @@
           "channel": "NpsDude",
           "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-          "views": 846106,
-          "age_hours": 53.4
+          "views": 846566,
+          "age_hours": 53.5
         },
         {
           "id": "BJbmTT_SQ_M",
@@ -271,8 +324,8 @@
           "channel": "Saccu Gamer",
           "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-          "views": 146863,
-          "age_hours": 12.4
+          "views": 147294,
+          "age_hours": 12.5
         },
         {
           "id": "48vOtWj-Q6k",
@@ -280,7 +333,7 @@
           "channel": "ABISOME",
           "thumbnail": "https://i.ytimg.com/vi/48vOtWj-Q6k/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=48vOtWj-Q6k",
-          "views": 118351,
+          "views": 118609,
           "age_hours": 15.1
         }
       ]
@@ -301,7 +354,7 @@
           "thumbnail": "https://i.ytimg.com/vi/uLYFbv6_bZ4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=uLYFbv6_bZ4",
           "views": 138297,
-          "age_hours": 18.7
+          "age_hours": 18.8
         },
         {
           "id": "FXMDHB5QMs4",
@@ -338,7 +391,7 @@
           "channel": "Shreemani Tripathi",
           "thumbnail": "https://i.ytimg.com/vi/_xtbjsDjVsY/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=_xtbjsDjVsY",
-          "views": 38258448,
+          "views": 38262915,
           "age_hours": 297.9
         },
         {
@@ -347,8 +400,8 @@
           "channel": "TeAm STARS",
           "thumbnail": "https://i.ytimg.com/vi/GEwszGFecU8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=GEwszGFecU8",
-          "views": 8648899,
-          "age_hours": 83.8
+          "views": 8651932,
+          "age_hours": 83.9
         },
         {
           "id": "9UcVdPx8GAE",
@@ -356,8 +409,8 @@
           "channel": "Chattambees",
           "thumbnail": "https://i.ytimg.com/vi/9UcVdPx8GAE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=9UcVdPx8GAE",
-          "views": 2258983,
-          "age_hours": 52.0
+          "views": 2260117,
+          "age_hours": 52.1
         }
       ]
     },
@@ -376,7 +429,7 @@
           "channel": "Shreemani Tripathi",
           "thumbnail": "https://i.ytimg.com/vi/_xtbjsDjVsY/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=_xtbjsDjVsY",
-          "views": 38258448,
+          "views": 38262915,
           "age_hours": 297.9
         },
         {
@@ -385,8 +438,8 @@
           "channel": "TeAm STARS",
           "thumbnail": "https://i.ytimg.com/vi/GEwszGFecU8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=GEwszGFecU8",
-          "views": 8648899,
-          "age_hours": 83.8
+          "views": 8651932,
+          "age_hours": 83.9
         },
         {
           "id": "9UcVdPx8GAE",
@@ -394,8 +447,8 @@
           "channel": "Chattambees",
           "thumbnail": "https://i.ytimg.com/vi/9UcVdPx8GAE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=9UcVdPx8GAE",
-          "views": 2258983,
-          "age_hours": 52.0
+          "views": 2260117,
+          "age_hours": 52.1
         }
       ]
     },
@@ -414,8 +467,8 @@
           "channel": "Jazzghost",
           "thumbnail": "https://i.ytimg.com/vi/bei3qYO5tvI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=bei3qYO5tvI",
-          "views": 1184415,
-          "age_hours": 26.7
+          "views": 1184613,
+          "age_hours": 26.8
         },
         {
           "id": "kTHuntqM-OQ",
@@ -424,7 +477,7 @@
           "thumbnail": "https://i.ytimg.com/vi/kTHuntqM-OQ/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=kTHuntqM-OQ",
           "views": 556809,
-          "age_hours": 28.7
+          "age_hours": 28.8
         },
         {
           "id": "e9FxqsL1Kno",
@@ -432,8 +485,8 @@
           "channel": "Athos",
           "thumbnail": "https://i.ytimg.com/vi/e9FxqsL1Kno/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=e9FxqsL1Kno",
-          "views": 569693,
-          "age_hours": 28.2
+          "views": 570677,
+          "age_hours": 28.3
         }
       ]
     },
@@ -452,8 +505,8 @@
           "channel": "Junão no Hype",
           "thumbnail": "https://i.ytimg.com/vi/nP8_E-xgATE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=nP8_E-xgATE",
-          "views": 10620462,
-          "age_hours": 115.6
+          "views": 10622529,
+          "age_hours": 115.7
         },
         {
           "id": "Z11W-tbRZWk",
@@ -461,8 +514,8 @@
           "channel": "Leozin jhon",
           "thumbnail": "https://i.ytimg.com/vi/Z11W-tbRZWk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Z11W-tbRZWk",
-          "views": 1654033,
-          "age_hours": 308.7
+          "views": 1654115,
+          "age_hours": 308.8
         },
         {
           "id": "JjC7SeDlijY",
@@ -470,7 +523,7 @@
           "channel": "Wesley Tech4",
           "thumbnail": "https://i.ytimg.com/vi/JjC7SeDlijY/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=JjC7SeDlijY",
-          "views": 558144,
+          "views": 558195,
           "age_hours": 139.8
         }
       ]
@@ -478,7 +531,7 @@
     {
       "phrase": "travel",
       "video_count": 4,
-      "momentum": 18.08,
+      "momentum": 18.07,
       "regions": [
         "US"
       ],
@@ -490,8 +543,8 @@
           "channel": "Kayla Ryan",
           "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
-          "views": 3024106,
-          "age_hours": 22.5
+          "views": 3027804,
+          "age_hours": 22.6
         },
         {
           "id": "M4GEOiXdbIM",
@@ -499,7 +552,7 @@
           "channel": "Kayla Ryan",
           "thumbnail": "https://i.ytimg.com/vi/M4GEOiXdbIM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=M4GEOiXdbIM",
-          "views": 122654,
+          "views": 122945,
           "age_hours": 22.5
         },
         {
@@ -528,8 +581,8 @@
           "channel": "We r Loser",
           "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-          "views": 6377927,
-          "age_hours": 50.7
+          "views": 6385817,
+          "age_hours": 50.8
         },
         {
           "id": "7LN5Da3oCgU",
@@ -537,7 +590,7 @@
           "channel": "Jagiya the fun",
           "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-          "views": 10227690,
+          "views": 10230019,
           "age_hours": 95.8
         }
       ]
@@ -557,7 +610,7 @@
           "channel": "Gauravaroravlogs ",
           "thumbnail": "https://i.ytimg.com/vi/4wopTAReMUo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=4wopTAReMUo",
-          "views": 6543549,
+          "views": 6546819,
           "age_hours": 52.0
         },
         {
@@ -566,15 +619,15 @@
           "channel": "Gauravaroravlogs ",
           "thumbnail": "https://i.ytimg.com/vi/kDMFtdcLvns/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=kDMFtdcLvns",
-          "views": 5125019,
-          "age_hours": 58.2
+          "views": 5129711,
+          "age_hours": 58.3
         }
       ]
     },
     {
       "phrase": "valve steam controller",
       "video_count": 2,
-      "momentum": 15.19,
+      "momentum": 15.18,
       "regions": [
         "US"
       ],
@@ -586,8 +639,8 @@
           "channel": "Gamers Nexus",
           "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-          "views": 438873,
-          "age_hours": 24.7
+          "views": 439218,
+          "age_hours": 24.8
         },
         {
           "id": "2gJtFpLdPcI",
@@ -595,8 +648,8 @@
           "channel": "Linus Tech Tips",
           "thumbnail": "https://i.ytimg.com/vi/2gJtFpLdPcI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=2gJtFpLdPcI",
-          "views": 571140,
-          "age_hours": 21.5
+          "views": 571184,
+          "age_hours": 21.6
         }
       ]
     },
@@ -615,8 +668,8 @@
           "channel": "Kajal Soni",
           "thumbnail": "https://i.ytimg.com/vi/XoYYwCQTKog/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=XoYYwCQTKog",
-          "views": 6400156,
-          "age_hours": 37.2
+          "views": 6404339,
+          "age_hours": 37.3
         },
         {
           "id": "CgJuMKPy09w",
@@ -624,8 +677,8 @@
           "channel": "Kajal Soni",
           "thumbnail": "https://i.ytimg.com/vi/CgJuMKPy09w/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=CgJuMKPy09w",
-          "views": 5351701,
-          "age_hours": 61.2
+          "views": 5352913,
+          "age_hours": 61.3
         }
       ]
     },
@@ -644,8 +697,8 @@
           "channel": "Timothy Thatcher",
           "thumbnail": "https://i.ytimg.com/vi/oubP9b9Jmp4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=oubP9b9Jmp4",
-          "views": 9977050,
-          "age_hours": 189.1
+          "views": 9979786,
+          "age_hours": 189.2
         },
         {
           "id": "ll9PY86VG5Q",
@@ -653,7 +706,7 @@
           "channel": "Movie_Cuts_",
           "thumbnail": "https://i.ytimg.com/vi/ll9PY86VG5Q/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ll9PY86VG5Q",
-          "views": 2662625,
+          "views": 2663503,
           "age_hours": 80.5
         }
       ]
@@ -673,7 +726,7 @@
           "channel": "AmalaShaji",
           "thumbnail": "https://i.ytimg.com/vi/7bPLc9UnYZI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=7bPLc9UnYZI",
-          "views": 72468,
+          "views": 73090,
           "age_hours": 6.5
         },
         {
@@ -682,8 +735,8 @@
           "channel": "Tech Master Shorts",
           "thumbnail": "https://i.ytimg.com/vi/gP7t0_5qMa4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=gP7t0_5qMa4",
-          "views": 11784503,
-          "age_hours": 315.4
+          "views": 11784882,
+          "age_hours": 315.5
         }
       ]
     }
@@ -705,8 +758,8 @@
             "channel": "Garett",
             "thumbnail": "https://i.ytimg.com/vi/igXOKbi-OAM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=igXOKbi-OAM",
-            "views": 269784,
-            "age_hours": 18.7
+            "views": 270154,
+            "age_hours": 18.8
           },
           {
             "id": "MpJB7LTs5_s",
@@ -714,8 +767,8 @@
             "channel": "Linus Tech Tips",
             "thumbnail": "https://i.ytimg.com/vi/MpJB7LTs5_s/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=MpJB7LTs5_s",
-            "views": 1090021,
-            "age_hours": 24.7
+            "views": 1091186,
+            "age_hours": 24.8
           },
           {
             "id": "wfr4QN1Hvhs",
@@ -723,15 +776,15 @@
             "channel": "Gamers Nexus",
             "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-            "views": 438873,
-            "age_hours": 24.7
+            "views": 439218,
+            "age_hours": 24.8
           }
         ]
       },
       {
         "phrase": "travel",
         "video_count": 4,
-        "momentum": 18.08,
+        "momentum": 18.07,
         "regions": [
           "US"
         ],
@@ -743,8 +796,8 @@
             "channel": "Kayla Ryan",
             "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
-            "views": 3024106,
-            "age_hours": 22.5
+            "views": 3027804,
+            "age_hours": 22.6
           },
           {
             "id": "M4GEOiXdbIM",
@@ -752,7 +805,7 @@
             "channel": "Kayla Ryan",
             "thumbnail": "https://i.ytimg.com/vi/M4GEOiXdbIM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=M4GEOiXdbIM",
-            "views": 122654,
+            "views": 122945,
             "age_hours": 22.5
           },
           {
@@ -769,7 +822,7 @@
       {
         "phrase": "valve steam controller",
         "video_count": 2,
-        "momentum": 15.19,
+        "momentum": 15.18,
         "regions": [
           "US"
         ],
@@ -781,8 +834,8 @@
             "channel": "Gamers Nexus",
             "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-            "views": 438873,
-            "age_hours": 24.7
+            "views": 439218,
+            "age_hours": 24.8
           },
           {
             "id": "2gJtFpLdPcI",
@@ -790,8 +843,8 @@
             "channel": "Linus Tech Tips",
             "thumbnail": "https://i.ytimg.com/vi/2gJtFpLdPcI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=2gJtFpLdPcI",
-            "views": 571140,
-            "age_hours": 21.5
+            "views": 571184,
+            "age_hours": 21.6
           }
         ]
       },
@@ -810,8 +863,8 @@
             "channel": "Timothy Thatcher",
             "thumbnail": "https://i.ytimg.com/vi/oubP9b9Jmp4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=oubP9b9Jmp4",
-            "views": 9977050,
-            "age_hours": 189.1
+            "views": 9979786,
+            "age_hours": 189.2
           },
           {
             "id": "ll9PY86VG5Q",
@@ -819,7 +872,7 @@
             "channel": "Movie_Cuts_",
             "thumbnail": "https://i.ytimg.com/vi/ll9PY86VG5Q/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ll9PY86VG5Q",
-            "views": 2662625,
+            "views": 2663503,
             "age_hours": 80.5
           }
         ]
@@ -841,8 +894,8 @@
             "channel": "Cantinho da nany ",
             "thumbnail": "https://i.ytimg.com/vi/a8ThkG3-70Q/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=a8ThkG3-70Q",
-            "views": 17716,
-            "age_hours": 20.7
+            "views": 17732,
+            "age_hours": 20.8
           },
           {
             "id": "CutUfymJAPk",
@@ -850,8 +903,8 @@
             "channel": "FRANCIELLE NOGUEIRA",
             "thumbnail": "https://i.ytimg.com/vi/CutUfymJAPk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=CutUfymJAPk",
-            "views": 20706,
-            "age_hours": 20.2
+            "views": 20732,
+            "age_hours": 20.3
           },
           {
             "id": "gSJoZ-3914c",
@@ -860,7 +913,7 @@
             "thumbnail": "https://i.ytimg.com/vi/gSJoZ-3914c/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=gSJoZ-3914c",
             "views": 147437,
-            "age_hours": 27.1
+            "age_hours": 27.2
           }
         ]
       },
@@ -879,8 +932,8 @@
             "channel": "Artthur Lima",
             "thumbnail": "https://i.ytimg.com/vi/fQKC-Te8AsI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=fQKC-Te8AsI",
-            "views": 6011135,
-            "age_hours": 92.1
+            "views": 6011162,
+            "age_hours": 92.2
           },
           {
             "id": "-A2FVavQFkA",
@@ -888,8 +941,8 @@
             "channel": "DaniDubs",
             "thumbnail": "https://i.ytimg.com/vi/-A2FVavQFkA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=-A2FVavQFkA",
-            "views": 2075591,
-            "age_hours": 68.2
+            "views": 2076643,
+            "age_hours": 68.3
           },
           {
             "id": "Jmq2w-qQXzs",
@@ -897,8 +950,8 @@
             "channel": "tuiugrauu46",
             "thumbnail": "https://i.ytimg.com/vi/Jmq2w-qQXzs/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Jmq2w-qQXzs",
-            "views": 3119563,
-            "age_hours": 68.2
+            "views": 3121375,
+            "age_hours": 68.3
           }
         ]
       },
@@ -917,7 +970,7 @@
             "channel": "Lara Vidal",
             "thumbnail": "https://i.ytimg.com/vi/wiszO68zpR4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=wiszO68zpR4",
-            "views": 3458804,
+            "views": 3461538,
             "age_hours": 49.9
           },
           {
@@ -935,8 +988,8 @@
             "channel": "Página Dois",
             "thumbnail": "https://i.ytimg.com/vi/yn36Ey2K89M/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=yn36Ey2K89M",
-            "views": 3788883,
-            "age_hours": 115.7
+            "views": 3790081,
+            "age_hours": 115.8
           }
         ]
       },
@@ -956,7 +1009,7 @@
             "thumbnail": "https://i.ytimg.com/vi/uLYFbv6_bZ4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=uLYFbv6_bZ4",
             "views": 138297,
-            "age_hours": 18.7
+            "age_hours": 18.8
           },
           {
             "id": "FXMDHB5QMs4",
@@ -993,8 +1046,8 @@
             "channel": "Jazzghost",
             "thumbnail": "https://i.ytimg.com/vi/bei3qYO5tvI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=bei3qYO5tvI",
-            "views": 1184415,
-            "age_hours": 26.7
+            "views": 1184613,
+            "age_hours": 26.8
           },
           {
             "id": "kTHuntqM-OQ",
@@ -1003,7 +1056,7 @@
             "thumbnail": "https://i.ytimg.com/vi/kTHuntqM-OQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=kTHuntqM-OQ",
             "views": 556809,
-            "age_hours": 28.7
+            "age_hours": 28.8
           },
           {
             "id": "e9FxqsL1Kno",
@@ -1011,8 +1064,8 @@
             "channel": "Athos",
             "thumbnail": "https://i.ytimg.com/vi/e9FxqsL1Kno/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=e9FxqsL1Kno",
-            "views": 569693,
-            "age_hours": 28.2
+            "views": 570677,
+            "age_hours": 28.3
           }
         ]
       },
@@ -1031,8 +1084,8 @@
             "channel": "Junão no Hype",
             "thumbnail": "https://i.ytimg.com/vi/nP8_E-xgATE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=nP8_E-xgATE",
-            "views": 10620462,
-            "age_hours": 115.6
+            "views": 10622529,
+            "age_hours": 115.7
           },
           {
             "id": "Z11W-tbRZWk",
@@ -1040,8 +1093,8 @@
             "channel": "Leozin jhon",
             "thumbnail": "https://i.ytimg.com/vi/Z11W-tbRZWk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Z11W-tbRZWk",
-            "views": 1654033,
-            "age_hours": 308.7
+            "views": 1654115,
+            "age_hours": 308.8
           },
           {
             "id": "JjC7SeDlijY",
@@ -1049,7 +1102,7 @@
             "channel": "Wesley Tech4",
             "thumbnail": "https://i.ytimg.com/vi/JjC7SeDlijY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=JjC7SeDlijY",
-            "views": 558144,
+            "views": 558195,
             "age_hours": 139.8
           }
         ]
@@ -1070,7 +1123,7 @@
             "thumbnail": "https://i.ytimg.com/vi/gSJoZ-3914c/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=gSJoZ-3914c",
             "views": 147437,
-            "age_hours": 27.1
+            "age_hours": 27.2
           },
           {
             "id": "dRSa7hI-oa8",
@@ -1078,8 +1131,8 @@
             "channel": "Warner Play",
             "thumbnail": "https://i.ytimg.com/vi/dRSa7hI-oa8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dRSa7hI-oa8",
-            "views": 23157,
-            "age_hours": 26.7
+            "views": 23185,
+            "age_hours": 26.8
           }
         ]
       },
@@ -1099,7 +1152,7 @@
             "thumbnail": "https://i.ytimg.com/vi/gSJoZ-3914c/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=gSJoZ-3914c",
             "views": 147437,
-            "age_hours": 27.1
+            "age_hours": 27.2
           },
           {
             "id": "dRSa7hI-oa8",
@@ -1107,8 +1160,8 @@
             "channel": "Warner Play",
             "thumbnail": "https://i.ytimg.com/vi/dRSa7hI-oa8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dRSa7hI-oa8",
-            "views": 23157,
-            "age_hours": 26.7
+            "views": 23185,
+            "age_hours": 26.8
           }
         ]
       },
@@ -1128,7 +1181,7 @@
             "thumbnail": "https://i.ytimg.com/vi/gSJoZ-3914c/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=gSJoZ-3914c",
             "views": 147437,
-            "age_hours": 27.1
+            "age_hours": 27.2
           },
           {
             "id": "dRSa7hI-oa8",
@@ -1136,8 +1189,8 @@
             "channel": "Warner Play",
             "thumbnail": "https://i.ytimg.com/vi/dRSa7hI-oa8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dRSa7hI-oa8",
-            "views": 23157,
-            "age_hours": 26.7
+            "views": 23185,
+            "age_hours": 26.8
           }
         ]
       },
@@ -1157,7 +1210,7 @@
             "thumbnail": "https://i.ytimg.com/vi/gSJoZ-3914c/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=gSJoZ-3914c",
             "views": 147437,
-            "age_hours": 27.1
+            "age_hours": 27.2
           },
           {
             "id": "dRSa7hI-oa8",
@@ -1165,8 +1218,8 @@
             "channel": "Warner Play",
             "thumbnail": "https://i.ytimg.com/vi/dRSa7hI-oa8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dRSa7hI-oa8",
-            "views": 23157,
-            "age_hours": 26.7
+            "views": 23185,
+            "age_hours": 26.8
           }
         ]
       },
@@ -1185,8 +1238,8 @@
             "channel": "Taspio",
             "thumbnail": "https://i.ytimg.com/vi/z603Go30nXA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=z603Go30nXA",
-            "views": 2225281,
-            "age_hours": 100.7
+            "views": 2226173,
+            "age_hours": 100.8
           },
           {
             "id": "7FPbGz0KI88",
@@ -1194,15 +1247,15 @@
             "channel": "Cortes do PoisonStp [OFICIAL]",
             "thumbnail": "https://i.ytimg.com/vi/7FPbGz0KI88/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=7FPbGz0KI88",
-            "views": 680345,
-            "age_hours": 145.7
+            "views": 680350,
+            "age_hours": 145.8
           }
         ]
       },
       {
         "phrase": "deu errado",
         "video_count": 2,
-        "momentum": 10.63,
+        "momentum": 10.62,
         "regions": [
           "BR"
         ],
@@ -1214,7 +1267,7 @@
             "channel": "Léo Borges Shorts",
             "thumbnail": "https://i.ytimg.com/vi/zsYXPt9gCv8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=zsYXPt9gCv8",
-            "views": 1687089,
+            "views": 1687140,
             "age_hours": 50.2
           },
           {
@@ -1223,12 +1276,13 @@
             "channel": "Canal dos Caçadores",
             "thumbnail": "https://i.ytimg.com/vi/8zxoQhCIP6g/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=8zxoQhCIP6g",
-            "views": 47008,
-            "age_hours": 26.2
+            "views": 47056,
+            "age_hours": 26.3
           }
         ]
       }
     ],
+    "AU": [],
     "GB": [
       {
         "phrase": "do you",
@@ -1245,8 +1299,8 @@
             "channel": "Godfrey Twins",
             "thumbnail": "https://i.ytimg.com/vi/mMXhd0wBPb0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=mMXhd0wBPb0",
-            "views": 6741988,
-            "age_hours": 141.8
+            "views": 6742147,
+            "age_hours": 141.9
           },
           {
             "id": "JIG-28wCYkA",
@@ -1254,7 +1308,7 @@
             "channel": "Abigail",
             "thumbnail": "https://i.ytimg.com/vi/JIG-28wCYkA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=JIG-28wCYkA",
-            "views": 2949063,
+            "views": 2949082,
             "age_hours": 120.1
           }
         ]
@@ -1265,7 +1319,7 @@
       {
         "phrase": "indian",
         "video_count": 5,
-        "momentum": 24.04,
+        "momentum": 24.03,
         "regions": [
           "IN"
         ],
@@ -1277,7 +1331,7 @@
             "channel": "Makeup by Parul Garg",
             "thumbnail": "https://i.ytimg.com/vi/9IcrpmTrxFQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=9IcrpmTrxFQ",
-            "views": 3617355,
+            "views": 3618762,
             "age_hours": 35.5
           },
           {
@@ -1286,8 +1340,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-            "views": 6377927,
-            "age_hours": 50.7
+            "views": 6385817,
+            "age_hours": 50.8
           },
           {
             "id": "7LN5Da3oCgU",
@@ -1295,7 +1349,7 @@
             "channel": "Jagiya the fun",
             "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-            "views": 10227690,
+            "views": 10230019,
             "age_hours": 95.8
           }
         ]
@@ -1315,8 +1369,8 @@
             "channel": "NpsDude",
             "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 846106,
-            "age_hours": 53.4
+            "views": 846566,
+            "age_hours": 53.5
           },
           {
             "id": "BJbmTT_SQ_M",
@@ -1324,8 +1378,8 @@
             "channel": "Saccu Gamer",
             "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-            "views": 146863,
-            "age_hours": 12.4
+            "views": 147294,
+            "age_hours": 12.5
           },
           {
             "id": "48vOtWj-Q6k",
@@ -1333,7 +1387,7 @@
             "channel": "ABISOME",
             "thumbnail": "https://i.ytimg.com/vi/48vOtWj-Q6k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=48vOtWj-Q6k",
-            "views": 118351,
+            "views": 118609,
             "age_hours": 15.1
           }
         ]
@@ -1353,7 +1407,7 @@
             "channel": "Shreemani Tripathi",
             "thumbnail": "https://i.ytimg.com/vi/_xtbjsDjVsY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=_xtbjsDjVsY",
-            "views": 38258448,
+            "views": 38262915,
             "age_hours": 297.9
           },
           {
@@ -1362,8 +1416,8 @@
             "channel": "TeAm STARS",
             "thumbnail": "https://i.ytimg.com/vi/GEwszGFecU8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=GEwszGFecU8",
-            "views": 8648899,
-            "age_hours": 83.8
+            "views": 8651932,
+            "age_hours": 83.9
           },
           {
             "id": "9UcVdPx8GAE",
@@ -1371,8 +1425,8 @@
             "channel": "Chattambees",
             "thumbnail": "https://i.ytimg.com/vi/9UcVdPx8GAE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=9UcVdPx8GAE",
-            "views": 2258983,
-            "age_hours": 52.0
+            "views": 2260117,
+            "age_hours": 52.1
           }
         ]
       },
@@ -1391,7 +1445,7 @@
             "channel": "Shreemani Tripathi",
             "thumbnail": "https://i.ytimg.com/vi/_xtbjsDjVsY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=_xtbjsDjVsY",
-            "views": 38258448,
+            "views": 38262915,
             "age_hours": 297.9
           },
           {
@@ -1400,8 +1454,8 @@
             "channel": "TeAm STARS",
             "thumbnail": "https://i.ytimg.com/vi/GEwszGFecU8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=GEwszGFecU8",
-            "views": 8648899,
-            "age_hours": 83.8
+            "views": 8651932,
+            "age_hours": 83.9
           },
           {
             "id": "9UcVdPx8GAE",
@@ -1409,8 +1463,8 @@
             "channel": "Chattambees",
             "thumbnail": "https://i.ytimg.com/vi/9UcVdPx8GAE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=9UcVdPx8GAE",
-            "views": 2258983,
-            "age_hours": 52.0
+            "views": 2260117,
+            "age_hours": 52.1
           }
         ]
       },
@@ -1429,8 +1483,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-            "views": 6377927,
-            "age_hours": 50.7
+            "views": 6385817,
+            "age_hours": 50.8
           },
           {
             "id": "7LN5Da3oCgU",
@@ -1438,7 +1492,7 @@
             "channel": "Jagiya the fun",
             "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-            "views": 10227690,
+            "views": 10230019,
             "age_hours": 95.8
           }
         ]
@@ -1458,7 +1512,7 @@
             "channel": "Gauravaroravlogs ",
             "thumbnail": "https://i.ytimg.com/vi/4wopTAReMUo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4wopTAReMUo",
-            "views": 6543549,
+            "views": 6546819,
             "age_hours": 52.0
           },
           {
@@ -1467,8 +1521,8 @@
             "channel": "Gauravaroravlogs ",
             "thumbnail": "https://i.ytimg.com/vi/kDMFtdcLvns/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=kDMFtdcLvns",
-            "views": 5125019,
-            "age_hours": 58.2
+            "views": 5129711,
+            "age_hours": 58.3
           }
         ]
       },
@@ -1487,8 +1541,8 @@
             "channel": "Kajal Soni",
             "thumbnail": "https://i.ytimg.com/vi/XoYYwCQTKog/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=XoYYwCQTKog",
-            "views": 6400156,
-            "age_hours": 37.2
+            "views": 6404339,
+            "age_hours": 37.3
           },
           {
             "id": "CgJuMKPy09w",
@@ -1496,8 +1550,8 @@
             "channel": "Kajal Soni",
             "thumbnail": "https://i.ytimg.com/vi/CgJuMKPy09w/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=CgJuMKPy09w",
-            "views": 5351701,
-            "age_hours": 61.2
+            "views": 5352913,
+            "age_hours": 61.3
           }
         ]
       },
@@ -1516,7 +1570,7 @@
             "channel": "AmalaShaji",
             "thumbnail": "https://i.ytimg.com/vi/7bPLc9UnYZI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=7bPLc9UnYZI",
-            "views": 72468,
+            "views": 73090,
             "age_hours": 6.5
           },
           {
@@ -1525,8 +1579,8 @@
             "channel": "Tech Master Shorts",
             "thumbnail": "https://i.ytimg.com/vi/gP7t0_5qMa4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=gP7t0_5qMa4",
-            "views": 11784503,
-            "age_hours": 315.4
+            "views": 11784882,
+            "age_hours": 315.5
           }
         ]
       },
@@ -1545,8 +1599,8 @@
             "channel": "NpsDude",
             "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 846106,
-            "age_hours": 53.4
+            "views": 846566,
+            "age_hours": 53.5
           },
           {
             "id": "BJbmTT_SQ_M",
@@ -1554,8 +1608,8 @@
             "channel": "Saccu Gamer",
             "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-            "views": 146863,
-            "age_hours": 12.4
+            "views": 147294,
+            "age_hours": 12.5
           }
         ]
       },
@@ -1574,8 +1628,8 @@
             "channel": "NpsDude",
             "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 846106,
-            "age_hours": 53.4
+            "views": 846566,
+            "age_hours": 53.5
           },
           {
             "id": "BJbmTT_SQ_M",
@@ -1583,8 +1637,8 @@
             "channel": "Saccu Gamer",
             "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-            "views": 146863,
-            "age_hours": 12.4
+            "views": 147294,
+            "age_hours": 12.5
           }
         ]
       },
@@ -1603,8 +1657,8 @@
             "channel": "Neetu Bisht",
             "thumbnail": "https://i.ytimg.com/vi/lB8fPPtkeog/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lB8fPPtkeog",
-            "views": 4856210,
-            "age_hours": 85.2
+            "views": 4857431,
+            "age_hours": 85.3
           },
           {
             "id": "d_Ci9UysBaU",
@@ -1613,7 +1667,7 @@
             "thumbnail": "https://i.ytimg.com/vi/d_Ci9UysBaU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=d_Ci9UysBaU",
             "views": 171811,
-            "age_hours": 33.2
+            "age_hours": 33.3
           }
         ]
       },
@@ -1632,8 +1686,8 @@
             "channel": "PrasadLifeStyle",
             "thumbnail": "https://i.ytimg.com/vi/pNDna5acXSo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=pNDna5acXSo",
-            "views": 483125,
-            "age_hours": 98.9
+            "views": 483145,
+            "age_hours": 99.0
           },
           {
             "id": "nhc3P10AK_I",
@@ -1641,7 +1695,7 @@
             "channel": "Tamil Tech - MrTT",
             "thumbnail": "https://i.ytimg.com/vi/nhc3P10AK_I/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=nhc3P10AK_I",
-            "views": 551352,
+            "views": 551361,
             "age_hours": 230.5
           }
         ]
@@ -1661,8 +1715,8 @@
             "channel": "DHANU DINO",
             "thumbnail": "https://i.ytimg.com/vi/gc_lZMajezw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=gc_lZMajezw",
-            "views": 324373,
-            "age_hours": 37.2
+            "views": 324587,
+            "age_hours": 37.3
           },
           {
             "id": "FzCgVL0xBOw",
@@ -1670,8 +1724,8 @@
             "channel": "Pennem Star",
             "thumbnail": "https://i.ytimg.com/vi/FzCgVL0xBOw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=FzCgVL0xBOw",
-            "views": 164974,
-            "age_hours": 30.7
+            "views": 165193,
+            "age_hours": 30.8
           }
         ]
       }
@@ -1692,8 +1746,8 @@
             "channel": "OMID MOUAZZEN",
             "thumbnail": "https://i.ytimg.com/vi/YwsyJxgQyAE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=YwsyJxgQyAE",
-            "views": 848029,
-            "age_hours": 100.5
+            "views": 848270,
+            "age_hours": 100.6
           },
           {
             "id": "v9IfBOiuqRo",
@@ -1701,13 +1755,12 @@
             "channel": "OMID MOUAZZEN",
             "thumbnail": "https://i.ytimg.com/vi/v9IfBOiuqRo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=v9IfBOiuqRo",
-            "views": 314234,
-            "age_hours": 121.2
+            "views": 314304,
+            "age_hours": 121.3
           }
         ]
       }
     ],
-    "AU": [],
     "ALL": [
       {
         "phrase": "steam controller",
@@ -1724,8 +1777,8 @@
             "channel": "Garett",
             "thumbnail": "https://i.ytimg.com/vi/igXOKbi-OAM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=igXOKbi-OAM",
-            "views": 269784,
-            "age_hours": 18.7
+            "views": 270154,
+            "age_hours": 18.8
           },
           {
             "id": "MpJB7LTs5_s",
@@ -1733,8 +1786,8 @@
             "channel": "Linus Tech Tips",
             "thumbnail": "https://i.ytimg.com/vi/MpJB7LTs5_s/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=MpJB7LTs5_s",
-            "views": 1090021,
-            "age_hours": 24.7
+            "views": 1091186,
+            "age_hours": 24.8
           },
           {
             "id": "wfr4QN1Hvhs",
@@ -1742,8 +1795,8 @@
             "channel": "Gamers Nexus",
             "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-            "views": 438873,
-            "age_hours": 24.7
+            "views": 439218,
+            "age_hours": 24.8
           }
         ]
       },
@@ -1762,8 +1815,8 @@
             "channel": "Cantinho da nany ",
             "thumbnail": "https://i.ytimg.com/vi/a8ThkG3-70Q/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=a8ThkG3-70Q",
-            "views": 17716,
-            "age_hours": 20.7
+            "views": 17732,
+            "age_hours": 20.8
           },
           {
             "id": "CutUfymJAPk",
@@ -1771,8 +1824,8 @@
             "channel": "FRANCIELLE NOGUEIRA",
             "thumbnail": "https://i.ytimg.com/vi/CutUfymJAPk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=CutUfymJAPk",
-            "views": 20706,
-            "age_hours": 20.2
+            "views": 20732,
+            "age_hours": 20.3
           },
           {
             "id": "gSJoZ-3914c",
@@ -1781,14 +1834,14 @@
             "thumbnail": "https://i.ytimg.com/vi/gSJoZ-3914c/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=gSJoZ-3914c",
             "views": 147437,
-            "age_hours": 27.1
+            "age_hours": 27.2
           }
         ]
       },
       {
         "phrase": "indian",
         "video_count": 5,
-        "momentum": 24.04,
+        "momentum": 24.03,
         "regions": [
           "IN"
         ],
@@ -1800,7 +1853,7 @@
             "channel": "Makeup by Parul Garg",
             "thumbnail": "https://i.ytimg.com/vi/9IcrpmTrxFQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=9IcrpmTrxFQ",
-            "views": 3617355,
+            "views": 3618762,
             "age_hours": 35.5
           },
           {
@@ -1809,8 +1862,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-            "views": 6377927,
-            "age_hours": 50.7
+            "views": 6385817,
+            "age_hours": 50.8
           },
           {
             "id": "7LN5Da3oCgU",
@@ -1818,7 +1871,7 @@
             "channel": "Jagiya the fun",
             "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-            "views": 10227690,
+            "views": 10230019,
             "age_hours": 95.8
           }
         ]
@@ -1838,8 +1891,8 @@
             "channel": "Artthur Lima",
             "thumbnail": "https://i.ytimg.com/vi/fQKC-Te8AsI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=fQKC-Te8AsI",
-            "views": 6011135,
-            "age_hours": 92.1
+            "views": 6011162,
+            "age_hours": 92.2
           },
           {
             "id": "-A2FVavQFkA",
@@ -1847,8 +1900,8 @@
             "channel": "DaniDubs",
             "thumbnail": "https://i.ytimg.com/vi/-A2FVavQFkA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=-A2FVavQFkA",
-            "views": 2075591,
-            "age_hours": 68.2
+            "views": 2076643,
+            "age_hours": 68.3
           },
           {
             "id": "Jmq2w-qQXzs",
@@ -1856,8 +1909,8 @@
             "channel": "tuiugrauu46",
             "thumbnail": "https://i.ytimg.com/vi/Jmq2w-qQXzs/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Jmq2w-qQXzs",
-            "views": 3119563,
-            "age_hours": 68.2
+            "views": 3121375,
+            "age_hours": 68.3
           }
         ]
       },
@@ -1876,7 +1929,7 @@
             "channel": "Lara Vidal",
             "thumbnail": "https://i.ytimg.com/vi/wiszO68zpR4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=wiszO68zpR4",
-            "views": 3458804,
+            "views": 3461538,
             "age_hours": 49.9
           },
           {
@@ -1894,8 +1947,8 @@
             "channel": "Página Dois",
             "thumbnail": "https://i.ytimg.com/vi/yn36Ey2K89M/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=yn36Ey2K89M",
-            "views": 3788883,
-            "age_hours": 115.7
+            "views": 3790081,
+            "age_hours": 115.8
           }
         ]
       },
@@ -1914,8 +1967,8 @@
             "channel": "NpsDude",
             "thumbnail": "https://i.ytimg.com/vi/OOq97vqPcho/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OOq97vqPcho",
-            "views": 846106,
-            "age_hours": 53.4
+            "views": 846566,
+            "age_hours": 53.5
           },
           {
             "id": "BJbmTT_SQ_M",
@@ -1923,8 +1976,8 @@
             "channel": "Saccu Gamer",
             "thumbnail": "https://i.ytimg.com/vi/BJbmTT_SQ_M/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BJbmTT_SQ_M",
-            "views": 146863,
-            "age_hours": 12.4
+            "views": 147294,
+            "age_hours": 12.5
           },
           {
             "id": "48vOtWj-Q6k",
@@ -1932,7 +1985,7 @@
             "channel": "ABISOME",
             "thumbnail": "https://i.ytimg.com/vi/48vOtWj-Q6k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=48vOtWj-Q6k",
-            "views": 118351,
+            "views": 118609,
             "age_hours": 15.1
           }
         ]
@@ -1953,7 +2006,7 @@
             "thumbnail": "https://i.ytimg.com/vi/uLYFbv6_bZ4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=uLYFbv6_bZ4",
             "views": 138297,
-            "age_hours": 18.7
+            "age_hours": 18.8
           },
           {
             "id": "FXMDHB5QMs4",
@@ -1990,7 +2043,7 @@
             "channel": "Shreemani Tripathi",
             "thumbnail": "https://i.ytimg.com/vi/_xtbjsDjVsY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=_xtbjsDjVsY",
-            "views": 38258448,
+            "views": 38262915,
             "age_hours": 297.9
           },
           {
@@ -1999,8 +2052,8 @@
             "channel": "TeAm STARS",
             "thumbnail": "https://i.ytimg.com/vi/GEwszGFecU8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=GEwszGFecU8",
-            "views": 8648899,
-            "age_hours": 83.8
+            "views": 8651932,
+            "age_hours": 83.9
           },
           {
             "id": "9UcVdPx8GAE",
@@ -2008,8 +2061,8 @@
             "channel": "Chattambees",
             "thumbnail": "https://i.ytimg.com/vi/9UcVdPx8GAE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=9UcVdPx8GAE",
-            "views": 2258983,
-            "age_hours": 52.0
+            "views": 2260117,
+            "age_hours": 52.1
           }
         ]
       },
@@ -2028,7 +2081,7 @@
             "channel": "Shreemani Tripathi",
             "thumbnail": "https://i.ytimg.com/vi/_xtbjsDjVsY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=_xtbjsDjVsY",
-            "views": 38258448,
+            "views": 38262915,
             "age_hours": 297.9
           },
           {
@@ -2037,8 +2090,8 @@
             "channel": "TeAm STARS",
             "thumbnail": "https://i.ytimg.com/vi/GEwszGFecU8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=GEwszGFecU8",
-            "views": 8648899,
-            "age_hours": 83.8
+            "views": 8651932,
+            "age_hours": 83.9
           },
           {
             "id": "9UcVdPx8GAE",
@@ -2046,8 +2099,8 @@
             "channel": "Chattambees",
             "thumbnail": "https://i.ytimg.com/vi/9UcVdPx8GAE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=9UcVdPx8GAE",
-            "views": 2258983,
-            "age_hours": 52.0
+            "views": 2260117,
+            "age_hours": 52.1
           }
         ]
       },
@@ -2066,8 +2119,8 @@
             "channel": "Jazzghost",
             "thumbnail": "https://i.ytimg.com/vi/bei3qYO5tvI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=bei3qYO5tvI",
-            "views": 1184415,
-            "age_hours": 26.7
+            "views": 1184613,
+            "age_hours": 26.8
           },
           {
             "id": "kTHuntqM-OQ",
@@ -2076,7 +2129,7 @@
             "thumbnail": "https://i.ytimg.com/vi/kTHuntqM-OQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=kTHuntqM-OQ",
             "views": 556809,
-            "age_hours": 28.7
+            "age_hours": 28.8
           },
           {
             "id": "e9FxqsL1Kno",
@@ -2084,8 +2137,8 @@
             "channel": "Athos",
             "thumbnail": "https://i.ytimg.com/vi/e9FxqsL1Kno/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=e9FxqsL1Kno",
-            "views": 569693,
-            "age_hours": 28.2
+            "views": 570677,
+            "age_hours": 28.3
           }
         ]
       },
@@ -2104,8 +2157,8 @@
             "channel": "Junão no Hype",
             "thumbnail": "https://i.ytimg.com/vi/nP8_E-xgATE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=nP8_E-xgATE",
-            "views": 10620462,
-            "age_hours": 115.6
+            "views": 10622529,
+            "age_hours": 115.7
           },
           {
             "id": "Z11W-tbRZWk",
@@ -2113,8 +2166,8 @@
             "channel": "Leozin jhon",
             "thumbnail": "https://i.ytimg.com/vi/Z11W-tbRZWk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Z11W-tbRZWk",
-            "views": 1654033,
-            "age_hours": 308.7
+            "views": 1654115,
+            "age_hours": 308.8
           },
           {
             "id": "JjC7SeDlijY",
@@ -2122,7 +2175,7 @@
             "channel": "Wesley Tech4",
             "thumbnail": "https://i.ytimg.com/vi/JjC7SeDlijY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=JjC7SeDlijY",
-            "views": 558144,
+            "views": 558195,
             "age_hours": 139.8
           }
         ]
@@ -2130,7 +2183,7 @@
       {
         "phrase": "travel",
         "video_count": 4,
-        "momentum": 18.08,
+        "momentum": 18.07,
         "regions": [
           "US"
         ],
@@ -2142,8 +2195,8 @@
             "channel": "Kayla Ryan",
             "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
-            "views": 3024106,
-            "age_hours": 22.5
+            "views": 3027804,
+            "age_hours": 22.6
           },
           {
             "id": "M4GEOiXdbIM",
@@ -2151,7 +2204,7 @@
             "channel": "Kayla Ryan",
             "thumbnail": "https://i.ytimg.com/vi/M4GEOiXdbIM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=M4GEOiXdbIM",
-            "views": 122654,
+            "views": 122945,
             "age_hours": 22.5
           },
           {
@@ -2180,8 +2233,8 @@
             "channel": "We r Loser",
             "thumbnail": "https://i.ytimg.com/vi/k5fueWMAiI4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=k5fueWMAiI4",
-            "views": 6377927,
-            "age_hours": 50.7
+            "views": 6385817,
+            "age_hours": 50.8
           },
           {
             "id": "7LN5Da3oCgU",
@@ -2189,7 +2242,7 @@
             "channel": "Jagiya the fun",
             "thumbnail": "https://i.ytimg.com/vi/7LN5Da3oCgU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=7LN5Da3oCgU",
-            "views": 10227690,
+            "views": 10230019,
             "age_hours": 95.8
           }
         ]
@@ -2209,7 +2262,7 @@
             "channel": "Gauravaroravlogs ",
             "thumbnail": "https://i.ytimg.com/vi/4wopTAReMUo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4wopTAReMUo",
-            "views": 6543549,
+            "views": 6546819,
             "age_hours": 52.0
           },
           {
@@ -2218,15 +2271,15 @@
             "channel": "Gauravaroravlogs ",
             "thumbnail": "https://i.ytimg.com/vi/kDMFtdcLvns/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=kDMFtdcLvns",
-            "views": 5125019,
-            "age_hours": 58.2
+            "views": 5129711,
+            "age_hours": 58.3
           }
         ]
       },
       {
         "phrase": "valve steam controller",
         "video_count": 2,
-        "momentum": 15.19,
+        "momentum": 15.18,
         "regions": [
           "US"
         ],
@@ -2238,8 +2291,8 @@
             "channel": "Gamers Nexus",
             "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-            "views": 438873,
-            "age_hours": 24.7
+            "views": 439218,
+            "age_hours": 24.8
           },
           {
             "id": "2gJtFpLdPcI",
@@ -2247,8 +2300,8 @@
             "channel": "Linus Tech Tips",
             "thumbnail": "https://i.ytimg.com/vi/2gJtFpLdPcI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=2gJtFpLdPcI",
-            "views": 571140,
-            "age_hours": 21.5
+            "views": 571184,
+            "age_hours": 21.6
           }
         ]
       },
@@ -2267,8 +2320,8 @@
             "channel": "Kajal Soni",
             "thumbnail": "https://i.ytimg.com/vi/XoYYwCQTKog/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=XoYYwCQTKog",
-            "views": 6400156,
-            "age_hours": 37.2
+            "views": 6404339,
+            "age_hours": 37.3
           },
           {
             "id": "CgJuMKPy09w",
@@ -2276,8 +2329,8 @@
             "channel": "Kajal Soni",
             "thumbnail": "https://i.ytimg.com/vi/CgJuMKPy09w/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=CgJuMKPy09w",
-            "views": 5351701,
-            "age_hours": 61.2
+            "views": 5352913,
+            "age_hours": 61.3
           }
         ]
       },
@@ -2296,8 +2349,8 @@
             "channel": "Timothy Thatcher",
             "thumbnail": "https://i.ytimg.com/vi/oubP9b9Jmp4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=oubP9b9Jmp4",
-            "views": 9977050,
-            "age_hours": 189.1
+            "views": 9979786,
+            "age_hours": 189.2
           },
           {
             "id": "ll9PY86VG5Q",
@@ -2305,7 +2358,7 @@
             "channel": "Movie_Cuts_",
             "thumbnail": "https://i.ytimg.com/vi/ll9PY86VG5Q/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ll9PY86VG5Q",
-            "views": 2662625,
+            "views": 2663503,
             "age_hours": 80.5
           }
         ]
@@ -2325,7 +2378,7 @@
             "channel": "AmalaShaji",
             "thumbnail": "https://i.ytimg.com/vi/7bPLc9UnYZI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=7bPLc9UnYZI",
-            "views": 72468,
+            "views": 73090,
             "age_hours": 6.5
           },
           {
@@ -2334,8 +2387,8 @@
             "channel": "Tech Master Shorts",
             "thumbnail": "https://i.ytimg.com/vi/gP7t0_5qMa4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=gP7t0_5qMa4",
-            "views": 11784503,
-            "age_hours": 315.4
+            "views": 11784882,
+            "age_hours": 315.5
           }
         ]
       }
@@ -2343,87 +2396,87 @@
   },
   "trending_searches": [
     {
-      "phrase": "is it a crime mariah the scientist",
-      "prefix": "is it",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:43:39.039228+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "should i stay or should i go",
-      "prefix": "should i",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:43:39.039228+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "can you stand the rain new edition",
-      "prefix": "can you",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T17:43:39.039228+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how to draw",
+      "phrase": "how to tie a tie",
       "prefix": "how to",
-      "rank": 2,
-      "first_seen_at": "2026-04-28T17:43:39.039228+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
       "is_new": true
     },
     {
-      "phrase": "how does it feel",
+      "phrase": "how do i say goodbye dean lewis",
+      "prefix": "how do",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how does it feel d'angelo",
       "prefix": "how does",
-      "rank": 2,
-      "first_seen_at": "2026-04-28T17:43:39.039228+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
       "is_new": true
     },
     {
-      "phrase": "why is my bus driver playing mitski",
+      "phrase": "why is it spicy",
       "prefix": "why is",
-      "rank": 2,
-      "first_seen_at": "2026-04-28T17:43:39.039228+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
       "is_new": true
     },
     {
-      "phrase": "why don't we fall in love",
+      "phrase": "why do birds suddenly appear",
       "prefix": "why do",
-      "rank": 2,
-      "first_seen_at": "2026-04-28T17:43:39.039228+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
       "is_new": true
     },
     {
-      "phrase": "why does it hurt to love you",
+      "phrase": "why does he call you darling",
       "prefix": "why does",
-      "rank": 2,
-      "first_seen_at": "2026-04-28T17:43:39.039228+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
       "is_new": true
     },
     {
-      "phrase": "what is love",
+      "phrase": "what is this diddy blud doing on the calculator",
       "prefix": "what is",
-      "rank": 2,
-      "first_seen_at": "2026-04-28T17:43:39.039228+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
       "is_new": true
     },
     {
-      "phrase": "what are you doing",
+      "phrase": "what are you listening to chris stapleton",
       "prefix": "what are",
-      "rank": 2,
-      "first_seen_at": "2026-04-28T17:43:39.039228+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
       "is_new": true
     },
     {
-      "phrase": "what happened to that boy",
+      "phrase": "what happened to virgil",
       "prefix": "what happened",
-      "rank": 2,
-      "first_seen_at": "2026-04-28T17:43:39.039228+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
       "is_new": true
     },
     {
-      "phrase": "best part",
+      "phrase": "best build 2k26",
       "prefix": "best",
-      "rank": 2,
-      "first_seen_at": "2026-04-28T17:43:39.039228+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "worst way riley green",
+      "prefix": "worst",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "topoppgen",
+      "prefix": "top",
+      "rank": 1,
+      "first_seen_at": "2026-04-28T17:47:37.453762+00:00",
       "is_new": true
     }
   ],
@@ -2436,12 +2489,12 @@
       "thumbnail": "https://i.ytimg.com/vi/lJZ8wWCnwow/mqdefault.jpg",
       "published_at": "2026-04-27T16:30:07Z",
       "category_id": "10",
-      "views": 6816368,
-      "likes": 1100812,
-      "comments": 320813,
-      "age_hours": 25.2,
-      "views_per_hour": 270238,
-      "momentum": 9.743,
+      "views": 6827762,
+      "likes": 1101876,
+      "comments": 320949,
+      "age_hours": 25.3,
+      "views_per_hour": 269993,
+      "momentum": 9.737,
       "url": "https://www.youtube.com/watch?v=lJZ8wWCnwow",
       "region": "US",
       "category": "Other",
@@ -2455,12 +2508,12 @@
       "thumbnail": "https://i.ytimg.com/vi/N1TgyA_cQPU/mqdefault.jpg",
       "published_at": "2026-04-27T22:15:01Z",
       "category_id": "20",
-      "views": 196755,
-      "likes": 15106,
-      "comments": 14039,
+      "views": 197638,
+      "likes": 15138,
+      "comments": 14068,
       "age_hours": 19.5,
-      "views_per_hour": 10102,
-      "momentum": 7.477,
+      "views_per_hour": 10113,
+      "momentum": 7.469,
       "url": "https://www.youtube.com/watch?v=N1TgyA_cQPU",
       "region": "BR",
       "category": "Gaming",
@@ -2474,14 +2527,14 @@
       "thumbnail": "https://i.ytimg.com/vi/cL0KKSPjZf8/mqdefault.jpg",
       "published_at": "2026-04-28T05:30:05Z",
       "category_id": "10",
-      "views": 847462,
-      "likes": 133664,
-      "comments": 9382,
-      "age_hours": 12.2,
-      "views_per_hour": 69326,
-      "momentum": 6.904,
+      "views": 850568,
+      "likes": 134052,
+      "comments": 9397,
+      "age_hours": 12.3,
+      "views_per_hour": 69205,
+      "momentum": 6.901,
       "url": "https://www.youtube.com/watch?v=cL0KKSPjZf8",
-      "region": "GB",
+      "region": "AU",
       "category": "Other",
       "_detected_lang": "pt"
     },
@@ -2493,12 +2546,12 @@
       "thumbnail": "https://i.ytimg.com/vi/-SEKt_0pdHM/mqdefault.jpg",
       "published_at": "2026-04-28T09:00:01Z",
       "category_id": "10",
-      "views": 633305,
-      "likes": 98900,
-      "comments": 5963,
-      "age_hours": 8.7,
-      "views_per_hour": 72583,
-      "momentum": 6.837,
+      "views": 636729,
+      "likes": 99235,
+      "comments": 5976,
+      "age_hours": 8.8,
+      "views_per_hour": 72435,
+      "momentum": 6.831,
       "url": "https://www.youtube.com/watch?v=-SEKt_0pdHM",
       "region": "US",
       "category": "Other",
@@ -2512,12 +2565,12 @@
       "thumbnail": "https://i.ytimg.com/vi/XXIX2WnfbpE/mqdefault.jpg",
       "published_at": "2026-04-27T19:00:23Z",
       "category_id": "10",
-      "views": 2502080,
-      "likes": 290649,
-      "comments": 17720,
-      "age_hours": 22.7,
-      "views_per_hour": 110131,
-      "momentum": 6.57,
+      "views": 2508488,
+      "likes": 291175,
+      "comments": 17740,
+      "age_hours": 22.8,
+      "views_per_hour": 110097,
+      "momentum": 6.569,
       "url": "https://www.youtube.com/watch?v=XXIX2WnfbpE",
       "region": "US",
       "category": "Other",
@@ -2531,12 +2584,12 @@
       "thumbnail": "https://i.ytimg.com/vi/b7HthrWVH5U/mqdefault.jpg",
       "published_at": "2026-04-28T09:05:56Z",
       "category_id": "20",
-      "views": 157130,
-      "likes": 9943,
-      "comments": 6461,
-      "age_hours": 8.6,
-      "views_per_hour": 18214,
-      "momentum": 6.551,
+      "views": 157676,
+      "likes": 9971,
+      "comments": 6485,
+      "age_hours": 8.7,
+      "views_per_hour": 18140,
+      "momentum": 6.549,
       "url": "https://www.youtube.com/watch?v=b7HthrWVH5U",
       "region": "GB",
       "category": "Gaming",
@@ -2550,12 +2603,12 @@
       "thumbnail": "https://i.ytimg.com/vi/JfozPo2L7xQ/mqdefault.jpg",
       "published_at": "2026-04-28T08:01:45Z",
       "category_id": "20",
-      "views": 3125359,
-      "likes": 176375,
-      "comments": 8506,
-      "age_hours": 9.7,
-      "views_per_hour": 322315,
-      "momentum": 6.28,
+      "views": 3139942,
+      "likes": 176950,
+      "comments": 8502,
+      "age_hours": 9.8,
+      "views_per_hour": 321652,
+      "momentum": 6.277,
       "url": "https://www.youtube.com/watch?v=JfozPo2L7xQ",
       "region": "GB",
       "category": "Gaming",
@@ -2569,11 +2622,11 @@
       "thumbnail": "https://i.ytimg.com/vi/NK9-nmfUyf4/mqdefault.jpg",
       "published_at": "2026-04-27T17:30:11Z",
       "category_id": "19",
-      "views": 10945928,
-      "likes": 564187,
-      "comments": 4294,
-      "age_hours": 24.2,
-      "views_per_hour": 451889,
+      "views": 10957076,
+      "likes": 565030,
+      "comments": 4298,
+      "age_hours": 24.3,
+      "views_per_hour": 451134,
       "momentum": 6.26,
       "url": "https://www.youtube.com/watch?v=NK9-nmfUyf4",
       "region": "US",
@@ -2588,12 +2641,12 @@
       "thumbnail": "https://i.ytimg.com/vi/CFGPPIKWgS0/mqdefault.jpg",
       "published_at": "2026-04-21T04:53:41Z",
       "category_id": "24",
-      "views": 60168141,
-      "likes": 3558420,
-      "comments": 30875,
-      "age_hours": 180.8,
-      "views_per_hour": 332731,
-      "momentum": 6.204,
+      "views": 60175837,
+      "likes": 3558848,
+      "comments": 30882,
+      "age_hours": 180.9,
+      "views_per_hour": 332654,
+      "momentum": 6.203,
       "url": "https://www.youtube.com/watch?v=CFGPPIKWgS0",
       "region": "US",
       "category": "Entertainment",
@@ -2607,11 +2660,11 @@
       "thumbnail": "https://i.ytimg.com/vi/Zp7xeVwLaxs/mqdefault.jpg",
       "published_at": "2026-04-26T14:11:47Z",
       "category_id": "22",
-      "views": 14420056,
-      "likes": 857288,
-      "comments": 1909,
-      "age_hours": 51.5,
-      "views_per_hour": 279842,
+      "views": 14434440,
+      "likes": 858722,
+      "comments": 1915,
+      "age_hours": 51.6,
+      "views_per_hour": 279767,
       "momentum": 6.102,
       "url": "https://www.youtube.com/watch?v=Zp7xeVwLaxs",
       "region": "US",
@@ -2626,11 +2679,11 @@
       "thumbnail": "https://i.ytimg.com/vi/FEJsT4kqYhA/mqdefault.jpg",
       "published_at": "2026-04-27T14:28:08Z",
       "category_id": "20",
-      "views": 4023295,
-      "likes": 325390,
-      "comments": 2603,
+      "views": 4023456,
+      "likes": 325781,
+      "comments": 2607,
       "age_hours": 27.3,
-      "views_per_hour": 147608,
+      "views_per_hour": 147261,
       "momentum": 6.039,
       "url": "https://www.youtube.com/watch?v=FEJsT4kqYhA",
       "region": "US",
@@ -2645,12 +2698,12 @@
       "thumbnail": "https://i.ytimg.com/vi/zust6eID9mk/mqdefault.jpg",
       "published_at": "2026-04-28T03:45:11Z",
       "category_id": "23",
-      "views": 3048938,
-      "likes": 142634,
-      "comments": 9966,
+      "views": 3059620,
+      "likes": 142914,
+      "comments": 9993,
       "age_hours": 14.0,
-      "views_per_hour": 218201,
-      "momentum": 6.013,
+      "views_per_hour": 217943,
+      "momentum": 6.011,
       "url": "https://www.youtube.com/watch?v=zust6eID9mk",
       "region": "CA",
       "category": "Comedy",
@@ -2664,11 +2717,11 @@
       "thumbnail": "https://i.ytimg.com/vi/J7VBotXmkwc/mqdefault.jpg",
       "published_at": "2026-04-26T12:00:26Z",
       "category_id": "24",
-      "views": 19034604,
-      "likes": 756105,
+      "views": 19045366,
+      "likes": 756888,
       "comments": 937,
-      "age_hours": 53.7,
-      "views_per_hour": 354333,
+      "age_hours": 53.8,
+      "views_per_hour": 354100,
       "momentum": 5.993,
       "url": "https://www.youtube.com/watch?v=J7VBotXmkwc",
       "region": "IN",
@@ -2683,11 +2736,11 @@
       "thumbnail": "https://i.ytimg.com/vi/3j0G16lOWh0/mqdefault.jpg",
       "published_at": "2026-04-25T18:27:30Z",
       "category_id": "22",
-      "views": 9501494,
-      "likes": 696455,
-      "comments": 8017,
+      "views": 9503799,
+      "likes": 696745,
+      "comments": 8021,
       "age_hours": 71.3,
-      "views_per_hour": 133322,
+      "views_per_hour": 133232,
       "momentum": 5.919,
       "url": "https://www.youtube.com/watch?v=3j0G16lOWh0",
       "region": "US",
@@ -2702,11 +2755,11 @@
       "thumbnail": "https://i.ytimg.com/vi/A_hbIDK09LI/mqdefault.jpg",
       "published_at": "2026-04-24T15:00:31Z",
       "category_id": "23",
-      "views": 27660203,
-      "likes": 1050564,
-      "comments": 2283,
-      "age_hours": 98.7,
-      "views_per_hour": 280193,
+      "views": 27667928,
+      "likes": 1050850,
+      "comments": 2284,
+      "age_hours": 98.8,
+      "views_per_hour": 280084,
       "momentum": 5.866,
       "url": "https://www.youtube.com/watch?v=A_hbIDK09LI",
       "region": "DE",
@@ -2721,12 +2774,12 @@
       "thumbnail": "https://i.ytimg.com/vi/X_JEZMEw_-Q/mqdefault.jpg",
       "published_at": "2026-04-28T03:00:06Z",
       "category_id": "23",
-      "views": 2980055,
-      "likes": 111792,
-      "comments": 8305,
-      "age_hours": 14.7,
-      "views_per_hour": 202388,
-      "momentum": 5.852,
+      "views": 2990183,
+      "likes": 112088,
+      "comments": 8321,
+      "age_hours": 14.8,
+      "views_per_hour": 202175,
+      "momentum": 5.851,
       "url": "https://www.youtube.com/watch?v=X_JEZMEw_-Q",
       "region": "CA",
       "category": "Comedy",
@@ -2740,12 +2793,12 @@
       "thumbnail": "https://i.ytimg.com/vi/cnLi2lt4Fv8/mqdefault.jpg",
       "published_at": "2026-04-27T21:00:00Z",
       "category_id": "24",
-      "views": 2387882,
-      "likes": 169416,
+      "views": 2392406,
+      "likes": 169732,
       "comments": 1054,
-      "age_hours": 20.7,
-      "views_per_hour": 115204,
-      "momentum": 5.802,
+      "age_hours": 20.8,
+      "views_per_hour": 115055,
+      "momentum": 5.801,
       "url": "https://www.youtube.com/watch?v=cnLi2lt4Fv8",
       "region": "BR",
       "category": "Entertainment",
@@ -2759,11 +2812,11 @@
       "thumbnail": "https://i.ytimg.com/vi/f7Pb8ym6zTo/mqdefault.jpg",
       "published_at": "2026-04-23T09:13:25Z",
       "category_id": "22",
-      "views": 7097248,
-      "likes": 783280,
+      "views": 7098104,
+      "likes": 783412,
       "comments": 1187,
-      "age_hours": 128.5,
-      "views_per_hour": 55231,
+      "age_hours": 128.6,
+      "views_per_hour": 55209,
       "momentum": 5.797,
       "url": "https://www.youtube.com/watch?v=f7Pb8ym6zTo",
       "region": "US",
@@ -2779,10 +2832,10 @@
       "published_at": "2026-04-24T00:30:15Z",
       "category_id": "22",
       "views": 4065348,
-      "likes": 436498,
-      "comments": 23431,
-      "age_hours": 113.2,
-      "views_per_hour": 35906,
+      "likes": 436593,
+      "comments": 23434,
+      "age_hours": 113.3,
+      "views_per_hour": 35885,
       "momentum": 5.796,
       "url": "https://www.youtube.com/watch?v=AhrIex7XezY",
       "region": "BR",
@@ -2797,11 +2850,11 @@
       "thumbnail": "https://i.ytimg.com/vi/hYkSWVpNgi0/mqdefault.jpg",
       "published_at": "2026-04-26T11:48:00Z",
       "category_id": "1",
-      "views": 4590179,
-      "likes": 395985,
-      "comments": 481,
-      "age_hours": 53.9,
-      "views_per_hour": 85121,
+      "views": 4592427,
+      "likes": 396461,
+      "comments": 482,
+      "age_hours": 54.0,
+      "views_per_hour": 85059,
       "momentum": 5.786,
       "url": "https://www.youtube.com/watch?v=hYkSWVpNgi0",
       "region": "US",
@@ -2816,11 +2869,11 @@
       "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
       "published_at": "2026-04-27T19:12:25Z",
       "category_id": "22",
-      "views": 3024106,
-      "likes": 174115,
-      "comments": 1553,
-      "age_hours": 22.5,
-      "views_per_hour": 134293,
+      "views": 3027804,
+      "likes": 174456,
+      "comments": 1559,
+      "age_hours": 22.6,
+      "views_per_hour": 134069,
       "momentum": 5.745,
       "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
       "region": "US",
@@ -2835,12 +2888,12 @@
       "thumbnail": "https://i.ytimg.com/vi/-oyxpAgnzD4/mqdefault.jpg",
       "published_at": "2026-04-25T21:00:01Z",
       "category_id": "24",
-      "views": 6026325,
-      "likes": 437902,
-      "comments": 9096,
-      "age_hours": 68.7,
-      "views_per_hour": 87687,
-      "momentum": 5.736,
+      "views": 6036502,
+      "likes": 439024,
+      "comments": 9121,
+      "age_hours": 68.8,
+      "views_per_hour": 87752,
+      "momentum": 5.737,
       "url": "https://www.youtube.com/watch?v=-oyxpAgnzD4",
       "region": "US",
       "category": "Entertainment",
@@ -2854,11 +2907,11 @@
       "thumbnail": "https://i.ytimg.com/vi/0-IVhrlMbBU/mqdefault.jpg",
       "published_at": "2026-04-18T13:06:10Z",
       "category_id": "1",
-      "views": 19088726,
-      "likes": 1509449,
+      "views": 19090527,
+      "likes": 1509538,
       "comments": 9874,
-      "age_hours": 244.6,
-      "views_per_hour": 78033,
+      "age_hours": 244.7,
+      "views_per_hour": 78020,
       "momentum": 5.691,
       "url": "https://www.youtube.com/watch?v=0-IVhrlMbBU",
       "region": "US",
@@ -2873,11 +2926,11 @@
       "thumbnail": "https://i.ytimg.com/vi/jF0KxOMlSRM/mqdefault.jpg",
       "published_at": "2026-04-24T21:05:56Z",
       "category_id": "24",
-      "views": 11873229,
-      "likes": 621834,
-      "comments": 10882,
-      "age_hours": 92.6,
-      "views_per_hour": 128184,
+      "views": 11878927,
+      "likes": 622242,
+      "comments": 10889,
+      "age_hours": 92.7,
+      "views_per_hour": 128155,
       "momentum": 5.69,
       "url": "https://www.youtube.com/watch?v=jF0KxOMlSRM",
       "region": "US",
