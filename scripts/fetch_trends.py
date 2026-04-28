@@ -47,8 +47,31 @@ CATEGORIES = {
 # Add the global "most popular" chart on top, untyped.
 INCLUDE_GLOBAL = True
 
-REGIONS = os.environ.get("TUBERADAR_REGIONS", "US,GB").split(",")
-MAX_PER_CATEGORY = 25     # API max is 50; 25 keeps quota usage low
+REGIONS = os.environ.get(
+    "TUBERADAR_REGIONS",
+    "US,GB,CA,AU,IN,DE,BR"
+).split(",")
+
+# Human-readable region names for the UI.
+REGION_NAMES = {
+    "US": "United States",
+    "GB": "United Kingdom",
+    "CA": "Canada",
+    "AU": "Australia",
+    "IN": "India",
+    "DE": "Germany",
+    "BR": "Brazil",
+    "FR": "France",
+    "JP": "Japan",
+    "MX": "Mexico",
+    "ES": "Spain",
+    "IT": "Italy",
+    "NL": "Netherlands",
+    "ID": "Indonesia",
+    "PH": "Philippines",
+}
+
+MAX_PER_CATEGORY = 15     # reduced from 25 to fit more regions in quota
 TOP_TOPICS = 18           # how many trending topics to surface
 TOP_VIDEOS = 24           # how many breakout videos to surface
 
@@ -258,6 +281,9 @@ def extract_topics(videos: list[dict]) -> list[dict]:
     because YouTube vocabulary ('shorts', 'funny', 'edit') saturates titles
     and isn't a meaningful trend signal. Multi-word phrases get most of the
     weight since they describe actual subjects.
+
+    Each topic carries the set of regions it appeared in so the frontend
+    can filter by region.
     """
     if not videos:
         return []
@@ -284,36 +310,21 @@ def extract_topics(videos: list[dict]) -> list[dict]:
 
     for phrase, vids in phrase_videos.items():
         if len(vids) < 2:
-            continue  # need at least 2 videos to count as a "trend"
+            continue
 
         words = phrase.split()
 
-        # --- Single-word filtering: very strict ---
-        # Single-word "topics" are almost always noise. Reject them if:
-        #   (a) the word is in our YouTube-vocab blocklist, OR
-        #   (b) the word appears in too many other phrases (suggesting it's
-        #       generic vocabulary, not a specific subject), OR
-        #   (c) it appears in more than 15% of all sampled videos – at that
-        #       point it's not "trending", it's "common".
         if len(words) == 1:
             word = words[0]
             if word in YOUTUBE_VOCAB:
                 continue
             if len(vids) / total_videos > 0.15:
                 continue
-            # Single words need stronger evidence: at least 4 videos, not 2.
             if len(vids) < 4:
                 continue
-
-        # --- Multi-word filtering: lighter ---
-        # Even multi-word phrases get rejected if EVERY token is just
-        # YouTube vocabulary glued together (e.g. "best gaming" or
-        # "funny edit"). Real topics have at least one distinctive token.
         elif all(w in YOUTUBE_VOCAB for w in words):
             continue
 
-        # --- Subsumption check: prefer longer phrases over shorter ones ---
-        # If "minecraft hardcore" is a topic, suppress "minecraft" alone.
         is_subsumed = any(
             phrase != other
             and phrase in other
@@ -323,14 +334,17 @@ def extract_topics(videos: list[dict]) -> list[dict]:
         if is_subsumed:
             continue
 
-        # Score: total momentum, with a bonus for multi-word specificity.
-        word_count_bonus = 1.0 + 0.25 * (len(words) - 1)  # 1.0 / 1.25 / 1.5
+        word_count_bonus = 1.0 + 0.25 * (len(words) - 1)
         total_momentum = sum(v["momentum"] for v in vids) * word_count_bonus
+
+        # Track which regions this phrase showed up in.
+        regions_seen = sorted({v.get("region", "??") for v in vids})
 
         topics.append({
             "phrase": phrase,
             "video_count": len(vids),
             "momentum": round(total_momentum, 2),
+            "regions": regions_seen,
             "example_videos": [
                 {"id": v["id"], "title": v["title"], "channel": v["channel"],
                  "thumbnail": v["thumbnail"], "url": v["url"],
@@ -540,6 +554,110 @@ def extract_emerging_themes(candidate_phrases: list[str]) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# Trending search terms (via YouTube autocomplete)
+# ---------------------------------------------------------------------------
+# YouTube's autocomplete endpoint returns the most popular completions for
+# any search prefix. By tracking which completions appear today that weren't
+# there in previous runs, we identify what people are starting to search for –
+# a leading indicator of emerging interest, complementing the upload-side
+# signals from the popular charts.
+#
+# This endpoint is separate from the Data API and doesn't count toward our
+# 10K/day quota. It's effectively unlimited (within reasonable rate limits).
+
+import json as _json_mod  # alias to avoid shadowing in jsonp parsing
+
+# Seed prefixes to query. These are deliberately broad – the autocomplete
+# results give us the current top completions, which is the actual trend signal.
+SEARCH_SEED_PREFIXES = [
+    "how to", "how do", "how does",
+    "why is", "why do", "why does",
+    "what is", "what are", "what happened",
+    "best", "worst", "top",
+    "is it", "should i",
+    "can you",
+]
+
+TOP_SEARCH_TERMS = 12   # how many search trends to surface
+
+
+def fetch_youtube_autocomplete(prefix: str, region: str = "US") -> list[str]:
+    """Hit YouTube's autocomplete endpoint for a given prefix."""
+    url = "https://suggestqueries.google.com/complete/search"
+    params = {
+        "client": "youtube",
+        "ds": "yt",
+        "q": prefix,
+        "hl": "en",
+        "gl": region.lower(),
+    }
+    try:
+        r = requests.get(f"{url}?{urlencode(params)}", timeout=10)
+        if r.status_code != 200:
+            return []
+        # Response is JSONP-ish: window.google.ac.h([...]) – strip the wrapper.
+        text = r.text.strip()
+        start = text.find("[")
+        end = text.rfind("]")
+        if start == -1 or end == -1:
+            return []
+        parsed = _json_mod.loads(text[start:end + 1])
+        # Structure: [prefix, [[suggestion, 0], [suggestion, 0], ...], ...]
+        if len(parsed) < 2 or not isinstance(parsed[1], list):
+            return []
+        return [
+            entry[0] for entry in parsed[1]
+            if isinstance(entry, list) and len(entry) >= 1
+            and isinstance(entry[0], str)
+        ]
+    except Exception as e:
+        print(f"  ! autocomplete error for '{prefix}': {e}")
+        return []
+
+
+def collect_trending_searches(prev_search_terms: dict[str, str]) -> list[dict]:
+    """
+    Pull autocomplete suggestions for all seed prefixes and return the ones
+    that look 'fresh' – appearing in the top suggestions today.
+
+    For each surfaced term, we record:
+      - phrase: the autocompleted suggestion
+      - prefix: which seed prefix produced it
+      - rank: position in the autocomplete list (1 = top)
+      - first_seen_at: when this term first appeared in our tracking
+      - is_new: whether this is the first run we've seen it
+    """
+    results: dict[str, dict] = {}
+    now_iso = datetime.now(timezone.utc).isoformat()
+
+    for prefix in SEARCH_SEED_PREFIXES:
+        suggestions = fetch_youtube_autocomplete(prefix)
+        for rank, suggestion in enumerate(suggestions[:10], start=1):
+            # Skip if the suggestion is just the prefix itself.
+            if suggestion.strip().lower() == prefix.lower():
+                continue
+            # Keep the highest-ranked appearance of each term.
+            if suggestion in results and results[suggestion]["rank"] <= rank:
+                continue
+            first_seen = prev_search_terms.get(suggestion, now_iso)
+            results[suggestion] = {
+                "phrase": suggestion,
+                "prefix": prefix,
+                "rank": rank,
+                "first_seen_at": first_seen,
+                "is_new": suggestion not in prev_search_terms,
+            }
+        print(f"  '{prefix}' → {len(suggestions)} suggestions")
+
+    # Sort: new ones first, then by rank.
+    sorted_results = sorted(
+        results.values(),
+        key=lambda x: (not x["is_new"], x["rank"])
+    )
+    return sorted_results[:TOP_SEARCH_TERMS]
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -621,6 +739,23 @@ def run() -> None:
         theme["last_seen_at"] = now_iso
     print(f"  → {fresh_count} brand new theme(s), {len(themes) - fresh_count} continuing from previous run")
 
+    # ---- Trending search terms (via YouTube autocomplete) ----
+    print(f"\nCollecting trending search terms via autocomplete...")
+    # Carry forward first_seen_at timestamps from previous run so we can mark
+    # genuinely new terms vs ones that have been around.
+    prev_search_terms: dict[str, str] = {}
+    if out_path.exists():
+        try:
+            previous = json.loads(out_path.read_text())
+            for prev in previous.get("trending_searches", []):
+                if "first_seen_at" in prev:
+                    prev_search_terms[prev["phrase"]] = prev["first_seen_at"]
+        except Exception:
+            pass
+    trending_searches = collect_trending_searches(prev_search_terms)
+    new_searches = sum(1 for s in trending_searches if s.get("is_new"))
+    print(f"Trending searches collected: {len(trending_searches)} ({new_searches} new)")
+
     # Build category breakdown – useful for the frontend filter.
     by_category: Counter[str] = Counter()
     for v in videos:
@@ -629,14 +764,20 @@ def run() -> None:
     output = {
         "generated_at": now_iso,
         "regions": REGIONS,
+        "regions_meta": [
+            {"code": r.strip().upper(), "name": REGION_NAMES.get(r.strip().upper(), r.strip().upper())}
+            for r in REGIONS
+        ],
         "stats": {
             "total_videos": len(videos),
             "total_topics": len(topics),
             "total_themes": len(themes),
+            "total_searches": len(trending_searches),
             "by_category": dict(by_category),
         },
         "emerging_themes": themes,
         "topics": topics,
+        "trending_searches": trending_searches,
         "breakout_videos": videos[:TOP_VIDEOS],
     }
 
