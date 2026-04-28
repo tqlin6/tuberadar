@@ -87,8 +87,25 @@ THEME_CANDIDATES = 8             # how many candidate phrases to validate (quota
 THEME_SEARCH_RESULTS = 30        # videos fetched per phrase via search.list
 TOP_THEMES = 12                  # how many themes to surface in the output
 
-# Words that pollute keyword analysis – they appear on everything.
-STOPWORDS = set("""
+# ---------------------------------------------------------------------------
+# Multilingual stopword and vocabulary lists
+# ---------------------------------------------------------------------------
+# A 'topic' in any language is a phrase that's specific and substantive.
+# To find those, we need to filter out (a) stopwords (the/and/of equivalents)
+# and (b) YouTube vocabulary (their version of "shorts/funny/edit/best").
+#
+# Each supported language has its own pair of lists. Title language is
+# detected per video so a Brazilian Portuguese title gets the Portuguese
+# filter, an English title gets the English filter, etc.
+#
+# Honest limitations:
+# - Hindi/Devanagari script videos won't tokenize (Latin-only tokenizer).
+#   Indian English content surfaces; pure Hindi script videos are invisible.
+# - Spanish vs Portuguese detection is imperfect for short titles - they
+#   share many words. We use region as a tiebreaker (BR=pt, ES/MX=es).
+
+LANG_STOPWORDS = {
+    "en": set("""
 a an the and or but of for to in on at by with from as is are was were be been being
 this that these those it its it's i'm we're you're they're he she them us our your their my
 how what why when where who which whose whom about into onto out up down off over
@@ -97,16 +114,57 @@ such no nor not only own same so than too very can will just don should now
 new newest latest full part episode ep day days week vs versus
 2023 2024 2025 2026 watch ft feat featuring
 ll ve re
-""".split())
-# Note: kept first-person/second-person pronouns (i, we, you, they) – they anchor
-# common hook patterns like "I tried X" and "You won't believe Y" that creators
-# actively want to spot.
+""".split()),
 
-# YouTube-specific vocabulary that appears across half of all videos and isn't
-# a meaningful trend signal on its own. These are rejected as topics unless
-# they're part of a multi-word phrase (e.g. "speedrun world record" is fine
-# even though "speedrun" alone isn't).
-YOUTUBE_VOCAB = set("""
+    "pt": set("""
+a o as os um uma uns umas de do da dos das e ou mas em no na nos nas
+para por com sem sob sobre entre ate até desde
+que quem qual quais quando onde como porque
+eu tu ele ela nos nós vos vós eles elas voce você voces vocês
+me te se lhe nos vos lhes meu minha teu tua seu sua nosso nossa vosso vossa
+isto isso aquilo este esta esse essa aquele aquela
+ja já ainda apenas só somente também tambem nao não sim
+mais menos muito muita muitos muitas pouco pouca poucos poucas
+ser estar ter haver fazer ir vir dar ver dizer poder querer dever saber
+foi era sou sao são fui fomos serao serão tem têm tinha tem teve
+hoje ontem amanha amanhã agora depois antes sempre nunca
+ep episodio episódio dia dias semana mes mês ano anos parte completo full
+""".split()),
+
+    "de": set("""
+der die das den dem des ein eine einen einer eines einem
+und oder aber doch denn weil wenn dass ob als wie
+ich du er sie es wir ihr mich mir dich dir ihn ihm uns euch
+mein meine dein deine sein seine unser unsere euer eure
+in auf an bei zu mit von vor nach aus über unter neben hinter
+durch gegen ohne um für trotz
+ist sind war waren bin bist sein sei werden wird wurde geworden
+hat haben habe hatte gehabt
+nicht kein keine keinen keiner keines keinem
+ja nein doch nur auch noch schon mehr weniger viel viele
+heute gestern morgen jetzt dann immer nie
+neu neue alt alte voll teil tag tage woche monat jahr
+ep episode folge teil
+""".split()),
+
+    "es": set("""
+el la los las un una unos unas
+de del al en con sin sobre entre hasta desde
+y o pero porque si que cual cuales quien quienes cuando donde como
+yo tu él ella nosotros vosotros ellos ellas usted ustedes
+me te se nos os le les lo la
+mi mis tu tus su sus nuestro nuestra vuestro vuestra
+ser estar tener haber hacer ir venir dar ver decir poder querer
+es son era fue fueron fui estoy esta están está
+no si también tambien aún ya solo
+mas menos muy mucho muchos pocos
+hoy ayer mañana ahora antes después siempre nunca
+nuevo viejo lleno parte
+""".split()),
+}
+
+LANG_YOUTUBE_VOCAB = {
+    "en": set("""
 shorts short reel reels clip clips video videos movie movies film films
 funny lol haha cringe hilarious wild crazy insane unbelievable shocking
 game gaming gameplay playthrough walkthrough speedrun stream livestream
@@ -121,7 +179,121 @@ content creator creators
 asmr vlog vlogs blog blogs podcast podcasts interview interviews
 trailer trailers teaser teasers preview
 behind scenes bts shorts
-""".split())
+""".split()),
+
+    "pt": set("""
+shorts video videos clipe clipes filme filmes
+engraçado engracado louco louca incrivel incrível chocante
+jogo jogos gameplay
+edicao edição edicoes edições montagem
+review reviews reagindo reacao reação reagao
+tutorial guia dicas truques
+top melhor pior melhores piores
+oficial musica música cancao canção
+canal inscrevase inscreve-se inscritos curtir comentar compartilhar
+youtube tiktok instagram
+conteudo conteúdo criador criadores
+vlog vlogs podcast podcasts entrevista entrevistas
+trailer teaser
+""".split()),
+
+    "de": set("""
+shorts video videos clip clips film filme
+lustig witzig verrückt verrueckt krass unglaublich
+spiel spiele gaming
+schnitt schnitten zusammenschnitt
+review reviews reaktion reaktionen reagiere
+tutorial anleitung tipps tricks
+top beste schlechteste großte größte
+offiziell musik lied lieder
+kanal abonniere abonnenten abo
+youtube tiktok instagram
+inhalt ersteller
+vlog vlogs podcast interview interviews
+trailer teaser
+""".split()),
+
+    "es": set("""
+shorts video videos clip clips pelicula película
+divertido gracioso loco increible increíble
+juego juegos
+edicion edición montaje
+review reviews reaccion reacción reaccionando
+tutorial guia guía consejos trucos
+top mejor peor
+oficial musica música cancion canción
+canal suscribete suscríbete suscriptores
+youtube tiktok instagram
+contenido creador creadores
+vlog vlogs podcast entrevista
+trailer
+""".split()),
+}
+
+# Region → likely primary language. Used as a hint for ambiguous detection.
+REGION_LANG_HINT = {
+    "US": "en", "GB": "en", "CA": "en", "AU": "en", "IN": "en",
+    "DE": "de",
+    "BR": "pt",
+    "ES": "es", "MX": "es",
+    "FR": "fr", "JP": "ja", "IT": "it", "NL": "nl",
+    "ID": "id", "PH": "en",
+}
+
+# Backwards-compatibility shims: parts of the script still reference the old
+# flat STOPWORDS/YOUTUBE_VOCAB sets (e.g. tokenizer fallback). Point them at
+# the English versions, which is what they were before.
+STOPWORDS = LANG_STOPWORDS["en"]
+YOUTUBE_VOCAB = LANG_YOUTUBE_VOCAB["en"]
+
+
+def detect_title_language(title: str, region_hint: str | None = None) -> str:
+    """
+    Best-effort title language detection. Returns one of the language codes
+    in LANG_STOPWORDS, or 'en' as a safe fallback.
+
+    Strategy: count how many words in the title appear in each language's
+    stopword list. Whichever language wins gets it. Region hint nudges the
+    tiebreaker for ambiguous short titles.
+    """
+    if not title:
+        return "en"
+
+    # Tokenize loosely - just lowercase letters, no language-specific chars yet.
+    words = re.findall(r"[a-záéíóúâêîôûãõàèìòùäöüçñ']+", title.lower())
+    if not words:
+        return "en"
+
+    # If most characters aren't Latin letters at all, skip - this is e.g.
+    # Devanagari, Cyrillic, CJK. Return 'en' as a safe default; the topic
+    # extractor will then likely filter out most/all of the tokens anyway.
+    latin_chars = sum(1 for c in title if c.isalpha() and ord(c) < 0x80)
+    total_chars = sum(1 for c in title if c.isalpha())
+    if total_chars > 0 and latin_chars / total_chars < 0.5:
+        return REGION_LANG_HINT.get(region_hint or "", "en")
+
+    scores: dict[str, int] = {}
+    for lang, stopwords in LANG_STOPWORDS.items():
+        scores[lang] = sum(1 for w in words if w in stopwords)
+
+    # Threshold: need at least 1 stopword match to claim a language.
+    best_lang = max(scores, key=scores.get)
+    if scores[best_lang] == 0:
+        # No stopwords matched any language. Fall back to region hint.
+        return REGION_LANG_HINT.get(region_hint or "", "en")
+
+    # If tie between two languages, prefer the region hint.
+    top_score = scores[best_lang]
+    tied = [lang for lang, score in scores.items() if score == top_score]
+    if len(tied) > 1 and region_hint:
+        hint = REGION_LANG_HINT.get(region_hint, "en")
+        if hint in tied:
+            return hint
+
+    return best_lang
+
+
+# ---------------------------------------------------------------------------
 
 # ---------------------------------------------------------------------------
 # YouTube API
@@ -253,18 +425,17 @@ def normalize(videos: list[dict]) -> list[dict]:
 # Topic clustering
 # ---------------------------------------------------------------------------
 
-TOKEN_RE = re.compile(r"[a-z0-9']+")
+TOKEN_RE = re.compile(r"[a-z0-9'áéíóúâêîôûãõàèìòùäöüçñ]+")
 
-def tokenize(title: str) -> list[str]:
+def tokenize(title: str, lang: str = "en") -> list[str]:
+    """Lowercase, strip non-letters, remove stopwords for the given language."""
     title = title.lower()
-    # Strip emoji and most non-letter characters.
     tokens = TOKEN_RE.findall(title)
-    # Allow 2-letter terms (ai, vr, tv, 5g) since those are real trend signals,
-    # but drop pure numbers and stopwords.
+    stopwords = LANG_STOPWORDS.get(lang, LANG_STOPWORDS["en"])
     return [
         t for t in tokens
-        if t not in STOPWORDS
-        and (len(t) >= 2 or t == "i")  # keep "i" so "i tried" / "i built" surface
+        if t not in stopwords
+        and (len(t) >= 2 or t == "i")
         and not t.isdigit()
     ]
 
@@ -273,29 +444,27 @@ def ngrams(tokens: list[str], n: int) -> list[str]:
     return [" ".join(tokens[i:i + n]) for i in range(len(tokens) - n + 1)]
 
 
-def extract_topics(videos: list[dict]) -> list[dict]:
+def extract_topics(videos: list[dict], lang: str = "en") -> list[dict]:
     """
     Surface phrases that recur across multiple high-momentum videos.
 
-    A 'topic' is a 1, 2, or 3-word phrase. Single words are heavily restricted
-    because YouTube vocabulary ('shorts', 'funny', 'edit') saturates titles
-    and isn't a meaningful trend signal. Multi-word phrases get most of the
-    weight since they describe actual subjects.
-
-    Each topic carries the set of regions it appeared in so the frontend
-    can filter by region.
+    Operates in a single language at a time - the caller groups videos by
+    detected language first, then calls this with the relevant lang code.
+    Stopwords and YouTube vocabulary are looked up for that language.
     """
     if not videos:
         return []
+
+    vocab = LANG_YOUTUBE_VOCAB.get(lang, LANG_YOUTUBE_VOCAB["en"])
 
     phrase_videos: dict[str, list[dict]] = defaultdict(list)
     phrase_counts: Counter[str] = Counter()
 
     for v in videos:
-        tokens = tokenize(v["title"])
+        tokens = tokenize(v["title"], lang=lang)
         seen_in_video = set()
 
-        for n in (3, 2, 1):  # prefer longer phrases when they exist
+        for n in (3, 2, 1):
             for phrase in ngrams(tokens, n):
                 if len(phrase) < 4:
                     continue
@@ -316,13 +485,13 @@ def extract_topics(videos: list[dict]) -> list[dict]:
 
         if len(words) == 1:
             word = words[0]
-            if word in YOUTUBE_VOCAB:
+            if word in vocab:
                 continue
             if len(vids) / total_videos > 0.15:
                 continue
             if len(vids) < 4:
                 continue
-        elif all(w in YOUTUBE_VOCAB for w in words):
+        elif all(w in vocab for w in words):
             continue
 
         is_subsumed = any(
@@ -337,7 +506,6 @@ def extract_topics(videos: list[dict]) -> list[dict]:
         word_count_bonus = 1.0 + 0.25 * (len(words) - 1)
         total_momentum = sum(v["momentum"] for v in vids) * word_count_bonus
 
-        # Track which regions this phrase showed up in.
         regions_seen = sorted({v.get("region", "??") for v in vids})
 
         topics.append({
@@ -345,6 +513,7 @@ def extract_topics(videos: list[dict]) -> list[dict]:
             "video_count": len(vids),
             "momentum": round(total_momentum, 2),
             "regions": regions_seen,
+            "lang": lang,
             "example_videos": [
                 {"id": v["id"], "title": v["title"], "channel": v["channel"],
                  "thumbnail": v["thumbnail"], "url": v["url"],
@@ -355,6 +524,60 @@ def extract_topics(videos: list[dict]) -> list[dict]:
 
     topics.sort(key=lambda t: t["momentum"], reverse=True)
     return topics[:TOP_TOPICS]
+
+
+def extract_topics_per_region(videos: list[dict]) -> dict[str, list[dict]]:
+    """
+    Compute topics independently for each region, using each video's
+    detected language for filtering.
+
+    Returns: dict mapping region code -> list of topics for that region.
+    The special key "ALL" gets a globally merged topic list (English-only,
+    since cross-language merging produces noise).
+    """
+    by_region: dict[str, list[dict]] = defaultdict(list)
+    for v in videos:
+        region = v.get("region")
+        if region:
+            by_region[region].append(v)
+
+    topics_by_region: dict[str, list[dict]] = {}
+
+    for region, region_videos in by_region.items():
+        # Group this region's videos by detected language so each language
+        # gets its own filtering pass.
+        by_lang: dict[str, list[dict]] = defaultdict(list)
+        for v in region_videos:
+            lang = detect_title_language(v["title"], region_hint=region)
+            v["_detected_lang"] = lang  # cache for later
+            by_lang[lang].append(v)
+
+        # Extract topics per language, then merge by momentum within the region.
+        all_region_topics = []
+        for lang, lang_videos in by_lang.items():
+            all_region_topics.extend(extract_topics(lang_videos, lang=lang))
+
+        all_region_topics.sort(key=lambda t: t["momentum"], reverse=True)
+        topics_by_region[region] = all_region_topics[:TOP_TOPICS]
+        print(f"  {region}: {len(all_region_topics)} topics across "
+              f"{len(by_lang)} language(s) "
+              f"({', '.join(f'{l}={len(vs)}' for l, vs in by_lang.items())})")
+
+    # Build a global "ALL" view: take all English topics across all regions
+    # plus the top per-region non-English topic. This avoids the previous
+    # behaviour where "all" was dominated by US/GB content.
+    all_topics: list[dict] = []
+    for topics in topics_by_region.values():
+        all_topics.extend(topics)
+    # Dedupe by phrase, keeping highest-momentum version.
+    seen: dict[str, dict] = {}
+    for t in all_topics:
+        if t["phrase"] not in seen or t["momentum"] > seen[t["phrase"]]["momentum"]:
+            seen[t["phrase"]] = t
+    merged = sorted(seen.values(), key=lambda t: t["momentum"], reverse=True)
+    topics_by_region["ALL"] = merged[:TOP_TOPICS]
+
+    return topics_by_region
 
 
 # ---------------------------------------------------------------------------
@@ -702,12 +925,12 @@ def run() -> None:
             print("  Site remains live with last successful fetch's data.")
         sys.exit(0)  # Exit cleanly so workflow doesn't show as failed.
 
-    topics = extract_topics(videos)
-    print(f"Trending topics found: {len(topics)}")
+    print("\nExtracting topics per region...")
+    topics_by_region = extract_topics_per_region(videos)
+    topics = topics_by_region.get("ALL", [])
+    print(f"Trending topics (all regions, deduped): {len(topics)}")
 
-    # Use the topic phrases as candidates for emerging-theme validation.
-    # Each candidate gets its own recent-uploads search to verify it's
-    # actually being picked up by many small creators right now.
+    # Use the global topic phrases as candidates for emerging-theme validation.
     print(f"\nValidating emerging themes (window: {THEME_WINDOW_HOURS}h, "
           f"sub cap: {THEME_MAX_SUBSCRIBERS:,})...")
     candidate_phrases = [t["phrase"] for t in topics]
@@ -777,6 +1000,7 @@ def run() -> None:
         },
         "emerging_themes": themes,
         "topics": topics,
+        "topics_by_region": topics_by_region,
         "trending_searches": trending_searches,
         "breakout_videos": videos[:TOP_VIDEOS],
     }
