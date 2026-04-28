@@ -1,8 +1,10 @@
 TubeRadar
-> A signal feed of emerging YouTube topics for content creators. Refreshed throughout the day.
-TubeRadar surfaces emerging trends on YouTube two ways:
-Emerging themes — topics that many different small/mid creators (under 1M subscribers) have started uploading about in the last 12 hours. This is the strongest signal of a topic catching fire across YouTube right now, because it filters out the case where one big channel posts and dominates the conversation.
-Topics gaining momentum — phrases recurring across the highest-velocity videos currently on YouTube's "most popular" charts. Useful for spotting hooks and formats that are working.
+> Know what to make next, before everyone else does. A free, live YouTube trend feed for creators.
+TubeRadar surfaces emerging trends on YouTube three ways:
+Emerging themes — topics that many different small/mid creators (under 1M subscribers) have started uploading about in the last 12 hours. The strongest signal of a topic catching fire across YouTube right now — it filters out the case where one big channel posts and dominates the conversation.
+Topics with momentum — phrases recurring across the highest-velocity videos currently on YouTube's "most popular" charts. Useful for spotting hooks, formats, and subjects that are working today.
+What viewers are searching — live YouTube autocomplete data showing what people are actively typing into the search bar. The demand side of the equation, complementing the upload-side signals above.
+All three feeds work across seven regions (US, GB, CA, AU, IN, DE, BR) with multilingual topic detection for non-English markets.
 The site is a static HTML/CSS/JS page; the data is refreshed by a Python script that runs on GitHub Actions and writes a JSON file back into the repo.
 Total cost to run: $0/month.
 ---
