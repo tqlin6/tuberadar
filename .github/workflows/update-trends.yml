@@ -32,7 +32,6 @@ jobs:
       - name: Fetch trends
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          TUBERADAR_REGIONS: ${{ vars.TUBERADAR_REGIONS || 'US,GB' }}
         run: python scripts/fetch_trends.py
 
       - name: Commit updated data
