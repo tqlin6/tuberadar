@@ -60,7 +60,7 @@ THEME_WINDOW_HOURS = 12          # how recent uploads must be
 THEME_MAX_SUBSCRIBERS = 1_000_000  # exclude channels above this size
 THEME_MIN_CHANNELS = 5           # need uploads from at least this many distinct channels
 THEME_MIN_VIDEOS = 8             # and at least this many recent videos
-THEME_CANDIDATES = 6             # how many candidate phrases to validate (quota controller)
+THEME_CANDIDATES = 8             # how many candidate phrases to validate (quota controller)
 THEME_SEARCH_RESULTS = 30        # videos fetched per phrase via search.list
 TOP_THEMES = 12                  # how many themes to surface in the output
 
@@ -420,6 +420,34 @@ def fetch_channel_subscriber_counts(channel_ids: list[str]) -> dict[str, int]:
     return counts
 
 
+def is_valid_theme_candidate(phrase: str) -> bool:
+    """
+    Themes must be specific, descriptive phrases — not generic vocabulary.
+    Single words like 'baby', 'life', 'travel' have plenty of search volume
+    but aren't actionable themes; they're too broad to mean anything.
+    Hook-style phrases like 'i tried' aren't themes either — they're formats.
+    """
+    words = phrase.split()
+    # Rule 1: Must be multi-word.
+    if len(words) < 2:
+        return False
+    # Rule 2: Reject phrases made entirely of YouTube vocabulary.
+    if all(w in YOUTUBE_VOCAB for w in words):
+        return False
+    # Rule 3: Reject hook formulas (typically pronoun + short verb).
+    # If the average word length is under 4 chars, it's probably a hook
+    # ("i tried", "we made", "you won") rather than a substantive subject.
+    avg_word_len = sum(len(w) for w in words) / len(words)
+    if avg_word_len < 4:
+        return False
+    # Rule 4: Reject if any word is a pronoun – pronouns belong in topics
+    # (as hooks), not themes (as subjects).
+    PRONOUNS = {"i", "we", "you", "they", "he", "she", "it"}
+    if any(w in PRONOUNS for w in words):
+        return False
+    return True
+
+
 def extract_emerging_themes(candidate_phrases: list[str]) -> list[dict]:
     """
     For each candidate phrase, find recent uploads via search.list and
@@ -429,10 +457,17 @@ def extract_emerging_themes(candidate_phrases: list[str]) -> list[dict]:
       - With most uploads coming from sub-THEME_MAX_SUBSCRIBERS channels
         (so a single big creator can't anoint a phrase as 'trending')
     """
+    # First pass: only keep candidates that look like real themes.
+    # Single words ("baby", "life") and hooks ("i tried") get rejected here.
+    valid_candidates = [p for p in candidate_phrases if is_valid_theme_candidate(p)]
+    rejected_count = len(candidate_phrases) - len(valid_candidates)
+    if rejected_count:
+        print(f"  (rejected {rejected_count} non-theme candidate(s) before validation)")
+
     themes = []
     cutoff_ts = datetime.now(timezone.utc).timestamp() - THEME_WINDOW_HOURS * 3600
 
-    for phrase in candidate_phrases[:THEME_CANDIDATES]:
+    for phrase in valid_candidates[:THEME_CANDIDATES]:
         items = search_recent_uploads(phrase)
         if len(items) < THEME_MIN_VIDEOS:
             continue
