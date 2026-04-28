@@ -1,8 +1,386 @@
 {
-  "generated_at": "2026-04-28T09:21:16.678262+00:00",
+  "generated_at": "2026-04-27T08:00:00+00:00",
   "regions": [
     "US",
-    "GB"
+    "GB",
+    "CA",
+    "AU",
+    "IN",
+    "DE",
+    "BR"
+  ],
+  "stats": {
+    "total_videos": 87,
+    "total_topics": 12,
+    "by_category": {
+      "Gaming": 14,
+      "Howto & Style": 11,
+      "Entertainment": 18,
+      "Education": 9,
+      "Science & Tech": 12,
+      "Comedy": 8,
+      "People & Blogs": 15
+    },
+    "total_themes": 3,
+    "total_searches": 8
+  },
+  "topics": [
+    {
+      "phrase": "ai agents",
+      "video_count": 7,
+      "momentum": 38.42,
+      "example_videos": [
+        {
+          "id": "demo1",
+          "title": "I Built an AI Agent That Runs My Entire Business",
+          "channel": "Tech Forward",
+          "thumbnail": "",
+          "url": "#",
+          "views": 1240000,
+          "age_hours": 18.4
+        },
+        {
+          "id": "demo2",
+          "title": "AI Agents Just Changed Everything (Again)",
+          "channel": "Future Code",
+          "thumbnail": "",
+          "url": "#",
+          "views": 890000,
+          "age_hours": 32.1
+        },
+        {
+          "id": "demo3",
+          "title": "The Truth About AI Agents in 2026",
+          "channel": "Decoded",
+          "thumbnail": "",
+          "url": "#",
+          "views": 412000,
+          "age_hours": 9.8
+        }
+      ],
+      "regions": [
+        "US",
+        "GB"
+      ]
+    },
+    {
+      "phrase": "tier list",
+      "video_count": 5,
+      "momentum": 31.18,
+      "example_videos": [
+        {
+          "id": "demo4",
+          "title": "Ranking EVERY Movie of 2026 (Tier List)",
+          "channel": "Reel Talk",
+          "thumbnail": "",
+          "url": "#",
+          "views": 2100000,
+          "age_hours": 48.0
+        },
+        {
+          "id": "demo5",
+          "title": "The Definitive Pokemon Tier List",
+          "channel": "Battle Royale",
+          "thumbnail": "",
+          "url": "#",
+          "views": 780000,
+          "age_hours": 22.5
+        }
+      ],
+      "regions": [
+        "IN"
+      ]
+    },
+    {
+      "phrase": "i tried",
+      "video_count": 6,
+      "momentum": 29.74,
+      "example_videos": [
+        {
+          "id": "demo6",
+          "title": "I Tried Living Like a Monk for 30 Days",
+          "channel": "Real Talk",
+          "thumbnail": "",
+          "url": "#",
+          "views": 1890000,
+          "age_hours": 64.0
+        }
+      ],
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "phrase": "minecraft hardcore",
+      "video_count": 4,
+      "momentum": 27.91,
+      "example_videos": [
+        {
+          "id": "demo7",
+          "title": "I Survived 100 Days in Minecraft Hardcore",
+          "channel": "PixelCraft",
+          "thumbnail": "",
+          "url": "#",
+          "views": 3200000,
+          "age_hours": 96.0
+        }
+      ],
+      "regions": [
+        "GB",
+        "CA"
+      ]
+    },
+    {
+      "phrase": "ranking the",
+      "video_count": 4,
+      "momentum": 22.18,
+      "example_videos": [
+        {
+          "id": "demo8",
+          "title": "Ranking the Worst Cars I've Ever Driven",
+          "channel": "Driven",
+          "thumbnail": "",
+          "url": "#",
+          "views": 540000,
+          "age_hours": 28.0
+        }
+      ],
+      "regions": [
+        "US",
+        "AU"
+      ]
+    },
+    {
+      "phrase": "morning routine",
+      "video_count": 3,
+      "momentum": 19.42,
+      "example_videos": [
+        {
+          "id": "demo9",
+          "title": "My 5AM Morning Routine That Changed My Life",
+          "channel": "Slow Living",
+          "thumbnail": "",
+          "url": "#",
+          "views": 720000,
+          "age_hours": 18.0
+        }
+      ],
+      "regions": [
+        "IN"
+      ]
+    },
+    {
+      "phrase": "dollar vs",
+      "video_count": 3,
+      "momentum": 18.66,
+      "example_videos": [
+        {
+          "id": "demo10",
+          "title": "$1 Pizza vs $1000 Pizza",
+          "channel": "Foodie Showdown",
+          "thumbnail": "",
+          "url": "#",
+          "views": 4100000,
+          "age_hours": 110.0
+        }
+      ],
+      "regions": [
+        "US"
+      ]
+    },
+    {
+      "phrase": "we need to",
+      "video_count": 3,
+      "momentum": 14.21,
+      "example_videos": [
+        {
+          "id": "demo11",
+          "title": "We Need to Talk About This Movie",
+          "channel": "Cinema Sins",
+          "thumbnail": "",
+          "url": "#",
+          "views": 380000,
+          "age_hours": 16.0
+        }
+      ],
+      "regions": [
+        "GB"
+      ]
+    }
+  ],
+  "breakout_videos": [
+    {
+      "id": "demo1",
+      "title": "I Built an AI Agent That Runs My Entire Business",
+      "channel": "Tech Forward",
+      "channel_id": "x",
+      "thumbnail": "",
+      "url": "#",
+      "views": 1240000,
+      "likes": 89000,
+      "comments": 4200,
+      "age_hours": 18.4,
+      "views_per_hour": 67391,
+      "momentum": 5.42,
+      "category": "Science & Tech",
+      "region": "US"
+    },
+    {
+      "id": "demo3",
+      "title": "The Truth About AI Agents in 2026",
+      "channel": "Decoded",
+      "channel_id": "x",
+      "thumbnail": "",
+      "url": "#",
+      "views": 412000,
+      "likes": 34000,
+      "comments": 1800,
+      "age_hours": 9.8,
+      "views_per_hour": 42040,
+      "momentum": 4.97,
+      "category": "Education",
+      "region": "US"
+    },
+    {
+      "id": "demo6",
+      "title": "I Tried Living Like a Monk for 30 Days",
+      "channel": "Real Talk",
+      "channel_id": "x",
+      "thumbnail": "",
+      "url": "#",
+      "views": 1890000,
+      "likes": 142000,
+      "comments": 8900,
+      "age_hours": 64.0,
+      "views_per_hour": 29531,
+      "momentum": 4.81,
+      "category": "People & Blogs",
+      "region": "US"
+    },
+    {
+      "id": "demo4",
+      "title": "Ranking EVERY Movie of 2026 (Tier List)",
+      "channel": "Reel Talk",
+      "channel_id": "x",
+      "thumbnail": "",
+      "url": "#",
+      "views": 2100000,
+      "likes": 98000,
+      "comments": 12000,
+      "age_hours": 48.0,
+      "views_per_hour": 43750,
+      "momentum": 4.74,
+      "category": "Entertainment",
+      "region": "US"
+    }
+  ],
+  "emerging_themes": [
+    {
+      "phrase": "mobile photography",
+      "video_count": 24,
+      "channel_count": 19,
+      "total_channels_seen": 28,
+      "uploads_per_hour": 1.58,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "d1",
+          "title": "iPhone 17 Pro Camera Test in Low Light",
+          "channel": "PixelGrade",
+          "channel_id": "c1",
+          "subscribers": 84000,
+          "thumbnail": "",
+          "published_at": "2026-04-27T06:30:00Z",
+          "url": "#"
+        },
+        {
+          "id": "d2",
+          "title": "Pixel vs iPhone vs Galaxy: Camera Showdown 2026",
+          "channel": "CamCompare",
+          "channel_id": "c2",
+          "subscribers": 312000,
+          "thumbnail": "",
+          "published_at": "2026-04-27T04:15:00Z",
+          "url": "#"
+        },
+        {
+          "id": "d3",
+          "title": "I Replaced My DSLR With a Phone for 30 Days",
+          "channel": "Frame & Field",
+          "channel_id": "c3",
+          "subscribers": 47000,
+          "thumbnail": "",
+          "published_at": "2026-04-27T02:00:00Z",
+          "url": "#"
+        }
+      ],
+      "first_detected_at": "2026-04-27T13:54:04.491576+00:00",
+      "last_seen_at": "2026-04-27T14:39:04.491576+00:00"
+    },
+    {
+      "phrase": "sourdough starter",
+      "video_count": 16,
+      "channel_count": 14,
+      "total_channels_seen": 20,
+      "uploads_per_hour": 1.17,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "d4",
+          "title": "Why My Sourdough Starter Wouldn't Rise (And the Fix)",
+          "channel": "Crumb Lab",
+          "channel_id": "c4",
+          "subscribers": 28000,
+          "thumbnail": "",
+          "published_at": "2026-04-27T05:45:00Z",
+          "url": "#"
+        },
+        {
+          "id": "d5",
+          "title": "Reviving a 7-Day-Old Starter (Day-by-Day)",
+          "channel": "Slow Bread",
+          "channel_id": "c5",
+          "subscribers": 156000,
+          "thumbnail": "",
+          "published_at": "2026-04-27T03:20:00Z",
+          "url": "#"
+        }
+      ],
+      "first_detected_at": "2026-04-27T06:39:04.491576+00:00",
+      "last_seen_at": "2026-04-27T14:39:04.491576+00:00"
+    },
+    {
+      "phrase": "split keyboard",
+      "video_count": 12,
+      "channel_count": 11,
+      "total_channels_seen": 14,
+      "uploads_per_hour": 0.92,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "d6",
+          "title": "My First Week on a Split Keyboard",
+          "channel": "Keys & Caps",
+          "channel_id": "c6",
+          "subscribers": 19000,
+          "thumbnail": "",
+          "published_at": "2026-04-27T07:10:00Z",
+          "url": "#"
+        },
+        {
+          "id": "d7",
+          "title": "Why Programmers Are Switching to Split Keyboards",
+          "channel": "Dev Desk",
+          "channel_id": "c7",
+          "subscribers": 220000,
+          "thumbnail": "",
+          "published_at": "2026-04-27T01:30:00Z",
+          "url": "#"
+        }
+      ],
+      "first_detected_at": "2026-04-26T20:39:04.491576+00:00",
+      "last_seen_at": "2026-04-27T14:39:04.491576+00:00"
+    }
   ],
   "regions_meta": [
     {
@@ -12,1049 +390,84 @@
     {
       "code": "GB",
       "name": "United Kingdom"
-    }
-  ],
-  "stats": {
-    "total_videos": 140,
-    "total_topics": 12,
-    "total_themes": 2,
-    "total_searches": 12,
-    "by_category": {
-      "Other": 18,
-      "Entertainment": 35,
-      "Gaming": 24,
-      "People & Blogs": 49,
-      "Education": 2,
-      "Science & Tech": 8,
-      "Comedy": 2,
-      "Howto & Style": 2
-    }
-  },
-  "emerging_themes": [
-    {
-      "phrase": "valve steam controller",
-      "video_count": 28,
-      "channel_count": 23,
-      "total_channels_seen": 25,
-      "uploads_per_hour": 1.92,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "Ttpckx0EVRo",
-          "title": "The Steam controller release date may have been leaked online - Eurogamer.net",
-          "channel": "TheProjectSandbox",
-          "channel_id": "UCGwpfQyQmt2HWnj9N1Z-WgQ",
-          "subscribers": 3,
-          "thumbnail": "https://i.ytimg.com/vi/Ttpckx0EVRo/mqdefault.jpg",
-          "published_at": "2026-04-28T09:20:33Z",
-          "url": "https://www.youtube.com/watch?v=Ttpckx0EVRo"
-        },
-        {
-          "id": "k9zw-CXlE_4",
-          "title": "Der Steam Controller kommt am 4. Mai",
-          "channel": "ingame",
-          "channel_id": "UC99HKzg3yNTsbOkqP-DxKhg",
-          "subscribers": 207000,
-          "thumbnail": "https://i.ytimg.com/vi/k9zw-CXlE_4/mqdefault.jpg",
-          "published_at": "2026-04-28T09:04:21Z",
-          "url": "https://www.youtube.com/watch?v=k9zw-CXlE_4"
-        },
-        {
-          "id": "4TjUvkigk7U",
-          "title": "#forbes #trandingshorts #electricalwork #motivational #youtubeshorts #steam #controller #valve",
-          "channel": "MEWARA_short",
-          "channel_id": "UCNdcFILBsZ9Ts5WERIy0Efg",
-          "subscribers": 2120,
-          "thumbnail": "https://i.ytimg.com/vi/4TjUvkigk7U/mqdefault.jpg",
-          "published_at": "2026-04-28T09:00:39Z",
-          "url": "https://www.youtube.com/watch?v=4TjUvkigk7U"
-        },
-        {
-          "id": "YKlPT8qxsbI",
-          "title": "VALVE RETRASA STEAM MACHINE: ¿Un futuro incierto?",
-          "channel": "Noticias LAT | AHORA",
-          "channel_id": "UC1oqIJVGLAa1CB5yAH5fDyA",
-          "subscribers": 724,
-          "thumbnail": "https://i.ytimg.com/vi/YKlPT8qxsbI/mqdefault.jpg",
-          "published_at": "2026-04-28T08:12:12Z",
-          "url": "https://www.youtube.com/watch?v=YKlPT8qxsbI"
-        }
-      ],
-      "first_detected_at": "2026-04-28T08:35:53.258939+00:00",
-      "last_seen_at": "2026-04-28T09:21:16.678262+00:00"
     },
     {
-      "phrase": "steam controller",
-      "video_count": 29,
-      "channel_count": 20,
-      "total_channels_seen": 21,
-      "uploads_per_hour": 1.67,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "Ttpckx0EVRo",
-          "title": "The Steam controller release date may have been leaked online - Eurogamer.net",
-          "channel": "TheProjectSandbox",
-          "channel_id": "UCGwpfQyQmt2HWnj9N1Z-WgQ",
-          "subscribers": 3,
-          "thumbnail": "https://i.ytimg.com/vi/Ttpckx0EVRo/mqdefault.jpg",
-          "published_at": "2026-04-28T09:20:33Z",
-          "url": "https://www.youtube.com/watch?v=Ttpckx0EVRo"
-        },
-        {
-          "id": "aq7dOzEc2-E",
-          "title": "1262: Fecha del Steam Controller, Assassin&#39;s Creed Hexe",
-          "channel": "AnaitGames",
-          "channel_id": "UCFm2_EqMpm9TqZ136da2Wqg",
-          "subscribers": 27800,
-          "thumbnail": "https://i.ytimg.com/vi/aq7dOzEc2-E/mqdefault.jpg",
-          "published_at": "2026-04-28T09:14:07Z",
-          "url": "https://www.youtube.com/watch?v=aq7dOzEc2-E"
-        },
-        {
-          "id": "k9zw-CXlE_4",
-          "title": "Der Steam Controller kommt am 4. Mai",
-          "channel": "ingame",
-          "channel_id": "UC99HKzg3yNTsbOkqP-DxKhg",
-          "subscribers": 207000,
-          "thumbnail": "https://i.ytimg.com/vi/k9zw-CXlE_4/mqdefault.jpg",
-          "published_at": "2026-04-28T09:04:21Z",
-          "url": "https://www.youtube.com/watch?v=k9zw-CXlE_4"
-        },
-        {
-          "id": "4TjUvkigk7U",
-          "title": "#forbes #trandingshorts #electricalwork #motivational #youtubeshorts #steam #controller #valve",
-          "channel": "MEWARA_short",
-          "channel_id": "UCNdcFILBsZ9Ts5WERIy0Efg",
-          "subscribers": 2120,
-          "thumbnail": "https://i.ytimg.com/vi/4TjUvkigk7U/mqdefault.jpg",
-          "published_at": "2026-04-28T09:00:39Z",
-          "url": "https://www.youtube.com/watch?v=4TjUvkigk7U"
-        }
-      ],
-      "first_detected_at": "2026-04-28T07:08:40.583088+00:00",
-      "last_seen_at": "2026-04-28T09:21:16.678262+00:00"
-    }
-  ],
-  "topics": [
-    {
-      "phrase": "steam controller",
-      "video_count": 4,
-      "momentum": 26.72,
-      "regions": [
-        "GB",
-        "US"
-      ],
-      "example_videos": [
-        {
-          "id": "igXOKbi-OAM",
-          "title": "Steam Controller Price and Release Date ANNOUNCED! 👀",
-          "channel": "Garett",
-          "thumbnail": "https://i.ytimg.com/vi/igXOKbi-OAM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=igXOKbi-OAM",
-          "views": 202967,
-          "age_hours": 10.3
-        },
-        {
-          "id": "wfr4QN1Hvhs",
-          "title": "Valve Steam Controller Review | Latency Benchmarks, Battery Life, Repairability",
-          "channel": "Gamers Nexus",
-          "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-          "views": 366139,
-          "age_hours": 16.3
-        },
-        {
-          "id": "MpJB7LTs5_s",
-          "title": "The Steam Controller is Here",
-          "channel": "Linus Tech Tips",
-          "thumbnail": "https://i.ytimg.com/vi/MpJB7LTs5_s/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=MpJB7LTs5_s",
-          "views": 888095,
-          "age_hours": 16.4
-        }
-      ]
+      "code": "CA",
+      "name": "Canada"
     },
     {
-      "phrase": "family",
-      "video_count": 4,
-      "momentum": 21.01,
-      "regions": [
-        "GB",
-        "US"
-      ],
-      "example_videos": [
-        {
-          "id": "BbRUzXOld1A",
-          "title": "ACT A DAMN FOOL @c4energy #c4partner #meme #family #dad #mom #skit #funny",
-          "channel": "theplumpcover",
-          "thumbnail": "https://i.ytimg.com/vi/BbRUzXOld1A/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=BbRUzXOld1A",
-          "views": 5015736,
-          "age_hours": 40.7
-        },
-        {
-          "id": "hYkSWVpNgi0",
-          "title": "😂“Nursing Homes: Turning ‘Troubles’ into ‘Standardized Procedures’”⚙️👵#shorts#raisinghope #family",
-          "channel": "Slumberis",
-          "thumbnail": "https://i.ytimg.com/vi/hYkSWVpNgi0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=hYkSWVpNgi0",
-          "views": 3903625,
-          "age_hours": 45.6
-        },
-        {
-          "id": "4AoNXAEyhYE",
-          "title": "Part 2 | His Family Knows 😂 #funny #hopecore #hopelesscore",
-          "channel": "Hopeless Core",
-          "thumbnail": "https://i.ytimg.com/vi/4AoNXAEyhYE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=4AoNXAEyhYE",
-          "views": 4355588,
-          "age_hours": 60.4
-        }
-      ]
+      "code": "AU",
+      "name": "Australia"
     },
     {
-      "phrase": "baby",
-      "video_count": 4,
-      "momentum": 18.77,
-      "regions": [
-        "GB",
-        "US"
-      ],
-      "example_videos": [
-        {
-          "id": "jF0KxOMlSRM",
-          "title": "Baby Warthog Runs His Mouth… and His Legs 🤣",
-          "channel": "Dusty Douglas",
-          "thumbnail": "https://i.ytimg.com/vi/jF0KxOMlSRM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=jF0KxOMlSRM",
-          "views": 10727190,
-          "age_hours": 84.3
-        },
-        {
-          "id": "9g71xi8JR9I",
-          "title": "This Smart Baby Fooled the Zookeeper 😎",
-          "channel": "Epic Dose",
-          "thumbnail": "https://i.ytimg.com/vi/9g71xi8JR9I/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=9g71xi8JR9I",
-          "views": 5374829,
-          "age_hours": 41.1
-        },
-        {
-          "id": "PjmcasDu2Kg",
-          "title": "A WEEK WITH ME AND PREPPING FOR MY BABY SHOWER | VLOG | MOLLYMAE",
-          "channel": "MollyMae",
-          "thumbnail": "https://i.ytimg.com/vi/PjmcasDu2Kg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=PjmcasDu2Kg",
-          "views": 445320,
-          "age_hours": 87.0
-        }
-      ]
+      "code": "IN",
+      "name": "India"
     },
     {
-      "phrase": "travel",
-      "video_count": 4,
-      "momentum": 18.22,
-      "regions": [
-        "GB",
-        "US"
-      ],
-      "example_videos": [
-        {
-          "id": "8LbV2gg8rag",
-          "title": "I’m already going insane 😀😵‍💫 see u n KOREA!!! 🇰🇷💗✈️🍣 #travel #relatable #trending #seoul",
-          "channel": "Kayla Ryan",
-          "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
-          "views": 2070987,
-          "age_hours": 14.1
-        },
-        {
-          "id": "M4GEOiXdbIM",
-          "title": "Unpack with me after 20 HOURS OF TRAVEL 😳✈️🇰🇷 #korea #trending #vlog",
-          "channel": "Kayla Ryan",
-          "thumbnail": "https://i.ytimg.com/vi/M4GEOiXdbIM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=M4GEOiXdbIM",
-          "views": 94241,
-          "age_hours": 14.1
-        },
-        {
-          "id": "Ub1zOdFr6p0",
-          "title": "Walt Disney World on a Budget MEGA Vlog | Economy Travel Day & All Star Sports | 2026 | Adam Hattan",
-          "channel": "Adam Hattan",
-          "thumbnail": "https://i.ytimg.com/vi/Ub1zOdFr6p0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Ub1zOdFr6p0",
-          "views": 74955,
-          "age_hours": 41.2
-        }
-      ]
+      "code": "DE",
+      "name": "Germany"
     },
     {
-      "phrase": "roblox",
-      "video_count": 4,
-      "momentum": 17.56,
-      "regions": [
-        "GB",
-        "US"
-      ],
-      "example_videos": [
-        {
-          "id": "jjZEyYnkqH4",
-          "title": "Finding EVERY FOOD In Roblox..",
-          "channel": "Foltyn",
-          "thumbnail": "https://i.ytimg.com/vi/jjZEyYnkqH4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=jjZEyYnkqH4",
-          "views": 245387,
-          "age_hours": 9.2
-        },
-        {
-          "id": "Wy_OZMWznIA",
-          "title": "I Got DRAFTED in Football Rush Simulator (Roblox)",
-          "channel": "SSundee",
-          "thumbnail": "https://i.ytimg.com/vi/Wy_OZMWznIA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Wy_OZMWznIA",
-          "views": 212606,
-          "age_hours": 12.3
-        },
-        {
-          "id": "-_J7PLDk0Fg",
-          "title": "I Snuck Into a Famous Roblox YouTuber’s Video..",
-          "channel": "KAYE",
-          "thumbnail": "https://i.ytimg.com/vi/-_J7PLDk0Fg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=-_J7PLDk0Fg",
-          "views": 129361,
-          "age_hours": 15.2
-        }
-      ]
-    },
-    {
-      "phrase": "life",
-      "video_count": 4,
-      "momentum": 17.2,
-      "regions": [
-        "GB",
-        "US"
-      ],
-      "example_videos": [
-        {
-          "id": "wfr4QN1Hvhs",
-          "title": "Valve Steam Controller Review | Latency Benchmarks, Battery Life, Repairability",
-          "channel": "Gamers Nexus",
-          "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-          "views": 366139,
-          "age_hours": 16.3
-        },
-        {
-          "id": "vKzsVmDwf1g",
-          "title": "Getting Back Into Routine + Life Updates",
-          "channel": "Evelyn Ha",
-          "thumbnail": "https://i.ytimg.com/vi/vKzsVmDwf1g/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=vKzsVmDwf1g",
-          "views": 986525,
-          "age_hours": 107.8
-        },
-        {
-          "id": "84vA-r5JViI",
-          "title": "A day in the life with FizzleK & Olive!",
-          "channel": "Faithlouisak",
-          "thumbnail": "https://i.ytimg.com/vi/84vA-r5JViI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=84vA-r5JViI",
-          "views": 60618,
-          "age_hours": 14.4
-        }
-      ]
-    },
-    {
-      "phrase": "valve steam controller",
-      "video_count": 2,
-      "momentum": 15.56,
-      "regions": [
-        "GB",
-        "US"
-      ],
-      "example_videos": [
-        {
-          "id": "wfr4QN1Hvhs",
-          "title": "Valve Steam Controller Review | Latency Benchmarks, Battery Life, Repairability",
-          "channel": "Gamers Nexus",
-          "thumbnail": "https://i.ytimg.com/vi/wfr4QN1Hvhs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=wfr4QN1Hvhs",
-          "views": 366139,
-          "age_hours": 16.3
-        },
-        {
-          "id": "2gJtFpLdPcI",
-          "title": "The Valve Steam Controller is Here!",
-          "channel": "Linus Tech Tips",
-          "thumbnail": "https://i.ytimg.com/vi/2gJtFpLdPcI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2gJtFpLdPcI",
-          "views": 385432,
-          "age_hours": 13.2
-        }
-      ]
-    },
-    {
-      "phrase": "made me",
-      "video_count": 2,
-      "momentum": 12.94,
-      "regions": [
-        "US"
-      ],
-      "example_videos": [
-        {
-          "id": "oubP9b9Jmp4",
-          "title": "This made me laugh the whole way through… #reels #funny #game #twins #brothers #edit #gay #lgbt #3",
-          "channel": "Timothy Thatcher",
-          "thumbnail": "https://i.ytimg.com/vi/oubP9b9Jmp4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=oubP9b9Jmp4",
-          "views": 9740972,
-          "age_hours": 180.7
-        },
-        {
-          "id": "ll9PY86VG5Q",
-          "title": "This scene made me realize something.. #onespoonofchocolate #movieclips za",
-          "channel": "Movie_Cuts_",
-          "thumbnail": "https://i.ytimg.com/vi/ll9PY86VG5Q/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ll9PY86VG5Q",
-          "views": 2551778,
-          "age_hours": 72.1
-        }
-      ]
-    },
-    {
-      "phrase": "i used",
-      "video_count": 2,
-      "momentum": 12.87,
-      "regions": [
-        "GB",
-        "US"
-      ],
-      "example_videos": [
-        {
-          "id": "gykkhn0iMMw",
-          "title": "WHY I USED AUDI AIRBAGS IN THE BUGATTI CHIRON",
-          "channel": "Mat Armstrong MK2",
-          "thumbnail": "https://i.ytimg.com/vi/gykkhn0iMMw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=gykkhn0iMMw",
-          "views": 3213075,
-          "age_hours": 39.3
-        },
-        {
-          "id": "_CEZWu0ib1c",
-          "title": "I used 20,000+ KEYS on BLACK OPS 3 supply drops..",
-          "channel": "JEV",
-          "thumbnail": "https://i.ytimg.com/vi/_CEZWu0ib1c/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=_CEZWu0ib1c",
-          "views": 242790,
-          "age_hours": 13.8
-        }
-      ]
-    },
-    {
-      "phrase": "do you",
-      "video_count": 2,
-      "momentum": 12.29,
-      "regions": [
-        "GB"
-      ],
-      "example_videos": [
-        {
-          "id": "mMXhd0wBPb0",
-          "title": "Do you know how to EAT these chocolates the RIGHT way? 🍫 (Part 3)",
-          "channel": "Godfrey Twins",
-          "thumbnail": "https://i.ytimg.com/vi/mMXhd0wBPb0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=mMXhd0wBPb0",
-          "views": 6597046,
-          "age_hours": 133.5
-        },
-        {
-          "id": "JIG-28wCYkA",
-          "title": "Honest opinions what do you think 🫣👀 #diy #gardening #garden #couple #marriage",
-          "channel": "Abigail",
-          "thumbnail": "https://i.ytimg.com/vi/JIG-28wCYkA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=JIG-28wCYkA",
-          "views": 2735412,
-          "age_hours": 111.7
-        }
-      ]
-    },
-    {
-      "phrase": "you think",
-      "video_count": 2,
-      "momentum": 12.13,
-      "regions": [
-        "GB",
-        "US"
-      ],
-      "example_videos": [
-        {
-          "id": "O4A2O5J0WFA",
-          "title": "Mega Skarmory is Better than you Think",
-          "channel": "WolfeyVGC",
-          "thumbnail": "https://i.ytimg.com/vi/O4A2O5J0WFA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=O4A2O5J0WFA",
-          "views": 457127,
-          "age_hours": 18.3
-        },
-        {
-          "id": "JIG-28wCYkA",
-          "title": "Honest opinions what do you think 🫣👀 #diy #gardening #garden #couple #marriage",
-          "channel": "Abigail",
-          "thumbnail": "https://i.ytimg.com/vi/JIG-28wCYkA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=JIG-28wCYkA",
-          "views": 2735412,
-          "age_hours": 111.7
-        }
-      ]
-    },
-    {
-      "phrase": "we flew",
-      "video_count": 2,
-      "momentum": 9.18,
-      "regions": [
-        "US"
-      ],
-      "example_videos": [
-        {
-          "id": "cjP7VU0Aizw",
-          "title": "We FLEW to LA for a GLOW UP✈️💇🏼‍♀️",
-          "channel": "PaisLee and PresLee",
-          "thumbnail": "https://i.ytimg.com/vi/cjP7VU0Aizw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=cjP7VU0Aizw",
-          "views": 317546,
-          "age_hours": 67.3
-        },
-        {
-          "id": "LJ6k79WLSgU",
-          "title": "we flew 6 hours to pick up a golden retriever puppy | meet sunny ☀️",
-          "channel": "Nathaly Cuevas",
-          "thumbnail": "https://i.ytimg.com/vi/LJ6k79WLSgU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=LJ6k79WLSgU",
-          "views": 146041,
-          "age_hours": 104.8
-        }
-      ]
+      "code": "BR",
+      "name": "Brazil"
     }
   ],
   "trending_searches": [
     {
-      "phrase": "how to tie a tie",
+      "phrase": "how to make sourdough",
       "prefix": "how to",
       "rank": 1,
-      "first_seen_at": "2026-04-28T09:21:16.679337+00:00",
+      "first_seen_at": "2026-04-28T08:02:04.016396+00:00",
       "is_new": true
     },
     {
-      "phrase": "how do i say goodbye dean lewis",
-      "prefix": "how do",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T09:21:16.679337+00:00",
-      "is_new": true
+      "phrase": "how to fix a leaky tap",
+      "prefix": "how to",
+      "rank": 2,
+      "first_seen_at": "2026-04-27T15:02:04.016396+00:00",
+      "is_new": false
     },
     {
-      "phrase": "how does it feel d'angelo",
-      "prefix": "how does",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T09:21:16.679337+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why is it spicy",
+      "phrase": "why is the sky orange today",
       "prefix": "why is",
       "rank": 1,
-      "first_seen_at": "2026-04-28T09:21:16.679337+00:00",
+      "first_seen_at": "2026-04-28T08:42:04.016396+00:00",
       "is_new": true
     },
     {
-      "phrase": "why do birds suddenly appear",
-      "prefix": "why do",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T09:21:16.679337+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why does he call you darling",
-      "prefix": "why does",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T09:21:16.679337+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what is this diddy blud doing on the calculator",
-      "prefix": "what is",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T09:21:16.679337+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what are you listening to chris stapleton",
-      "prefix": "what are",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T09:21:16.679337+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what happened to virgil",
-      "prefix": "what happened",
-      "rank": 1,
-      "first_seen_at": "2026-04-28T09:21:16.679337+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "best build 2k26",
+      "phrase": "best budget mechanical keyboard 2026",
       "prefix": "best",
       "rank": 1,
-      "first_seen_at": "2026-04-28T09:21:16.679337+00:00",
-      "is_new": true
+      "first_seen_at": "2026-04-27T23:02:04.016396+00:00",
+      "is_new": false
     },
     {
-      "phrase": "worst way riley green",
-      "prefix": "worst",
+      "phrase": "should i buy iphone 17 pro max",
+      "prefix": "should i",
       "rank": 1,
-      "first_seen_at": "2026-04-28T09:21:16.679337+00:00",
+      "first_seen_at": "2026-04-28T05:02:04.016396+00:00",
+      "is_new": false
+    },
+    {
+      "phrase": "what is the new tax law",
+      "prefix": "what is",
+      "rank": 2,
+      "first_seen_at": "2026-04-28T08:17:04.016396+00:00",
       "is_new": true
     },
     {
-      "phrase": "topoppgen",
+      "phrase": "top 10 movies on netflix this week",
       "prefix": "top",
       "rank": 1,
-      "first_seen_at": "2026-04-28T09:21:16.679337+00:00",
-      "is_new": true
-    }
-  ],
-  "breakout_videos": [
-    {
-      "id": "lJZ8wWCnwow",
-      "title": "EYES ON ME (MUSIC VIDEO) SIDHU MOOSE WALA  |  THE KIDD",
-      "channel": "Sidhu Moose Wala",
-      "channel_id": "UC9ChdqQRCaZmTCwSJ49tcbw",
-      "thumbnail": "https://i.ytimg.com/vi/lJZ8wWCnwow/mqdefault.jpg",
-      "published_at": "2026-04-27T16:30:07Z",
-      "category_id": "10",
-      "views": 4751681,
-      "likes": 921264,
-      "comments": 292660,
-      "age_hours": 16.9,
-      "views_per_hour": 281969,
-      "momentum": 10.92,
-      "url": "https://www.youtube.com/watch?v=lJZ8wWCnwow",
-      "region": "US",
-      "category": "Other"
+      "first_seen_at": "2026-04-27T21:02:04.016396+00:00",
+      "is_new": false
     },
     {
-      "id": "XXIX2WnfbpE",
-      "title": "Lady Gaga, Doechii - RUNWAY (Official Music Video)",
-      "channel": "LadyGagaVEVO",
-      "channel_id": "UC07Kxew-cMIaykMOkzqHtBQ",
-      "thumbnail": "https://i.ytimg.com/vi/XXIX2WnfbpE/mqdefault.jpg",
-      "published_at": "2026-04-27T19:00:23Z",
-      "category_id": "10",
-      "views": 1735344,
-      "likes": 233093,
-      "comments": 15309,
-      "age_hours": 14.3,
-      "views_per_hour": 120952,
-      "momentum": 6.896,
-      "url": "https://www.youtube.com/watch?v=XXIX2WnfbpE",
-      "region": "US",
-      "category": "Other"
-    },
-    {
-      "id": "NK9-nmfUyf4",
-      "title": "The Toddler Who Got Stuck On A Balcony 😱",
-      "channel": "Zack D. Films",
-      "channel_id": "UCvz84_Q0BbvZThy75mbd-Dg",
-      "thumbnail": "https://i.ytimg.com/vi/NK9-nmfUyf4/mqdefault.jpg",
-      "published_at": "2026-04-27T17:30:11Z",
-      "category_id": "19",
-      "views": 6629246,
-      "likes": 405506,
-      "comments": 3423,
-      "age_hours": 15.9,
-      "views_per_hour": 418226,
-      "momentum": 6.338,
-      "url": "https://www.youtube.com/watch?v=NK9-nmfUyf4",
-      "region": "US",
-      "category": "Other"
-    },
-    {
-      "id": "CFGPPIKWgS0",
-      "title": "British Airsoft Loadout - Part 13",
-      "channel": "Arroyo Airsoft",
-      "channel_id": "UCntGKj-PnB6ZEc5LUs8or4g",
-      "thumbnail": "https://i.ytimg.com/vi/CFGPPIKWgS0/mqdefault.jpg",
-      "published_at": "2026-04-21T04:53:41Z",
-      "category_id": "24",
-      "views": 58897751,
-      "likes": 3503310,
-      "comments": 30395,
-      "age_hours": 172.5,
-      "views_per_hour": 341517,
-      "momentum": 6.22,
-      "url": "https://www.youtube.com/watch?v=CFGPPIKWgS0",
-      "region": "US",
-      "category": "Entertainment"
-    },
-    {
-      "id": "rw6uJU6JxE0",
-      "title": "The April 27-28, 2026 Tornado Outbreak Coverage, As It Happened... (Part 1)",
-      "channel": "Ryan Hall, Y'all",
-      "channel_id": "UCJHAT3Uvv-g3I8H3GhHWV7w",
-      "thumbnail": "https://i.ytimg.com/vi/rw6uJU6JxE0/mqdefault.jpg",
-      "published_at": "2026-04-28T05:54:13Z",
-      "category_id": "25",
-      "views": 2853805,
-      "likes": 51327,
-      "comments": 46,
-      "age_hours": 3.5,
-      "views_per_hour": 827163,
-      "momentum": 6.131,
-      "url": "https://www.youtube.com/watch?v=rw6uJU6JxE0",
-      "region": "US",
-      "category": "Other"
-    },
-    {
-      "id": "FEJsT4kqYhA",
-      "title": "I took a Micheal Jackson impersonator to the MJ Movie #tiktok",
-      "channel": "YaitsTac",
-      "channel_id": "UCGlwaDSesS1-hf0i6RjyJvA",
-      "thumbnail": "https://i.ytimg.com/vi/FEJsT4kqYhA/mqdefault.jpg",
-      "published_at": "2026-04-27T14:28:08Z",
-      "category_id": "20",
-      "views": 2477326,
-      "likes": 215869,
-      "comments": 1751,
-      "age_hours": 18.9,
-      "views_per_hour": 131180,
-      "momentum": 6.046,
-      "url": "https://www.youtube.com/watch?v=FEJsT4kqYhA",
-      "region": "US",
-      "category": "Gaming"
-    },
-    {
-      "id": "Zp7xeVwLaxs",
-      "title": "He Moved During The RED LIGHT, And STILL WON... 🧠😱",
-      "channel": "Blaze",
-      "channel_id": "UCouXJIEDJdV7oQUTP1V7tXQ",
-      "thumbnail": "https://i.ytimg.com/vi/Zp7xeVwLaxs/mqdefault.jpg",
-      "published_at": "2026-04-26T14:11:47Z",
-      "category_id": "22",
-      "views": 10993747,
-      "likes": 635859,
-      "comments": 1463,
-      "age_hours": 43.2,
-      "views_per_hour": 254735,
-      "momentum": 6.039,
-      "url": "https://www.youtube.com/watch?v=Zp7xeVwLaxs",
-      "region": "US",
-      "category": "People & Blogs"
-    },
-    {
-      "id": "3j0G16lOWh0",
-      "title": "Using Crows To Get Rich!",
-      "channel": "SwagSixer",
-      "channel_id": "UCblXCZLiDGWiYpxT0M9t9Dw",
-      "thumbnail": "https://i.ytimg.com/vi/3j0G16lOWh0/mqdefault.jpg",
-      "published_at": "2026-04-25T18:27:30Z",
-      "category_id": "22",
-      "views": 8972440,
-      "likes": 656792,
-      "comments": 7539,
-      "age_hours": 62.9,
-      "views_per_hour": 142656,
-      "momentum": 5.952,
-      "url": "https://www.youtube.com/watch?v=3j0G16lOWh0",
-      "region": "US",
-      "category": "People & Blogs"
-    },
-    {
-      "id": "BbRUzXOld1A",
-      "title": "ACT A DAMN FOOL @c4energy #c4partner #meme #family #dad #mom #skit #funny",
-      "channel": "theplumpcover",
-      "channel_id": "UCK-JPaRnxWuQym04QEaGDLA",
-      "thumbnail": "https://i.ytimg.com/vi/BbRUzXOld1A/mqdefault.jpg",
-      "published_at": "2026-04-26T16:37:15Z",
-      "category_id": "20",
-      "views": 5015736,
-      "likes": 373795,
-      "comments": 1770,
-      "age_hours": 40.7,
-      "views_per_hour": 123137,
-      "momentum": 5.867,
-      "url": "https://www.youtube.com/watch?v=BbRUzXOld1A",
-      "region": "US",
-      "category": "Gaming"
-    },
-    {
-      "id": "8LbV2gg8rag",
-      "title": "I’m already going insane 😀😵‍💫 see u n KOREA!!! 🇰🇷💗✈️🍣 #travel #relatable #trending #seoul",
-      "channel": "Kayla Ryan",
-      "channel_id": "UCf_35VVsKHPmWAQjXrDOvtw",
-      "thumbnail": "https://i.ytimg.com/vi/8LbV2gg8rag/mqdefault.jpg",
-      "published_at": "2026-04-27T19:12:25Z",
-      "category_id": "22",
-      "views": 2070987,
-      "likes": 127610,
-      "comments": 1113,
-      "age_hours": 14.1,
-      "views_per_hour": 146391,
-      "momentum": 5.83,
-      "url": "https://www.youtube.com/watch?v=8LbV2gg8rag",
-      "region": "US",
-      "category": "People & Blogs"
-    },
-    {
-      "id": "f7Pb8ym6zTo",
-      "title": "Trying to impress an Asian Mom 🧐 #Shorts #asianmom",
-      "channel": "Silent Loom",
-      "channel_id": "UCSrZPLnzKby-VdFF4zggjfw",
-      "thumbnail": "https://i.ytimg.com/vi/f7Pb8ym6zTo/mqdefault.jpg",
-      "published_at": "2026-04-23T09:13:25Z",
-      "category_id": "22",
-      "views": 6992540,
-      "likes": 767371,
-      "comments": 1166,
-      "age_hours": 120.1,
-      "views_per_hour": 58208,
-      "momentum": 5.819,
-      "url": "https://www.youtube.com/watch?v=f7Pb8ym6zTo",
-      "region": "US",
-      "category": "People & Blogs"
-    },
-    {
-      "id": "hYkSWVpNgi0",
-      "title": "😂“Nursing Homes: Turning ‘Troubles’ into ‘Standardized Procedures’”⚙️👵#shorts#raisinghope #family",
-      "channel": "Slumberis",
-      "channel_id": "UCaUqT1SYRKxqEzx_p6Zr4oA",
-      "thumbnail": "https://i.ytimg.com/vi/hYkSWVpNgi0/mqdefault.jpg",
-      "published_at": "2026-04-26T11:48:00Z",
-      "category_id": "1",
-      "views": 3903625,
-      "likes": 335472,
-      "comments": 397,
-      "age_hours": 45.6,
-      "views_per_hour": 85693,
-      "momentum": 5.786,
-      "url": "https://www.youtube.com/watch?v=hYkSWVpNgi0",
-      "region": "US",
-      "category": "Other"
-    },
-    {
-      "id": "0-IVhrlMbBU",
-      "title": "He's in agonizing pain, right?",
-      "channel": "ProAlemi QJ",
-      "channel_id": "UCHgIFASI5wT6cnOwpJNk3Sg",
-      "thumbnail": "https://i.ytimg.com/vi/0-IVhrlMbBU/mqdefault.jpg",
-      "published_at": "2026-04-18T13:06:10Z",
-      "category_id": "1",
-      "views": 18846627,
-      "likes": 1499657,
-      "comments": 9833,
-      "age_hours": 236.3,
-      "views_per_hour": 79774,
-      "momentum": 5.708,
-      "url": "https://www.youtube.com/watch?v=0-IVhrlMbBU",
-      "region": "US",
-      "category": "Other"
-    },
-    {
-      "id": "jF0KxOMlSRM",
-      "title": "Baby Warthog Runs His Mouth… and His Legs 🤣",
-      "channel": "Dusty Douglas",
-      "channel_id": "UCMSIDB9jvhqBKby2qk6E4VA",
-      "thumbnail": "https://i.ytimg.com/vi/jF0KxOMlSRM/mqdefault.jpg",
-      "published_at": "2026-04-24T21:05:56Z",
-      "category_id": "24",
-      "views": 10727190,
-      "likes": 576682,
-      "comments": 9775,
-      "age_hours": 84.3,
-      "views_per_hour": 127318,
-      "momentum": 5.7,
-      "url": "https://www.youtube.com/watch?v=jF0KxOMlSRM",
-      "region": "US",
-      "category": "Entertainment"
-    },
-    {
-      "id": "nFDsUUyF66w",
-      "title": "Vybz Kartel - Victory (Official Music Video)",
-      "channel": "VybzKartelVEVO",
-      "channel_id": "UCeRe0C1x1w8We6ghjVn4M5w",
-      "thumbnail": "https://i.ytimg.com/vi/nFDsUUyF66w/mqdefault.jpg",
-      "published_at": "2026-04-27T17:01:05Z",
-      "category_id": "10",
-      "views": 225499,
-      "likes": 23829,
-      "comments": 3548,
-      "age_hours": 16.3,
-      "views_per_hour": 13804,
-      "momentum": 5.666,
-      "url": "https://www.youtube.com/watch?v=nFDsUUyF66w",
-      "region": "US",
-      "category": "Other"
-    },
-    {
-      "id": "sHmnnNxu6Ww",
-      "title": "Korn - Reward The Scars | Official Music Video for Diablo IV: Lord of Hatred",
-      "channel": "KoRn",
-      "channel_id": "UC6ly_u2ufiHGpYzC_28-8zw",
-      "thumbnail": "https://i.ytimg.com/vi/sHmnnNxu6Ww/mqdefault.jpg",
-      "published_at": "2026-04-27T17:00:07Z",
-      "category_id": "24",
-      "views": 249518,
-      "likes": 33019,
-      "comments": 2080,
-      "age_hours": 16.4,
-      "views_per_hour": 15259,
-      "momentum": 5.64,
-      "url": "https://www.youtube.com/watch?v=sHmnnNxu6Ww",
-      "region": "US",
-      "category": "Entertainment"
-    },
-    {
-      "id": "0QgvDKEra08",
-      "title": "A Biker’s Visit to Nutty Putty Cave | @Scoot_Ski/YT",
-      "channel": "Vilux",
-      "channel_id": "UCDTu98rUiaCDpvirTzvPPzg",
-      "thumbnail": "https://i.ytimg.com/vi/0QgvDKEra08/mqdefault.jpg",
-      "published_at": "2026-04-27T18:00:03Z",
-      "category_id": "27",
-      "views": 1475341,
-      "likes": 86747,
-      "comments": 1441,
-      "age_hours": 15.4,
-      "views_per_hour": 96094,
-      "momentum": 5.617,
-      "url": "https://www.youtube.com/watch?v=0QgvDKEra08",
-      "region": "US",
-      "category": "Education"
-    },
-    {
-      "id": "f3zv0-zOqak",
-      "title": "Olivia Rodrigo - drop dead (acoustic)",
-      "channel": "OliviaRodrigoVEVO",
-      "channel_id": "UCxE5jEls-T0QtlTHT8lI1lw",
-      "thumbnail": "https://i.ytimg.com/vi/f3zv0-zOqak/mqdefault.jpg",
-      "published_at": "2026-04-27T16:44:43Z",
-      "category_id": "10",
-      "views": 313229,
-      "likes": 39655,
-      "comments": 1873,
-      "age_hours": 16.6,
-      "views_per_hour": 18859,
-      "momentum": 5.614,
-      "url": "https://www.youtube.com/watch?v=f3zv0-zOqak",
-      "region": "GB",
-      "category": "Other"
-    },
-    {
-      "id": "4nWo4vdyXOo",
-      "title": "1 Second vs 1 Hour Steak",
-      "channel": "Nick DiGiovanni",
-      "channel_id": "UCMyOj6fhvKFMjxUCp3b_3gA",
-      "thumbnail": "https://i.ytimg.com/vi/4nWo4vdyXOo/mqdefault.jpg",
-      "published_at": "2026-04-24T16:00:08Z",
-      "category_id": "22",
-      "views": 11853745,
-      "likes": 545559,
-      "comments": 4006,
-      "age_hours": 89.4,
-      "views_per_hour": 132664,
-      "momentum": 5.612,
-      "url": "https://www.youtube.com/watch?v=4nWo4vdyXOo",
-      "region": "US",
-      "category": "People & Blogs"
-    },
-    {
-      "id": "igXOKbi-OAM",
-      "title": "Steam Controller Price and Release Date ANNOUNCED! 👀",
-      "channel": "Garett",
-      "channel_id": "UCCQi3X-PJGmd6DrPN9Rb6iw",
-      "thumbnail": "https://i.ytimg.com/vi/igXOKbi-OAM/mqdefault.jpg",
-      "published_at": "2026-04-27T23:01:59Z",
-      "category_id": "20",
-      "views": 202967,
-      "likes": 26338,
-      "comments": 948,
-      "age_hours": 10.3,
-      "views_per_hour": 19666,
-      "momentum": 5.609,
-      "url": "https://www.youtube.com/watch?v=igXOKbi-OAM",
-      "region": "US",
-      "category": "Gaming"
-    },
-    {
-      "id": "-oyxpAgnzD4",
-      "title": "Lifeguards and police confront inappropriate man 🚨 #bondirescue #lifeguard #beach #shortsfeed",
-      "channel": "BondiRescue",
-      "channel_id": "UCxEct2HUBYj_mt4t7qR9UYg",
-      "thumbnail": "https://i.ytimg.com/vi/-oyxpAgnzD4/mqdefault.jpg",
-      "published_at": "2026-04-25T21:00:01Z",
-      "category_id": "24",
-      "views": 4292918,
-      "likes": 302858,
-      "comments": 5984,
-      "age_hours": 60.4,
-      "views_per_hour": 71129,
-      "momentum": 5.604,
-      "url": "https://www.youtube.com/watch?v=-oyxpAgnzD4",
-      "region": "US",
-      "category": "Entertainment"
-    },
-    {
-      "id": "4AoNXAEyhYE",
-      "title": "Part 2 | His Family Knows 😂 #funny #hopecore #hopelesscore",
-      "channel": "Hopeless Core",
-      "channel_id": "UCCK7_HdCFAKTNBwh5KRAscA",
-      "thumbnail": "https://i.ytimg.com/vi/4AoNXAEyhYE/mqdefault.jpg",
-      "published_at": "2026-04-25T21:00:03Z",
-      "category_id": "24",
-      "views": 4355588,
-      "likes": 302149,
-      "comments": 4041,
-      "age_hours": 60.4,
-      "views_per_hour": 72168,
-      "momentum": 5.577,
-      "url": "https://www.youtube.com/watch?v=4AoNXAEyhYE",
-      "region": "US",
-      "category": "Entertainment"
-    },
-    {
-      "id": "E7qK-4BVGxM",
-      "title": "The Popcorn Experiment 🍿",
-      "channel": "Joe Oxley",
-      "channel_id": "UCqV-OlE_Lbe7t8Yy7Dy0wFA",
-      "thumbnail": "https://i.ytimg.com/vi/E7qK-4BVGxM/mqdefault.jpg",
-      "published_at": "2026-04-22T12:54:01Z",
-      "category_id": "22",
-      "views": 6023035,
-      "likes": 597171,
-      "comments": 1637,
-      "age_hours": 140.5,
-      "views_per_hour": 42883,
-      "momentum": 5.563,
-      "url": "https://www.youtube.com/watch?v=E7qK-4BVGxM",
-      "region": "GB",
-      "category": "People & Blogs"
-    },
-    {
-      "id": "sNwzFhGwA94",
-      "title": "jackass: best and last | Official Trailer (2026 Movie)",
-      "channel": "Paramount Pictures",
-      "channel_id": "UCF9imwPMSGz4Vq1NiTWCC7g",
-      "thumbnail": "https://i.ytimg.com/vi/sNwzFhGwA94/mqdefault.jpg",
-      "published_at": "2026-04-27T13:00:02Z",
-      "category_id": "1",
-      "views": 4455090,
-      "likes": 67693,
-      "comments": 3775,
-      "age_hours": 20.4,
-      "views_per_hour": 218889,
-      "momentum": 5.548,
-      "url": "https://www.youtube.com/watch?v=sNwzFhGwA94",
-      "region": "US",
-      "category": "Other"
+      "phrase": "is it safe to drink tap water",
+      "prefix": "is it",
+      "rank": 1,
+      "first_seen_at": "2026-04-27T11:02:04.016396+00:00",
+      "is_new": false
     }
   ]
 }
