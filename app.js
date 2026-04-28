@@ -125,18 +125,27 @@
       });
     }
 
-    // ---------- topics (filtered by region) ----------
+    // ---------- topics (per-region, with multilingual support) ----------
     els.topics.removeAttribute('aria-busy');
     els.topics.innerHTML = '';
 
-    const filteredTopics = (data.topics || []).filter(t => regionMatches(t, region));
-    if (filteredTopics.length === 0) {
+    // Prefer the per-region topics dict when present (new format).
+    // Falls back to filtering the flat list by region tag (old format).
+    let regionTopics = [];
+    if (data.topics_by_region) {
+      const key = region === 'all' ? 'ALL' : region;
+      regionTopics = data.topics_by_region[key] || [];
+    } else {
+      regionTopics = (data.topics || []).filter(t => regionMatches(t, region));
+    }
+
+    if (regionTopics.length === 0) {
       const msg = region === 'all'
         ? 'No topics yet — the feed will populate after the next fetch.'
-        : `No topics for this region right now. Try ALL or another region.`;
+        : `No topics surfaced for this region in the current window. Try ALL or another region — smaller markets sometimes have sparse data.`;
       els.topics.innerHTML = `<li class="placeholder">${msg}</li>`;
     } else {
-      filteredTopics.forEach((topic, i) => {
+      regionTopics.forEach((topic, i) => {
         els.topics.appendChild(renderTopic(topic, i + 1));
       });
     }
