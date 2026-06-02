@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T02:42:16.333042+00:00",
+  "generated_at": "2026-06-02T10:04:19.723001+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,392 +40,236 @@
     }
   ],
   "stats": {
-    "total_videos": 431,
+    "total_videos": 436,
     "total_topics": 18,
-    "total_themes": 7,
+    "total_themes": 4,
     "total_searches": 12,
     "by_category": {
-      "Gaming": 86,
-      "Other": 57,
-      "Entertainment": 90,
-      "People & Blogs": 130,
-      "Howto & Style": 18,
+      "Gaming": 91,
+      "People & Blogs": 135,
+      "Other": 59,
+      "Entertainment": 85,
       "Education": 10,
-      "Comedy": 14,
-      "Science & Tech": 26
+      "Howto & Style": 16,
+      "Comedy": 15,
+      "Science & Tech": 25
     }
   },
   "emerging_themes": [
     {
-      "phrase": "tom jerry",
-      "video_count": 30,
-      "channel_count": 30,
-      "total_channels_seen": 30,
-      "uploads_per_hour": 2.5,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "DxleW-mP39M",
-          "title": "tom and jerry funny cartoon | tom &amp; jerry memes  😱#memes​ #funny​ #tomandjerry​ #animation​ #cartoon",
-          "channel": "Unlimited funny ai 98",
-          "channel_id": "UCR_QZWOO2IBhOfOE1C2U9tA",
-          "subscribers": 35,
-          "thumbnail": "https://i.ytimg.com/vi/DxleW-mP39M/mqdefault.jpg",
-          "published_at": "2026-06-02T02:30:30Z",
-          "url": "https://www.youtube.com/watch?v=DxleW-mP39M"
-        },
-        {
-          "id": "hzZQWVYLxWQ",
-          "title": "Tom 🍓Jerry Wait for end 😂 #shorts",
-          "channel": "Titu Eating",
-          "channel_id": "UCMltfr5Q5vfUv5guUpNumuA",
-          "subscribers": 6160,
-          "thumbnail": "https://i.ytimg.com/vi/hzZQWVYLxWQ/mqdefault.jpg",
-          "published_at": "2026-06-02T02:30:22Z",
-          "url": "https://www.youtube.com/watch?v=hzZQWVYLxWQ"
-        },
-        {
-          "id": "lw_lY4dKt7A",
-          "title": "Tom and Jerry 🤩😍🥰🥰🥰🥰😍",
-          "channel": "Karishma Vlogs",
-          "channel_id": "UCrf233v5-r2-OG4SPPhqPYw",
-          "subscribers": 13500,
-          "thumbnail": "https://i.ytimg.com/vi/lw_lY4dKt7A/mqdefault.jpg",
-          "published_at": "2026-06-02T02:30:19Z",
-          "url": "https://www.youtube.com/watch?v=lw_lY4dKt7A"
-        },
-        {
-          "id": "s7b90acgsiE",
-          "title": "Tom and Jerry",
-          "channel": "Jeetu bhakti channel x4x",
-          "channel_id": "UCJpDo-W-cAzNPqSbaJy9iDQ",
-          "subscribers": 61,
-          "thumbnail": "https://i.ytimg.com/vi/s7b90acgsiE/mqdefault.jpg",
-          "published_at": "2026-06-02T02:27:05Z",
-          "url": "https://www.youtube.com/watch?v=s7b90acgsiE"
-        }
-      ],
-      "first_detected_at": "2026-06-01T02:43:49.468115+00:00",
-      "last_seen_at": "2026-06-02T02:42:16.333042+00:00"
-    },
-    {
-      "phrase": "indian family shorts",
-      "video_count": 30,
-      "channel_count": 28,
-      "total_channels_seen": 28,
-      "uploads_per_hour": 2.33,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "U3byEzOEZ5E",
-          "title": "Sauce se nakli khoon 😂🔥| Indian family #shorts #indian #chaman #relatable #bachpan #chotabhai #reels",
-          "channel": "veerendra Rajput",
-          "channel_id": "UCmdOq1zOhqgo_IeKhmOoNLQ",
-          "subscribers": 327,
-          "thumbnail": "https://i.ytimg.com/vi/U3byEzOEZ5E/mqdefault.jpg",
-          "published_at": "2026-06-02T02:39:29Z",
-          "url": "https://www.youtube.com/watch?v=U3byEzOEZ5E"
-        },
-        {
-          "id": "29osjJ70EjI",
-          "title": "Jab light chli jati hai 😂🔥| indian family #shorts #indian #chotabhai #horror #chaman #relatable",
-          "channel": "dehati_comedy_up60",
-          "channel_id": "UClbihXClSFhLwj45f0DzRYw",
-          "subscribers": 1160,
-          "thumbnail": "https://i.ytimg.com/vi/29osjJ70EjI/mqdefault.jpg",
-          "published_at": "2026-06-02T02:37:12Z",
-          "url": "https://www.youtube.com/watch?v=29osjJ70EjI"
-        },
-        {
-          "id": "tfRMU1xACDI",
-          "title": "Horror hand aur desi family 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #funny",
-          "channel": "Sameer Gazi",
-          "channel_id": "UC6nlBdUclC1r8FodcuIAdNA",
-          "subscribers": 48400,
-          "thumbnail": "https://i.ytimg.com/vi/tfRMU1xACDI/mqdefault.jpg",
-          "published_at": "2026-06-02T02:37:11Z",
-          "url": "https://www.youtube.com/watch?v=tfRMU1xACDI"
-        },
-        {
-          "id": "eBAHFrrYFWo",
-          "title": "indian f family sone paprika🔥😂|Indian family #shorts #funny #comedy #chaman #viralvideo #lulu",
-          "channel": "Hey Shubham ",
-          "channel_id": "UCO7UZeGOm8bcKZtLWn16Jvg",
-          "subscribers": 1950,
-          "thumbnail": "https://i.ytimg.com/vi/eBAHFrrYFWo/mqdefault.jpg",
-          "published_at": "2026-06-02T02:33:38Z",
-          "url": "https://www.youtube.com/watch?v=eBAHFrrYFWo"
-        }
-      ],
-      "first_detected_at": "2026-06-01T11:10:08.016357+00:00",
-      "last_seen_at": "2026-06-02T02:42:16.333042+00:00"
-    },
-    {
-      "phrase": "family shorts indian",
-      "video_count": 30,
-      "channel_count": 28,
-      "total_channels_seen": 28,
-      "uploads_per_hour": 2.33,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "29osjJ70EjI",
-          "title": "Jab light chli jati hai 😂🔥| indian family #shorts #indian #chotabhai #horror #chaman #relatable",
-          "channel": "dehati_comedy_up60",
-          "channel_id": "UClbihXClSFhLwj45f0DzRYw",
-          "subscribers": 1160,
-          "thumbnail": "https://i.ytimg.com/vi/29osjJ70EjI/mqdefault.jpg",
-          "published_at": "2026-06-02T02:37:12Z",
-          "url": "https://www.youtube.com/watch?v=29osjJ70EjI"
-        },
-        {
-          "id": "tfRMU1xACDI",
-          "title": "Horror hand aur desi family 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #funny",
-          "channel": "Sameer Gazi",
-          "channel_id": "UC6nlBdUclC1r8FodcuIAdNA",
-          "subscribers": 48400,
-          "thumbnail": "https://i.ytimg.com/vi/tfRMU1xACDI/mqdefault.jpg",
-          "published_at": "2026-06-02T02:37:11Z",
-          "url": "https://www.youtube.com/watch?v=tfRMU1xACDI"
-        },
-        {
-          "id": "WcMIsQcx47w",
-          "title": "Paseena days are back 😂🔥 india family #shorts #indian #chaman #relatable   #comedy #bachpan #gaurav",
-          "channel": "yt Gaurav comedy 97",
-          "channel_id": "UCowh7C1d1xSLS2h3Z7gu0pQ",
-          "subscribers": 690,
-          "thumbnail": "https://i.ytimg.com/vi/WcMIsQcx47w/mqdefault.jpg",
-          "published_at": "2026-06-02T02:35:14Z",
-          "url": "https://www.youtube.com/watch?v=WcMIsQcx47w"
-        },
-        {
-          "id": "eBAHFrrYFWo",
-          "title": "indian f family sone paprika🔥😂|Indian family #shorts #funny #comedy #chaman #viralvideo #lulu",
-          "channel": "Hey Shubham ",
-          "channel_id": "UCO7UZeGOm8bcKZtLWn16Jvg",
-          "subscribers": 1950,
-          "thumbnail": "https://i.ytimg.com/vi/eBAHFrrYFWo/mqdefault.jpg",
-          "published_at": "2026-06-02T02:33:38Z",
-          "url": "https://www.youtube.com/watch?v=eBAHFrrYFWo"
-        }
-      ],
-      "first_detected_at": "2026-06-02T02:42:16.333042+00:00",
-      "last_seen_at": "2026-06-02T02:42:16.333042+00:00"
-    },
-    {
-      "phrase": "real end twist",
-      "video_count": 30,
-      "channel_count": 27,
-      "total_channels_seen": 27,
-      "uploads_per_hour": 2.25,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "IheA0T4Qj3w",
-          "title": "Tom 🍓 Jerry(Shree&amp;Diya)Real End Twist😍🎈 #shorts #viral #shreeanddiyavlogs",
-          "channel": "Shree And Diya Vlogs ",
-          "channel_id": "UC9yUvYLXaSaZoUuIJfVYRcg",
-          "subscribers": 397,
-          "thumbnail": "https://i.ytimg.com/vi/IheA0T4Qj3w/mqdefault.jpg",
-          "published_at": "2026-06-02T02:30:24Z",
-          "url": "https://www.youtube.com/watch?v=IheA0T4Qj3w"
-        },
-        {
-          "id": "2rZEQgCNIOo",
-          "title": "Tom jerry🍓 Real end twist funny and 🥱video #shortsfeed🤣 #sh..",
-          "channel": "Toys Munna",
-          "channel_id": "UCR6QZ7kS9mpp656neuswTsA",
-          "subscribers": 19,
-          "thumbnail": "https://i.ytimg.com/vi/2rZEQgCNIOo/mqdefault.jpg",
-          "published_at": "2026-06-02T02:15:36Z",
-          "url": "https://www.youtube.com/watch?v=2rZEQgCNIOo"
-        },
-        {
-          "id": "Nf405pQtAJs",
-          "title": "wait for end 😂 real end twist 😂#shorts #youtubeshorts #poorreacting",
-          "channel": "Poor Reacting",
-          "channel_id": "UCiK92qfVkEqZu7huEJ8ctwg",
-          "subscribers": 413,
-          "thumbnail": "https://i.ytimg.com/vi/Nf405pQtAJs/mqdefault.jpg",
-          "published_at": "2026-06-02T02:10:22Z",
-          "url": "https://www.youtube.com/watch?v=Nf405pQtAJs"
-        },
-        {
-          "id": "7956Pz0nDs0",
-          "title": "Tom 🐭 Jerry Real End Twist 🤪😱❤️ #viral #shorts",
-          "channel": "Local Prakash 10M",
-          "channel_id": "UC43xaKsW6gFeBH9JGGdNCKg",
-          "subscribers": 35700,
-          "thumbnail": "https://i.ytimg.com/vi/7956Pz0nDs0/mqdefault.jpg",
-          "published_at": "2026-06-02T02:00:17Z",
-          "url": "https://www.youtube.com/watch?v=7956Pz0nDs0"
-        }
-      ],
-      "first_detected_at": "2026-05-31T19:03:29.635310+00:00",
-      "last_seen_at": "2026-06-02T02:42:16.333042+00:00"
-    },
-    {
-      "phrase": "shorts indian chaman",
-      "video_count": 30,
-      "channel_count": 27,
-      "total_channels_seen": 27,
-      "uploads_per_hour": 2.25,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "U3byEzOEZ5E",
-          "title": "Sauce se nakli khoon 😂🔥| Indian family #shorts #indian #chaman #relatable #bachpan #chotabhai #reels",
-          "channel": "veerendra Rajput",
-          "channel_id": "UCmdOq1zOhqgo_IeKhmOoNLQ",
-          "subscribers": 327,
-          "thumbnail": "https://i.ytimg.com/vi/U3byEzOEZ5E/mqdefault.jpg",
-          "published_at": "2026-06-02T02:39:29Z",
-          "url": "https://www.youtube.com/watch?v=U3byEzOEZ5E"
-        },
-        {
-          "id": "QpFJvAd3IKc",
-          "title": "Horror hand aur desi family 😂🔥| Indian family #shorts #chaman #relatable #chotabhai #comedy",
-          "channel": "Pankaj Raj Official ",
-          "channel_id": "UC-U-6KTAb-KyRoRblCmbpPA",
-          "subscribers": 722000,
-          "thumbnail": "https://i.ytimg.com/vi/QpFJvAd3IKc/mqdefault.jpg",
-          "published_at": "2026-06-02T02:38:54Z",
-          "url": "https://www.youtube.com/watch?v=QpFJvAd3IKc"
-        },
-        {
-          "id": "29osjJ70EjI",
-          "title": "Jab light chli jati hai 😂🔥| indian family #shorts #indian #chotabhai #horror #chaman #relatable",
-          "channel": "dehati_comedy_up60",
-          "channel_id": "UClbihXClSFhLwj45f0DzRYw",
-          "subscribers": 1160,
-          "thumbnail": "https://i.ytimg.com/vi/29osjJ70EjI/mqdefault.jpg",
-          "published_at": "2026-06-02T02:37:12Z",
-          "url": "https://www.youtube.com/watch?v=29osjJ70EjI"
-        },
-        {
-          "id": "tfRMU1xACDI",
-          "title": "Horror hand aur desi family 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #funny",
-          "channel": "Sameer Gazi",
-          "channel_id": "UC6nlBdUclC1r8FodcuIAdNA",
-          "subscribers": 48400,
-          "thumbnail": "https://i.ytimg.com/vi/tfRMU1xACDI/mqdefault.jpg",
-          "published_at": "2026-06-02T02:37:11Z",
-          "url": "https://www.youtube.com/watch?v=tfRMU1xACDI"
-        }
-      ],
-      "first_detected_at": "2026-06-01T11:10:08.016357+00:00",
-      "last_seen_at": "2026-06-02T02:42:16.333042+00:00"
-    },
-    {
-      "phrase": "indian chaman relatable",
-      "video_count": 30,
-      "channel_count": 26,
-      "total_channels_seen": 26,
-      "uploads_per_hour": 2.17,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "U3byEzOEZ5E",
-          "title": "Sauce se nakli khoon 😂🔥| Indian family #shorts #indian #chaman #relatable #bachpan #chotabhai #reels",
-          "channel": "veerendra Rajput",
-          "channel_id": "UCmdOq1zOhqgo_IeKhmOoNLQ",
-          "subscribers": 327,
-          "thumbnail": "https://i.ytimg.com/vi/U3byEzOEZ5E/mqdefault.jpg",
-          "published_at": "2026-06-02T02:39:29Z",
-          "url": "https://www.youtube.com/watch?v=U3byEzOEZ5E"
-        },
-        {
-          "id": "QpFJvAd3IKc",
-          "title": "Horror hand aur desi family 😂🔥| Indian family #shorts #chaman #relatable #chotabhai #comedy",
-          "channel": "Pankaj Raj Official ",
-          "channel_id": "UC-U-6KTAb-KyRoRblCmbpPA",
-          "subscribers": 722000,
-          "thumbnail": "https://i.ytimg.com/vi/QpFJvAd3IKc/mqdefault.jpg",
-          "published_at": "2026-06-02T02:38:54Z",
-          "url": "https://www.youtube.com/watch?v=QpFJvAd3IKc"
-        },
-        {
-          "id": "tfRMU1xACDI",
-          "title": "Horror hand aur desi family 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #funny",
-          "channel": "Sameer Gazi",
-          "channel_id": "UC6nlBdUclC1r8FodcuIAdNA",
-          "subscribers": 48400,
-          "thumbnail": "https://i.ytimg.com/vi/tfRMU1xACDI/mqdefault.jpg",
-          "published_at": "2026-06-02T02:37:11Z",
-          "url": "https://www.youtube.com/watch?v=tfRMU1xACDI"
-        },
-        {
-          "id": "WcMIsQcx47w",
-          "title": "Paseena days are back 😂🔥 india family #shorts #indian #chaman #relatable   #comedy #bachpan #gaurav",
-          "channel": "yt Gaurav comedy 97",
-          "channel_id": "UCowh7C1d1xSLS2h3Z7gu0pQ",
-          "subscribers": 690,
-          "thumbnail": "https://i.ytimg.com/vi/WcMIsQcx47w/mqdefault.jpg",
-          "published_at": "2026-06-02T02:35:14Z",
-          "url": "https://www.youtube.com/watch?v=WcMIsQcx47w"
-        }
-      ],
-      "first_detected_at": "2026-06-01T11:10:08.016357+00:00",
-      "last_seen_at": "2026-06-02T02:42:16.333042+00:00"
-    },
-    {
       "phrase": "end twist shorts",
-      "video_count": 29,
-      "channel_count": 26,
-      "total_channels_seen": 27,
-      "uploads_per_hour": 2.17,
+      "video_count": 28,
+      "channel_count": 27,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.25,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "YZL31N9mAxM",
-          "title": "&quot;শেষে কি হলো দেখুন! 😱 🔥 Unexpected Twist at the End #shorts  #funny #trending #viral #foryou",
-          "channel": "Half Screen Videos",
-          "channel_id": "UCR3bpPgn16HdFvdW8N9PdUw",
-          "subscribers": 2760,
-          "thumbnail": "https://i.ytimg.com/vi/YZL31N9mAxM/mqdefault.jpg",
-          "published_at": "2026-06-02T02:30:24Z",
-          "url": "https://www.youtube.com/watch?v=YZL31N9mAxM"
+          "id": "xgfTuBvWr_g",
+          "title": "Tom 🍓 Jerry (Anshi &amp; Aarav) Real End Twist 😍🎈#AnshiAaravofficial #shorts 527 #viralvideo",
+          "channel": "Anshi & Aarav official\n",
+          "channel_id": "UCxPGHIvMPFDlZ5w81tBvlPw",
+          "subscribers": 19900,
+          "thumbnail": "https://i.ytimg.com/vi/xgfTuBvWr_g/mqdefault.jpg",
+          "published_at": "2026-06-02T10:00:01Z",
+          "url": "https://www.youtube.com/watch?v=xgfTuBvWr_g"
         },
         {
-          "id": "IheA0T4Qj3w",
-          "title": "Tom 🍓 Jerry(Shree&amp;Diya)Real End Twist😍🎈 #shorts #viral #shreeanddiyavlogs",
-          "channel": "Shree And Diya Vlogs ",
-          "channel_id": "UC9yUvYLXaSaZoUuIJfVYRcg",
-          "subscribers": 397,
-          "thumbnail": "https://i.ytimg.com/vi/IheA0T4Qj3w/mqdefault.jpg",
-          "published_at": "2026-06-02T02:30:24Z",
-          "url": "https://www.youtube.com/watch?v=IheA0T4Qj3w"
+          "id": "jIkDriUGLBo",
+          "title": "wait for end twist 🤣#bengalicomedyvideo #comedy #banglicomedy #youtubeshorts #funny #shots #shorts",
+          "channel": "Sanchita Mondal",
+          "channel_id": "UCJvKi4bXG4k2T6jZ1_-vWpA",
+          "subscribers": 231,
+          "thumbnail": "https://i.ytimg.com/vi/jIkDriUGLBo/mqdefault.jpg",
+          "published_at": "2026-06-02T09:36:41Z",
+          "url": "https://www.youtube.com/watch?v=jIkDriUGLBo"
         },
         {
-          "id": "C_gd5DC7qj4",
-          "title": "crazy family 🤪🤣Tom&amp;Jerry 🤣 End Twist 🤪 #minnumfamily1.2",
-          "channel": "Minnum Family 1.2",
-          "channel_id": "UCCpaQdVc2L3ih9ckmX_6cug",
-          "subscribers": 18800,
-          "thumbnail": "https://i.ytimg.com/vi/C_gd5DC7qj4/mqdefault.jpg",
-          "published_at": "2026-06-02T02:30:20Z",
-          "url": "https://www.youtube.com/watch?v=C_gd5DC7qj4"
+          "id": "W43Hwh7c2vw",
+          "title": "Tom 🍓Jerry (omandpapa)real end twist 🎈😂#shorts",
+          "channel": "OMPATEL ",
+          "channel_id": "UCkILghXBQ6s03M81wW1shSw",
+          "subscribers": 2600,
+          "thumbnail": "https://i.ytimg.com/vi/W43Hwh7c2vw/mqdefault.jpg",
+          "published_at": "2026-06-02T09:26:29Z",
+          "url": "https://www.youtube.com/watch?v=W43Hwh7c2vw"
         },
         {
-          "id": "rxpWWTSihZ0",
-          "title": "🔥🤣 END TWIST🤣🔥#pranavtharuni #trending #viral #comedy #funny #ytshorts #shorts #youtubeshorts #reels",
-          "channel": "Pranav & Tharuni",
-          "channel_id": "UCGIJwwt9zyAPxaDRk-YENBw",
-          "subscribers": 6130,
-          "thumbnail": "https://i.ytimg.com/vi/rxpWWTSihZ0/mqdefault.jpg",
-          "published_at": "2026-06-02T02:30:20Z",
-          "url": "https://www.youtube.com/watch?v=rxpWWTSihZ0"
+          "id": "8FRKCg-3XaE",
+          "title": "Tom 🍓 Jerry (Sai &amp;Priya ) Real End Twist😂🎈 #shorts #shorts #thiyasai",
+          "channel": "Thiya Sai Official 💞",
+          "channel_id": "UCVbOd6ge0egmq9UcRIRTdSw",
+          "subscribers": 112000,
+          "thumbnail": "https://i.ytimg.com/vi/8FRKCg-3XaE/mqdefault.jpg",
+          "published_at": "2026-06-02T09:26:29Z",
+          "url": "https://www.youtube.com/watch?v=8FRKCg-3XaE"
         }
       ],
       "first_detected_at": "2026-06-01T21:21:43.781918+00:00",
-      "last_seen_at": "2026-06-02T02:42:16.333042+00:00"
+      "last_seen_at": "2026-06-02T10:04:19.723001+00:00"
+    },
+    {
+      "phrase": "real end twist",
+      "video_count": 28,
+      "channel_count": 26,
+      "total_channels_seen": 28,
+      "uploads_per_hour": 2.17,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "xgfTuBvWr_g",
+          "title": "Tom 🍓 Jerry (Anshi &amp; Aarav) Real End Twist 😍🎈#AnshiAaravofficial #shorts 527 #viralvideo",
+          "channel": "Anshi & Aarav official\n",
+          "channel_id": "UCxPGHIvMPFDlZ5w81tBvlPw",
+          "subscribers": 19900,
+          "thumbnail": "https://i.ytimg.com/vi/xgfTuBvWr_g/mqdefault.jpg",
+          "published_at": "2026-06-02T10:00:01Z",
+          "url": "https://www.youtube.com/watch?v=xgfTuBvWr_g"
+        },
+        {
+          "id": "i1EspRCVZnI",
+          "title": "Tom 🍓Jerry( Raiyan&amp;Roza)Real End Twist😂🎈#Shorts #viral",
+          "channel": "Dhaka Skating Club",
+          "channel_id": "UCn1ERT9Mk5aGwKswrywV7DA",
+          "subscribers": 409000,
+          "thumbnail": "https://i.ytimg.com/vi/i1EspRCVZnI/mqdefault.jpg",
+          "published_at": "2026-06-02T09:58:58Z",
+          "url": "https://www.youtube.com/watch?v=i1EspRCVZnI"
+        },
+        {
+          "id": "5g0uHLXnrEM",
+          "title": "Tom 🍓Jerry Fun 🤩 Real Twist End 🤪 #shorts​ #shortsfeed​",
+          "channel": "Paisa money",
+          "channel_id": "UCkiFE65NVwI3vOQFq2SH5ZQ",
+          "subscribers": 2830,
+          "thumbnail": "https://i.ytimg.com/vi/5g0uHLXnrEM/mqdefault.jpg",
+          "published_at": "2026-06-02T09:54:15Z",
+          "url": "https://www.youtube.com/watch?v=5g0uHLXnrEM"
+        },
+        {
+          "id": "ZHp2xEJlMSs",
+          "title": "Found Out  കണ്ടു പിടിച് വന്നെത്തുന്നതിനെ മുന്പ് 🍲കയറ്റി Real End Twist     koku #shorts #shortvideo",
+          "channel": "KO KU",
+          "channel_id": "UCLYQc11Ajl-Ljxs1LOnKplg",
+          "subscribers": 127,
+          "thumbnail": "https://i.ytimg.com/vi/ZHp2xEJlMSs/mqdefault.jpg",
+          "published_at": "2026-06-02T09:50:02Z",
+          "url": "https://www.youtube.com/watch?v=ZHp2xEJlMSs"
+        }
+      ],
+      "first_detected_at": "2026-05-31T19:03:29.635310+00:00",
+      "last_seen_at": "2026-06-02T10:04:19.723001+00:00"
+    },
+    {
+      "phrase": "mindset motivação inspiração",
+      "video_count": 24,
+      "channel_count": 24,
+      "total_channels_seen": 24,
+      "uploads_per_hour": 2.0,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "nzIEzfWPF0g",
+          "title": "#fyp  #inspiration #motivation#growthmindset",
+          "channel": "ZackMotivates ",
+          "channel_id": "UC-dNSGoKnaLYlsb0B7WAngg",
+          "subscribers": 9700,
+          "thumbnail": "https://i.ytimg.com/vi/nzIEzfWPF0g/mqdefault.jpg",
+          "published_at": "2026-06-02T09:33:31Z",
+          "url": "https://www.youtube.com/watch?v=nzIEzfWPF0g"
+        },
+        {
+          "id": "7ZoU164Kf7E",
+          "title": "4 Life Lessons That Will Change Your Mindset Forever #Motivation #LifeLessons #Inspirational",
+          "channel": "Jadon Motivations",
+          "channel_id": "UCsP-t7h0U6CbsXWzznobx9g",
+          "subscribers": 19400,
+          "thumbnail": "https://i.ytimg.com/vi/7ZoU164Kf7E/mqdefault.jpg",
+          "published_at": "2026-06-02T09:30:29Z",
+          "url": "https://www.youtube.com/watch?v=7ZoU164Kf7E"
+        },
+        {
+          "id": "SBrOv6FVQ-c",
+          "title": "Be Water! 🌊 Mente Inabalável 🚫🤣 #shorts #viral #brucelee #mindset #motivação",
+          "channel": "Memetizando",
+          "channel_id": "UC9J6Fx2TD3Nt8HO9BgIhigg",
+          "subscribers": 453,
+          "thumbnail": "https://i.ytimg.com/vi/SBrOv6FVQ-c/mqdefault.jpg",
+          "published_at": "2026-06-02T09:00:02Z",
+          "url": "https://www.youtube.com/watch?v=SBrOv6FVQ-c"
+        },
+        {
+          "id": "9w5pGf--Yes",
+          "title": "Winners Mindset  #motivation #mindset",
+          "channel": "GRIND MENTALITY | Discipline & Morning Motivation",
+          "channel_id": "UCKdBVh9FPvPWn46x0zVu0Ow",
+          "subscribers": 1060,
+          "thumbnail": "https://i.ytimg.com/vi/9w5pGf--Yes/mqdefault.jpg",
+          "published_at": "2026-06-02T08:39:41Z",
+          "url": "https://www.youtube.com/watch?v=9w5pGf--Yes"
+        }
+      ],
+      "first_detected_at": "2026-06-02T10:04:19.723001+00:00",
+      "last_seen_at": "2026-06-02T10:04:19.723001+00:00"
+    },
+    {
+      "phrase": "felicidade viral divertido",
+      "video_count": 8,
+      "channel_count": 6,
+      "total_channels_seen": 6,
+      "uploads_per_hour": 0.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "afswZOMj5ws",
+          "title": "Only entertainment happiness #shorts #shortfeed #trending #funny  #viral 😱",
+          "channel": "Kituoraj",
+          "channel_id": "UCztRQPGy8TsloeiVrWOkoqA",
+          "subscribers": 1960,
+          "thumbnail": "https://i.ytimg.com/vi/afswZOMj5ws/mqdefault.jpg",
+          "published_at": "2026-06-02T09:30:03Z",
+          "url": "https://www.youtube.com/watch?v=afswZOMj5ws"
+        },
+        {
+          "id": "xcuM_sEAGoc",
+          "title": "eai jogador 🔥 #edit #football #viral #prime",
+          "channel": "TWD_7🇧🇷",
+          "channel_id": "UC6Ya_px5zYkkvMu4Oo0FkjA",
+          "subscribers": 5,
+          "thumbnail": "https://i.ytimg.com/vi/xcuM_sEAGoc/mqdefault.jpg",
+          "published_at": "2026-06-02T09:22:45Z",
+          "url": "https://www.youtube.com/watch?v=xcuM_sEAGoc"
+        },
+        {
+          "id": "cxuYopXxmjo",
+          "title": "Only entertainment happiness #shorts #shortfeed #trending #funny  #viral 😱",
+          "channel": "Kituoraj",
+          "channel_id": "UCztRQPGy8TsloeiVrWOkoqA",
+          "subscribers": 1960,
+          "thumbnail": "https://i.ytimg.com/vi/cxuYopXxmjo/mqdefault.jpg",
+          "published_at": "2026-06-02T03:30:21Z",
+          "url": "https://www.youtube.com/watch?v=cxuYopXxmjo"
+        },
+        {
+          "id": "XQIKtuB_pKs",
+          "title": "Only entertainment happiness #shorts #shortfeed #trending #funny  #viral 😱",
+          "channel": "Kituoraj",
+          "channel_id": "UCztRQPGy8TsloeiVrWOkoqA",
+          "subscribers": 1960,
+          "thumbnail": "https://i.ytimg.com/vi/XQIKtuB_pKs/mqdefault.jpg",
+          "published_at": "2026-06-02T02:00:24Z",
+          "url": "https://www.youtube.com/watch?v=XQIKtuB_pKs"
+        }
+      ],
+      "first_detected_at": "2026-06-02T10:04:19.723001+00:00",
+      "last_seen_at": "2026-06-02T10:04:19.723001+00:00"
     }
   ],
   "topics": [
     {
       "phrase": "life",
       "video_count": 7,
-      "momentum": 32.05,
+      "momentum": 30.83,
       "regions": [
         "US"
       ],
@@ -437,17 +281,8 @@
           "channel": "Doggozdose",
           "thumbnail": "https://i.ytimg.com/vi/e8LB8ci5V1I/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=e8LB8ci5V1I",
-          "views": 7844212,
-          "age_hours": 85.4
-        },
-        {
-          "id": "p2EvneFEobo",
-          "title": "Tomodachi Life is worth living",
-          "channel": "Slushy Noobz",
-          "thumbnail": "https://i.ytimg.com/vi/p2EvneFEobo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=p2EvneFEobo",
-          "views": 81987,
-          "age_hours": 5.7
+          "views": 8163928,
+          "age_hours": 92.7
         },
         {
           "id": "KXz_heQq7Eo",
@@ -455,91 +290,24 @@
           "channel": "Lisi Shops",
           "thumbnail": "https://i.ytimg.com/vi/KXz_heQq7Eo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=KXz_heQq7Eo",
-          "views": 103853,
-          "age_hours": 6.5
-        }
-      ]
-    },
-    {
-      "phrase": "phone",
-      "video_count": 5,
-      "momentum": 22.76,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "YP4CdON5rrQ",
-          "title": "दांव पर 10 Lakh💰: 60 Degree गर्मी में Konsa Phone होगा Pehle Charge?🔥 #shorts",
-          "channel": "Tech Master",
-          "thumbnail": "https://i.ytimg.com/vi/YP4CdON5rrQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=YP4CdON5rrQ",
-          "views": 9156088,
-          "age_hours": 156.8
+          "views": 154757,
+          "age_hours": 13.9
         },
         {
-          "id": "hac1B6PNcis",
-          "title": "Phone charging trick 😅 #shorts | Arun karthick |",
-          "channel": "Arun Karthick",
-          "thumbnail": "https://i.ytimg.com/vi/hac1B6PNcis/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=hac1B6PNcis",
-          "views": 109797,
-          "age_hours": 15.5
-        },
-        {
-          "id": "CJvolCUMoUQ",
-          "title": "Mast Phone under ₹40,000",
-          "channel": "Manoj Saru",
-          "thumbnail": "https://i.ytimg.com/vi/CJvolCUMoUQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=CJvolCUMoUQ",
-          "views": 249586,
-          "age_hours": 59.8
-        }
-      ]
-    },
-    {
-      "phrase": "tech",
-      "video_count": 4,
-      "momentum": 20.35,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "0ZUXwPhgpfI",
-          "title": "“Human eye can only see in 24FPS” #carterpcs #tech #gaming #minecraft",
-          "channel": "CarterPCs",
-          "thumbnail": "https://i.ytimg.com/vi/0ZUXwPhgpfI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=0ZUXwPhgpfI",
-          "views": 2218873,
-          "age_hours": 21.0
-        },
-        {
-          "id": "IYNwIbzVfKA",
-          "title": "You guys spent $1,000 on RIDICULOUS tech",
-          "channel": "mryeester",
-          "thumbnail": "https://i.ytimg.com/vi/IYNwIbzVfKA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=IYNwIbzVfKA",
-          "views": 1826634,
-          "age_hours": 78.9
-        },
-        {
-          "id": "pe_polInEQs",
-          "title": "Modding My PS3 Was a Waste of Time! #tech #technology #shorts #pc",
-          "channel": "Salem Techsperts",
-          "thumbnail": "https://i.ytimg.com/vi/pe_polInEQs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=pe_polInEQs",
-          "views": 1982478,
-          "age_hours": 206.9
+          "id": "p2EvneFEobo",
+          "title": "Tomodachi Life is worth living",
+          "channel": "Slushy Noobz",
+          "thumbnail": "https://i.ytimg.com/vi/p2EvneFEobo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=p2EvneFEobo",
+          "views": 172736,
+          "age_hours": 13.1
         }
       ]
     },
     {
       "phrase": "minecraft",
-      "video_count": 4,
-      "momentum": 19.83,
+      "video_count": 5,
+      "momentum": 24.22,
       "regions": [
         "IN"
       ],
@@ -551,8 +319,8 @@
           "channel": "SenpaiExtras",
           "thumbnail": "https://i.ytimg.com/vi/yNWig6Xu68k/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=yNWig6Xu68k",
-          "views": 732151,
-          "age_hours": 19.2
+          "views": 890985,
+          "age_hours": 26.5
         },
         {
           "id": "gb_yU8_nkmU",
@@ -560,8 +328,8 @@
           "channel": "Anshu Bisht",
           "thumbnail": "https://i.ytimg.com/vi/gb_yU8_nkmU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=gb_yU8_nkmU",
-          "views": 1055097,
-          "age_hours": 44.2
+          "views": 1139082,
+          "age_hours": 51.6
         },
         {
           "id": "hk-jjj2dk4Q",
@@ -569,15 +337,53 @@
           "channel": "Carry Depie",
           "thumbnail": "https://i.ytimg.com/vi/hk-jjj2dk4Q/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=hk-jjj2dk4Q",
-          "views": 590789,
-          "age_hours": 14.6
+          "views": 952668,
+          "age_hours": 21.9
         }
       ]
     },
     {
-      "phrase": "tom jerry",
-      "video_count": 3,
-      "momentum": 19.75,
+      "phrase": "phone",
+      "video_count": 5,
+      "momentum": 22.47,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "YP4CdON5rrQ",
+          "title": "दांव पर 10 Lakh💰: 60 Degree गर्मी में Konsa Phone होगा Pehle Charge?🔥 #shorts",
+          "channel": "Tech Master",
+          "thumbnail": "https://i.ytimg.com/vi/YP4CdON5rrQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YP4CdON5rrQ",
+          "views": 9365833,
+          "age_hours": 164.2
+        },
+        {
+          "id": "hac1B6PNcis",
+          "title": "Phone charging trick 😅 #shorts | Arun karthick |",
+          "channel": "Arun Karthick",
+          "thumbnail": "https://i.ytimg.com/vi/hac1B6PNcis/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=hac1B6PNcis",
+          "views": 143853,
+          "age_hours": 22.9
+        },
+        {
+          "id": "CJvolCUMoUQ",
+          "title": "Mast Phone under ₹40,000",
+          "channel": "Manoj Saru",
+          "thumbnail": "https://i.ytimg.com/vi/CJvolCUMoUQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=CJvolCUMoUQ",
+          "views": 273263,
+          "age_hours": 67.1
+        }
+      ]
+    },
+    {
+      "phrase": "real",
+      "video_count": 4,
+      "momentum": 19.16,
       "regions": [
         "IN"
       ],
@@ -589,17 +395,8 @@
           "channel": "KL BRO Biju Rithvik",
           "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-          "views": 16548833,
-          "age_hours": 66.1
-        },
-        {
-          "id": "0zMTC-N6sHo",
-          "title": "Tom &Jerry 🥰sangeethkumar #shorts #tomandjerry",
-          "channel": "Sangeeth Kumar",
-          "thumbnail": "https://i.ytimg.com/vi/0zMTC-N6sHo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=0zMTC-N6sHo",
-          "views": 4180234,
-          "age_hours": 94.2
+          "views": 20096597,
+          "age_hours": 73.5
         },
         {
           "id": "exPzpiu9LNU",
@@ -607,91 +404,62 @@
           "channel": "V5 Family Show",
           "thumbnail": "https://i.ytimg.com/vi/exPzpiu9LNU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=exPzpiu9LNU",
-          "views": 11904355,
-          "age_hours": 132.2
+          "views": 11949521,
+          "age_hours": 139.5
+        },
+        {
+          "id": "wYMIxiWJsvU",
+          "title": "I FINALLY FOUND FREE ROBUX GAMES IN ROBLOX (100% REAL) !!",
+          "channel": "Shivang Mini",
+          "thumbnail": "https://i.ytimg.com/vi/wYMIxiWJsvU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=wYMIxiWJsvU",
+          "views": 305027,
+          "age_hours": 19.8
         }
       ]
     },
     {
-      "phrase": "family",
+      "phrase": "iphone",
       "video_count": 4,
-      "momentum": 19.39,
+      "momentum": 18.25,
       "regions": [
-        "IN"
+        "BR"
       ],
-      "lang": "en",
+      "lang": "pt",
       "example_videos": [
         {
-          "id": "nIb7hrLlNwk",
-          "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-          "views": 6454171,
-          "age_hours": 35.4
+          "id": "NNbBP60FaM0",
+          "title": "Iphone 18 #shorts",
+          "channel": "Amandinha",
+          "thumbnail": "https://i.ytimg.com/vi/NNbBP60FaM0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=NNbBP60FaM0",
+          "views": 785511,
+          "age_hours": 35.6
         },
         {
-          "id": "0F20uTx8L74",
-          "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-          "views": 8054960,
-          "age_hours": 83.8
+          "id": "MG9wzi8r2Z4",
+          "title": "comprou smartwatch falso e falou que era original #shorts #short #ytshorts #apple #iphone #ios #fyp",
+          "channel": "Pedro Ribeiro",
+          "thumbnail": "https://i.ytimg.com/vi/MG9wzi8r2Z4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=MG9wzi8r2Z4",
+          "views": 112045,
+          "age_hours": 13.0
         },
         {
-          "id": "B-1w5qDARvE",
-          "title": "உருவம் வேறு உணர்வுகள் ஒன்று தான்🥹🥰 #shorts #love #family",
-          "channel": "With Love Nagaraj Sangeetha",
-          "thumbnail": "https://i.ytimg.com/vi/B-1w5qDARvE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=B-1w5qDARvE",
-          "views": 4498787,
-          "age_hours": 109.6
-        }
-      ]
-    },
-    {
-      "phrase": "train",
-      "video_count": 4,
-      "momentum": 16.79,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "qBRodSP_yJI",
-          "title": "Everything I Ate After Missing My Train!! 😭🍛",
-          "channel": "DCT EATS",
-          "thumbnail": "https://i.ytimg.com/vi/qBRodSP_yJI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=qBRodSP_yJI",
-          "views": 528586,
-          "age_hours": 68.7
-        },
-        {
-          "id": "bqGOqx5c1Nc",
-          "title": "POOR vs OP TRAIN Mine Battle in Minecraft..",
-          "channel": "Karry Kraft",
-          "thumbnail": "https://i.ytimg.com/vi/bqGOqx5c1Nc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=bqGOqx5c1Nc",
-          "views": 725774,
-          "age_hours": 37.9
-        },
-        {
-          "id": "oYxaTrKWqSE",
-          "title": "Silver Train vs Gold Train in Indian Bikes Driving 3d",
-          "channel": "Alpha Sena",
-          "thumbnail": "https://i.ytimg.com/vi/oYxaTrKWqSE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=oYxaTrKWqSE",
-          "views": 153090,
-          "age_hours": 20.2
+          "id": "6de0oKbha5A",
+          "title": "Troca somente do vidro iPhone 17 Pro Max!  Quanto você acha que eu cobrei por esse serviço?",
+          "channel": "João Longo",
+          "thumbnail": "https://i.ytimg.com/vi/6de0oKbha5A/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6de0oKbha5A",
+          "views": 1396468,
+          "age_hours": 210.1
         }
       ]
     },
     {
       "phrase": "hostel girls warden",
       "video_count": 2,
-      "momentum": 16.16,
+      "momentum": 16.14,
       "regions": [
         "IN"
       ],
@@ -703,8 +471,8 @@
           "channel": "Shreemani Tripathi",
           "thumbnail": "https://i.ytimg.com/vi/-wo_uyOJC20/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=-wo_uyOJC20",
-          "views": 21021087,
-          "age_hours": 158.3
+          "views": 21654913,
+          "age_hours": 165.7
         },
         {
           "id": "gEYeMK1dc1U",
@@ -712,15 +480,15 @@
           "channel": "Shreemani Tripathi",
           "thumbnail": "https://i.ytimg.com/vi/gEYeMK1dc1U/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=gEYeMK1dc1U",
-          "views": 18720793,
-          "age_hours": 139.4
+          "views": 19478282,
+          "age_hours": 146.8
         }
       ]
     },
     {
       "phrase": "real end twist",
       "video_count": 2,
-      "momentum": 15.99,
+      "momentum": 16.01,
       "regions": [
         "IN"
       ],
@@ -732,8 +500,8 @@
           "channel": "KL BRO Biju Rithvik",
           "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-          "views": 16548833,
-          "age_hours": 66.1
+          "views": 20096597,
+          "age_hours": 73.5
         },
         {
           "id": "exPzpiu9LNU",
@@ -741,15 +509,15 @@
           "channel": "V5 Family Show",
           "thumbnail": "https://i.ytimg.com/vi/exPzpiu9LNU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=exPzpiu9LNU",
-          "views": 11904355,
-          "age_hours": 132.2
+          "views": 11949521,
+          "age_hours": 139.5
         }
       ]
     },
     {
       "phrase": "end twist shorts",
       "video_count": 2,
-      "momentum": 15.99,
+      "momentum": 16.01,
       "regions": [
         "IN"
       ],
@@ -761,8 +529,8 @@
           "channel": "KL BRO Biju Rithvik",
           "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-          "views": 16548833,
-          "age_hours": 66.1
+          "views": 20096597,
+          "age_hours": 73.5
         },
         {
           "id": "exPzpiu9LNU",
@@ -770,189 +538,15 @@
           "channel": "V5 Family Show",
           "thumbnail": "https://i.ytimg.com/vi/exPzpiu9LNU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=exPzpiu9LNU",
-          "views": 11904355,
-          "age_hours": 132.2
-        }
-      ]
-    },
-    {
-      "phrase": "indian family shorts",
-      "video_count": 2,
-      "momentum": 15.81,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "nIb7hrLlNwk",
-          "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-          "views": 6454171,
-          "age_hours": 35.4
-        },
-        {
-          "id": "0F20uTx8L74",
-          "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-          "views": 8054960,
-          "age_hours": 83.8
-        }
-      ]
-    },
-    {
-      "phrase": "family shorts indian",
-      "video_count": 2,
-      "momentum": 15.81,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "nIb7hrLlNwk",
-          "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-          "views": 6454171,
-          "age_hours": 35.4
-        },
-        {
-          "id": "0F20uTx8L74",
-          "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-          "views": 8054960,
-          "age_hours": 83.8
-        }
-      ]
-    },
-    {
-      "phrase": "shorts indian chaman",
-      "video_count": 2,
-      "momentum": 15.81,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "nIb7hrLlNwk",
-          "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-          "views": 6454171,
-          "age_hours": 35.4
-        },
-        {
-          "id": "0F20uTx8L74",
-          "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-          "views": 8054960,
-          "age_hours": 83.8
-        }
-      ]
-    },
-    {
-      "phrase": "indian chaman relatable",
-      "video_count": 2,
-      "momentum": 15.81,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "nIb7hrLlNwk",
-          "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-          "views": 6454171,
-          "age_hours": 35.4
-        },
-        {
-          "id": "0F20uTx8L74",
-          "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-          "views": 8054960,
-          "age_hours": 83.8
-        }
-      ]
-    },
-    {
-      "phrase": "chaman relatable chotabhai",
-      "video_count": 2,
-      "momentum": 15.81,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "nIb7hrLlNwk",
-          "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-          "views": 6454171,
-          "age_hours": 35.4
-        },
-        {
-          "id": "0F20uTx8L74",
-          "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-          "views": 8054960,
-          "age_hours": 83.8
-        }
-      ]
-    },
-    {
-      "phrase": "relatable chotabhai bachpan",
-      "video_count": 2,
-      "momentum": 15.81,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "nIb7hrLlNwk",
-          "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-          "views": 6454171,
-          "age_hours": 35.4
-        },
-        {
-          "id": "0F20uTx8L74",
-          "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-          "channel": "We r Loser",
-          "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-          "views": 8054960,
-          "age_hours": 83.8
+          "views": 11949521,
+          "age_hours": 139.5
         }
       ]
     },
     {
       "phrase": "mindset motivação inspiração",
       "video_count": 2,
-      "momentum": 15.32,
+      "momentum": 15.24,
       "regions": [
         "BR"
       ],
@@ -964,8 +558,8 @@
           "channel": "Marco Morastoni ",
           "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
-          "views": 4508246,
-          "age_hours": 132.4
+          "views": 4548592,
+          "age_hours": 139.8
         },
         {
           "id": "Z0Q5075JL9c",
@@ -973,15 +567,15 @@
           "channel": "Marco Morastoni ",
           "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
-          "views": 5364395,
-          "age_hours": 101.4
+          "views": 5448663,
+          "age_hours": 108.8
         }
       ]
     },
     {
       "phrase": "motivação inspiração felicidade",
       "video_count": 2,
-      "momentum": 15.32,
+      "momentum": 15.24,
       "regions": [
         "BR"
       ],
@@ -993,8 +587,8 @@
           "channel": "Marco Morastoni ",
           "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
-          "views": 4508246,
-          "age_hours": 132.4
+          "views": 4548592,
+          "age_hours": 139.8
         },
         {
           "id": "Z0Q5075JL9c",
@@ -1002,8 +596,240 @@
           "channel": "Marco Morastoni ",
           "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
-          "views": 5364395,
-          "age_hours": 101.4
+          "views": 5448663,
+          "age_hours": 108.8
+        }
+      ]
+    },
+    {
+      "phrase": "inspiração felicidade viral",
+      "video_count": 2,
+      "momentum": 15.24,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "p0WYcAhshTc",
+          "title": "Pensa num casal inteligente😂#mindset #motivação #inspiração #felicidade #viral #divertido #casal",
+          "channel": "Marco Morastoni ",
+          "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
+          "views": 4548592,
+          "age_hours": 139.8
+        },
+        {
+          "id": "Z0Q5075JL9c",
+          "title": "Quando o colega é bem lerdo😂#mindset #motivação #inspiração #felicidade #viral #divertido #trabalho",
+          "channel": "Marco Morastoni ",
+          "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
+          "views": 5448663,
+          "age_hours": 108.8
+        }
+      ]
+    },
+    {
+      "phrase": "felicidade viral divertido",
+      "video_count": 2,
+      "momentum": 15.24,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "p0WYcAhshTc",
+          "title": "Pensa num casal inteligente😂#mindset #motivação #inspiração #felicidade #viral #divertido #casal",
+          "channel": "Marco Morastoni ",
+          "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
+          "views": 4548592,
+          "age_hours": 139.8
+        },
+        {
+          "id": "Z0Q5075JL9c",
+          "title": "Quando o colega é bem lerdo😂#mindset #motivação #inspiração #felicidade #viral #divertido #trabalho",
+          "channel": "Marco Morastoni ",
+          "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
+          "views": 5448663,
+          "age_hours": 108.8
+        }
+      ]
+    },
+    {
+      "phrase": "aqueles vídeos novela",
+      "video_count": 2,
+      "momentum": 15.19,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "oH2jz7KV0zs",
+          "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
+          "channel": "Rick Santina",
+          "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
+          "views": 9570943,
+          "age_hours": 107.0
+        },
+        {
+          "id": "oL4Ow22DH_4",
+          "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
+          "channel": "Rick Santina",
+          "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
+          "views": 4484079,
+          "age_hours": 130.9
+        }
+      ]
+    },
+    {
+      "phrase": "vídeos novela frutas",
+      "video_count": 2,
+      "momentum": 15.19,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "oH2jz7KV0zs",
+          "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
+          "channel": "Rick Santina",
+          "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
+          "views": 9570943,
+          "age_hours": 107.0
+        },
+        {
+          "id": "oL4Ow22DH_4",
+          "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
+          "channel": "Rick Santina",
+          "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
+          "views": 4484079,
+          "age_hours": 130.9
+        }
+      ]
+    },
+    {
+      "phrase": "novela frutas ia",
+      "video_count": 2,
+      "momentum": 15.19,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "oH2jz7KV0zs",
+          "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
+          "channel": "Rick Santina",
+          "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
+          "views": 9570943,
+          "age_hours": 107.0
+        },
+        {
+          "id": "oL4Ow22DH_4",
+          "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
+          "channel": "Rick Santina",
+          "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
+          "views": 4484079,
+          "age_hours": 130.9
+        }
+      ]
+    },
+    {
+      "phrase": "frutas ia pt",
+      "video_count": 2,
+      "momentum": 15.19,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "oH2jz7KV0zs",
+          "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
+          "channel": "Rick Santina",
+          "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
+          "views": 9570943,
+          "age_hours": 107.0
+        },
+        {
+          "id": "oL4Ow22DH_4",
+          "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
+          "channel": "Rick Santina",
+          "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
+          "views": 4484079,
+          "age_hours": 130.9
+        }
+      ]
+    },
+    {
+      "phrase": "kajalsoni vlogs",
+      "video_count": 2,
+      "momentum": 13.57,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "mL0hZ6-vkBg",
+          "title": "Car wash करके आया मजा🚘😂 #youtubeshorts #shorts #car #kajalsoni @Kaj@Kajalsoni_vlogs",
+          "channel": "Kajal Soni",
+          "thumbnail": "https://i.ytimg.com/vi/mL0hZ6-vkBg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=mL0hZ6-vkBg",
+          "views": 14403802,
+          "age_hours": 53.6
+        },
+        {
+          "id": "3MVIk9uyOt0",
+          "title": "Cake वाले अंकल आए🍰😋 #youtubeshorts #shorts #cake #kajalsoni @K@Kajalsoni_vlogs",
+          "channel": "Kajal Soni",
+          "thumbnail": "https://i.ytimg.com/vi/3MVIk9uyOt0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3MVIk9uyOt0",
+          "views": 13479837,
+          "age_hours": 101.5
+        }
+      ]
+    },
+    {
+      "phrase": "tom jerry",
+      "video_count": 2,
+      "momentum": 13.34,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "dni8n9j1sgw",
+          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+          "channel": "KL BRO Biju Rithvik",
+          "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
+          "views": 20096597,
+          "age_hours": 73.5
+        },
+        {
+          "id": "exPzpiu9LNU",
+          "title": "Tom 🍓 Jerry (Siddi&Ammu)Real End Twist😍🎈 #shorts #viral #v5familyshow",
+          "channel": "V5 Family Show",
+          "thumbnail": "https://i.ytimg.com/vi/exPzpiu9LNU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=exPzpiu9LNU",
+          "views": 11949521,
+          "age_hours": 139.5
         }
       ]
     }
@@ -1013,7 +839,7 @@
       {
         "phrase": "life",
         "video_count": 7,
-        "momentum": 32.05,
+        "momentum": 30.83,
         "regions": [
           "US"
         ],
@@ -1025,17 +851,8 @@
             "channel": "Doggozdose",
             "thumbnail": "https://i.ytimg.com/vi/e8LB8ci5V1I/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=e8LB8ci5V1I",
-            "views": 7844212,
-            "age_hours": 85.4
-          },
-          {
-            "id": "p2EvneFEobo",
-            "title": "Tomodachi Life is worth living",
-            "channel": "Slushy Noobz",
-            "thumbnail": "https://i.ytimg.com/vi/p2EvneFEobo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=p2EvneFEobo",
-            "views": 81987,
-            "age_hours": 5.7
+            "views": 8163928,
+            "age_hours": 92.7
           },
           {
             "id": "KXz_heQq7Eo",
@@ -1043,151 +860,26 @@
             "channel": "Lisi Shops",
             "thumbnail": "https://i.ytimg.com/vi/KXz_heQq7Eo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=KXz_heQq7Eo",
-            "views": 103853,
-            "age_hours": 6.5
-          }
-        ]
-      },
-      {
-        "phrase": "tech",
-        "video_count": 4,
-        "momentum": 20.35,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "0ZUXwPhgpfI",
-            "title": "“Human eye can only see in 24FPS” #carterpcs #tech #gaming #minecraft",
-            "channel": "CarterPCs",
-            "thumbnail": "https://i.ytimg.com/vi/0ZUXwPhgpfI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0ZUXwPhgpfI",
-            "views": 2218873,
-            "age_hours": 21.0
+            "views": 154757,
+            "age_hours": 13.9
           },
           {
-            "id": "IYNwIbzVfKA",
-            "title": "You guys spent $1,000 on RIDICULOUS tech",
-            "channel": "mryeester",
-            "thumbnail": "https://i.ytimg.com/vi/IYNwIbzVfKA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=IYNwIbzVfKA",
-            "views": 1826634,
-            "age_hours": 78.9
-          },
-          {
-            "id": "pe_polInEQs",
-            "title": "Modding My PS3 Was a Waste of Time! #tech #technology #shorts #pc",
-            "channel": "Salem Techsperts",
-            "thumbnail": "https://i.ytimg.com/vi/pe_polInEQs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=pe_polInEQs",
-            "views": 1982478,
-            "age_hours": 206.9
-          }
-        ]
-      },
-      {
-        "phrase": "rec room",
-        "video_count": 2,
-        "momentum": 13.11,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "suKMNT8-yew",
-            "title": "Rec Room is dead.. 💔",
-            "channel": "KreekCraft",
-            "thumbnail": "https://i.ytimg.com/vi/suKMNT8-yew/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=suKMNT8-yew",
-            "views": 514252,
-            "age_hours": 7.0
-          },
-          {
-            "id": "gNBsbgfVPUo",
-            "title": "The Final Hours Before Rec Room Shuts Down...",
-            "channel": "Slat",
-            "thumbnail": "https://i.ytimg.com/vi/gNBsbgfVPUo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=gNBsbgfVPUo",
-            "views": 255028,
-            "age_hours": 3.0
-          }
-        ]
-      },
-      {
-        "phrase": "would you",
-        "video_count": 2,
-        "momentum": 12.0,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "Q8XOvaU5iqw",
-            "title": "Would You Let Them In? | No, I'm Not a Human",
-            "channel": "Smosh Games",
-            "thumbnail": "https://i.ytimg.com/vi/Q8XOvaU5iqw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Q8XOvaU5iqw",
-            "views": 590087,
-            "age_hours": 33.7
-          },
-          {
-            "id": "n6OBO-oJe34",
-            "title": "Would you spend $50 on a PC not knowing the specs? 🫪👀😳⁉️🔥🥶💀 #pc #computer #tech #pcbuild",
-            "channel": "computercloset",
-            "thumbnail": "https://i.ytimg.com/vi/n6OBO-oJe34/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=n6OBO-oJe34",
-            "views": 1796210,
-            "age_hours": 127.2
+            "id": "p2EvneFEobo",
+            "title": "Tomodachi Life is worth living",
+            "channel": "Slushy Noobz",
+            "thumbnail": "https://i.ytimg.com/vi/p2EvneFEobo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=p2EvneFEobo",
+            "views": 172736,
+            "age_hours": 13.1
           }
         ]
       }
     ],
     "IN": [
       {
-        "phrase": "phone",
-        "video_count": 5,
-        "momentum": 22.76,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "YP4CdON5rrQ",
-            "title": "दांव पर 10 Lakh💰: 60 Degree गर्मी में Konsa Phone होगा Pehle Charge?🔥 #shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/YP4CdON5rrQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YP4CdON5rrQ",
-            "views": 9156088,
-            "age_hours": 156.8
-          },
-          {
-            "id": "hac1B6PNcis",
-            "title": "Phone charging trick 😅 #shorts | Arun karthick |",
-            "channel": "Arun Karthick",
-            "thumbnail": "https://i.ytimg.com/vi/hac1B6PNcis/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=hac1B6PNcis",
-            "views": 109797,
-            "age_hours": 15.5
-          },
-          {
-            "id": "CJvolCUMoUQ",
-            "title": "Mast Phone under ₹40,000",
-            "channel": "Manoj Saru",
-            "thumbnail": "https://i.ytimg.com/vi/CJvolCUMoUQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CJvolCUMoUQ",
-            "views": 249586,
-            "age_hours": 59.8
-          }
-        ]
-      },
-      {
         "phrase": "minecraft",
-        "video_count": 4,
-        "momentum": 19.83,
+        "video_count": 5,
+        "momentum": 24.22,
         "regions": [
           "IN"
         ],
@@ -1199,8 +891,8 @@
             "channel": "SenpaiExtras",
             "thumbnail": "https://i.ytimg.com/vi/yNWig6Xu68k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=yNWig6Xu68k",
-            "views": 732151,
-            "age_hours": 19.2
+            "views": 890985,
+            "age_hours": 26.5
           },
           {
             "id": "gb_yU8_nkmU",
@@ -1208,8 +900,8 @@
             "channel": "Anshu Bisht",
             "thumbnail": "https://i.ytimg.com/vi/gb_yU8_nkmU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=gb_yU8_nkmU",
-            "views": 1055097,
-            "age_hours": 44.2
+            "views": 1139082,
+            "age_hours": 51.6
           },
           {
             "id": "hk-jjj2dk4Q",
@@ -1217,15 +909,53 @@
             "channel": "Carry Depie",
             "thumbnail": "https://i.ytimg.com/vi/hk-jjj2dk4Q/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=hk-jjj2dk4Q",
-            "views": 590789,
-            "age_hours": 14.6
+            "views": 952668,
+            "age_hours": 21.9
           }
         ]
       },
       {
-        "phrase": "tom jerry",
-        "video_count": 3,
-        "momentum": 19.75,
+        "phrase": "phone",
+        "video_count": 5,
+        "momentum": 22.47,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "YP4CdON5rrQ",
+            "title": "दांव पर 10 Lakh💰: 60 Degree गर्मी में Konsa Phone होगा Pehle Charge?🔥 #shorts",
+            "channel": "Tech Master",
+            "thumbnail": "https://i.ytimg.com/vi/YP4CdON5rrQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YP4CdON5rrQ",
+            "views": 9365833,
+            "age_hours": 164.2
+          },
+          {
+            "id": "hac1B6PNcis",
+            "title": "Phone charging trick 😅 #shorts | Arun karthick |",
+            "channel": "Arun Karthick",
+            "thumbnail": "https://i.ytimg.com/vi/hac1B6PNcis/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=hac1B6PNcis",
+            "views": 143853,
+            "age_hours": 22.9
+          },
+          {
+            "id": "CJvolCUMoUQ",
+            "title": "Mast Phone under ₹40,000",
+            "channel": "Manoj Saru",
+            "thumbnail": "https://i.ytimg.com/vi/CJvolCUMoUQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=CJvolCUMoUQ",
+            "views": 273263,
+            "age_hours": 67.1
+          }
+        ]
+      },
+      {
+        "phrase": "real",
+        "video_count": 4,
+        "momentum": 19.16,
         "regions": [
           "IN"
         ],
@@ -1237,17 +967,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 16548833,
-            "age_hours": 66.1
-          },
-          {
-            "id": "0zMTC-N6sHo",
-            "title": "Tom &Jerry 🥰sangeethkumar #shorts #tomandjerry",
-            "channel": "Sangeeth Kumar",
-            "thumbnail": "https://i.ytimg.com/vi/0zMTC-N6sHo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0zMTC-N6sHo",
-            "views": 4180234,
-            "age_hours": 94.2
+            "views": 20096597,
+            "age_hours": 73.5
           },
           {
             "id": "exPzpiu9LNU",
@@ -1255,91 +976,24 @@
             "channel": "V5 Family Show",
             "thumbnail": "https://i.ytimg.com/vi/exPzpiu9LNU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=exPzpiu9LNU",
-            "views": 11904355,
-            "age_hours": 132.2
-          }
-        ]
-      },
-      {
-        "phrase": "family",
-        "video_count": 4,
-        "momentum": 19.39,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "nIb7hrLlNwk",
-            "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-            "views": 6454171,
-            "age_hours": 35.4
+            "views": 11949521,
+            "age_hours": 139.5
           },
           {
-            "id": "0F20uTx8L74",
-            "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-            "views": 8054960,
-            "age_hours": 83.8
-          },
-          {
-            "id": "B-1w5qDARvE",
-            "title": "உருவம் வேறு உணர்வுகள் ஒன்று தான்🥹🥰 #shorts #love #family",
-            "channel": "With Love Nagaraj Sangeetha",
-            "thumbnail": "https://i.ytimg.com/vi/B-1w5qDARvE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=B-1w5qDARvE",
-            "views": 4498787,
-            "age_hours": 109.6
-          }
-        ]
-      },
-      {
-        "phrase": "train",
-        "video_count": 4,
-        "momentum": 16.79,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "qBRodSP_yJI",
-            "title": "Everything I Ate After Missing My Train!! 😭🍛",
-            "channel": "DCT EATS",
-            "thumbnail": "https://i.ytimg.com/vi/qBRodSP_yJI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=qBRodSP_yJI",
-            "views": 528586,
-            "age_hours": 68.7
-          },
-          {
-            "id": "bqGOqx5c1Nc",
-            "title": "POOR vs OP TRAIN Mine Battle in Minecraft..",
-            "channel": "Karry Kraft",
-            "thumbnail": "https://i.ytimg.com/vi/bqGOqx5c1Nc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=bqGOqx5c1Nc",
-            "views": 725774,
-            "age_hours": 37.9
-          },
-          {
-            "id": "oYxaTrKWqSE",
-            "title": "Silver Train vs Gold Train in Indian Bikes Driving 3d",
-            "channel": "Alpha Sena",
-            "thumbnail": "https://i.ytimg.com/vi/oYxaTrKWqSE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oYxaTrKWqSE",
-            "views": 153090,
-            "age_hours": 20.2
+            "id": "wYMIxiWJsvU",
+            "title": "I FINALLY FOUND FREE ROBUX GAMES IN ROBLOX (100% REAL) !!",
+            "channel": "Shivang Mini",
+            "thumbnail": "https://i.ytimg.com/vi/wYMIxiWJsvU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=wYMIxiWJsvU",
+            "views": 305027,
+            "age_hours": 19.8
           }
         ]
       },
       {
         "phrase": "hostel girls warden",
         "video_count": 2,
-        "momentum": 16.16,
+        "momentum": 16.14,
         "regions": [
           "IN"
         ],
@@ -1351,8 +1005,8 @@
             "channel": "Shreemani Tripathi",
             "thumbnail": "https://i.ytimg.com/vi/-wo_uyOJC20/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=-wo_uyOJC20",
-            "views": 21021087,
-            "age_hours": 158.3
+            "views": 21654913,
+            "age_hours": 165.7
           },
           {
             "id": "gEYeMK1dc1U",
@@ -1360,15 +1014,15 @@
             "channel": "Shreemani Tripathi",
             "thumbnail": "https://i.ytimg.com/vi/gEYeMK1dc1U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=gEYeMK1dc1U",
-            "views": 18720793,
-            "age_hours": 139.4
+            "views": 19478282,
+            "age_hours": 146.8
           }
         ]
       },
       {
         "phrase": "real end twist",
         "video_count": 2,
-        "momentum": 15.99,
+        "momentum": 16.01,
         "regions": [
           "IN"
         ],
@@ -1380,8 +1034,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 16548833,
-            "age_hours": 66.1
+            "views": 20096597,
+            "age_hours": 73.5
           },
           {
             "id": "exPzpiu9LNU",
@@ -1389,15 +1043,15 @@
             "channel": "V5 Family Show",
             "thumbnail": "https://i.ytimg.com/vi/exPzpiu9LNU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=exPzpiu9LNU",
-            "views": 11904355,
-            "age_hours": 132.2
+            "views": 11949521,
+            "age_hours": 139.5
           }
         ]
       },
       {
         "phrase": "end twist shorts",
         "video_count": 2,
-        "momentum": 15.99,
+        "momentum": 16.01,
         "regions": [
           "IN"
         ],
@@ -1409,8 +1063,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 16548833,
-            "age_hours": 66.1
+            "views": 20096597,
+            "age_hours": 73.5
           },
           {
             "id": "exPzpiu9LNU",
@@ -1418,189 +1072,15 @@
             "channel": "V5 Family Show",
             "thumbnail": "https://i.ytimg.com/vi/exPzpiu9LNU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=exPzpiu9LNU",
-            "views": 11904355,
-            "age_hours": 132.2
-          }
-        ]
-      },
-      {
-        "phrase": "indian family shorts",
-        "video_count": 2,
-        "momentum": 15.81,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "nIb7hrLlNwk",
-            "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-            "views": 6454171,
-            "age_hours": 35.4
-          },
-          {
-            "id": "0F20uTx8L74",
-            "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-            "views": 8054960,
-            "age_hours": 83.8
-          }
-        ]
-      },
-      {
-        "phrase": "family shorts indian",
-        "video_count": 2,
-        "momentum": 15.81,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "nIb7hrLlNwk",
-            "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-            "views": 6454171,
-            "age_hours": 35.4
-          },
-          {
-            "id": "0F20uTx8L74",
-            "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-            "views": 8054960,
-            "age_hours": 83.8
-          }
-        ]
-      },
-      {
-        "phrase": "shorts indian chaman",
-        "video_count": 2,
-        "momentum": 15.81,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "nIb7hrLlNwk",
-            "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-            "views": 6454171,
-            "age_hours": 35.4
-          },
-          {
-            "id": "0F20uTx8L74",
-            "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-            "views": 8054960,
-            "age_hours": 83.8
-          }
-        ]
-      },
-      {
-        "phrase": "indian chaman relatable",
-        "video_count": 2,
-        "momentum": 15.81,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "nIb7hrLlNwk",
-            "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-            "views": 6454171,
-            "age_hours": 35.4
-          },
-          {
-            "id": "0F20uTx8L74",
-            "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-            "views": 8054960,
-            "age_hours": 83.8
-          }
-        ]
-      },
-      {
-        "phrase": "chaman relatable chotabhai",
-        "video_count": 2,
-        "momentum": 15.81,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "nIb7hrLlNwk",
-            "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-            "views": 6454171,
-            "age_hours": 35.4
-          },
-          {
-            "id": "0F20uTx8L74",
-            "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-            "views": 8054960,
-            "age_hours": 83.8
-          }
-        ]
-      },
-      {
-        "phrase": "relatable chotabhai bachpan",
-        "video_count": 2,
-        "momentum": 15.81,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "nIb7hrLlNwk",
-            "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-            "views": 6454171,
-            "age_hours": 35.4
-          },
-          {
-            "id": "0F20uTx8L74",
-            "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-            "views": 8054960,
-            "age_hours": 83.8
+            "views": 11949521,
+            "age_hours": 139.5
           }
         ]
       },
       {
         "phrase": "kajalsoni vlogs",
         "video_count": 2,
-        "momentum": 13.61,
+        "momentum": 13.57,
         "regions": [
           "IN"
         ],
@@ -1612,8 +1092,8 @@
             "channel": "Kajal Soni",
             "thumbnail": "https://i.ytimg.com/vi/mL0hZ6-vkBg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=mL0hZ6-vkBg",
-            "views": 12749558,
-            "age_hours": 46.2
+            "views": 14403802,
+            "age_hours": 53.6
           },
           {
             "id": "3MVIk9uyOt0",
@@ -1621,15 +1101,73 @@
             "channel": "Kajal Soni",
             "thumbnail": "https://i.ytimg.com/vi/3MVIk9uyOt0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=3MVIk9uyOt0",
-            "views": 13001894,
-            "age_hours": 94.2
+            "views": 13479837,
+            "age_hours": 101.5
+          }
+        ]
+      },
+      {
+        "phrase": "tom jerry",
+        "video_count": 2,
+        "momentum": 13.34,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "dni8n9j1sgw",
+            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+            "channel": "KL BRO Biju Rithvik",
+            "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
+            "views": 20096597,
+            "age_hours": 73.5
+          },
+          {
+            "id": "exPzpiu9LNU",
+            "title": "Tom 🍓 Jerry (Siddi&Ammu)Real End Twist😍🎈 #shorts #viral #v5familyshow",
+            "channel": "V5 Family Show",
+            "thumbnail": "https://i.ytimg.com/vi/exPzpiu9LNU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=exPzpiu9LNU",
+            "views": 11949521,
+            "age_hours": 139.5
+          }
+        ]
+      },
+      {
+        "phrase": "battle minecraft",
+        "video_count": 2,
+        "momentum": 11.28,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "JIqWi3gDgCc",
+            "title": "Rich vs Poor Prison Survival Battle in Minecraft..",
+            "channel": "AlphaExtra",
+            "thumbnail": "https://i.ytimg.com/vi/JIqWi3gDgCc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=JIqWi3gDgCc",
+            "views": 131575,
+            "age_hours": 4.8
+          },
+          {
+            "id": "g73Ys3Q8rMA",
+            "title": "POOR vs RICH Submarine Battle in Minecraft",
+            "channel": "AdiSpot",
+            "thumbnail": "https://i.ytimg.com/vi/g73Ys3Q8rMA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=g73Ys3Q8rMA",
+            "views": 354067,
+            "age_hours": 22.6
           }
         ]
       },
       {
         "phrase": "i ate",
         "video_count": 2,
-        "momentum": 11.08,
+        "momentum": 11.0,
         "regions": [
           "IN"
         ],
@@ -1641,8 +1179,8 @@
             "channel": "DCT EATS",
             "thumbnail": "https://i.ytimg.com/vi/qBRodSP_yJI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=qBRodSP_yJI",
-            "views": 528586,
-            "age_hours": 68.7
+            "views": 548668,
+            "age_hours": 76.1
           },
           {
             "id": "N0JzknJEfb0",
@@ -1650,379 +1188,19 @@
             "channel": "thebrowndaughter",
             "thumbnail": "https://i.ytimg.com/vi/N0JzknJEfb0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=N0JzknJEfb0",
-            "views": 382764,
-            "age_hours": 87.6
+            "views": 388650,
+            "age_hours": 95.0
           }
         ]
       }
     ],
     "CA": [],
-    "DE": [],
     "AU": [],
-    "BR": [
-      {
-        "phrase": "mindset motivação inspiração",
-        "video_count": 2,
-        "momentum": 15.32,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "p0WYcAhshTc",
-            "title": "Pensa num casal inteligente😂#mindset #motivação #inspiração #felicidade #viral #divertido #casal",
-            "channel": "Marco Morastoni ",
-            "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
-            "views": 4508246,
-            "age_hours": 132.4
-          },
-          {
-            "id": "Z0Q5075JL9c",
-            "title": "Quando o colega é bem lerdo😂#mindset #motivação #inspiração #felicidade #viral #divertido #trabalho",
-            "channel": "Marco Morastoni ",
-            "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
-            "views": 5364395,
-            "age_hours": 101.4
-          }
-        ]
-      },
-      {
-        "phrase": "motivação inspiração felicidade",
-        "video_count": 2,
-        "momentum": 15.32,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "p0WYcAhshTc",
-            "title": "Pensa num casal inteligente😂#mindset #motivação #inspiração #felicidade #viral #divertido #casal",
-            "channel": "Marco Morastoni ",
-            "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
-            "views": 4508246,
-            "age_hours": 132.4
-          },
-          {
-            "id": "Z0Q5075JL9c",
-            "title": "Quando o colega é bem lerdo😂#mindset #motivação #inspiração #felicidade #viral #divertido #trabalho",
-            "channel": "Marco Morastoni ",
-            "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
-            "views": 5364395,
-            "age_hours": 101.4
-          }
-        ]
-      },
-      {
-        "phrase": "inspiração felicidade viral",
-        "video_count": 2,
-        "momentum": 15.32,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "p0WYcAhshTc",
-            "title": "Pensa num casal inteligente😂#mindset #motivação #inspiração #felicidade #viral #divertido #casal",
-            "channel": "Marco Morastoni ",
-            "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
-            "views": 4508246,
-            "age_hours": 132.4
-          },
-          {
-            "id": "Z0Q5075JL9c",
-            "title": "Quando o colega é bem lerdo😂#mindset #motivação #inspiração #felicidade #viral #divertido #trabalho",
-            "channel": "Marco Morastoni ",
-            "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
-            "views": 5364395,
-            "age_hours": 101.4
-          }
-        ]
-      },
-      {
-        "phrase": "felicidade viral divertido",
-        "video_count": 2,
-        "momentum": 15.32,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "p0WYcAhshTc",
-            "title": "Pensa num casal inteligente😂#mindset #motivação #inspiração #felicidade #viral #divertido #casal",
-            "channel": "Marco Morastoni ",
-            "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
-            "views": 4508246,
-            "age_hours": 132.4
-          },
-          {
-            "id": "Z0Q5075JL9c",
-            "title": "Quando o colega é bem lerdo😂#mindset #motivação #inspiração #felicidade #viral #divertido #trabalho",
-            "channel": "Marco Morastoni ",
-            "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
-            "views": 5364395,
-            "age_hours": 101.4
-          }
-        ]
-      },
-      {
-        "phrase": "aqueles vídeos novela",
-        "video_count": 2,
-        "momentum": 15.28,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "oH2jz7KV0zs",
-            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
-            "channel": "Rick Santina",
-            "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
-            "views": 9494453,
-            "age_hours": 99.6
-          },
-          {
-            "id": "oL4Ow22DH_4",
-            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
-            "channel": "Rick Santina",
-            "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
-            "views": 4461648,
-            "age_hours": 123.6
-          }
-        ]
-      },
-      {
-        "phrase": "vídeos novela frutas",
-        "video_count": 2,
-        "momentum": 15.28,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "oH2jz7KV0zs",
-            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
-            "channel": "Rick Santina",
-            "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
-            "views": 9494453,
-            "age_hours": 99.6
-          },
-          {
-            "id": "oL4Ow22DH_4",
-            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
-            "channel": "Rick Santina",
-            "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
-            "views": 4461648,
-            "age_hours": 123.6
-          }
-        ]
-      },
-      {
-        "phrase": "novela frutas ia",
-        "video_count": 2,
-        "momentum": 15.28,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "oH2jz7KV0zs",
-            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
-            "channel": "Rick Santina",
-            "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
-            "views": 9494453,
-            "age_hours": 99.6
-          },
-          {
-            "id": "oL4Ow22DH_4",
-            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
-            "channel": "Rick Santina",
-            "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
-            "views": 4461648,
-            "age_hours": 123.6
-          }
-        ]
-      },
-      {
-        "phrase": "frutas ia pt",
-        "video_count": 2,
-        "momentum": 15.28,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "oH2jz7KV0zs",
-            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
-            "channel": "Rick Santina",
-            "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
-            "views": 9494453,
-            "age_hours": 99.6
-          },
-          {
-            "id": "oL4Ow22DH_4",
-            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
-            "channel": "Rick Santina",
-            "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
-            "views": 4461648,
-            "age_hours": 123.6
-          }
-        ]
-      },
-      {
-        "phrase": "deu ruim",
-        "video_count": 2,
-        "momentum": 13.37,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "pjVvcHROI-4",
-            "title": "QUEM ACERTOU A BOLA ?? *deu ruim 😅",
-            "channel": "Katlenof",
-            "thumbnail": "https://i.ytimg.com/vi/pjVvcHROI-4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=pjVvcHROI-4",
-            "views": 2772376,
-            "age_hours": 30.8
-          },
-          {
-            "id": "MqT_3-6vrVs",
-            "title": "pessoas que escutaram UMA PALAVRA ERRADO e deu RUIM",
-            "channel": "Giuliana Mafra",
-            "thumbnail": "https://i.ytimg.com/vi/MqT_3-6vrVs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MqT_3-6vrVs",
-            "views": 9837336,
-            "age_hours": 199.7
-          }
-        ]
-      },
-      {
-        "phrase": "iphone pro max",
-        "video_count": 2,
-        "momentum": 13.19,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "6de0oKbha5A",
-            "title": "Troca somente do vidro iPhone 17 Pro Max!  Quanto você acha que eu cobrei por esse serviço?",
-            "channel": "João Longo",
-            "thumbnail": "https://i.ytimg.com/vi/6de0oKbha5A/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6de0oKbha5A",
-            "views": 1381336,
-            "age_hours": 202.7
-          },
-          {
-            "id": "RYDcN-YKhso",
-            "title": "Foto usando iPhone 15 Pro Max #fotocomcelular #fotoprofissional #futebol",
-            "channel": "Pedro Lucas",
-            "thumbnail": "https://i.ytimg.com/vi/RYDcN-YKhso/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RYDcN-YKhso",
-            "views": 2558979,
-            "age_hours": 347.0
-          }
-        ]
-      },
-      {
-        "phrase": "fim rua trailer",
-        "video_count": 2,
-        "momentum": 12.79,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "x7WT4e6HNo8",
-            "title": "O Fim da Rua | Trailer Oficial Dublado",
-            "channel": "ingresso.com",
-            "thumbnail": "https://i.ytimg.com/vi/x7WT4e6HNo8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=x7WT4e6HNo8",
-            "views": 33966,
-            "age_hours": 12.1
-          },
-          {
-            "id": "ePCQiz65c8k",
-            "title": "O FIM DA RUA Trailer 2 Dublado Oficial (2026) Anne Hathaway, Ewan McGregor",
-            "channel": "ONE Media Brasil",
-            "thumbnail": "https://i.ytimg.com/vi/ePCQiz65c8k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ePCQiz65c8k",
-            "views": 41381,
-            "age_hours": 13.4
-          }
-        ]
-      }
-    ],
     "GB": [
-      {
-        "phrase": "london",
-        "video_count": 4,
-        "momentum": 14.94,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "tXPfbPckCN8",
-            "title": "I’m Leaving London Again, But I Need To Explain Why",
-            "channel": "Evan Edinger",
-            "thumbnail": "https://i.ytimg.com/vi/tXPfbPckCN8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=tXPfbPckCN8",
-            "views": 127271,
-            "age_hours": 33.7
-          },
-          {
-            "id": "4YuGqqLkEko",
-            "title": "MORE PROBLEMS WITH MY LONDON APARTMENT! | MY LONDON LIFE",
-            "channel": "Jo Good - MiddleAgedMinx",
-            "thumbnail": "https://i.ytimg.com/vi/4YuGqqLkEko/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4YuGqqLkEko",
-            "views": 52241,
-            "age_hours": 41.7
-          },
-          {
-            "id": "VlK8V8JoIbI",
-            "title": "Spend a work day with me in London (during a heatwave)",
-            "channel": "Maddie Borge",
-            "thumbnail": "https://i.ytimg.com/vi/VlK8V8JoIbI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VlK8V8JoIbI",
-            "views": 156581,
-            "age_hours": 105.9
-          }
-        ]
-      },
       {
         "phrase": "world cup",
         "video_count": 2,
-        "momentum": 10.48,
+        "momentum": 10.04,
         "regions": [
           "GB"
         ],
@@ -2034,8 +1212,8 @@
             "channel": "Even More Chuff",
             "thumbnail": "https://i.ytimg.com/vi/_DXIEpTlVn8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=_DXIEpTlVn8",
-            "views": 112923,
-            "age_hours": 12.2
+            "views": 145333,
+            "age_hours": 19.6
           },
           {
             "id": "psmNR1gjf5M",
@@ -2043,8 +1221,427 @@
             "channel": "Mark Goldbridge",
             "thumbnail": "https://i.ytimg.com/vi/psmNR1gjf5M/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=psmNR1gjf5M",
-            "views": 60806,
-            "age_hours": 10.0
+            "views": 65662,
+            "age_hours": 17.4
+          }
+        ]
+      }
+    ],
+    "BR": [
+      {
+        "phrase": "iphone",
+        "video_count": 4,
+        "momentum": 18.25,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "NNbBP60FaM0",
+            "title": "Iphone 18 #shorts",
+            "channel": "Amandinha",
+            "thumbnail": "https://i.ytimg.com/vi/NNbBP60FaM0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=NNbBP60FaM0",
+            "views": 785511,
+            "age_hours": 35.6
+          },
+          {
+            "id": "MG9wzi8r2Z4",
+            "title": "comprou smartwatch falso e falou que era original #shorts #short #ytshorts #apple #iphone #ios #fyp",
+            "channel": "Pedro Ribeiro",
+            "thumbnail": "https://i.ytimg.com/vi/MG9wzi8r2Z4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=MG9wzi8r2Z4",
+            "views": 112045,
+            "age_hours": 13.0
+          },
+          {
+            "id": "6de0oKbha5A",
+            "title": "Troca somente do vidro iPhone 17 Pro Max!  Quanto você acha que eu cobrei por esse serviço?",
+            "channel": "João Longo",
+            "thumbnail": "https://i.ytimg.com/vi/6de0oKbha5A/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6de0oKbha5A",
+            "views": 1396468,
+            "age_hours": 210.1
+          }
+        ]
+      },
+      {
+        "phrase": "mindset motivação inspiração",
+        "video_count": 2,
+        "momentum": 15.24,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "p0WYcAhshTc",
+            "title": "Pensa num casal inteligente😂#mindset #motivação #inspiração #felicidade #viral #divertido #casal",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
+            "views": 4548592,
+            "age_hours": 139.8
+          },
+          {
+            "id": "Z0Q5075JL9c",
+            "title": "Quando o colega é bem lerdo😂#mindset #motivação #inspiração #felicidade #viral #divertido #trabalho",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
+            "views": 5448663,
+            "age_hours": 108.8
+          }
+        ]
+      },
+      {
+        "phrase": "motivação inspiração felicidade",
+        "video_count": 2,
+        "momentum": 15.24,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "p0WYcAhshTc",
+            "title": "Pensa num casal inteligente😂#mindset #motivação #inspiração #felicidade #viral #divertido #casal",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
+            "views": 4548592,
+            "age_hours": 139.8
+          },
+          {
+            "id": "Z0Q5075JL9c",
+            "title": "Quando o colega é bem lerdo😂#mindset #motivação #inspiração #felicidade #viral #divertido #trabalho",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
+            "views": 5448663,
+            "age_hours": 108.8
+          }
+        ]
+      },
+      {
+        "phrase": "inspiração felicidade viral",
+        "video_count": 2,
+        "momentum": 15.24,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "p0WYcAhshTc",
+            "title": "Pensa num casal inteligente😂#mindset #motivação #inspiração #felicidade #viral #divertido #casal",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
+            "views": 4548592,
+            "age_hours": 139.8
+          },
+          {
+            "id": "Z0Q5075JL9c",
+            "title": "Quando o colega é bem lerdo😂#mindset #motivação #inspiração #felicidade #viral #divertido #trabalho",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
+            "views": 5448663,
+            "age_hours": 108.8
+          }
+        ]
+      },
+      {
+        "phrase": "felicidade viral divertido",
+        "video_count": 2,
+        "momentum": 15.24,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "p0WYcAhshTc",
+            "title": "Pensa num casal inteligente😂#mindset #motivação #inspiração #felicidade #viral #divertido #casal",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
+            "views": 4548592,
+            "age_hours": 139.8
+          },
+          {
+            "id": "Z0Q5075JL9c",
+            "title": "Quando o colega é bem lerdo😂#mindset #motivação #inspiração #felicidade #viral #divertido #trabalho",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
+            "views": 5448663,
+            "age_hours": 108.8
+          }
+        ]
+      },
+      {
+        "phrase": "aqueles vídeos novela",
+        "video_count": 2,
+        "momentum": 15.19,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "oH2jz7KV0zs",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
+            "views": 9570943,
+            "age_hours": 107.0
+          },
+          {
+            "id": "oL4Ow22DH_4",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
+            "views": 4484079,
+            "age_hours": 130.9
+          }
+        ]
+      },
+      {
+        "phrase": "vídeos novela frutas",
+        "video_count": 2,
+        "momentum": 15.19,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "oH2jz7KV0zs",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
+            "views": 9570943,
+            "age_hours": 107.0
+          },
+          {
+            "id": "oL4Ow22DH_4",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
+            "views": 4484079,
+            "age_hours": 130.9
+          }
+        ]
+      },
+      {
+        "phrase": "novela frutas ia",
+        "video_count": 2,
+        "momentum": 15.19,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "oH2jz7KV0zs",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
+            "views": 9570943,
+            "age_hours": 107.0
+          },
+          {
+            "id": "oL4Ow22DH_4",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
+            "views": 4484079,
+            "age_hours": 130.9
+          }
+        ]
+      },
+      {
+        "phrase": "frutas ia pt",
+        "video_count": 2,
+        "momentum": 15.19,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "oH2jz7KV0zs",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
+            "views": 9570943,
+            "age_hours": 107.0
+          },
+          {
+            "id": "oL4Ow22DH_4",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
+            "views": 4484079,
+            "age_hours": 130.9
+          }
+        ]
+      },
+      {
+        "phrase": "deu ruim",
+        "video_count": 2,
+        "momentum": 13.23,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "pjVvcHROI-4",
+            "title": "QUEM ACERTOU A BOLA ?? *deu ruim 😅",
+            "channel": "Katlenof",
+            "thumbnail": "https://i.ytimg.com/vi/pjVvcHROI-4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=pjVvcHROI-4",
+            "views": 2890664,
+            "age_hours": 38.2
+          },
+          {
+            "id": "MqT_3-6vrVs",
+            "title": "pessoas que escutaram UMA PALAVRA ERRADO e deu RUIM",
+            "channel": "Giuliana Mafra",
+            "thumbnail": "https://i.ytimg.com/vi/MqT_3-6vrVs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=MqT_3-6vrVs",
+            "views": 9875918,
+            "age_hours": 207.1
+          }
+        ]
+      },
+      {
+        "phrase": "iphone pro max",
+        "video_count": 2,
+        "momentum": 13.15,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "6de0oKbha5A",
+            "title": "Troca somente do vidro iPhone 17 Pro Max!  Quanto você acha que eu cobrei por esse serviço?",
+            "channel": "João Longo",
+            "thumbnail": "https://i.ytimg.com/vi/6de0oKbha5A/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6de0oKbha5A",
+            "views": 1396468,
+            "age_hours": 210.1
+          },
+          {
+            "id": "RYDcN-YKhso",
+            "title": "Foto usando iPhone 15 Pro Max #fotocomcelular #fotoprofissional #futebol",
+            "channel": "Pedro Lucas",
+            "thumbnail": "https://i.ytimg.com/vi/RYDcN-YKhso/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=RYDcN-YKhso",
+            "views": 2577391,
+            "age_hours": 354.4
+          }
+        ]
+      },
+      {
+        "phrase": "trailer final",
+        "video_count": 2,
+        "momentum": 10.26,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "DTt-9g9lgK4",
+            "title": "DIA D | Trailer Final Dublado (Universal Pictures) - HD",
+            "channel": "Universal Pictures Brasil",
+            "thumbnail": "https://i.ytimg.com/vi/DTt-9g9lgK4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DTt-9g9lgK4",
+            "views": 5142043,
+            "age_hours": 111.3
+          },
+          {
+            "id": "qBiMvnMZK_U",
+            "title": "Todo Mundo em Pânico | Trailer Final | LEG | Paramount Pictures Brasil",
+            "channel": "Paramount Brasil",
+            "thumbnail": "https://i.ytimg.com/vi/qBiMvnMZK_U/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=qBiMvnMZK_U",
+            "views": 14210,
+            "age_hours": 13.5
+          }
+        ]
+      }
+    ],
+    "DE": [
+      {
+        "phrase": "end oak street",
+        "video_count": 2,
+        "momentum": 11.45,
+        "regions": [
+          "DE"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "pVF6KFQ4MwY",
+            "title": "THE END OF OAK STREET Trailer 2 German Deutsch (2026) Anne Hathaway, Ewan McGregor",
+            "channel": "KinoCheck",
+            "thumbnail": "https://i.ytimg.com/vi/pVF6KFQ4MwY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=pVF6KFQ4MwY",
+            "views": 88897,
+            "age_hours": 20.6
+          },
+          {
+            "id": "X3LKdWtI7WE",
+            "title": "THE END OF OAK STREET – Trailer Deutsch German (2026)",
+            "channel": "Warner Bros. DE",
+            "thumbnail": "https://i.ytimg.com/vi/X3LKdWtI7WE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=X3LKdWtI7WE",
+            "views": 124739,
+            "age_hours": 21.1
+          }
+        ]
+      },
+      {
+        "phrase": "oak street trailer",
+        "video_count": 2,
+        "momentum": 11.45,
+        "regions": [
+          "DE"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "pVF6KFQ4MwY",
+            "title": "THE END OF OAK STREET Trailer 2 German Deutsch (2026) Anne Hathaway, Ewan McGregor",
+            "channel": "KinoCheck",
+            "thumbnail": "https://i.ytimg.com/vi/pVF6KFQ4MwY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=pVF6KFQ4MwY",
+            "views": 88897,
+            "age_hours": 20.6
+          },
+          {
+            "id": "X3LKdWtI7WE",
+            "title": "THE END OF OAK STREET – Trailer Deutsch German (2026)",
+            "channel": "Warner Bros. DE",
+            "thumbnail": "https://i.ytimg.com/vi/X3LKdWtI7WE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=X3LKdWtI7WE",
+            "views": 124739,
+            "age_hours": 21.1
           }
         ]
       }
@@ -2053,7 +1650,7 @@
       {
         "phrase": "life",
         "video_count": 7,
-        "momentum": 32.05,
+        "momentum": 30.83,
         "regions": [
           "US"
         ],
@@ -2065,17 +1662,8 @@
             "channel": "Doggozdose",
             "thumbnail": "https://i.ytimg.com/vi/e8LB8ci5V1I/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=e8LB8ci5V1I",
-            "views": 7844212,
-            "age_hours": 85.4
-          },
-          {
-            "id": "p2EvneFEobo",
-            "title": "Tomodachi Life is worth living",
-            "channel": "Slushy Noobz",
-            "thumbnail": "https://i.ytimg.com/vi/p2EvneFEobo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=p2EvneFEobo",
-            "views": 81987,
-            "age_hours": 5.7
+            "views": 8163928,
+            "age_hours": 92.7
           },
           {
             "id": "KXz_heQq7Eo",
@@ -2083,91 +1671,24 @@
             "channel": "Lisi Shops",
             "thumbnail": "https://i.ytimg.com/vi/KXz_heQq7Eo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=KXz_heQq7Eo",
-            "views": 103853,
-            "age_hours": 6.5
-          }
-        ]
-      },
-      {
-        "phrase": "phone",
-        "video_count": 5,
-        "momentum": 22.76,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "YP4CdON5rrQ",
-            "title": "दांव पर 10 Lakh💰: 60 Degree गर्मी में Konsa Phone होगा Pehle Charge?🔥 #shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/YP4CdON5rrQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YP4CdON5rrQ",
-            "views": 9156088,
-            "age_hours": 156.8
+            "views": 154757,
+            "age_hours": 13.9
           },
           {
-            "id": "hac1B6PNcis",
-            "title": "Phone charging trick 😅 #shorts | Arun karthick |",
-            "channel": "Arun Karthick",
-            "thumbnail": "https://i.ytimg.com/vi/hac1B6PNcis/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=hac1B6PNcis",
-            "views": 109797,
-            "age_hours": 15.5
-          },
-          {
-            "id": "CJvolCUMoUQ",
-            "title": "Mast Phone under ₹40,000",
-            "channel": "Manoj Saru",
-            "thumbnail": "https://i.ytimg.com/vi/CJvolCUMoUQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CJvolCUMoUQ",
-            "views": 249586,
-            "age_hours": 59.8
-          }
-        ]
-      },
-      {
-        "phrase": "tech",
-        "video_count": 4,
-        "momentum": 20.35,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "0ZUXwPhgpfI",
-            "title": "“Human eye can only see in 24FPS” #carterpcs #tech #gaming #minecraft",
-            "channel": "CarterPCs",
-            "thumbnail": "https://i.ytimg.com/vi/0ZUXwPhgpfI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0ZUXwPhgpfI",
-            "views": 2218873,
-            "age_hours": 21.0
-          },
-          {
-            "id": "IYNwIbzVfKA",
-            "title": "You guys spent $1,000 on RIDICULOUS tech",
-            "channel": "mryeester",
-            "thumbnail": "https://i.ytimg.com/vi/IYNwIbzVfKA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=IYNwIbzVfKA",
-            "views": 1826634,
-            "age_hours": 78.9
-          },
-          {
-            "id": "pe_polInEQs",
-            "title": "Modding My PS3 Was a Waste of Time! #tech #technology #shorts #pc",
-            "channel": "Salem Techsperts",
-            "thumbnail": "https://i.ytimg.com/vi/pe_polInEQs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=pe_polInEQs",
-            "views": 1982478,
-            "age_hours": 206.9
+            "id": "p2EvneFEobo",
+            "title": "Tomodachi Life is worth living",
+            "channel": "Slushy Noobz",
+            "thumbnail": "https://i.ytimg.com/vi/p2EvneFEobo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=p2EvneFEobo",
+            "views": 172736,
+            "age_hours": 13.1
           }
         ]
       },
       {
         "phrase": "minecraft",
-        "video_count": 4,
-        "momentum": 19.83,
+        "video_count": 5,
+        "momentum": 24.22,
         "regions": [
           "IN"
         ],
@@ -2179,8 +1700,8 @@
             "channel": "SenpaiExtras",
             "thumbnail": "https://i.ytimg.com/vi/yNWig6Xu68k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=yNWig6Xu68k",
-            "views": 732151,
-            "age_hours": 19.2
+            "views": 890985,
+            "age_hours": 26.5
           },
           {
             "id": "gb_yU8_nkmU",
@@ -2188,8 +1709,8 @@
             "channel": "Anshu Bisht",
             "thumbnail": "https://i.ytimg.com/vi/gb_yU8_nkmU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=gb_yU8_nkmU",
-            "views": 1055097,
-            "age_hours": 44.2
+            "views": 1139082,
+            "age_hours": 51.6
           },
           {
             "id": "hk-jjj2dk4Q",
@@ -2197,15 +1718,53 @@
             "channel": "Carry Depie",
             "thumbnail": "https://i.ytimg.com/vi/hk-jjj2dk4Q/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=hk-jjj2dk4Q",
-            "views": 590789,
-            "age_hours": 14.6
+            "views": 952668,
+            "age_hours": 21.9
           }
         ]
       },
       {
-        "phrase": "tom jerry",
-        "video_count": 3,
-        "momentum": 19.75,
+        "phrase": "phone",
+        "video_count": 5,
+        "momentum": 22.47,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "YP4CdON5rrQ",
+            "title": "दांव पर 10 Lakh💰: 60 Degree गर्मी में Konsa Phone होगा Pehle Charge?🔥 #shorts",
+            "channel": "Tech Master",
+            "thumbnail": "https://i.ytimg.com/vi/YP4CdON5rrQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YP4CdON5rrQ",
+            "views": 9365833,
+            "age_hours": 164.2
+          },
+          {
+            "id": "hac1B6PNcis",
+            "title": "Phone charging trick 😅 #shorts | Arun karthick |",
+            "channel": "Arun Karthick",
+            "thumbnail": "https://i.ytimg.com/vi/hac1B6PNcis/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=hac1B6PNcis",
+            "views": 143853,
+            "age_hours": 22.9
+          },
+          {
+            "id": "CJvolCUMoUQ",
+            "title": "Mast Phone under ₹40,000",
+            "channel": "Manoj Saru",
+            "thumbnail": "https://i.ytimg.com/vi/CJvolCUMoUQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=CJvolCUMoUQ",
+            "views": 273263,
+            "age_hours": 67.1
+          }
+        ]
+      },
+      {
+        "phrase": "real",
+        "video_count": 4,
+        "momentum": 19.16,
         "regions": [
           "IN"
         ],
@@ -2217,17 +1776,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 16548833,
-            "age_hours": 66.1
-          },
-          {
-            "id": "0zMTC-N6sHo",
-            "title": "Tom &Jerry 🥰sangeethkumar #shorts #tomandjerry",
-            "channel": "Sangeeth Kumar",
-            "thumbnail": "https://i.ytimg.com/vi/0zMTC-N6sHo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0zMTC-N6sHo",
-            "views": 4180234,
-            "age_hours": 94.2
+            "views": 20096597,
+            "age_hours": 73.5
           },
           {
             "id": "exPzpiu9LNU",
@@ -2235,91 +1785,62 @@
             "channel": "V5 Family Show",
             "thumbnail": "https://i.ytimg.com/vi/exPzpiu9LNU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=exPzpiu9LNU",
-            "views": 11904355,
-            "age_hours": 132.2
+            "views": 11949521,
+            "age_hours": 139.5
+          },
+          {
+            "id": "wYMIxiWJsvU",
+            "title": "I FINALLY FOUND FREE ROBUX GAMES IN ROBLOX (100% REAL) !!",
+            "channel": "Shivang Mini",
+            "thumbnail": "https://i.ytimg.com/vi/wYMIxiWJsvU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=wYMIxiWJsvU",
+            "views": 305027,
+            "age_hours": 19.8
           }
         ]
       },
       {
-        "phrase": "family",
+        "phrase": "iphone",
         "video_count": 4,
-        "momentum": 19.39,
+        "momentum": 18.25,
         "regions": [
-          "IN"
+          "BR"
         ],
-        "lang": "en",
+        "lang": "pt",
         "example_videos": [
           {
-            "id": "nIb7hrLlNwk",
-            "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-            "views": 6454171,
-            "age_hours": 35.4
+            "id": "NNbBP60FaM0",
+            "title": "Iphone 18 #shorts",
+            "channel": "Amandinha",
+            "thumbnail": "https://i.ytimg.com/vi/NNbBP60FaM0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=NNbBP60FaM0",
+            "views": 785511,
+            "age_hours": 35.6
           },
           {
-            "id": "0F20uTx8L74",
-            "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-            "views": 8054960,
-            "age_hours": 83.8
+            "id": "MG9wzi8r2Z4",
+            "title": "comprou smartwatch falso e falou que era original #shorts #short #ytshorts #apple #iphone #ios #fyp",
+            "channel": "Pedro Ribeiro",
+            "thumbnail": "https://i.ytimg.com/vi/MG9wzi8r2Z4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=MG9wzi8r2Z4",
+            "views": 112045,
+            "age_hours": 13.0
           },
           {
-            "id": "B-1w5qDARvE",
-            "title": "உருவம் வேறு உணர்வுகள் ஒன்று தான்🥹🥰 #shorts #love #family",
-            "channel": "With Love Nagaraj Sangeetha",
-            "thumbnail": "https://i.ytimg.com/vi/B-1w5qDARvE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=B-1w5qDARvE",
-            "views": 4498787,
-            "age_hours": 109.6
-          }
-        ]
-      },
-      {
-        "phrase": "train",
-        "video_count": 4,
-        "momentum": 16.79,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "qBRodSP_yJI",
-            "title": "Everything I Ate After Missing My Train!! 😭🍛",
-            "channel": "DCT EATS",
-            "thumbnail": "https://i.ytimg.com/vi/qBRodSP_yJI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=qBRodSP_yJI",
-            "views": 528586,
-            "age_hours": 68.7
-          },
-          {
-            "id": "bqGOqx5c1Nc",
-            "title": "POOR vs OP TRAIN Mine Battle in Minecraft..",
-            "channel": "Karry Kraft",
-            "thumbnail": "https://i.ytimg.com/vi/bqGOqx5c1Nc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=bqGOqx5c1Nc",
-            "views": 725774,
-            "age_hours": 37.9
-          },
-          {
-            "id": "oYxaTrKWqSE",
-            "title": "Silver Train vs Gold Train in Indian Bikes Driving 3d",
-            "channel": "Alpha Sena",
-            "thumbnail": "https://i.ytimg.com/vi/oYxaTrKWqSE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oYxaTrKWqSE",
-            "views": 153090,
-            "age_hours": 20.2
+            "id": "6de0oKbha5A",
+            "title": "Troca somente do vidro iPhone 17 Pro Max!  Quanto você acha que eu cobrei por esse serviço?",
+            "channel": "João Longo",
+            "thumbnail": "https://i.ytimg.com/vi/6de0oKbha5A/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6de0oKbha5A",
+            "views": 1396468,
+            "age_hours": 210.1
           }
         ]
       },
       {
         "phrase": "hostel girls warden",
         "video_count": 2,
-        "momentum": 16.16,
+        "momentum": 16.14,
         "regions": [
           "IN"
         ],
@@ -2331,8 +1852,8 @@
             "channel": "Shreemani Tripathi",
             "thumbnail": "https://i.ytimg.com/vi/-wo_uyOJC20/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=-wo_uyOJC20",
-            "views": 21021087,
-            "age_hours": 158.3
+            "views": 21654913,
+            "age_hours": 165.7
           },
           {
             "id": "gEYeMK1dc1U",
@@ -2340,15 +1861,15 @@
             "channel": "Shreemani Tripathi",
             "thumbnail": "https://i.ytimg.com/vi/gEYeMK1dc1U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=gEYeMK1dc1U",
-            "views": 18720793,
-            "age_hours": 139.4
+            "views": 19478282,
+            "age_hours": 146.8
           }
         ]
       },
       {
         "phrase": "real end twist",
         "video_count": 2,
-        "momentum": 15.99,
+        "momentum": 16.01,
         "regions": [
           "IN"
         ],
@@ -2360,8 +1881,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 16548833,
-            "age_hours": 66.1
+            "views": 20096597,
+            "age_hours": 73.5
           },
           {
             "id": "exPzpiu9LNU",
@@ -2369,15 +1890,15 @@
             "channel": "V5 Family Show",
             "thumbnail": "https://i.ytimg.com/vi/exPzpiu9LNU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=exPzpiu9LNU",
-            "views": 11904355,
-            "age_hours": 132.2
+            "views": 11949521,
+            "age_hours": 139.5
           }
         ]
       },
       {
         "phrase": "end twist shorts",
         "video_count": 2,
-        "momentum": 15.99,
+        "momentum": 16.01,
         "regions": [
           "IN"
         ],
@@ -2389,8 +1910,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 16548833,
-            "age_hours": 66.1
+            "views": 20096597,
+            "age_hours": 73.5
           },
           {
             "id": "exPzpiu9LNU",
@@ -2398,189 +1919,15 @@
             "channel": "V5 Family Show",
             "thumbnail": "https://i.ytimg.com/vi/exPzpiu9LNU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=exPzpiu9LNU",
-            "views": 11904355,
-            "age_hours": 132.2
-          }
-        ]
-      },
-      {
-        "phrase": "indian family shorts",
-        "video_count": 2,
-        "momentum": 15.81,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "nIb7hrLlNwk",
-            "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-            "views": 6454171,
-            "age_hours": 35.4
-          },
-          {
-            "id": "0F20uTx8L74",
-            "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-            "views": 8054960,
-            "age_hours": 83.8
-          }
-        ]
-      },
-      {
-        "phrase": "family shorts indian",
-        "video_count": 2,
-        "momentum": 15.81,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "nIb7hrLlNwk",
-            "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-            "views": 6454171,
-            "age_hours": 35.4
-          },
-          {
-            "id": "0F20uTx8L74",
-            "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-            "views": 8054960,
-            "age_hours": 83.8
-          }
-        ]
-      },
-      {
-        "phrase": "shorts indian chaman",
-        "video_count": 2,
-        "momentum": 15.81,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "nIb7hrLlNwk",
-            "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-            "views": 6454171,
-            "age_hours": 35.4
-          },
-          {
-            "id": "0F20uTx8L74",
-            "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-            "views": 8054960,
-            "age_hours": 83.8
-          }
-        ]
-      },
-      {
-        "phrase": "indian chaman relatable",
-        "video_count": 2,
-        "momentum": 15.81,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "nIb7hrLlNwk",
-            "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-            "views": 6454171,
-            "age_hours": 35.4
-          },
-          {
-            "id": "0F20uTx8L74",
-            "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-            "views": 8054960,
-            "age_hours": 83.8
-          }
-        ]
-      },
-      {
-        "phrase": "chaman relatable chotabhai",
-        "video_count": 2,
-        "momentum": 15.81,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "nIb7hrLlNwk",
-            "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-            "views": 6454171,
-            "age_hours": 35.4
-          },
-          {
-            "id": "0F20uTx8L74",
-            "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-            "views": 8054960,
-            "age_hours": 83.8
-          }
-        ]
-      },
-      {
-        "phrase": "relatable chotabhai bachpan",
-        "video_count": 2,
-        "momentum": 15.81,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "nIb7hrLlNwk",
-            "title": "Bachpan wala tent house 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/nIb7hrLlNwk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nIb7hrLlNwk",
-            "views": 6454171,
-            "age_hours": 35.4
-          },
-          {
-            "id": "0F20uTx8L74",
-            "title": "When kids get skates 😂🔥| Indian family #shorts #indian #chaman #relatable #chotabhai #bachpan",
-            "channel": "We r Loser",
-            "thumbnail": "https://i.ytimg.com/vi/0F20uTx8L74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0F20uTx8L74",
-            "views": 8054960,
-            "age_hours": 83.8
+            "views": 11949521,
+            "age_hours": 139.5
           }
         ]
       },
       {
         "phrase": "mindset motivação inspiração",
         "video_count": 2,
-        "momentum": 15.32,
+        "momentum": 15.24,
         "regions": [
           "BR"
         ],
@@ -2592,8 +1939,8 @@
             "channel": "Marco Morastoni ",
             "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
-            "views": 4508246,
-            "age_hours": 132.4
+            "views": 4548592,
+            "age_hours": 139.8
           },
           {
             "id": "Z0Q5075JL9c",
@@ -2601,15 +1948,15 @@
             "channel": "Marco Morastoni ",
             "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
-            "views": 5364395,
-            "age_hours": 101.4
+            "views": 5448663,
+            "age_hours": 108.8
           }
         ]
       },
       {
         "phrase": "motivação inspiração felicidade",
         "video_count": 2,
-        "momentum": 15.32,
+        "momentum": 15.24,
         "regions": [
           "BR"
         ],
@@ -2621,8 +1968,8 @@
             "channel": "Marco Morastoni ",
             "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
-            "views": 4508246,
-            "age_hours": 132.4
+            "views": 4548592,
+            "age_hours": 139.8
           },
           {
             "id": "Z0Q5075JL9c",
@@ -2630,8 +1977,240 @@
             "channel": "Marco Morastoni ",
             "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
-            "views": 5364395,
-            "age_hours": 101.4
+            "views": 5448663,
+            "age_hours": 108.8
+          }
+        ]
+      },
+      {
+        "phrase": "inspiração felicidade viral",
+        "video_count": 2,
+        "momentum": 15.24,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "p0WYcAhshTc",
+            "title": "Pensa num casal inteligente😂#mindset #motivação #inspiração #felicidade #viral #divertido #casal",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
+            "views": 4548592,
+            "age_hours": 139.8
+          },
+          {
+            "id": "Z0Q5075JL9c",
+            "title": "Quando o colega é bem lerdo😂#mindset #motivação #inspiração #felicidade #viral #divertido #trabalho",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
+            "views": 5448663,
+            "age_hours": 108.8
+          }
+        ]
+      },
+      {
+        "phrase": "felicidade viral divertido",
+        "video_count": 2,
+        "momentum": 15.24,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "p0WYcAhshTc",
+            "title": "Pensa num casal inteligente😂#mindset #motivação #inspiração #felicidade #viral #divertido #casal",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/p0WYcAhshTc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=p0WYcAhshTc",
+            "views": 4548592,
+            "age_hours": 139.8
+          },
+          {
+            "id": "Z0Q5075JL9c",
+            "title": "Quando o colega é bem lerdo😂#mindset #motivação #inspiração #felicidade #viral #divertido #trabalho",
+            "channel": "Marco Morastoni ",
+            "thumbnail": "https://i.ytimg.com/vi/Z0Q5075JL9c/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Z0Q5075JL9c",
+            "views": 5448663,
+            "age_hours": 108.8
+          }
+        ]
+      },
+      {
+        "phrase": "aqueles vídeos novela",
+        "video_count": 2,
+        "momentum": 15.19,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "oH2jz7KV0zs",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
+            "views": 9570943,
+            "age_hours": 107.0
+          },
+          {
+            "id": "oL4Ow22DH_4",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
+            "views": 4484079,
+            "age_hours": 130.9
+          }
+        ]
+      },
+      {
+        "phrase": "vídeos novela frutas",
+        "video_count": 2,
+        "momentum": 15.19,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "oH2jz7KV0zs",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
+            "views": 9570943,
+            "age_hours": 107.0
+          },
+          {
+            "id": "oL4Ow22DH_4",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
+            "views": 4484079,
+            "age_hours": 130.9
+          }
+        ]
+      },
+      {
+        "phrase": "novela frutas ia",
+        "video_count": 2,
+        "momentum": 15.19,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "oH2jz7KV0zs",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
+            "views": 9570943,
+            "age_hours": 107.0
+          },
+          {
+            "id": "oL4Ow22DH_4",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
+            "views": 4484079,
+            "age_hours": 130.9
+          }
+        ]
+      },
+      {
+        "phrase": "frutas ia pt",
+        "video_count": 2,
+        "momentum": 15.19,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "oH2jz7KV0zs",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 14",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oH2jz7KV0zs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oH2jz7KV0zs",
+            "views": 9570943,
+            "age_hours": 107.0
+          },
+          {
+            "id": "oL4Ow22DH_4",
+            "title": "AQUELES VÍDEOS DA NOVELA DAS FRUTAS DE IA - Pt 13",
+            "channel": "Rick Santina",
+            "thumbnail": "https://i.ytimg.com/vi/oL4Ow22DH_4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oL4Ow22DH_4",
+            "views": 4484079,
+            "age_hours": 130.9
+          }
+        ]
+      },
+      {
+        "phrase": "kajalsoni vlogs",
+        "video_count": 2,
+        "momentum": 13.57,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "mL0hZ6-vkBg",
+            "title": "Car wash करके आया मजा🚘😂 #youtubeshorts #shorts #car #kajalsoni @Kaj@Kajalsoni_vlogs",
+            "channel": "Kajal Soni",
+            "thumbnail": "https://i.ytimg.com/vi/mL0hZ6-vkBg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mL0hZ6-vkBg",
+            "views": 14403802,
+            "age_hours": 53.6
+          },
+          {
+            "id": "3MVIk9uyOt0",
+            "title": "Cake वाले अंकल आए🍰😋 #youtubeshorts #shorts #cake #kajalsoni @K@Kajalsoni_vlogs",
+            "channel": "Kajal Soni",
+            "thumbnail": "https://i.ytimg.com/vi/3MVIk9uyOt0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3MVIk9uyOt0",
+            "views": 13479837,
+            "age_hours": 101.5
+          }
+        ]
+      },
+      {
+        "phrase": "tom jerry",
+        "video_count": 2,
+        "momentum": 13.34,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "dni8n9j1sgw",
+            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+            "channel": "KL BRO Biju Rithvik",
+            "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
+            "views": 20096597,
+            "age_hours": 73.5
+          },
+          {
+            "id": "exPzpiu9LNU",
+            "title": "Tom 🍓 Jerry (Siddi&Ammu)Real End Twist😍🎈 #shorts #viral #v5familyshow",
+            "channel": "V5 Family Show",
+            "thumbnail": "https://i.ytimg.com/vi/exPzpiu9LNU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=exPzpiu9LNU",
+            "views": 11949521,
+            "age_hours": 139.5
           }
         ]
       }
@@ -2639,87 +2218,87 @@
   },
   "trending_searches": [
     {
-      "phrase": "why is rec room shutting down",
-      "prefix": "why is",
+      "phrase": "how to tie a tie",
+      "prefix": "how to",
       "rank": 1,
-      "first_seen_at": "2026-06-02T02:42:16.335666+00:00",
+      "first_seen_at": "2026-06-02T10:04:19.726264+00:00",
       "is_new": true
     },
     {
-      "phrase": "why do birds suddenly appear",
-      "prefix": "why do",
+      "phrase": "how do i say goodbye dean lewis",
+      "prefix": "how do",
       "rank": 1,
-      "first_seen_at": "2026-06-02T02:42:16.335666+00:00",
+      "first_seen_at": "2026-06-02T10:04:19.726264+00:00",
       "is_new": true
     },
     {
-      "phrase": "what happened to virgil",
-      "prefix": "what happened",
+      "phrase": "how does it feel d'angelo",
+      "prefix": "how does",
       "rank": 1,
-      "first_seen_at": "2026-06-02T02:42:16.335666+00:00",
+      "first_seen_at": "2026-06-02T10:04:19.726264+00:00",
       "is_new": true
     },
     {
-      "phrase": "topper guild",
+      "phrase": "why does he call you darling",
+      "prefix": "why does",
+      "rank": 1,
+      "first_seen_at": "2026-06-02T10:04:19.726264+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what is this diddy blud doing on the calculator",
+      "prefix": "what is",
+      "rank": 1,
+      "first_seen_at": "2026-06-02T10:04:19.726264+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what are you listening to chris stapleton",
+      "prefix": "what are",
+      "rank": 1,
+      "first_seen_at": "2026-06-02T10:04:19.726264+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "best build 2k26",
+      "prefix": "best",
+      "rank": 1,
+      "first_seen_at": "2026-06-02T10:04:19.726264+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "worst way riley green",
+      "prefix": "worst",
+      "rank": 1,
+      "first_seen_at": "2026-06-02T10:04:19.726264+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "topoppgen",
       "prefix": "top",
       "rank": 1,
-      "first_seen_at": "2026-06-02T02:42:16.335666+00:00",
+      "first_seen_at": "2026-06-02T10:04:19.726264+00:00",
       "is_new": true
     },
     {
-      "phrase": "is it a crime mariah the scientist",
-      "prefix": "is it",
-      "rank": 1,
-      "first_seen_at": "2026-06-02T02:42:16.335666+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "should i stay or should i go",
-      "prefix": "should i",
-      "rank": 1,
-      "first_seen_at": "2026-06-02T02:42:16.335666+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "can you stand the rain new edition",
-      "prefix": "can you",
-      "rank": 1,
-      "first_seen_at": "2026-06-02T02:42:16.335666+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how to draw",
-      "prefix": "how to",
+      "phrase": "why is it spicy",
+      "prefix": "why is",
       "rank": 2,
-      "first_seen_at": "2026-06-02T02:42:16.335666+00:00",
+      "first_seen_at": "2026-06-02T10:04:19.726264+00:00",
       "is_new": true
     },
     {
-      "phrase": "how does it feel",
-      "prefix": "how does",
+      "phrase": "why don't we",
+      "prefix": "why do",
       "rank": 2,
-      "first_seen_at": "2026-06-02T02:42:16.335666+00:00",
+      "first_seen_at": "2026-06-02T10:04:19.726264+00:00",
       "is_new": true
     },
     {
-      "phrase": "what is love",
-      "prefix": "what is",
+      "phrase": "why does it hurt to love you",
+      "prefix": "why does",
       "rank": 2,
-      "first_seen_at": "2026-06-02T02:42:16.335666+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what are the backrooms",
-      "prefix": "what are",
-      "rank": 2,
-      "first_seen_at": "2026-06-02T02:42:16.335666+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "best part",
-      "prefix": "best",
-      "rank": 2,
-      "first_seen_at": "2026-06-02T02:42:16.335666+00:00",
+      "first_seen_at": "2026-06-02T10:04:19.726264+00:00",
       "is_new": true
     }
   ],
@@ -2732,15 +2311,34 @@
       "thumbnail": "https://i.ytimg.com/vi/vrY1THC_NQE/mqdefault.jpg",
       "published_at": "2026-06-01T15:00:06Z",
       "category_id": "20",
-      "views": 2709951,
-      "likes": 485978,
-      "comments": 43575,
-      "age_hours": 11.7,
-      "views_per_hour": 231637,
-      "momentum": 8.152,
+      "views": 3873711,
+      "likes": 620835,
+      "comments": 52401,
+      "age_hours": 19.1,
+      "views_per_hour": 203163,
+      "momentum": 7.727,
       "url": "https://www.youtube.com/watch?v=vrY1THC_NQE",
       "region": "US",
       "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "EHuu_CciZ64",
+      "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
+      "channel": "Box Of Vengeance",
+      "channel_id": "UCLGHEUaREx_FtNrqfJ8gXIA",
+      "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
+      "published_at": "2026-06-02T03:30:02Z",
+      "category_id": "22",
+      "views": 2315377,
+      "likes": 378103,
+      "comments": 3693,
+      "age_hours": 6.6,
+      "views_per_hour": 352415,
+      "momentum": 7.447,
+      "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
+      "region": "IN",
+      "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
@@ -2751,12 +2349,12 @@
       "thumbnail": "https://i.ytimg.com/vi/82-jTNka3uc/mqdefault.jpg",
       "published_at": "2026-06-01T15:00:06Z",
       "category_id": "10",
-      "views": 2656301,
-      "likes": 429061,
-      "comments": 27180,
-      "age_hours": 11.7,
-      "views_per_hour": 227051,
-      "momentum": 7.634,
+      "views": 3685258,
+      "likes": 498968,
+      "comments": 29057,
+      "age_hours": 19.1,
+      "views_per_hour": 193279,
+      "momentum": 7.134,
       "url": "https://www.youtube.com/watch?v=82-jTNka3uc",
       "region": "US",
       "category": "Other",
@@ -2770,12 +2368,12 @@
       "thumbnail": "https://i.ytimg.com/vi/2CvGbR_RkM8/mqdefault.jpg",
       "published_at": "2026-06-01T03:30:27Z",
       "category_id": "20",
-      "views": 8083062,
-      "likes": 486046,
-      "comments": 37558,
-      "age_hours": 23.2,
-      "views_per_hour": 348484,
-      "momentum": 6.466,
+      "views": 9576379,
+      "likes": 544189,
+      "comments": 41988,
+      "age_hours": 30.6,
+      "views_per_hour": 313335,
+      "momentum": 6.362,
       "url": "https://www.youtube.com/watch?v=2CvGbR_RkM8",
       "region": "IN",
       "category": "Gaming",
@@ -2789,54 +2387,16 @@
       "thumbnail": "https://i.ytimg.com/vi/GpQSUjNsNm0/mqdefault.jpg",
       "published_at": "2026-05-30T16:00:02Z",
       "category_id": "24",
-      "views": 45595666,
-      "likes": 1646434,
-      "comments": 65927,
-      "age_hours": 58.7,
-      "views_per_hour": 776740,
-      "momentum": 6.401,
+      "views": 47715001,
+      "likes": 1691874,
+      "comments": 67423,
+      "age_hours": 66.1,
+      "views_per_hour": 722198,
+      "momentum": 6.357,
       "url": "https://www.youtube.com/watch?v=GpQSUjNsNm0",
       "region": "CA",
       "category": "Entertainment",
       "_detected_lang": "en"
-    },
-    {
-      "id": "PPAmwljU6KA",
-      "title": "I Rebuilt The Chicago Bulls For 10 Years (Year 1)",
-      "channel": "KOT4Q",
-      "channel_id": "UCu9sYmfPNydPJFqLLTdmxvA",
-      "thumbnail": "https://i.ytimg.com/vi/PPAmwljU6KA/mqdefault.jpg",
-      "published_at": "2026-06-01T20:30:11Z",
-      "category_id": "20",
-      "views": 62433,
-      "likes": 16269,
-      "comments": 352,
-      "age_hours": 6.2,
-      "views_per_hour": 10073,
-      "momentum": 6.315,
-      "url": "https://www.youtube.com/watch?v=PPAmwljU6KA",
-      "region": "US",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "1XFEtAx5i7E",
-      "title": "SHINee 샤이니 'Atmos' MV",
-      "channel": "SMTOWN",
-      "channel_id": "UCEf_Bc-KVd7onSeifS3py9g",
-      "thumbnail": "https://i.ytimg.com/vi/1XFEtAx5i7E/mqdefault.jpg",
-      "published_at": "2026-06-01T09:00:33Z",
-      "category_id": "10",
-      "views": 361030,
-      "likes": 57738,
-      "comments": 5079,
-      "age_hours": 17.7,
-      "views_per_hour": 20405,
-      "momentum": 6.295,
-      "url": "https://www.youtube.com/watch?v=1XFEtAx5i7E",
-      "region": "DE",
-      "category": "Other",
-      "_detected_lang": "de"
     },
     {
       "id": "SlQR9iu09bQ",
@@ -2846,15 +2406,34 @@
       "thumbnail": "https://i.ytimg.com/vi/SlQR9iu09bQ/mqdefault.jpg",
       "published_at": "2026-05-28T13:00:06Z",
       "category_id": "10",
-      "views": 21641385,
-      "likes": 1175249,
-      "comments": 160192,
-      "age_hours": 109.7,
-      "views_per_hour": 197277,
-      "momentum": 6.262,
+      "views": 22258233,
+      "likes": 1185092,
+      "comments": 162077,
+      "age_hours": 117.1,
+      "views_per_hour": 190130,
+      "momentum": 6.226,
       "url": "https://www.youtube.com/watch?v=SlQR9iu09bQ",
       "region": "AU",
       "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "XXxUqLHq1xg",
+      "title": "Cocktail 2 Official Trailer | Shahid Kapoor, Kriti Sanon, Rashmika Mandanna | In Cinemas 19th June",
+      "channel": "Maddock Films",
+      "channel_id": "UC-LOdiPoxninevJ0DkleCLg",
+      "thumbnail": "https://i.ytimg.com/vi/XXxUqLHq1xg/mqdefault.jpg",
+      "published_at": "2026-06-02T08:05:33Z",
+      "category_id": "24",
+      "views": 177104,
+      "likes": 16240,
+      "comments": 1261,
+      "age_hours": 2.0,
+      "views_per_hour": 89601,
+      "momentum": 6.213,
+      "url": "https://www.youtube.com/watch?v=XXxUqLHq1xg",
+      "region": "GB",
+      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -2865,91 +2444,34 @@
       "thumbnail": "https://i.ytimg.com/vi/uCy-yPjp7nA/mqdefault.jpg",
       "published_at": "2026-05-31T13:01:14Z",
       "category_id": "1",
-      "views": 9814074,
-      "likes": 629830,
-      "comments": 2701,
-      "age_hours": 37.7,
-      "views_per_hour": 260456,
-      "momentum": 6.126,
+      "views": 11262901,
+      "likes": 694180,
+      "comments": 3064,
+      "age_hours": 45.0,
+      "views_per_hour": 250018,
+      "momentum": 6.078,
       "url": "https://www.youtube.com/watch?v=uCy-yPjp7nA",
       "region": "US",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "UnFIrVKA9Zc",
-      "title": "1000 VS 1000 Player Minecraft Civil War",
-      "channel": "FlameFrags",
-      "channel_id": "UCvYPobTo42NM36X7VC4dLhA",
-      "thumbnail": "https://i.ytimg.com/vi/UnFIrVKA9Zc/mqdefault.jpg",
-      "published_at": "2026-06-01T04:10:04Z",
-      "category_id": "20",
-      "views": 2199757,
-      "likes": 125460,
-      "comments": 24581,
-      "age_hours": 22.5,
-      "views_per_hour": 97624,
-      "momentum": 6.116,
-      "url": "https://www.youtube.com/watch?v=UnFIrVKA9Zc",
-      "region": "US",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "R2u139fASRw",
-      "title": "SALLY FACE E O MISTÉRIO DA MORTADELA - Capítulo 3",
-      "channel": "Felipe Neto Joga",
-      "channel_id": "UCIzdh7oty8jCnXUj3eUj2WQ",
-      "thumbnail": "https://i.ytimg.com/vi/R2u139fASRw/mqdefault.jpg",
-      "published_at": "2026-06-01T15:00:03Z",
-      "category_id": "24",
-      "views": 269889,
-      "likes": 43259,
-      "comments": 2191,
-      "age_hours": 11.7,
-      "views_per_hour": 23063,
-      "momentum": 6.116,
-      "url": "https://www.youtube.com/watch?v=R2u139fASRw",
-      "region": "BR",
-      "category": "Entertainment",
-      "_detected_lang": "pt"
-    },
-    {
-      "id": "0ZUXwPhgpfI",
-      "title": "“Human eye can only see in 24FPS” #carterpcs #tech #gaming #minecraft",
-      "channel": "CarterPCs",
-      "channel_id": "UCi7wDE2ZTiR5QYYrUY5WhtA",
-      "thumbnail": "https://i.ytimg.com/vi/0ZUXwPhgpfI/mqdefault.jpg",
-      "published_at": "2026-06-01T05:40:22Z",
-      "category_id": "22",
-      "views": 2218873,
-      "likes": 195200,
-      "comments": 5056,
-      "age_hours": 21.0,
-      "views_per_hour": 105518,
-      "momentum": 6.022,
-      "url": "https://www.youtube.com/watch?v=0ZUXwPhgpfI",
-      "region": "US",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "ZCam-k6nAyE",
-      "title": "الرجل العنكبوت انقاذ باتمان Spider-Man Rescue batman vs iron man vs venom funny Game GTA 5 superhero",
-      "channel": "hamad alketbi",
-      "channel_id": "UCoA6QRIcngGPBchTOdco1Mw",
-      "thumbnail": "https://i.ytimg.com/vi/ZCam-k6nAyE/mqdefault.jpg",
-      "published_at": "2026-06-01T16:21:23Z",
-      "category_id": "20",
-      "views": 340823,
-      "likes": 21065,
-      "comments": 7100,
-      "age_hours": 10.3,
-      "views_per_hour": 32940,
-      "momentum": 6.017,
-      "url": "https://www.youtube.com/watch?v=ZCam-k6nAyE",
-      "region": "BR",
-      "category": "Gaming",
+      "id": "1XFEtAx5i7E",
+      "title": "SHINee 샤이니 'Atmos' MV",
+      "channel": "SMTOWN",
+      "channel_id": "UCEf_Bc-KVd7onSeifS3py9g",
+      "thumbnail": "https://i.ytimg.com/vi/1XFEtAx5i7E/mqdefault.jpg",
+      "published_at": "2026-06-01T09:00:33Z",
+      "category_id": "10",
+      "views": 450405,
+      "likes": 63902,
+      "comments": 5501,
+      "age_hours": 25.1,
+      "views_per_hour": 17973,
+      "momentum": 5.982,
+      "url": "https://www.youtube.com/watch?v=1XFEtAx5i7E",
+      "region": "CA",
+      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -2960,34 +2482,34 @@
       "thumbnail": "https://i.ytimg.com/vi/rzsImOvqv0c/mqdefault.jpg",
       "published_at": "2026-05-22T00:15:10Z",
       "category_id": "17",
-      "views": 157542120,
-      "likes": 2650628,
-      "comments": 4678,
-      "age_hours": 266.5,
-      "views_per_hour": 591262,
-      "momentum": 5.968,
+      "views": 157910503,
+      "likes": 2655423,
+      "comments": 4682,
+      "age_hours": 273.8,
+      "views_per_hour": 576698,
+      "momentum": 5.956,
       "url": "https://www.youtube.com/watch?v=rzsImOvqv0c",
       "region": "BR",
       "category": "Other",
       "_detected_lang": "pt"
     },
     {
-      "id": "JzLX8RjSCjE",
-      "title": "THEY CALLED THE COPS ON ME 👮‍♀️ #brokenfix #smartphone #brokenphone #cops #phonedamage #phonefix",
-      "channel": "Digital Doctor ",
-      "channel_id": "UCta8FWxM474irDMPABq2o4Q",
-      "thumbnail": "https://i.ytimg.com/vi/JzLX8RjSCjE/mqdefault.jpg",
-      "published_at": "2026-05-30T05:32:41Z",
-      "category_id": "22",
-      "views": 3967562,
-      "likes": 458401,
-      "comments": 7618,
-      "age_hours": 69.2,
-      "views_per_hour": 57370,
-      "momentum": 5.95,
-      "url": "https://www.youtube.com/watch?v=JzLX8RjSCjE",
-      "region": "CA",
-      "category": "People & Blogs",
+      "id": "UnFIrVKA9Zc",
+      "title": "1000 VS 1000 Player Minecraft Civil War",
+      "channel": "FlameFrags",
+      "channel_id": "UCvYPobTo42NM36X7VC4dLhA",
+      "thumbnail": "https://i.ytimg.com/vi/UnFIrVKA9Zc/mqdefault.jpg",
+      "published_at": "2026-06-01T04:10:04Z",
+      "category_id": "20",
+      "views": 2447933,
+      "likes": 130643,
+      "comments": 25219,
+      "age_hours": 29.9,
+      "views_per_hour": 81868,
+      "momentum": 5.944,
+      "url": "https://www.youtube.com/watch?v=UnFIrVKA9Zc",
+      "region": "US",
+      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -2998,15 +2520,34 @@
       "thumbnail": "https://i.ytimg.com/vi/CHBzdULEu7Q/mqdefault.jpg",
       "published_at": "2026-05-29T15:14:47Z",
       "category_id": "2",
-      "views": 35960871,
-      "likes": 964286,
-      "comments": 1237,
-      "age_hours": 83.5,
-      "views_per_hour": 430899,
-      "momentum": 5.938,
+      "views": 39900913,
+      "likes": 1044360,
+      "comments": 1418,
+      "age_hours": 90.8,
+      "views_per_hour": 439325,
+      "momentum": 5.94,
       "url": "https://www.youtube.com/watch?v=CHBzdULEu7Q",
       "region": "CA",
       "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "0ZUXwPhgpfI",
+      "title": "“Human eye can only see in 24FPS” #carterpcs #tech #gaming #minecraft",
+      "channel": "CarterPCs",
+      "channel_id": "UCi7wDE2ZTiR5QYYrUY5WhtA",
+      "thumbnail": "https://i.ytimg.com/vi/0ZUXwPhgpfI/mqdefault.jpg",
+      "published_at": "2026-06-01T05:40:22Z",
+      "category_id": "22",
+      "views": 2810735,
+      "likes": 229523,
+      "comments": 5976,
+      "age_hours": 28.4,
+      "views_per_hour": 98983,
+      "momentum": 5.918,
+      "url": "https://www.youtube.com/watch?v=0ZUXwPhgpfI",
+      "region": "US",
+      "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
@@ -3017,91 +2558,53 @@
       "thumbnail": "https://i.ytimg.com/vi/yKn1ONljnks/mqdefault.jpg",
       "published_at": "2026-05-28T16:05:22Z",
       "category_id": "24",
-      "views": 55664033,
-      "likes": 962815,
-      "comments": 3727,
-      "age_hours": 106.6,
-      "views_per_hour": 522110,
-      "momentum": 5.919,
+      "views": 57866288,
+      "likes": 999114,
+      "comments": 3886,
+      "age_hours": 114.0,
+      "views_per_hour": 507681,
+      "momentum": 5.906,
       "url": "https://www.youtube.com/watch?v=yKn1ONljnks",
       "region": "DE",
       "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
-      "id": "3M2i3JxNx-0",
-      "title": "Ranking The Best Wasp Nest Removal Moments 2",
-      "channel": "You_Ranking",
-      "channel_id": "UCJO1W041XN6rLTD2Pe38n_g",
-      "thumbnail": "https://i.ytimg.com/vi/3M2i3JxNx-0/mqdefault.jpg",
-      "published_at": "2026-05-24T14:03:24Z",
-      "category_id": "26",
-      "views": 104256339,
-      "likes": 1639511,
-      "comments": 3111,
-      "age_hours": 204.6,
-      "views_per_hour": 509446,
-      "momentum": 5.888,
-      "url": "https://www.youtube.com/watch?v=3M2i3JxNx-0",
-      "region": "DE",
-      "category": "Howto & Style",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "kY_agMdn4f8",
-      "title": "Presságio de Destruição | Akaza (Kimetsu no Yaiba) | Enygma",
-      "channel": "Enygma",
-      "channel_id": "UCLF8_zKbdb5plxlpZV2KS2Q",
-      "thumbnail": "https://i.ytimg.com/vi/kY_agMdn4f8/mqdefault.jpg",
-      "published_at": "2026-05-31T23:30:06Z",
-      "category_id": "10",
-      "views": 263759,
-      "likes": 48493,
-      "comments": 2837,
-      "age_hours": 27.2,
-      "views_per_hour": 9696,
-      "momentum": 5.881,
-      "url": "https://www.youtube.com/watch?v=kY_agMdn4f8",
-      "region": "BR",
-      "category": "Other",
-      "_detected_lang": "pt"
-    },
-    {
-      "id": "b1Dxy9PJyts",
-      "title": "Best Teacher Ever!",
-      "channel": "FamilyFrenzy",
-      "channel_id": "UCPrnr-lT4jpjgzHo2q8cKlA",
-      "thumbnail": "https://i.ytimg.com/vi/b1Dxy9PJyts/mqdefault.jpg",
-      "published_at": "2026-06-01T17:04:01Z",
+      "id": "JzLX8RjSCjE",
+      "title": "THEY CALLED THE COPS ON ME 👮‍♀️ #brokenfix #smartphone #brokenphone #cops #phonedamage #phonefix",
+      "channel": "Digital Doctor ",
+      "channel_id": "UCta8FWxM474irDMPABq2o4Q",
+      "thumbnail": "https://i.ytimg.com/vi/JzLX8RjSCjE/mqdefault.jpg",
+      "published_at": "2026-05-30T05:32:41Z",
       "category_id": "22",
-      "views": 1516659,
-      "likes": 93382,
-      "comments": 183,
-      "age_hours": 9.6,
-      "views_per_hour": 157428,
-      "momentum": 5.843,
-      "url": "https://www.youtube.com/watch?v=b1Dxy9PJyts",
-      "region": "US",
+      "views": 4254080,
+      "likes": 476637,
+      "comments": 7902,
+      "age_hours": 76.5,
+      "views_per_hour": 55591,
+      "momentum": 5.896,
+      "url": "https://www.youtube.com/watch?v=JzLX8RjSCjE",
+      "region": "CA",
       "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
-      "id": "W4Ai-H8w3jE",
-      "title": "I EXPOSED BUGATTI'S SERVICE & REPAIR COST'S",
-      "channel": "Mat Armstrong",
-      "channel_id": "UCcLYOTz3ct6_lk9iLToxxAw",
-      "thumbnail": "https://i.ytimg.com/vi/W4Ai-H8w3jE/mqdefault.jpg",
-      "published_at": "2026-05-31T17:00:15Z",
-      "category_id": "2",
-      "views": 5229629,
-      "likes": 260306,
-      "comments": 10806,
-      "age_hours": 33.7,
-      "views_per_hour": 155194,
-      "momentum": 5.815,
-      "url": "https://www.youtube.com/watch?v=W4Ai-H8w3jE",
-      "region": "GB",
-      "category": "Other",
+      "id": "za6mr7Nu0aA",
+      "title": "🔴GTA 5 LIVE – DON’T BLINK I USED A SECRET GTA 5 MOD ON LIVE STREAM #gtalive #gtaonline",
+      "channel": "RSG SIDHARTH YT",
+      "channel_id": "UCbcxMft3Jr62LpVaDYt5ebQ",
+      "thumbnail": "https://i.ytimg.com/vi/za6mr7Nu0aA/mqdefault.jpg",
+      "published_at": "2026-06-02T08:40:42Z",
+      "category_id": "20",
+      "views": 1005210,
+      "likes": 2994,
+      "comments": 0,
+      "age_hours": 1.4,
+      "views_per_hour": 722154,
+      "momentum": 5.894,
+      "url": "https://www.youtube.com/watch?v=za6mr7Nu0aA",
+      "region": "IN",
+      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -3112,15 +2615,91 @@
       "thumbnail": "https://i.ytimg.com/vi/R6x-5NzuIRo/mqdefault.jpg",
       "published_at": "2026-05-27T04:25:38Z",
       "category_id": "22",
-      "views": 23974934,
-      "likes": 1316715,
-      "comments": 3008,
-      "age_hours": 142.3,
-      "views_per_hour": 168513,
-      "momentum": 5.807,
+      "views": 24340969,
+      "likes": 1334421,
+      "comments": 3054,
+      "age_hours": 149.6,
+      "views_per_hour": 162662,
+      "momentum": 5.789,
       "url": "https://www.youtube.com/watch?v=R6x-5NzuIRo",
       "region": "US",
       "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "o5te8y4oG9E",
+      "title": "🔴LIVE | ESCAPE FROM BUNGUS | MANY MEN MONDAY | LEBRON JAMES OF EFT | GINGY X COCONUT | #BUNGULATE",
+      "channel": "TheBurntPeanut",
+      "channel_id": "UCMNEVbszv8ZyvSXoTn3yhpQ",
+      "thumbnail": "https://i.ytimg.com/vi/o5te8y4oG9E/mqdefault.jpg",
+      "published_at": "2026-06-02T08:43:00Z",
+      "category_id": "20",
+      "views": 470150,
+      "likes": 10276,
+      "comments": 19,
+      "age_hours": 1.4,
+      "views_per_hour": 347739,
+      "momentum": 5.786,
+      "url": "https://www.youtube.com/watch?v=o5te8y4oG9E",
+      "region": "US",
+      "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "b1Dxy9PJyts",
+      "title": "Best Teacher Ever!",
+      "channel": "FamilyFrenzy",
+      "channel_id": "UCPrnr-lT4jpjgzHo2q8cKlA",
+      "thumbnail": "https://i.ytimg.com/vi/b1Dxy9PJyts/mqdefault.jpg",
+      "published_at": "2026-06-01T17:04:01Z",
+      "category_id": "22",
+      "views": 2751779,
+      "likes": 142095,
+      "comments": 262,
+      "age_hours": 17.0,
+      "views_per_hour": 161851,
+      "momentum": 5.752,
+      "url": "https://www.youtube.com/watch?v=b1Dxy9PJyts",
+      "region": "US",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "R2u139fASRw",
+      "title": "SALLY FACE E O MISTÉRIO DA MORTADELA - Capítulo 3",
+      "channel": "Felipe Neto Joga",
+      "channel_id": "UCIzdh7oty8jCnXUj3eUj2WQ",
+      "thumbnail": "https://i.ytimg.com/vi/R2u139fASRw/mqdefault.jpg",
+      "published_at": "2026-06-01T15:00:03Z",
+      "category_id": "24",
+      "views": 322140,
+      "likes": 45874,
+      "comments": 2374,
+      "age_hours": 19.1,
+      "views_per_hour": 16892,
+      "momentum": 5.743,
+      "url": "https://www.youtube.com/watch?v=R2u139fASRw",
+      "region": "BR",
+      "category": "Entertainment",
+      "_detected_lang": "pt"
+    },
+    {
+      "id": "W4Ai-H8w3jE",
+      "title": "I EXPOSED BUGATTI'S SERVICE & REPAIR COST'S",
+      "channel": "Mat Armstrong",
+      "channel_id": "UCcLYOTz3ct6_lk9iLToxxAw",
+      "thumbnail": "https://i.ytimg.com/vi/W4Ai-H8w3jE/mqdefault.jpg",
+      "published_at": "2026-05-31T17:00:15Z",
+      "category_id": "2",
+      "views": 5526485,
+      "likes": 268631,
+      "comments": 11105,
+      "age_hours": 41.1,
+      "views_per_hour": 134578,
+      "momentum": 5.731,
+      "url": "https://www.youtube.com/watch?v=W4Ai-H8w3jE",
+      "region": "GB",
+      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -3131,15 +2710,34 @@
       "thumbnail": "https://i.ytimg.com/vi/vHbiZ-ICQig/mqdefault.jpg",
       "published_at": "2026-05-29T19:00:15Z",
       "category_id": "27",
-      "views": 13982659,
-      "likes": 672133,
-      "comments": 762,
-      "age_hours": 79.7,
-      "views_per_hour": 175448,
-      "momentum": 5.751,
+      "views": 14621106,
+      "likes": 696745,
+      "comments": 789,
+      "age_hours": 87.1,
+      "views_per_hour": 167934,
+      "momentum": 5.726,
       "url": "https://www.youtube.com/watch?v=vHbiZ-ICQig",
       "region": "US",
       "category": "Education",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "-fMkIOFEZDA",
+      "title": "How We Build an Alien Pool — Full Process Revealed #poolbuild #luxurypool  #satisfying #poolhacks",
+      "channel": "TwistSpot",
+      "channel_id": "UCK-_FkG5-7lHsKvLH04RRyw",
+      "thumbnail": "https://i.ytimg.com/vi/-fMkIOFEZDA/mqdefault.jpg",
+      "published_at": "2026-05-25T15:00:37Z",
+      "category_id": "24",
+      "views": 23612495,
+      "likes": 1374523,
+      "comments": 8878,
+      "age_hours": 187.1,
+      "views_per_hour": 126230,
+      "momentum": 5.714,
+      "url": "https://www.youtube.com/watch?v=-fMkIOFEZDA",
+      "region": "US",
+      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -3150,34 +2748,15 @@
       "thumbnail": "https://i.ytimg.com/vi/RlW43URgbaQ/mqdefault.jpg",
       "published_at": "2026-05-30T18:30:34Z",
       "category_id": "22",
-      "views": 6466508,
-      "likes": 428952,
-      "comments": 1262,
-      "age_hours": 56.2,
-      "views_per_hour": 115080,
-      "momentum": 5.742,
+      "views": 6846416,
+      "likes": 447888,
+      "comments": 1300,
+      "age_hours": 63.6,
+      "views_per_hour": 107717,
+      "momentum": 5.7,
       "url": "https://www.youtube.com/watch?v=RlW43URgbaQ",
       "region": "US",
       "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "_hyFGrcVv5U",
-      "title": "I Went to WAR on a Hardcore Minecraft SMP",
-      "channel": "Wemmbu",
-      "channel_id": "UCkzzNLnuM-VsATWC53ehwOQ",
-      "thumbnail": "https://i.ytimg.com/vi/_hyFGrcVv5U/mqdefault.jpg",
-      "published_at": "2026-05-30T13:35:17Z",
-      "category_id": "20",
-      "views": 3673524,
-      "likes": 198143,
-      "comments": 33773,
-      "age_hours": 61.1,
-      "views_per_hour": 60109,
-      "momentum": 5.734,
-      "url": "https://www.youtube.com/watch?v=_hyFGrcVv5U",
-      "region": "AU",
-      "category": "Gaming",
       "_detected_lang": "en"
     }
   ]
