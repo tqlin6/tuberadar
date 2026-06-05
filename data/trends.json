@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T14:26:06.866990+00:00",
+  "generated_at": "2026-06-05T19:42:13.981206+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,22 +40,74 @@
     }
   ],
   "stats": {
-    "total_videos": 433,
+    "total_videos": 448,
     "total_topics": 18,
-    "total_themes": 6,
+    "total_themes": 8,
     "total_searches": 12,
     "by_category": {
-      "Other": 62,
-      "Gaming": 85,
-      "Education": 11,
-      "Entertainment": 83,
-      "People & Blogs": 137,
-      "Comedy": 15,
-      "Science & Tech": 23,
-      "Howto & Style": 17
+      "Other": 59,
+      "Gaming": 96,
+      "People & Blogs": 142,
+      "Education": 10,
+      "Entertainment": 86,
+      "Science & Tech": 26,
+      "Howto & Style": 16,
+      "Comedy": 13
     }
   },
   "emerging_themes": [
+    {
+      "phrase": "reveal trailer",
+      "video_count": 30,
+      "channel_count": 29,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "y33_5T9e1Vg",
+          "title": "COLLEGE FOOTBALL 27 REVEAL TRAILER #cfb #collegefootball #football #fyp #foryou #funny #shorts",
+          "channel": "Cljr",
+          "channel_id": "UCE55wxasD2gwi8tzZnfV9dQ",
+          "subscribers": 1020,
+          "thumbnail": "https://i.ytimg.com/vi/y33_5T9e1Vg/mqdefault.jpg",
+          "published_at": "2026-06-05T19:40:02Z",
+          "url": "https://www.youtube.com/watch?v=y33_5T9e1Vg"
+        },
+        {
+          "id": "VaznFe3eu6A",
+          "title": "Madden 27 | Reveal Trailer",
+          "channel": "FL4WS",
+          "channel_id": "UCVNrVaMvg5ZNCbfgCi0EHPg",
+          "subscribers": 0,
+          "thumbnail": "https://i.ytimg.com/vi/VaznFe3eu6A/mqdefault.jpg",
+          "published_at": "2026-06-05T19:34:42Z",
+          "url": "https://www.youtube.com/watch?v=VaznFe3eu6A"
+        },
+        {
+          "id": "7voFP-jx5mo",
+          "title": "There&#39;s Nothing Down There - Reveal Trailer | Underwater Horror Exploration Adventure",
+          "channel": "OCEN",
+          "channel_id": "UCfTmyvtyTGv4cBOqA4a8t-w",
+          "subscribers": 24,
+          "thumbnail": "https://i.ytimg.com/vi/7voFP-jx5mo/mqdefault.jpg",
+          "published_at": "2026-06-05T19:30:22Z",
+          "url": "https://www.youtube.com/watch?v=7voFP-jx5mo"
+        },
+        {
+          "id": "7aMdwcNM0jQ",
+          "title": "Castle Reunited - Reveal Trailer (Minecraft RPG Map)",
+          "channel": "Ancient Olympic",
+          "channel_id": "UC8vUW2W4PL-wvYJTmY3qoTg",
+          "subscribers": 650,
+          "thumbnail": "https://i.ytimg.com/vi/7aMdwcNM0jQ/mqdefault.jpg",
+          "published_at": "2026-06-05T19:30:06Z",
+          "url": "https://www.youtube.com/watch?v=7aMdwcNM0jQ"
+        }
+      ],
+      "first_detected_at": "2026-06-05T02:32:09.666582+00:00",
+      "last_seen_at": "2026-06-05T19:42:13.981206+00:00"
+    },
     {
       "phrase": "shorts youtubeshorts cricket",
       "video_count": 30,
@@ -65,353 +117,367 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "r76lVscom2o",
-          "title": "Super shot #cricket #cricketlover #viral #cricketshorts #batting #shorts #youtubeshorts #ytshorts",
-          "channel": "22yards With Divye",
-          "channel_id": "UC5p6K_dknQmojEZdpivh15A",
-          "subscribers": 210,
-          "thumbnail": "https://i.ytimg.com/vi/r76lVscom2o/mqdefault.jpg",
-          "published_at": "2026-06-05T14:14:53Z",
-          "url": "https://www.youtube.com/watch?v=r76lVscom2o"
+          "id": "g3CcoXy6MlA",
+          "title": "Prince Ready #youtubeshorts #cricket #ytshorts #shorts #ipl #INDVSAFG #trendingshorts #viralshorts",
+          "channel": "CricGen-Z",
+          "channel_id": "UCgTbYdn72oEXRrL09MC8MyA",
+          "subscribers": 39,
+          "thumbnail": "https://i.ytimg.com/vi/g3CcoXy6MlA/mqdefault.jpg",
+          "published_at": "2026-06-05T19:38:25Z",
+          "url": "https://www.youtube.com/watch?v=g3CcoXy6MlA"
         },
         {
-          "id": "MYuLn2wIxO8",
-          "title": "satnam ji waheguru ji #shorts #viral #wahguru #ipl #love #song #trending #youtubeshorts #cricket",
-          "channel": "Shabad & Shloka",
-          "channel_id": "UC9o3-YPFlBwVsJ6U9Ujk_1A",
-          "subscribers": 29600,
-          "thumbnail": "https://i.ytimg.com/vi/MYuLn2wIxO8/mqdefault.jpg",
-          "published_at": "2026-06-05T14:03:31Z",
-          "url": "https://www.youtube.com/watch?v=MYuLn2wIxO8"
+          "id": "-0p8-BOVhRQ",
+          "title": "Became a champion 🗿📈😮‍💨 #cricket #youtubeshorts #shorts",
+          "channel": "Sumit Prakash",
+          "channel_id": "UCYahxG4UKEZ4TAEUjhao5pQ",
+          "subscribers": 543,
+          "thumbnail": "https://i.ytimg.com/vi/-0p8-BOVhRQ/mqdefault.jpg",
+          "published_at": "2026-06-05T19:05:08Z",
+          "url": "https://www.youtube.com/watch?v=-0p8-BOVhRQ"
         },
         {
-          "id": "HhJg7ICB3xo",
-          "title": "What a catch 😱 #shorts #youtubeshorts #cricket",
-          "channel": "Cricket editz 18",
-          "channel_id": "UCVGnWdoMkPM8Gj0XhBoDllg",
-          "subscribers": 98,
-          "thumbnail": "https://i.ytimg.com/vi/HhJg7ICB3xo/mqdefault.jpg",
-          "published_at": "2026-06-05T14:00:06Z",
-          "url": "https://www.youtube.com/watch?v=HhJg7ICB3xo"
+          "id": "HYEMZAr7llM",
+          "title": "Only 1% angry #msdhoni #cricket #youtubeshorts #subscribe #ipl #viral #trending #shorts #trend",
+          "channel": "Amangupta07",
+          "channel_id": "UCI5fwkolN9gQLXR4196rHFg",
+          "subscribers": 105,
+          "thumbnail": "https://i.ytimg.com/vi/HYEMZAr7llM/mqdefault.jpg",
+          "published_at": "2026-06-05T18:13:39Z",
+          "url": "https://www.youtube.com/watch?v=HYEMZAr7llM"
         },
         {
-          "id": "YUrCQXBeXRA",
-          "title": "not needed caption 🤑                         #shorts#youtubeshort #cricket #memes #memes #cricket",
-          "channel": "CRAZY CRICKETER 11",
-          "channel_id": "UCOjhArxxZpLf7_pNM_qicAg",
-          "subscribers": 35,
-          "thumbnail": "https://i.ytimg.com/vi/YUrCQXBeXRA/mqdefault.jpg",
-          "published_at": "2026-06-05T13:55:26Z",
-          "url": "https://www.youtube.com/watch?v=YUrCQXBeXRA"
+          "id": "C4mLwRPCbDY",
+          "title": "PSL 2026 MATCH 4 SECOND INNING #cricket #shorts #youtubeshorts #psl #viralshorts",
+          "channel": "BabarX Cricket Editz",
+          "channel_id": "UCEfqlzF7crIwh-dR0gXnQXw",
+          "subscribers": 19,
+          "thumbnail": "https://i.ytimg.com/vi/C4mLwRPCbDY/mqdefault.jpg",
+          "published_at": "2026-06-05T18:06:45Z",
+          "url": "https://www.youtube.com/watch?v=C4mLwRPCbDY"
         }
       ],
       "first_detected_at": "2026-06-04T19:54:35.710354+00:00",
-      "last_seen_at": "2026-06-05T14:26:06.866990+00:00"
+      "last_seen_at": "2026-06-05T19:42:13.981206+00:00"
     },
     {
       "phrase": "college football",
-      "video_count": 28,
-      "channel_count": 27,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.25,
+      "video_count": 30,
+      "channel_count": 28,
+      "total_channels_seen": 28,
+      "uploads_per_hour": 2.33,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "mba35dZyoUY",
-          "title": "This is a game changer for Virginia Tech. #collegefootball #virginiatech #fyp #trending #cfb",
-          "channel": "Saturday's Best ",
-          "channel_id": "UCp10HwYFLjbDE0R5GaUXvnQ",
-          "subscribers": 731,
-          "thumbnail": "https://i.ytimg.com/vi/mba35dZyoUY/mqdefault.jpg",
-          "published_at": "2026-06-05T14:23:39Z",
-          "url": "https://www.youtube.com/watch?v=mba35dZyoUY"
+          "id": "xWQ7-BGuN5g",
+          "title": "2026 preview: 5 things to know about Michigan State football",
+          "channel": "uthinkuknowsports",
+          "channel_id": "UC2TGe4Hpb1nNLzCa4rON-Xw",
+          "subscribers": 28,
+          "thumbnail": "https://i.ytimg.com/vi/xWQ7-BGuN5g/mqdefault.jpg",
+          "published_at": "2026-06-05T19:40:22Z",
+          "url": "https://www.youtube.com/watch?v=xWQ7-BGuN5g"
         },
         {
-          "id": "1G35Bz4SVP8",
-          "title": "Week 5 college football slate is crazy… GG to anyone stuck at a wedding 😭",
-          "channel": "RallyFuelTV",
-          "channel_id": "UC2KRF0L4BhxF4PQOvWCQNbA",
-          "subscribers": 98,
-          "thumbnail": "https://i.ytimg.com/vi/1G35Bz4SVP8/mqdefault.jpg",
-          "published_at": "2026-06-05T14:17:24Z",
-          "url": "https://www.youtube.com/watch?v=1G35Bz4SVP8"
+          "id": "DVsGZ-JFYE8",
+          "title": "Kyren Lacy💔🥺 #fyp #viral #edit #nfl #football #collegefootball #ncaa #LSU #kyrenlacy",
+          "channel": "RollingProdzz",
+          "channel_id": "UCquSPolDj77dyESdEIeJxfw",
+          "subscribers": 12,
+          "thumbnail": "https://i.ytimg.com/vi/DVsGZ-JFYE8/mqdefault.jpg",
+          "published_at": "2026-06-05T19:33:32Z",
+          "url": "https://www.youtube.com/watch?v=DVsGZ-JFYE8"
         },
         {
-          "id": "yEVv_svy8qM",
-          "title": "Hi#nfl #football #patrickmahomes #footballshorts #collegefootball #shorts",
-          "channel": "Pancakes67",
-          "channel_id": "UCvINZG3MoAqUt2lT4ajDP3w",
-          "subscribers": 131,
-          "thumbnail": "https://i.ytimg.com/vi/yEVv_svy8qM/mqdefault.jpg",
-          "published_at": "2026-06-05T14:11:00Z",
-          "url": "https://www.youtube.com/watch?v=yEVv_svy8qM"
+          "id": "VrZVcdpcGb4",
+          "title": "FAHHHHHH #football #collegefootball",
+          "channel": "JMoney ReBuilds",
+          "channel_id": "UCKPZy50GiG5A1kP0fZ57XxA",
+          "subscribers": 15,
+          "thumbnail": "https://i.ytimg.com/vi/VrZVcdpcGb4/mqdefault.jpg",
+          "published_at": "2026-06-05T19:27:19Z",
+          "url": "https://www.youtube.com/watch?v=VrZVcdpcGb4"
         },
         {
-          "id": "JeFGNErHdLI",
-          "title": "EA SPORTS College Football 26_20260605024912",
-          "channel": "Jalen Walker",
-          "channel_id": "UCKTXERL1IDVkn-sc84zRjEg",
-          "subscribers": 0,
-          "thumbnail": "https://i.ytimg.com/vi/JeFGNErHdLI/mqdefault.jpg",
-          "published_at": "2026-06-05T14:06:31Z",
-          "url": "https://www.youtube.com/watch?v=JeFGNErHdLI"
+          "id": "knHtNyP0Ggc",
+          "title": "Ole Miss QB Commit, Keegan Croucher on sticking with the program 🔥📈#shorts",
+          "channel": "Cayden’s Corner",
+          "channel_id": "UCDYjKBL1ImB-v0NVGl_cdDQ",
+          "subscribers": 8150,
+          "thumbnail": "https://i.ytimg.com/vi/knHtNyP0Ggc/mqdefault.jpg",
+          "published_at": "2026-06-05T19:24:22Z",
+          "url": "https://www.youtube.com/watch?v=knHtNyP0Ggc"
         }
       ],
       "first_detected_at": "2026-06-05T09:31:27.207092+00:00",
-      "last_seen_at": "2026-06-05T14:26:06.866990+00:00"
+      "last_seen_at": "2026-06-05T19:42:13.981206+00:00"
+    },
+    {
+      "phrase": "bmps survival stage",
+      "video_count": 27,
+      "channel_count": 25,
+      "total_channels_seen": 26,
+      "uploads_per_hour": 2.08,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "uEjJ0qfz694",
+          "title": "The Goat 🐐 Cooked The Survival Stage ☠️ @JONATHANGAMINGYT @Team.ApexGaming #bmps #pubg",
+          "channel": "Toji Bgmi ",
+          "channel_id": "UCpycnuqoYrt5d7EZ9Q_RV7g",
+          "subscribers": 14,
+          "thumbnail": "https://i.ytimg.com/vi/uEjJ0qfz694/mqdefault.jpg",
+          "published_at": "2026-06-05T18:52:20Z",
+          "url": "https://www.youtube.com/watch?v=uEjJ0qfz694"
+        },
+        {
+          "id": "acIcDro2bZ0",
+          "title": "Bmps Double round robin formet explain 🔥🖤 #bgmi #jonathan #bmps #esports #shorts",
+          "channel": "Redox Playz Live",
+          "channel_id": "UCf01I4d9eVlPQFQHaFclaDA",
+          "subscribers": 22400,
+          "thumbnail": "https://i.ytimg.com/vi/acIcDro2bZ0/mqdefault.jpg",
+          "published_at": "2026-06-05T18:41:34Z",
+          "url": "https://www.youtube.com/watch?v=acIcDro2bZ0"
+        },
+        {
+          "id": "559qJlDn5Oc",
+          "title": "BMPS 2026 Semi Finals Groups Out! 😱 Survival Stage Overall Standings &amp; Top Fraggers! #bmps #bmps2026",
+          "channel": "SK PUBGMOBILE ",
+          "channel_id": "UCtVK3XOTQE9Mn3BhkFgLSrQ",
+          "subscribers": 674,
+          "thumbnail": "https://i.ytimg.com/vi/559qJlDn5Oc/mqdefault.jpg",
+          "published_at": "2026-06-05T17:30:35Z",
+          "url": "https://www.youtube.com/watch?v=559qJlDn5Oc"
+        },
+        {
+          "id": "FN_Enke8VOM",
+          "title": "TEAM APEX RANK 1 IN BMPS SURVIVAL! 🥇 REGALTOS ANGRY ON SNIPERS! 😡 GOLDY S8UL JERSEY SHOCK! 💥",
+          "channel": "Zuyon Gaming",
+          "channel_id": "UC4XLejDDd3Ye8rMtA_XCf1Q",
+          "subscribers": 460,
+          "thumbnail": "https://i.ytimg.com/vi/FN_Enke8VOM/mqdefault.jpg",
+          "published_at": "2026-06-05T17:26:31Z",
+          "url": "https://www.youtube.com/watch?v=FN_Enke8VOM"
+        }
+      ],
+      "first_detected_at": "2026-06-05T19:42:13.981206+00:00",
+      "last_seen_at": "2026-06-05T19:42:13.981206+00:00"
     },
     {
       "phrase": "cricket unboxing ball",
-      "video_count": 27,
-      "channel_count": 27,
-      "total_channels_seen": 27,
-      "uploads_per_hour": 2.25,
+      "video_count": 17,
+      "channel_count": 17,
+      "total_channels_seen": 17,
+      "uploads_per_hour": 1.42,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "hP3m1Kdlauk",
-          "title": "Leather Cricket Ball Unboxing 🔥 | Premium Quality ReviewNew Leather Ball Unboxing &amp; First Look 🏏Best",
-          "channel": "Rishabh creater",
-          "channel_id": "UCE-f2PKTTqnKUEPHQ3NyN_Q",
-          "subscribers": 34,
-          "thumbnail": "https://i.ytimg.com/vi/hP3m1Kdlauk/mqdefault.jpg",
-          "published_at": "2026-06-05T13:35:24Z",
-          "url": "https://www.youtube.com/watch?v=hP3m1Kdlauk"
+          "id": "RJ0L7KEJEBU",
+          "title": "BALL WALA CHESS ♟️👑⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeanc",
+          "channel": "🌾 Village Food King",
+          "channel_id": "UCu_qVb6898OjJviTgffaTQQ",
+          "subscribers": 92000,
+          "thumbnail": "https://i.ytimg.com/vi/RJ0L7KEJEBU/mqdefault.jpg",
+          "published_at": "2026-06-05T16:50:15Z",
+          "url": "https://www.youtube.com/watch?v=RJ0L7KEJEBU"
         },
         {
-          "id": "12H9aMkDIU8",
-          "title": "air ball 😱 #collection #unboxing #play #cricket #collection #funny",
-          "channel": "sirfmunna kumar ",
-          "channel_id": "UC9bYFQbuCh3VlxFJ6e3mpgQ",
-          "subscribers": 157,
-          "thumbnail": "https://i.ytimg.com/vi/12H9aMkDIU8/mqdefault.jpg",
-          "published_at": "2026-06-05T13:30:03Z",
-          "url": "https://www.youtube.com/watch?v=12H9aMkDIU8"
+          "id": "uYBxSQ8Zwgg",
+          "title": "CORRECT WAY OF BURNING TENNIS CRICKET BALL 🔥🔥 #shorts #unboxing #cricket",
+          "channel": "@Pro cricket club",
+          "channel_id": "UCSP9pcd3gcWH5g2e5KmZgsg",
+          "subscribers": 19,
+          "thumbnail": "https://i.ytimg.com/vi/uYBxSQ8Zwgg/mqdefault.jpg",
+          "published_at": "2026-06-05T16:34:34Z",
+          "url": "https://www.youtube.com/watch?v=uYBxSQ8Zwgg"
         },
         {
-          "id": "2t7hQRYgr00",
-          "title": "#shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Mohit bhai-1k",
-          "channel_id": "UC8ryQOZa5aAjJyCE0ksT_Lw",
-          "subscribers": 5,
-          "thumbnail": "https://i.ytimg.com/vi/2t7hQRYgr00/mqdefault.jpg",
-          "published_at": "2026-06-05T13:27:25Z",
-          "url": "https://www.youtube.com/watch?v=2t7hQRYgr00"
+          "id": "y1wzdOACI7E",
+          "title": "अगले video में bounce test करेंगे 😱😱 #shorts #unboxing #cricket",
+          "channel": "Khel Khajana",
+          "channel_id": "UCP0IxmEeA8O9_ojRJdYWCzg",
+          "subscribers": 17,
+          "thumbnail": "https://i.ytimg.com/vi/y1wzdOACI7E/mqdefault.jpg",
+          "published_at": "2026-06-05T15:47:41Z",
+          "url": "https://www.youtube.com/watch?v=y1wzdOACI7E"
         },
         {
-          "id": "vXbSQbnWAI4",
-          "title": "Salman Ali Agha’s ACTUAL Bat?🇵🇰 MB Malik SAA Edition Review!#cricket#shorts#salmanaliagha#batreview",
-          "channel": "Fani Rai",
-          "channel_id": "UCgP5F5IjeZqtpNZdhhcBs8g",
-          "subscribers": 2510,
-          "thumbnail": "https://i.ytimg.com/vi/vXbSQbnWAI4/mqdefault.jpg",
-          "published_at": "2026-06-05T13:00:12Z",
-          "url": "https://www.youtube.com/watch?v=vXbSQbnWAI4"
+          "id": "o63ZfkBlZ-s",
+          "title": "16 Pool Balls 🏈🏀🤯 #cricket #shorts #foryou #youtube",
+          "channel": "The_Arun27__",
+          "channel_id": "UCVTz25cuSm_IG-FUwP_rRVw",
+          "subscribers": 162000,
+          "thumbnail": "https://i.ytimg.com/vi/o63ZfkBlZ-s/mqdefault.jpg",
+          "published_at": "2026-06-05T14:45:15Z",
+          "url": "https://www.youtube.com/watch?v=o63ZfkBlZ-s"
         }
       ],
       "first_detected_at": "2026-06-04T19:54:35.710354+00:00",
-      "last_seen_at": "2026-06-05T14:26:06.866990+00:00"
+      "last_seen_at": "2026-06-05T19:42:13.981206+00:00"
     },
     {
-      "phrase": "reveal trailer",
-      "video_count": 28,
-      "channel_count": 21,
-      "total_channels_seen": 23,
-      "uploads_per_hour": 1.75,
+      "phrase": "unboxing ball funny",
+      "video_count": 9,
+      "channel_count": 9,
+      "total_channels_seen": 9,
+      "uploads_per_hour": 0.75,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "asdN5piJAJo",
-          "title": "Witchspire - Launch Date Reveal Trailer | Survival-crafting Adventure",
-          "channel": "OGT",
-          "channel_id": "UCM_lUrZMGuaBt7os_ndFLTA",
-          "subscribers": 17100,
-          "thumbnail": "https://i.ytimg.com/vi/asdN5piJAJo/mqdefault.jpg",
-          "published_at": "2026-06-05T14:20:19Z",
-          "url": "https://www.youtube.com/watch?v=asdN5piJAJo"
+          "id": "RJ0L7KEJEBU",
+          "title": "BALL WALA CHESS ♟️👑⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeanc",
+          "channel": "🌾 Village Food King",
+          "channel_id": "UCu_qVb6898OjJviTgffaTQQ",
+          "subscribers": 92000,
+          "thumbnail": "https://i.ytimg.com/vi/RJ0L7KEJEBU/mqdefault.jpg",
+          "published_at": "2026-06-05T16:50:15Z",
+          "url": "https://www.youtube.com/watch?v=RJ0L7KEJEBU"
         },
         {
-          "id": "GrcxBU6187s",
-          "title": "College Football 27 Reveal Trailer | GameStop",
-          "channel": "GameStop",
-          "channel_id": "UCX1aoT25QZzgGQJo4uCtRxw",
-          "subscribers": 158000,
-          "thumbnail": "https://i.ytimg.com/vi/GrcxBU6187s/mqdefault.jpg",
-          "published_at": "2026-06-05T14:15:13Z",
-          "url": "https://www.youtube.com/watch?v=GrcxBU6187s"
+          "id": "6lfnL1Zlegk",
+          "title": "PUNCH BALL #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
+          "channel": "ADITYA SHUB ",
+          "channel_id": "UCM26qbMhH0Jt189f7swXWyw",
+          "subscribers": 146000,
+          "thumbnail": "https://i.ytimg.com/vi/6lfnL1Zlegk/mqdefault.jpg",
+          "published_at": "2026-06-05T14:31:19Z",
+          "url": "https://www.youtube.com/watch?v=6lfnL1Zlegk"
         },
-        {
-          "id": "D6S1ZhjO9ug",
-          "title": "The Modern Warfare 4 Reveal Is Intense @CallofDuty",
-          "channel": "Clutch Frame",
-          "channel_id": "UCE0eNIMzwqxKd4vlhe_WSyA",
-          "subscribers": 273,
-          "thumbnail": "https://i.ytimg.com/vi/D6S1ZhjO9ug/mqdefault.jpg",
-          "published_at": "2026-06-05T14:10:23Z",
-          "url": "https://www.youtube.com/watch?v=D6S1ZhjO9ug"
-        },
-        {
-          "id": "PPIfo_LsyTY",
-          "title": "College Football 27 - Official Reveal Trailer",
-          "channel": "Riyadinho",
-          "channel_id": "UC_X5OfPF_B2fRz6QL-gQUDg",
-          "subscribers": 12100,
-          "thumbnail": "https://i.ytimg.com/vi/PPIfo_LsyTY/mqdefault.jpg",
-          "published_at": "2026-06-05T14:06:17Z",
-          "url": "https://www.youtube.com/watch?v=PPIfo_LsyTY"
-        }
-      ],
-      "first_detected_at": "2026-06-05T02:32:09.666582+00:00",
-      "last_seen_at": "2026-06-05T14:26:06.866990+00:00"
-    },
-    {
-      "phrase": "youtubeshorts cricket unboxing",
-      "video_count": 19,
-      "channel_count": 19,
-      "total_channels_seen": 19,
-      "uploads_per_hour": 1.58,
-      "window_hours": 12,
-      "example_videos": [
         {
           "id": "12H9aMkDIU8",
           "title": "air ball 😱 #collection #unboxing #play #cricket #collection #funny",
           "channel": "sirfmunna kumar ",
           "channel_id": "UC9bYFQbuCh3VlxFJ6e3mpgQ",
-          "subscribers": 157,
+          "subscribers": 162,
           "thumbnail": "https://i.ytimg.com/vi/12H9aMkDIU8/mqdefault.jpg",
           "published_at": "2026-06-05T13:30:03Z",
           "url": "https://www.youtube.com/watch?v=12H9aMkDIU8"
-        },
-        {
-          "id": "2t7hQRYgr00",
-          "title": "#shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Mohit bhai-1k",
-          "channel_id": "UC8ryQOZa5aAjJyCE0ksT_Lw",
-          "subscribers": 5,
-          "thumbnail": "https://i.ytimg.com/vi/2t7hQRYgr00/mqdefault.jpg",
-          "published_at": "2026-06-05T13:27:25Z",
-          "url": "https://www.youtube.com/watch?v=2t7hQRYgr00"
         },
         {
           "id": "CpMaYRsNcy8",
           "title": "GREEN 🍏 MOON BALL ⚽ #shorts#youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
           "channel": "Lo Lo Funny ",
           "channel_id": "UCC9NmVTXSahqhBG3a9wo5cw",
-          "subscribers": 449,
+          "subscribers": 491,
           "thumbnail": "https://i.ytimg.com/vi/CpMaYRsNcy8/mqdefault.jpg",
           "published_at": "2026-06-05T12:00:32Z",
           "url": "https://www.youtube.com/watch?v=CpMaYRsNcy8"
-        },
-        {
-          "id": "DzGt78VwlKY",
-          "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "𝐁𝐨𝐱 𝐨𝐟 𝐕𝐞𝐧𝐠𝐞𝐚𝐧𝐜𝐞",
-          "channel_id": "UCQRcAY5-MAR8ibQ4hAohmNQ",
-          "subscribers": 0,
-          "thumbnail": "https://i.ytimg.com/vi/DzGt78VwlKY/mqdefault.jpg",
-          "published_at": "2026-06-05T11:36:15Z",
-          "url": "https://www.youtube.com/watch?v=DzGt78VwlKY"
         }
       ],
-      "first_detected_at": "2026-06-04T19:54:35.710354+00:00",
-      "last_seen_at": "2026-06-05T14:26:06.866990+00:00"
+      "first_detected_at": "2026-06-05T19:42:13.981206+00:00",
+      "last_seen_at": "2026-06-05T19:42:13.981206+00:00"
     },
     {
-      "phrase": "tom jerry rithvi",
-      "video_count": 9,
+      "phrase": "youtubeshorts cricket unboxing",
+      "video_count": 8,
       "channel_count": 8,
-      "total_channels_seen": 9,
+      "total_channels_seen": 8,
       "uploads_per_hour": 0.67,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "6sCDbw5R_eY",
-          "title": "Tom 🍓 jerry (Rithvi &amp; Kavi) real end twist 🤣🎈#shorts",
-          "channel": "Rukku kids TV ",
-          "channel_id": "UC6pab5mrDqTMVuDph5fphcg",
-          "subscribers": 22,
-          "thumbnail": "https://i.ytimg.com/vi/6sCDbw5R_eY/mqdefault.jpg",
-          "published_at": "2026-06-05T13:46:36Z",
-          "url": "https://www.youtube.com/watch?v=6sCDbw5R_eY"
+          "id": "R6ZOb4liKI4",
+          "title": "Last m game change 😆💀 #gaming #cricket #crickethighlights #youtubeshorts #viralvideo",
+          "channel": "Real cricketer jay ",
+          "channel_id": "UCrDuxzMmUjfa0r9m5CqcucQ",
+          "subscribers": 31,
+          "thumbnail": "https://i.ytimg.com/vi/R6ZOb4liKI4/mqdefault.jpg",
+          "published_at": "2026-06-05T17:19:30Z",
+          "url": "https://www.youtube.com/watch?v=R6ZOb4liKI4"
         },
         {
-          "id": "i_kmikKFRbE",
-          "title": "Tom 🍓 Jerry (Rithvi &amp; Kavi) Megamix - Meme Coffin Dance Song Cover",
-          "channel": "2VIBE DANCE ",
-          "channel_id": "UCMJ5_N86V5nNxAE-vFAPPjQ",
-          "subscribers": 94800,
-          "thumbnail": "https://i.ytimg.com/vi/i_kmikKFRbE/mqdefault.jpg",
-          "published_at": "2026-06-05T13:00:15Z",
-          "url": "https://www.youtube.com/watch?v=i_kmikKFRbE"
+          "id": "RJ0L7KEJEBU",
+          "title": "BALL WALA CHESS ♟️👑⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeanc",
+          "channel": "🌾 Village Food King",
+          "channel_id": "UCu_qVb6898OjJviTgffaTQQ",
+          "subscribers": 92000,
+          "thumbnail": "https://i.ytimg.com/vi/RJ0L7KEJEBU/mqdefault.jpg",
+          "published_at": "2026-06-05T16:50:15Z",
+          "url": "https://www.youtube.com/watch?v=RJ0L7KEJEBU"
         },
         {
-          "id": "oYSq9XzDmfQ",
-          "title": "Tom 🍓 Jerry (Rithvi &amp; Kavi) - Meme Coffin Dance Song Cover",
-          "channel": "PS Lifestyle 1M",
-          "channel_id": "UCrd0tnAjtoti16SD5aGim5A",
-          "subscribers": 13600,
-          "thumbnail": "https://i.ytimg.com/vi/oYSq9XzDmfQ/mqdefault.jpg",
-          "published_at": "2026-06-05T12:00:40Z",
-          "url": "https://www.youtube.com/watch?v=oYSq9XzDmfQ"
+          "id": "o63ZfkBlZ-s",
+          "title": "16 Pool Balls 🏈🏀🤯 #cricket #shorts #foryou #youtube",
+          "channel": "The_Arun27__",
+          "channel_id": "UCVTz25cuSm_IG-FUwP_rRVw",
+          "subscribers": 162000,
+          "thumbnail": "https://i.ytimg.com/vi/o63ZfkBlZ-s/mqdefault.jpg",
+          "published_at": "2026-06-05T14:45:15Z",
+          "url": "https://www.youtube.com/watch?v=o63ZfkBlZ-s"
         },
         {
-          "id": "CBS7HvT9eAY",
-          "title": "Tom 🍓Jerry  Rithvi Kavi Real End Twist 😂🎈 #short #youtubeshorts #foryou",
-          "channel": "AGS2M ",
-          "channel_id": "UCLVeNGFLVJ6CR0nGUveohBg",
-          "subscribers": 157000,
-          "thumbnail": "https://i.ytimg.com/vi/CBS7HvT9eAY/mqdefault.jpg",
-          "published_at": "2026-06-05T11:30:16Z",
-          "url": "https://www.youtube.com/watch?v=CBS7HvT9eAY"
+          "id": "6lfnL1Zlegk",
+          "title": "PUNCH BALL #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
+          "channel": "ADITYA SHUB ",
+          "channel_id": "UCM26qbMhH0Jt189f7swXWyw",
+          "subscribers": 146000,
+          "thumbnail": "https://i.ytimg.com/vi/6lfnL1Zlegk/mqdefault.jpg",
+          "published_at": "2026-06-05T14:31:19Z",
+          "url": "https://www.youtube.com/watch?v=6lfnL1Zlegk"
         }
       ],
-      "first_detected_at": "2026-06-05T14:26:06.866990+00:00",
-      "last_seen_at": "2026-06-05T14:26:06.866990+00:00"
+      "first_detected_at": "2026-06-04T19:54:35.710354+00:00",
+      "last_seen_at": "2026-06-05T19:42:13.981206+00:00"
+    },
+    {
+      "phrase": "hindi bmps survival",
+      "video_count": 9,
+      "channel_count": 6,
+      "total_channels_seen": 7,
+      "uploads_per_hour": 0.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "aWaMdxXw1rI",
+          "title": "[watchparty] [HINDI] BMPS 2026 | SURVIVAL STAGE | Day 4 #BGMILIVE #bgmi #livestream",
+          "channel": "XpGodLive",
+          "channel_id": "UC_S9RMkW8CyiAhCs_BPvwEw",
+          "subscribers": 2430,
+          "thumbnail": "https://i.ytimg.com/vi/aWaMdxXw1rI/mqdefault.jpg",
+          "published_at": "2026-06-05T15:29:02Z",
+          "url": "https://www.youtube.com/watch?v=aWaMdxXw1rI"
+        },
+        {
+          "id": "3Wq9crHmzPY",
+          "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 4 #BGMILIVE",
+          "channel": "MULBERRY PUBGM",
+          "channel_id": "UCv9yc5SOqGjQa49fuZF7smg",
+          "subscribers": 1950,
+          "thumbnail": "https://i.ytimg.com/vi/3Wq9crHmzPY/mqdefault.jpg",
+          "published_at": "2026-06-05T14:40:03Z",
+          "url": "https://www.youtube.com/watch?v=3Wq9crHmzPY"
+        },
+        {
+          "id": "5ElSM-aPyE0",
+          "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 4 #BGMILIVE",
+          "channel": "BROxmental",
+          "channel_id": "UCBrkqGACjNKxl-XsQhSiI8w",
+          "subscribers": 1900,
+          "thumbnail": "https://i.ytimg.com/vi/5ElSM-aPyE0/mqdefault.jpg",
+          "published_at": "2026-06-05T13:51:28Z",
+          "url": "https://www.youtube.com/watch?v=5ElSM-aPyE0"
+        },
+        {
+          "id": "1S9wQuovLtA",
+          "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 4 #BGMILIVE",
+          "channel": "BROxmental",
+          "channel_id": "UCBrkqGACjNKxl-XsQhSiI8w",
+          "subscribers": 1900,
+          "thumbnail": "https://i.ytimg.com/vi/1S9wQuovLtA/mqdefault.jpg",
+          "published_at": "2026-06-05T13:18:20Z",
+          "url": "https://www.youtube.com/watch?v=1S9wQuovLtA"
+        }
+      ],
+      "first_detected_at": "2026-06-05T19:42:13.981206+00:00",
+      "last_seen_at": "2026-06-05T19:42:13.981206+00:00"
     }
   ],
   "topics": [
     {
-      "phrase": "college football",
-      "video_count": 4,
-      "momentum": 23.09,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "4hdImodqQks",
-          "title": "Madden 27 & College Football 27 | Opening Drive Official Reveal Event",
-          "channel": "EA SPORTS MADDEN NFL",
-          "thumbnail": "https://i.ytimg.com/vi/4hdImodqQks/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=4hdImodqQks",
-          "views": 476904,
-          "age_hours": 12.4
-        },
-        {
-          "id": "a-JpwwMa5aM",
-          "title": "College Football 27 | Official Reveal Trailer | EA SPORTS",
-          "channel": "EA SPORTS College",
-          "thumbnail": "https://i.ytimg.com/vi/a-JpwwMa5aM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=a-JpwwMa5aM",
-          "views": 246071,
-          "age_hours": 14.2
-        },
-        {
-          "id": "wsUj-bNnGB4",
-          "title": "I Played College Football 27 Dynasty!",
-          "channel": "Bordeaux",
-          "thumbnail": "https://i.ytimg.com/vi/wsUj-bNnGB4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=wsUj-bNnGB4",
-          "views": 212058,
-          "age_hours": 11.9
-        }
-      ]
-    },
-    {
       "phrase": "iphone",
-      "video_count": 5,
-      "momentum": 21.1,
+      "video_count": 6,
+      "momentum": 25.49,
       "regions": [
         "BR"
       ],
@@ -423,8 +489,8 @@
           "channel": "RC ASSISTEC ",
           "thumbnail": "https://i.ytimg.com/vi/dR2x7GdJW60/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=dR2x7GdJW60",
-          "views": 635860,
-          "age_hours": 45.5
+          "views": 865654,
+          "age_hours": 50.8
         },
         {
           "id": "NNbBP60FaM0",
@@ -432,8 +498,8 @@
           "channel": "Amandinha",
           "thumbnail": "https://i.ytimg.com/vi/NNbBP60FaM0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=NNbBP60FaM0",
-          "views": 1076166,
-          "age_hours": 111.9
+          "views": 1100220,
+          "age_hours": 117.2
         },
         {
           "id": "6de0oKbha5A",
@@ -441,75 +507,66 @@
           "channel": "João Longo",
           "thumbnail": "https://i.ytimg.com/vi/6de0oKbha5A/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=6de0oKbha5A",
-          "views": 1596867,
-          "age_hours": 286.4
+          "views": 1603440,
+          "age_hours": 291.7
         }
       ]
     },
     {
-      "phrase": "reveal",
+      "phrase": "amigos",
+      "video_count": 5,
+      "momentum": 24.31,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "TocJoKqlvo4",
+          "title": "DEI UMA AULA PROS MEUS AMIGOS! - WORMS W.M.D COM OS AMIGOS",
+          "channel": "alanzoka",
+          "thumbnail": "https://i.ytimg.com/vi/TocJoKqlvo4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=TocJoKqlvo4",
+          "views": 101102,
+          "age_hours": 4.7
+        },
+        {
+          "id": "RrK-OvOA2wQ",
+          "title": "Usando Trapaças Esconde-Esconde com Meus Amigos!",
+          "channel": "ProbIems",
+          "thumbnail": "https://i.ytimg.com/vi/RrK-OvOA2wQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=RrK-OvOA2wQ",
+          "views": 223446,
+          "age_hours": 6.7
+        },
+        {
+          "id": "_Gyylk8dIlo",
+          "title": "1 BANCO! #shortvideo #viral #fyp #amigos#engraçado #explore #brincadeira #humor #videoviral",
+          "channel": "yuryago",
+          "thumbnail": "https://i.ytimg.com/vi/_Gyylk8dIlo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=_Gyylk8dIlo",
+          "views": 2025869,
+          "age_hours": 43.7
+        }
+      ]
+    },
+    {
+      "phrase": "college football",
       "video_count": 4,
-      "momentum": 20.36,
+      "momentum": 22.57,
       "regions": [
         "US"
       ],
       "lang": "en",
       "example_videos": [
-        {
-          "id": "HLMX2w3cwuE",
-          "title": "God of War Laufey - Gameplay Reveal Trailer | PS5 Games",
-          "channel": "PlayStation",
-          "thumbnail": "https://i.ytimg.com/vi/HLMX2w3cwuE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=HLMX2w3cwuE",
-          "views": 5661678,
-          "age_hours": 64.2
-        },
-        {
-          "id": "45q18ujEYyk",
-          "title": "Thresh Gameplay Reveal Trailer | 2XKO",
-          "channel": "2XKO",
-          "thumbnail": "https://i.ytimg.com/vi/45q18ujEYyk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=45q18ujEYyk",
-          "views": 287276,
-          "age_hours": 23.4
-        },
         {
           "id": "4hdImodqQks",
           "title": "Madden 27 & College Football 27 | Opening Drive Official Reveal Event",
           "channel": "EA SPORTS MADDEN NFL",
           "thumbnail": "https://i.ytimg.com/vi/4hdImodqQks/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=4hdImodqQks",
-          "views": 476904,
-          "age_hours": 12.4
-        }
-      ]
-    },
-    {
-      "phrase": "reveal trailer",
-      "video_count": 3,
-      "momentum": 19.34,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "HLMX2w3cwuE",
-          "title": "God of War Laufey - Gameplay Reveal Trailer | PS5 Games",
-          "channel": "PlayStation",
-          "thumbnail": "https://i.ytimg.com/vi/HLMX2w3cwuE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=HLMX2w3cwuE",
-          "views": 5661678,
-          "age_hours": 64.2
-        },
-        {
-          "id": "45q18ujEYyk",
-          "title": "Thresh Gameplay Reveal Trailer | 2XKO",
-          "channel": "2XKO",
-          "thumbnail": "https://i.ytimg.com/vi/45q18ujEYyk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=45q18ujEYyk",
-          "views": 287276,
-          "age_hours": 23.4
+          "views": 508221,
+          "age_hours": 17.6
         },
         {
           "id": "a-JpwwMa5aM",
@@ -517,343 +574,24 @@
           "channel": "EA SPORTS College",
           "thumbnail": "https://i.ytimg.com/vi/a-JpwwMa5aM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=a-JpwwMa5aM",
-          "views": 246071,
-          "age_hours": 14.2
+          "views": 300975,
+          "age_hours": 19.5
+        },
+        {
+          "id": "wsUj-bNnGB4",
+          "title": "I Played College Football 27 Dynasty!",
+          "channel": "Bordeaux",
+          "thumbnail": "https://i.ytimg.com/vi/wsUj-bNnGB4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=wsUj-bNnGB4",
+          "views": 256130,
+          "age_hours": 17.1
         }
       ]
     },
     {
-      "phrase": "mundo",
+      "phrase": "reveal",
       "video_count": 4,
-      "momentum": 17.82,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "IqfxEJtVDxo",
-          "title": "EU COMPREI UM BANHEIRO PÚBLICO, MAS EU TENHO OS CLIENTES MAIS NOJENTOS DO MUNDO!",
-          "channel": "Jazzghost",
-          "thumbnail": "https://i.ytimg.com/vi/IqfxEJtVDxo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=IqfxEJtVDxo",
-          "views": 787581,
-          "age_hours": 23.4
-        },
-        {
-          "id": "rX44Yk5QtVw",
-          "title": "MUNDO TORAJO NO MINECRAFT NUM BLOCO SÓ 2 !!! ⛄",
-          "channel": "Mundo Torajo Jovem",
-          "thumbnail": "https://i.ytimg.com/vi/rX44Yk5QtVw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=rX44Yk5QtVw",
-          "views": 186721,
-          "age_hours": 18.4
-        },
-        {
-          "id": "mpeVE-lXbr4",
-          "title": "JOGUEI O MODO COPA DO MUNDO NO FC 26 E AJUDEI O NEYMAR A TRAZER O HEXA! 🇧🇷🤩",
-          "channel": "RAFÃO",
-          "thumbnail": "https://i.ytimg.com/vi/mpeVE-lXbr4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=mpeVE-lXbr4",
-          "views": 70105,
-          "age_hours": 16.3
-        }
-      ]
-    },
-    {
-      "phrase": "shorts youtubeshorts cricket",
-      "video_count": 2,
-      "momentum": 17.71,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "EHuu_CciZ64",
-          "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
-          "views": 5581932,
-          "age_hours": 82.9
-        },
-        {
-          "id": "SoH0F6ZfbPY",
-          "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
-          "views": 7437746,
-          "age_hours": 34.9
-        }
-      ]
-    },
-    {
-      "phrase": "youtubeshorts cricket unboxing",
-      "video_count": 2,
-      "momentum": 17.71,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "EHuu_CciZ64",
-          "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
-          "views": 5581932,
-          "age_hours": 82.9
-        },
-        {
-          "id": "SoH0F6ZfbPY",
-          "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
-          "views": 7437746,
-          "age_hours": 34.9
-        }
-      ]
-    },
-    {
-      "phrase": "cricket unboxing ball",
-      "video_count": 2,
-      "momentum": 17.71,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "EHuu_CciZ64",
-          "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
-          "views": 5581932,
-          "age_hours": 82.9
-        },
-        {
-          "id": "SoH0F6ZfbPY",
-          "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
-          "views": 7437746,
-          "age_hours": 34.9
-        }
-      ]
-    },
-    {
-      "phrase": "unboxing ball funny",
-      "video_count": 2,
-      "momentum": 17.71,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "EHuu_CciZ64",
-          "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
-          "views": 5581932,
-          "age_hours": 82.9
-        },
-        {
-          "id": "SoH0F6ZfbPY",
-          "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-          "channel": "Box Of Vengeance",
-          "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
-          "views": 7437746,
-          "age_hours": 34.9
-        }
-      ]
-    },
-    {
-      "phrase": "tom jerry rithvi",
-      "video_count": 2,
-      "momentum": 16.5,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "dni8n9j1sgw",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-          "views": 33803578,
-          "age_hours": 149.9
-        },
-        {
-          "id": "OunGMq7s4_w",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-          "views": 4771751,
-          "age_hours": 29.9
-        }
-      ]
-    },
-    {
-      "phrase": "jerry rithvi kavi",
-      "video_count": 2,
-      "momentum": 16.5,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "dni8n9j1sgw",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-          "views": 33803578,
-          "age_hours": 149.9
-        },
-        {
-          "id": "OunGMq7s4_w",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-          "views": 4771751,
-          "age_hours": 29.9
-        }
-      ]
-    },
-    {
-      "phrase": "rithvi kavi real",
-      "video_count": 2,
-      "momentum": 16.5,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "dni8n9j1sgw",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-          "views": 33803578,
-          "age_hours": 149.9
-        },
-        {
-          "id": "OunGMq7s4_w",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-          "views": 4771751,
-          "age_hours": 29.9
-        }
-      ]
-    },
-    {
-      "phrase": "kavi real end",
-      "video_count": 2,
-      "momentum": 16.5,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "dni8n9j1sgw",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-          "views": 33803578,
-          "age_hours": 149.9
-        },
-        {
-          "id": "OunGMq7s4_w",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-          "views": 4771751,
-          "age_hours": 29.9
-        }
-      ]
-    },
-    {
-      "phrase": "real end twist",
-      "video_count": 2,
-      "momentum": 16.5,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "dni8n9j1sgw",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-          "views": 33803578,
-          "age_hours": 149.9
-        },
-        {
-          "id": "OunGMq7s4_w",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-          "views": 4771751,
-          "age_hours": 29.9
-        }
-      ]
-    },
-    {
-      "phrase": "end twist shorts",
-      "video_count": 2,
-      "momentum": 16.5,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "dni8n9j1sgw",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-          "views": 33803578,
-          "age_hours": 149.9
-        },
-        {
-          "id": "OunGMq7s4_w",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-          "views": 4771751,
-          "age_hours": 29.9
-        }
-      ]
-    },
-    {
-      "phrase": "gameplay reveal trailer",
-      "video_count": 2,
-      "momentum": 16.07,
+      "momentum": 19.98,
       "regions": [
         "US"
       ],
@@ -865,8 +603,8 @@
           "channel": "PlayStation",
           "thumbnail": "https://i.ytimg.com/vi/HLMX2w3cwuE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=HLMX2w3cwuE",
-          "views": 5661678,
-          "age_hours": 64.2
+          "views": 5790891,
+          "age_hours": 69.5
         },
         {
           "id": "45q18ujEYyk",
@@ -874,75 +612,450 @@
           "channel": "2XKO",
           "thumbnail": "https://i.ytimg.com/vi/45q18ujEYyk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=45q18ujEYyk",
-          "views": 287276,
-          "age_hours": 23.4
+          "views": 301855,
+          "age_hours": 28.7
+        },
+        {
+          "id": "4hdImodqQks",
+          "title": "Madden 27 & College Football 27 | Opening Drive Official Reveal Event",
+          "channel": "EA SPORTS MADDEN NFL",
+          "thumbnail": "https://i.ytimg.com/vi/4hdImodqQks/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=4hdImodqQks",
+          "views": 508221,
+          "age_hours": 17.6
         }
       ]
     },
     {
-      "phrase": "vivo x300",
+      "phrase": "reveal trailer",
       "video_count": 3,
-      "momentum": 15.97,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "N3Jv_Fghc04",
-          "title": "OPPO Find X9 Ultra Vs vivo X300 Ultra | Who win's the Zoom Test?👀 #ZoomTest #FindX9Ultra #X300Ultra",
-          "channel": "Prasadtechintelugu",
-          "thumbnail": "https://i.ytimg.com/vi/N3Jv_Fghc04/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=N3Jv_Fghc04",
-          "views": 396268,
-          "age_hours": 25.6
-        },
-        {
-          "id": "33mnHqHwKUM",
-          "title": "Vivo X300 FE features a standout quad camera 50MP main camera and a 50MP ZEISS Super Telephoto lens",
-          "channel": "Rj Mobile 01",
-          "thumbnail": "https://i.ytimg.com/vi/33mnHqHwKUM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=33mnHqHwKUM",
-          "views": 1829916,
-          "age_hours": 227.9
-        },
-        {
-          "id": "BdJnasc-8yU",
-          "title": "🔥Vivo X300 Ultra Zoom Power",
-          "channel": "Mr Perfect Tech",
-          "thumbnail": "https://i.ytimg.com/vi/BdJnasc-8yU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=BdJnasc-8yU",
-          "views": 1019211,
-          "age_hours": 319.1
-        }
-      ]
-    },
-    {
-      "phrase": "i played college",
-      "video_count": 2,
-      "momentum": 13.25,
+      "momentum": 19.05,
       "regions": [
         "US"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "wsUj-bNnGB4",
-          "title": "I Played College Football 27 Dynasty!",
-          "channel": "Bordeaux",
-          "thumbnail": "https://i.ytimg.com/vi/wsUj-bNnGB4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=wsUj-bNnGB4",
-          "views": 212058,
-          "age_hours": 11.9
+          "id": "HLMX2w3cwuE",
+          "title": "God of War Laufey - Gameplay Reveal Trailer | PS5 Games",
+          "channel": "PlayStation",
+          "thumbnail": "https://i.ytimg.com/vi/HLMX2w3cwuE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=HLMX2w3cwuE",
+          "views": 5790891,
+          "age_hours": 69.5
         },
         {
-          "id": "ONYmmPgDP8k",
-          "title": "I Played College Football 27 Early, Here's What Changed",
-          "channel": "Civil",
-          "thumbnail": "https://i.ytimg.com/vi/ONYmmPgDP8k/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ONYmmPgDP8k",
-          "views": 85146,
-          "age_hours": 13.4
+          "id": "45q18ujEYyk",
+          "title": "Thresh Gameplay Reveal Trailer | 2XKO",
+          "channel": "2XKO",
+          "thumbnail": "https://i.ytimg.com/vi/45q18ujEYyk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=45q18ujEYyk",
+          "views": 301855,
+          "age_hours": 28.7
+        },
+        {
+          "id": "a-JpwwMa5aM",
+          "title": "College Football 27 | Official Reveal Trailer | EA SPORTS",
+          "channel": "EA SPORTS College",
+          "thumbnail": "https://i.ytimg.com/vi/a-JpwwMa5aM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=a-JpwwMa5aM",
+          "views": 300975,
+          "age_hours": 19.5
+        }
+      ]
+    },
+    {
+      "phrase": "minecraft",
+      "video_count": 4,
+      "momentum": 18.76,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "G8axom7Gn4I",
+          "title": "WATER HOUSE BATTLE CHALLENGE IN MINECRAFT...",
+          "channel": "Karry Kraft",
+          "thumbnail": "https://i.ytimg.com/vi/G8axom7Gn4I/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=G8axom7Gn4I",
+          "views": 454085,
+          "age_hours": 7.8
+        },
+        {
+          "id": "ZquutYVCcNc",
+          "title": "Carry and Doorbin is No More in Minecraft..",
+          "channel": "Carry Depie",
+          "thumbnail": "https://i.ytimg.com/vi/ZquutYVCcNc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ZquutYVCcNc",
+          "views": 1348461,
+          "age_hours": 32.2
+        },
+        {
+          "id": "HNGy38Y9nIE",
+          "title": "We Found a SECRET Underground Room in Minecraft! ",
+          "channel": "GAME THERAPIST",
+          "thumbnail": "https://i.ytimg.com/vi/HNGy38Y9nIE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=HNGy38Y9nIE",
+          "views": 102611,
+          "age_hours": 11.2
+        }
+      ]
+    },
+    {
+      "phrase": "brasil",
+      "video_count": 4,
+      "momentum": 18.6,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "AsAZl_r9njQ",
+          "title": "VOLTEI PROS EUA 🇺🇸 COMO ESTÁ MINHA CASA APÓS 40 DIAS NO BRASIL 🇧🇷 FIZ UM DESABAFO 😨😰",
+          "channel": "Ana landim",
+          "thumbnail": "https://i.ytimg.com/vi/AsAZl_r9njQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=AsAZl_r9njQ",
+          "views": 23471,
+          "age_hours": 5.2
+        },
+        {
+          "id": "6xd2ZoYhz1E",
+          "title": "Tire uma figurinha do Brasil e ganhe R$1.000 #2026convocados",
+          "channel": "NextlevelDJ | O moço do Te Amo",
+          "thumbnail": "https://i.ytimg.com/vi/6xd2ZoYhz1E/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6xd2ZoYhz1E",
+          "views": 5474748,
+          "age_hours": 164.4
+        },
+        {
+          "id": "jNmRsNMXPzc",
+          "title": "Por Que Decidi Voltar ao Brasil?",
+          "channel": "Hugo Corelli",
+          "thumbnail": "https://i.ytimg.com/vi/jNmRsNMXPzc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=jNmRsNMXPzc",
+          "views": 22343,
+          "age_hours": 45.7
+        }
+      ]
+    },
+    {
+      "phrase": "shorts youtubeshorts cricket",
+      "video_count": 2,
+      "momentum": 17.61,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "EHuu_CciZ64",
+          "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
+          "views": 5755503,
+          "age_hours": 88.2
+        },
+        {
+          "id": "SoH0F6ZfbPY",
+          "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
+          "views": 8234760,
+          "age_hours": 40.2
+        }
+      ]
+    },
+    {
+      "phrase": "youtubeshorts cricket unboxing",
+      "video_count": 2,
+      "momentum": 17.61,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "EHuu_CciZ64",
+          "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
+          "views": 5755503,
+          "age_hours": 88.2
+        },
+        {
+          "id": "SoH0F6ZfbPY",
+          "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
+          "views": 8234760,
+          "age_hours": 40.2
+        }
+      ]
+    },
+    {
+      "phrase": "cricket unboxing ball",
+      "video_count": 2,
+      "momentum": 17.61,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "EHuu_CciZ64",
+          "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
+          "views": 5755503,
+          "age_hours": 88.2
+        },
+        {
+          "id": "SoH0F6ZfbPY",
+          "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
+          "views": 8234760,
+          "age_hours": 40.2
+        }
+      ]
+    },
+    {
+      "phrase": "unboxing ball funny",
+      "video_count": 2,
+      "momentum": 17.61,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "EHuu_CciZ64",
+          "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
+          "views": 5755503,
+          "age_hours": 88.2
+        },
+        {
+          "id": "SoH0F6ZfbPY",
+          "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+          "channel": "Box Of Vengeance",
+          "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
+          "views": 8234760,
+          "age_hours": 40.2
+        }
+      ]
+    },
+    {
+      "phrase": "hindi bmps survival",
+      "video_count": 2,
+      "momentum": 17.04,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "sLZtRgk3fVU",
+          "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 4 #BGMILIVE",
+          "channel": "KRAFTON INDIA ESPORTS",
+          "thumbnail": "https://i.ytimg.com/vi/sLZtRgk3fVU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=sLZtRgk3fVU",
+          "views": 2235337,
+          "age_hours": 3.5
+        },
+        {
+          "id": "9j3Dy7VoZFA",
+          "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 3 #BGMILIVE",
+          "channel": "KRAFTON INDIA ESPORTS",
+          "thumbnail": "https://i.ytimg.com/vi/9j3Dy7VoZFA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=9j3Dy7VoZFA",
+          "views": 2415466,
+          "age_hours": 28.7
+        }
+      ]
+    },
+    {
+      "phrase": "bmps survival stage",
+      "video_count": 2,
+      "momentum": 17.04,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "sLZtRgk3fVU",
+          "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 4 #BGMILIVE",
+          "channel": "KRAFTON INDIA ESPORTS",
+          "thumbnail": "https://i.ytimg.com/vi/sLZtRgk3fVU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=sLZtRgk3fVU",
+          "views": 2235337,
+          "age_hours": 3.5
+        },
+        {
+          "id": "9j3Dy7VoZFA",
+          "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 3 #BGMILIVE",
+          "channel": "KRAFTON INDIA ESPORTS",
+          "thumbnail": "https://i.ytimg.com/vi/9j3Dy7VoZFA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=9j3Dy7VoZFA",
+          "views": 2415466,
+          "age_hours": 28.7
+        }
+      ]
+    },
+    {
+      "phrase": "survival stage bgmilive",
+      "video_count": 2,
+      "momentum": 17.04,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "sLZtRgk3fVU",
+          "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 4 #BGMILIVE",
+          "channel": "KRAFTON INDIA ESPORTS",
+          "thumbnail": "https://i.ytimg.com/vi/sLZtRgk3fVU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=sLZtRgk3fVU",
+          "views": 2235337,
+          "age_hours": 3.5
+        },
+        {
+          "id": "9j3Dy7VoZFA",
+          "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 3 #BGMILIVE",
+          "channel": "KRAFTON INDIA ESPORTS",
+          "thumbnail": "https://i.ytimg.com/vi/9j3Dy7VoZFA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=9j3Dy7VoZFA",
+          "views": 2415466,
+          "age_hours": 28.7
+        }
+      ]
+    },
+    {
+      "phrase": "tom jerry rithvi",
+      "video_count": 2,
+      "momentum": 16.53,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "dni8n9j1sgw",
+          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+          "channel": "KL BRO Biju Rithvik",
+          "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
+          "views": 35304611,
+          "age_hours": 155.1
+        },
+        {
+          "id": "OunGMq7s4_w",
+          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+          "channel": "KL BRO Biju Rithvik",
+          "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
+          "views": 6045560,
+          "age_hours": 35.2
+        }
+      ]
+    },
+    {
+      "phrase": "jerry rithvi kavi",
+      "video_count": 2,
+      "momentum": 16.53,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "dni8n9j1sgw",
+          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+          "channel": "KL BRO Biju Rithvik",
+          "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
+          "views": 35304611,
+          "age_hours": 155.1
+        },
+        {
+          "id": "OunGMq7s4_w",
+          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+          "channel": "KL BRO Biju Rithvik",
+          "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
+          "views": 6045560,
+          "age_hours": 35.2
+        }
+      ]
+    },
+    {
+      "phrase": "rithvi kavi real",
+      "video_count": 2,
+      "momentum": 16.53,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "dni8n9j1sgw",
+          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+          "channel": "KL BRO Biju Rithvik",
+          "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
+          "views": 35304611,
+          "age_hours": 155.1
+        },
+        {
+          "id": "OunGMq7s4_w",
+          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+          "channel": "KL BRO Biju Rithvik",
+          "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
+          "views": 6045560,
+          "age_hours": 35.2
+        }
+      ]
+    },
+    {
+      "phrase": "kavi real end",
+      "video_count": 2,
+      "momentum": 16.53,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "dni8n9j1sgw",
+          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+          "channel": "KL BRO Biju Rithvik",
+          "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
+          "views": 35304611,
+          "age_hours": 155.1
+        },
+        {
+          "id": "OunGMq7s4_w",
+          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+          "channel": "KL BRO Biju Rithvik",
+          "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
+          "views": 6045560,
+          "age_hours": 35.2
         }
       ]
     }
@@ -952,7 +1065,7 @@
       {
         "phrase": "college football",
         "video_count": 4,
-        "momentum": 23.09,
+        "momentum": 22.57,
         "regions": [
           "US"
         ],
@@ -964,8 +1077,8 @@
             "channel": "EA SPORTS MADDEN NFL",
             "thumbnail": "https://i.ytimg.com/vi/4hdImodqQks/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4hdImodqQks",
-            "views": 476904,
-            "age_hours": 12.4
+            "views": 508221,
+            "age_hours": 17.6
           },
           {
             "id": "a-JpwwMa5aM",
@@ -973,8 +1086,8 @@
             "channel": "EA SPORTS College",
             "thumbnail": "https://i.ytimg.com/vi/a-JpwwMa5aM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=a-JpwwMa5aM",
-            "views": 246071,
-            "age_hours": 14.2
+            "views": 300975,
+            "age_hours": 19.5
           },
           {
             "id": "wsUj-bNnGB4",
@@ -982,15 +1095,15 @@
             "channel": "Bordeaux",
             "thumbnail": "https://i.ytimg.com/vi/wsUj-bNnGB4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=wsUj-bNnGB4",
-            "views": 212058,
-            "age_hours": 11.9
+            "views": 256130,
+            "age_hours": 17.1
           }
         ]
       },
       {
         "phrase": "reveal",
         "video_count": 4,
-        "momentum": 20.36,
+        "momentum": 19.98,
         "regions": [
           "US"
         ],
@@ -1002,8 +1115,8 @@
             "channel": "PlayStation",
             "thumbnail": "https://i.ytimg.com/vi/HLMX2w3cwuE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=HLMX2w3cwuE",
-            "views": 5661678,
-            "age_hours": 64.2
+            "views": 5790891,
+            "age_hours": 69.5
           },
           {
             "id": "45q18ujEYyk",
@@ -1011,8 +1124,8 @@
             "channel": "2XKO",
             "thumbnail": "https://i.ytimg.com/vi/45q18ujEYyk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=45q18ujEYyk",
-            "views": 287276,
-            "age_hours": 23.4
+            "views": 301855,
+            "age_hours": 28.7
           },
           {
             "id": "4hdImodqQks",
@@ -1020,15 +1133,15 @@
             "channel": "EA SPORTS MADDEN NFL",
             "thumbnail": "https://i.ytimg.com/vi/4hdImodqQks/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=4hdImodqQks",
-            "views": 476904,
-            "age_hours": 12.4
+            "views": 508221,
+            "age_hours": 17.6
           }
         ]
       },
       {
         "phrase": "reveal trailer",
         "video_count": 3,
-        "momentum": 19.34,
+        "momentum": 19.05,
         "regions": [
           "US"
         ],
@@ -1040,8 +1153,8 @@
             "channel": "PlayStation",
             "thumbnail": "https://i.ytimg.com/vi/HLMX2w3cwuE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=HLMX2w3cwuE",
-            "views": 5661678,
-            "age_hours": 64.2
+            "views": 5790891,
+            "age_hours": 69.5
           },
           {
             "id": "45q18ujEYyk",
@@ -1049,8 +1162,8 @@
             "channel": "2XKO",
             "thumbnail": "https://i.ytimg.com/vi/45q18ujEYyk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=45q18ujEYyk",
-            "views": 287276,
-            "age_hours": 23.4
+            "views": 301855,
+            "age_hours": 28.7
           },
           {
             "id": "a-JpwwMa5aM",
@@ -1058,15 +1171,53 @@
             "channel": "EA SPORTS College",
             "thumbnail": "https://i.ytimg.com/vi/a-JpwwMa5aM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=a-JpwwMa5aM",
-            "views": 246071,
-            "age_hours": 14.2
+            "views": 300975,
+            "age_hours": 19.5
+          }
+        ]
+      },
+      {
+        "phrase": "i played",
+        "video_count": 3,
+        "momentum": 16.21,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "wsUj-bNnGB4",
+            "title": "I Played College Football 27 Dynasty!",
+            "channel": "Bordeaux",
+            "thumbnail": "https://i.ytimg.com/vi/wsUj-bNnGB4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=wsUj-bNnGB4",
+            "views": 256130,
+            "age_hours": 17.1
+          },
+          {
+            "id": "1DMjuXWvjWA",
+            "title": "I Played Draft Champions In MLB The Show!",
+            "channel": "MMG",
+            "thumbnail": "https://i.ytimg.com/vi/1DMjuXWvjWA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1DMjuXWvjWA",
+            "views": 161810,
+            "age_hours": 20.8
+          },
+          {
+            "id": "ONYmmPgDP8k",
+            "title": "I Played College Football 27 Early, Here's What Changed",
+            "channel": "Civil",
+            "thumbnail": "https://i.ytimg.com/vi/ONYmmPgDP8k/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ONYmmPgDP8k",
+            "views": 111492,
+            "age_hours": 18.7
           }
         ]
       },
       {
         "phrase": "gameplay reveal trailer",
         "video_count": 2,
-        "momentum": 16.07,
+        "momentum": 15.87,
         "regions": [
           "US"
         ],
@@ -1078,8 +1229,8 @@
             "channel": "PlayStation",
             "thumbnail": "https://i.ytimg.com/vi/HLMX2w3cwuE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=HLMX2w3cwuE",
-            "views": 5661678,
-            "age_hours": 64.2
+            "views": 5790891,
+            "age_hours": 69.5
           },
           {
             "id": "45q18ujEYyk",
@@ -1087,15 +1238,15 @@
             "channel": "2XKO",
             "thumbnail": "https://i.ytimg.com/vi/45q18ujEYyk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=45q18ujEYyk",
-            "views": 287276,
-            "age_hours": 23.4
+            "views": 301855,
+            "age_hours": 28.7
           }
         ]
       },
       {
         "phrase": "i played college",
         "video_count": 2,
-        "momentum": 13.25,
+        "momentum": 12.98,
         "regions": [
           "US"
         ],
@@ -1107,8 +1258,8 @@
             "channel": "Bordeaux",
             "thumbnail": "https://i.ytimg.com/vi/wsUj-bNnGB4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=wsUj-bNnGB4",
-            "views": 212058,
-            "age_hours": 11.9
+            "views": 256130,
+            "age_hours": 17.1
           },
           {
             "id": "ONYmmPgDP8k",
@@ -1116,15 +1267,15 @@
             "channel": "Civil",
             "thumbnail": "https://i.ytimg.com/vi/ONYmmPgDP8k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ONYmmPgDP8k",
-            "views": 85146,
-            "age_hours": 13.4
+            "views": 111492,
+            "age_hours": 18.7
           }
         ]
       },
       {
         "phrase": "played college football",
         "video_count": 2,
-        "momentum": 13.25,
+        "momentum": 12.98,
         "regions": [
           "US"
         ],
@@ -1136,8 +1287,8 @@
             "channel": "Bordeaux",
             "thumbnail": "https://i.ytimg.com/vi/wsUj-bNnGB4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=wsUj-bNnGB4",
-            "views": 212058,
-            "age_hours": 11.9
+            "views": 256130,
+            "age_hours": 17.1
           },
           {
             "id": "ONYmmPgDP8k",
@@ -1145,15 +1296,15 @@
             "channel": "Civil",
             "thumbnail": "https://i.ytimg.com/vi/ONYmmPgDP8k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ONYmmPgDP8k",
-            "views": 85146,
-            "age_hours": 13.4
+            "views": 111492,
+            "age_hours": 18.7
           }
         ]
       },
       {
         "phrase": "monument triumph",
         "video_count": 2,
-        "momentum": 12.65,
+        "momentum": 12.39,
         "regions": [
           "US"
         ],
@@ -1165,8 +1316,8 @@
             "channel": "Destiny 2",
             "thumbnail": "https://i.ytimg.com/vi/-TWYj6sw2NQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=-TWYj6sw2NQ",
-            "views": 504870,
-            "age_hours": 23.4
+            "views": 529166,
+            "age_hours": 28.7
           },
           {
             "id": "ioPS3Ztdy6o",
@@ -1174,44 +1325,15 @@
             "channel": "Aztecross",
             "thumbnail": "https://i.ytimg.com/vi/ioPS3Ztdy6o/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ioPS3Ztdy6o",
-            "views": 166403,
-            "age_hours": 17.9
-          }
-        ]
-      },
-      {
-        "phrase": "official reveal",
-        "video_count": 2,
-        "momentum": 12.06,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "4hdImodqQks",
-            "title": "Madden 27 & College Football 27 | Opening Drive Official Reveal Event",
-            "channel": "EA SPORTS MADDEN NFL",
-            "thumbnail": "https://i.ytimg.com/vi/4hdImodqQks/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4hdImodqQks",
-            "views": 476904,
-            "age_hours": 12.4
-          },
-          {
-            "id": "a-JpwwMa5aM",
-            "title": "College Football 27 | Official Reveal Trailer | EA SPORTS",
-            "channel": "EA SPORTS College",
-            "thumbnail": "https://i.ytimg.com/vi/a-JpwwMa5aM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=a-JpwwMa5aM",
-            "views": 246071,
-            "age_hours": 14.2
+            "views": 189046,
+            "age_hours": 23.2
           }
         ]
       },
       {
         "phrase": "data centers",
         "video_count": 2,
-        "momentum": 11.87,
+        "momentum": 11.82,
         "regions": [
           "US"
         ],
@@ -1223,8 +1345,8 @@
             "channel": "Tommy G",
             "thumbnail": "https://i.ytimg.com/vi/MHJtIkfA-s8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=MHJtIkfA-s8",
-            "views": 998336,
-            "age_hours": 41.0
+            "views": 1054394,
+            "age_hours": 46.3
           },
           {
             "id": "bIBzLcCH4rA",
@@ -1232,436 +1354,48 @@
             "channel": "Snuff Cup",
             "thumbnail": "https://i.ytimg.com/vi/bIBzLcCH4rA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=bIBzLcCH4rA",
-            "views": 1941450,
-            "age_hours": 208.4
+            "views": 1945158,
+            "age_hours": 213.7
+          }
+        ]
+      },
+      {
+        "phrase": "official reveal",
+        "video_count": 2,
+        "momentum": 11.76,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "4hdImodqQks",
+            "title": "Madden 27 & College Football 27 | Opening Drive Official Reveal Event",
+            "channel": "EA SPORTS MADDEN NFL",
+            "thumbnail": "https://i.ytimg.com/vi/4hdImodqQks/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4hdImodqQks",
+            "views": 508221,
+            "age_hours": 17.6
+          },
+          {
+            "id": "a-JpwwMa5aM",
+            "title": "College Football 27 | Official Reveal Trailer | EA SPORTS",
+            "channel": "EA SPORTS College",
+            "thumbnail": "https://i.ytimg.com/vi/a-JpwwMa5aM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=a-JpwwMa5aM",
+            "views": 300975,
+            "age_hours": 19.5
           }
         ]
       }
     ],
+    "GB": [],
     "AU": [],
-    "IN": [
-      {
-        "phrase": "shorts youtubeshorts cricket",
-        "video_count": 2,
-        "momentum": 17.71,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EHuu_CciZ64",
-            "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
-            "views": 5581932,
-            "age_hours": 82.9
-          },
-          {
-            "id": "SoH0F6ZfbPY",
-            "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
-            "views": 7437746,
-            "age_hours": 34.9
-          }
-        ]
-      },
-      {
-        "phrase": "youtubeshorts cricket unboxing",
-        "video_count": 2,
-        "momentum": 17.71,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EHuu_CciZ64",
-            "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
-            "views": 5581932,
-            "age_hours": 82.9
-          },
-          {
-            "id": "SoH0F6ZfbPY",
-            "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
-            "views": 7437746,
-            "age_hours": 34.9
-          }
-        ]
-      },
-      {
-        "phrase": "cricket unboxing ball",
-        "video_count": 2,
-        "momentum": 17.71,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EHuu_CciZ64",
-            "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
-            "views": 5581932,
-            "age_hours": 82.9
-          },
-          {
-            "id": "SoH0F6ZfbPY",
-            "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
-            "views": 7437746,
-            "age_hours": 34.9
-          }
-        ]
-      },
-      {
-        "phrase": "unboxing ball funny",
-        "video_count": 2,
-        "momentum": 17.71,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EHuu_CciZ64",
-            "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
-            "views": 5581932,
-            "age_hours": 82.9
-          },
-          {
-            "id": "SoH0F6ZfbPY",
-            "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
-            "channel": "Box Of Vengeance",
-            "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
-            "views": 7437746,
-            "age_hours": 34.9
-          }
-        ]
-      },
-      {
-        "phrase": "tom jerry rithvi",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "dni8n9j1sgw",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 33803578,
-            "age_hours": 149.9
-          },
-          {
-            "id": "OunGMq7s4_w",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-            "views": 4771751,
-            "age_hours": 29.9
-          }
-        ]
-      },
-      {
-        "phrase": "jerry rithvi kavi",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "dni8n9j1sgw",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 33803578,
-            "age_hours": 149.9
-          },
-          {
-            "id": "OunGMq7s4_w",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-            "views": 4771751,
-            "age_hours": 29.9
-          }
-        ]
-      },
-      {
-        "phrase": "rithvi kavi real",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "dni8n9j1sgw",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 33803578,
-            "age_hours": 149.9
-          },
-          {
-            "id": "OunGMq7s4_w",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-            "views": 4771751,
-            "age_hours": 29.9
-          }
-        ]
-      },
-      {
-        "phrase": "kavi real end",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "dni8n9j1sgw",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 33803578,
-            "age_hours": 149.9
-          },
-          {
-            "id": "OunGMq7s4_w",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-            "views": 4771751,
-            "age_hours": 29.9
-          }
-        ]
-      },
-      {
-        "phrase": "real end twist",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "dni8n9j1sgw",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 33803578,
-            "age_hours": 149.9
-          },
-          {
-            "id": "OunGMq7s4_w",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-            "views": 4771751,
-            "age_hours": 29.9
-          }
-        ]
-      },
-      {
-        "phrase": "end twist shorts",
-        "video_count": 2,
-        "momentum": 16.5,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "dni8n9j1sgw",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 33803578,
-            "age_hours": 149.9
-          },
-          {
-            "id": "OunGMq7s4_w",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-            "views": 4771751,
-            "age_hours": 29.9
-          }
-        ]
-      },
-      {
-        "phrase": "vivo x300",
-        "video_count": 3,
-        "momentum": 15.97,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "N3Jv_Fghc04",
-            "title": "OPPO Find X9 Ultra Vs vivo X300 Ultra | Who win's the Zoom Test?👀 #ZoomTest #FindX9Ultra #X300Ultra",
-            "channel": "Prasadtechintelugu",
-            "thumbnail": "https://i.ytimg.com/vi/N3Jv_Fghc04/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=N3Jv_Fghc04",
-            "views": 396268,
-            "age_hours": 25.6
-          },
-          {
-            "id": "33mnHqHwKUM",
-            "title": "Vivo X300 FE features a standout quad camera 50MP main camera and a 50MP ZEISS Super Telephoto lens",
-            "channel": "Rj Mobile 01",
-            "thumbnail": "https://i.ytimg.com/vi/33mnHqHwKUM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=33mnHqHwKUM",
-            "views": 1829916,
-            "age_hours": 227.9
-          },
-          {
-            "id": "BdJnasc-8yU",
-            "title": "🔥Vivo X300 Ultra Zoom Power",
-            "channel": "Mr Perfect Tech",
-            "thumbnail": "https://i.ytimg.com/vi/BdJnasc-8yU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BdJnasc-8yU",
-            "views": 1019211,
-            "age_hours": 319.1
-          }
-        ]
-      },
-      {
-        "phrase": "kajalsoni vlogs",
-        "video_count": 2,
-        "momentum": 13.07,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "mL0hZ6-vkBg",
-            "title": "Car wash करके आया मजा🚘😂 #youtubeshorts #shorts #car #kajalsoni @Kaj@Kajalsoni_vlogs",
-            "channel": "Kajal Soni",
-            "thumbnail": "https://i.ytimg.com/vi/mL0hZ6-vkBg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=mL0hZ6-vkBg",
-            "views": 21812676,
-            "age_hours": 129.9
-          },
-          {
-            "id": "3MVIk9uyOt0",
-            "title": "Cake वाले अंकल आए🍰😋 #youtubeshorts #shorts #cake #kajalsoni @K@Kajalsoni_vlogs",
-            "channel": "Kajal Soni",
-            "thumbnail": "https://i.ytimg.com/vi/3MVIk9uyOt0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=3MVIk9uyOt0",
-            "views": 15607886,
-            "age_hours": 177.9
-          }
-        ]
-      },
-      {
-        "phrase": "vivo x300 ultra",
-        "video_count": 2,
-        "momentum": 12.87,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "N3Jv_Fghc04",
-            "title": "OPPO Find X9 Ultra Vs vivo X300 Ultra | Who win's the Zoom Test?👀 #ZoomTest #FindX9Ultra #X300Ultra",
-            "channel": "Prasadtechintelugu",
-            "thumbnail": "https://i.ytimg.com/vi/N3Jv_Fghc04/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=N3Jv_Fghc04",
-            "views": 396268,
-            "age_hours": 25.6
-          },
-          {
-            "id": "BdJnasc-8yU",
-            "title": "🔥Vivo X300 Ultra Zoom Power",
-            "channel": "Mr Perfect Tech",
-            "thumbnail": "https://i.ytimg.com/vi/BdJnasc-8yU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BdJnasc-8yU",
-            "views": 1019211,
-            "age_hours": 319.1
-          }
-        ]
-      },
-      {
-        "phrase": "shorts love",
-        "video_count": 2,
-        "momentum": 12.45,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "u0rQ4Z3x56c",
-            "title": "மழை அடிக்கும் உன் சிரிப்பில் செடி முளைக்கும் நான் பூவாக🥰🥹 #shorts #love #family",
-            "channel": "With Love Nagaraj Sangeetha",
-            "thumbnail": "https://i.ytimg.com/vi/u0rQ4Z3x56c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=u0rQ4Z3x56c",
-            "views": 3220580,
-            "age_hours": 73.7
-          },
-          {
-            "id": "dBQjOxUhb7c",
-            "title": "இந்த வயசுல இப்படியொரு Presence of Mind-ஆ 🫂❤️ #vinothseetha #shorts #love",
-            "channel": "Vinoth Seetha",
-            "thumbnail": "https://i.ytimg.com/vi/dBQjOxUhb7c/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=dBQjOxUhb7c",
-            "views": 1995191,
-            "age_hours": 76.9
-          }
-        ]
-      }
-    ],
-    "CA": [],
     "BR": [
       {
         "phrase": "iphone",
-        "video_count": 5,
-        "momentum": 21.1,
+        "video_count": 6,
+        "momentum": 25.49,
         "regions": [
           "BR"
         ],
@@ -1673,8 +1407,8 @@
             "channel": "RC ASSISTEC ",
             "thumbnail": "https://i.ytimg.com/vi/dR2x7GdJW60/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dR2x7GdJW60",
-            "views": 635860,
-            "age_hours": 45.5
+            "views": 865654,
+            "age_hours": 50.8
           },
           {
             "id": "NNbBP60FaM0",
@@ -1682,8 +1416,8 @@
             "channel": "Amandinha",
             "thumbnail": "https://i.ytimg.com/vi/NNbBP60FaM0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=NNbBP60FaM0",
-            "views": 1076166,
-            "age_hours": 111.9
+            "views": 1100220,
+            "age_hours": 117.2
           },
           {
             "id": "6de0oKbha5A",
@@ -1691,53 +1425,158 @@
             "channel": "João Longo",
             "thumbnail": "https://i.ytimg.com/vi/6de0oKbha5A/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6de0oKbha5A",
-            "views": 1596867,
-            "age_hours": 286.4
+            "views": 1603440,
+            "age_hours": 291.7
           }
         ]
       },
       {
-        "phrase": "mundo",
-        "video_count": 4,
-        "momentum": 17.82,
+        "phrase": "amigos",
+        "video_count": 5,
+        "momentum": 24.31,
         "regions": [
           "BR"
         ],
         "lang": "pt",
         "example_videos": [
           {
-            "id": "IqfxEJtVDxo",
-            "title": "EU COMPREI UM BANHEIRO PÚBLICO, MAS EU TENHO OS CLIENTES MAIS NOJENTOS DO MUNDO!",
-            "channel": "Jazzghost",
-            "thumbnail": "https://i.ytimg.com/vi/IqfxEJtVDxo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=IqfxEJtVDxo",
-            "views": 787581,
-            "age_hours": 23.4
+            "id": "TocJoKqlvo4",
+            "title": "DEI UMA AULA PROS MEUS AMIGOS! - WORMS W.M.D COM OS AMIGOS",
+            "channel": "alanzoka",
+            "thumbnail": "https://i.ytimg.com/vi/TocJoKqlvo4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=TocJoKqlvo4",
+            "views": 101102,
+            "age_hours": 4.7
           },
           {
-            "id": "rX44Yk5QtVw",
-            "title": "MUNDO TORAJO NO MINECRAFT NUM BLOCO SÓ 2 !!! ⛄",
-            "channel": "Mundo Torajo Jovem",
-            "thumbnail": "https://i.ytimg.com/vi/rX44Yk5QtVw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=rX44Yk5QtVw",
-            "views": 186721,
-            "age_hours": 18.4
+            "id": "RrK-OvOA2wQ",
+            "title": "Usando Trapaças Esconde-Esconde com Meus Amigos!",
+            "channel": "ProbIems",
+            "thumbnail": "https://i.ytimg.com/vi/RrK-OvOA2wQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=RrK-OvOA2wQ",
+            "views": 223446,
+            "age_hours": 6.7
           },
           {
-            "id": "mpeVE-lXbr4",
-            "title": "JOGUEI O MODO COPA DO MUNDO NO FC 26 E AJUDEI O NEYMAR A TRAZER O HEXA! 🇧🇷🤩",
-            "channel": "RAFÃO",
-            "thumbnail": "https://i.ytimg.com/vi/mpeVE-lXbr4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=mpeVE-lXbr4",
-            "views": 70105,
-            "age_hours": 16.3
+            "id": "_Gyylk8dIlo",
+            "title": "1 BANCO! #shortvideo #viral #fyp #amigos#engraçado #explore #brincadeira #humor #videoviral",
+            "channel": "yuryago",
+            "thumbnail": "https://i.ytimg.com/vi/_Gyylk8dIlo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=_Gyylk8dIlo",
+            "views": 2025869,
+            "age_hours": 43.7
+          }
+        ]
+      },
+      {
+        "phrase": "brasil",
+        "video_count": 4,
+        "momentum": 18.6,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "AsAZl_r9njQ",
+            "title": "VOLTEI PROS EUA 🇺🇸 COMO ESTÁ MINHA CASA APÓS 40 DIAS NO BRASIL 🇧🇷 FIZ UM DESABAFO 😨😰",
+            "channel": "Ana landim",
+            "thumbnail": "https://i.ytimg.com/vi/AsAZl_r9njQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=AsAZl_r9njQ",
+            "views": 23471,
+            "age_hours": 5.2
+          },
+          {
+            "id": "6xd2ZoYhz1E",
+            "title": "Tire uma figurinha do Brasil e ganhe R$1.000 #2026convocados",
+            "channel": "NextlevelDJ | O moço do Te Amo",
+            "thumbnail": "https://i.ytimg.com/vi/6xd2ZoYhz1E/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6xd2ZoYhz1E",
+            "views": 5474748,
+            "age_hours": 164.4
+          },
+          {
+            "id": "jNmRsNMXPzc",
+            "title": "Por Que Decidi Voltar ao Brasil?",
+            "channel": "Hugo Corelli",
+            "thumbnail": "https://i.ytimg.com/vi/jNmRsNMXPzc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=jNmRsNMXPzc",
+            "views": 22343,
+            "age_hours": 45.7
+          }
+        ]
+      },
+      {
+        "phrase": "casa",
+        "video_count": 4,
+        "momentum": 15.27,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "AsAZl_r9njQ",
+            "title": "VOLTEI PROS EUA 🇺🇸 COMO ESTÁ MINHA CASA APÓS 40 DIAS NO BRASIL 🇧🇷 FIZ UM DESABAFO 😨😰",
+            "channel": "Ana landim",
+            "thumbnail": "https://i.ytimg.com/vi/AsAZl_r9njQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=AsAZl_r9njQ",
+            "views": 23471,
+            "age_hours": 5.2
+          },
+          {
+            "id": "9WSmvoZascg",
+            "title": "festa em casa, gravações e me passando muito! vlog ",
+            "channel": "Doarda",
+            "thumbnail": "https://i.ytimg.com/vi/9WSmvoZascg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=9WSmvoZascg",
+            "views": 91981,
+            "age_hours": 47.8
+          },
+          {
+            "id": "ucp9D9AXcW8",
+            "title": "ARRUMAMOS A FRENTE DA CASA E ESTA TUDO PERFEITO + OLHA O QUE ELA FEZ COMIGO 😭 ",
+            "channel": "SEGREDOS DA MA",
+            "thumbnail": "https://i.ytimg.com/vi/ucp9D9AXcW8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ucp9D9AXcW8",
+            "views": 81057,
+            "age_hours": 69.2
+          }
+        ]
+      },
+      {
+        "phrase": "meus amigos",
+        "video_count": 2,
+        "momentum": 13.83,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "TocJoKqlvo4",
+            "title": "DEI UMA AULA PROS MEUS AMIGOS! - WORMS W.M.D COM OS AMIGOS",
+            "channel": "alanzoka",
+            "thumbnail": "https://i.ytimg.com/vi/TocJoKqlvo4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=TocJoKqlvo4",
+            "views": 101102,
+            "age_hours": 4.7
+          },
+          {
+            "id": "RrK-OvOA2wQ",
+            "title": "Usando Trapaças Esconde-Esconde com Meus Amigos!",
+            "channel": "ProbIems",
+            "thumbnail": "https://i.ytimg.com/vi/RrK-OvOA2wQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=RrK-OvOA2wQ",
+            "views": 223446,
+            "age_hours": 6.7
           }
         ]
       },
       {
         "phrase": "shortsfeed filmsclips",
         "video_count": 2,
-        "momentum": 12.59,
+        "momentum": 12.57,
         "regions": [
           "BR"
         ],
@@ -1749,8 +1588,8 @@
             "channel": "SVO_FILME",
             "thumbnail": "https://i.ytimg.com/vi/238SAqDOiSs/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=238SAqDOiSs",
-            "views": 2807414,
-            "age_hours": 88.4
+            "views": 2928324,
+            "age_hours": 93.7
           },
           {
             "id": "nXhd0cI9Z_0",
@@ -1758,44 +1597,15 @@
             "channel": "SVO_FILME",
             "thumbnail": "https://i.ytimg.com/vi/nXhd0cI9Z_0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=nXhd0cI9Z_0",
-            "views": 4936762,
-            "age_hours": 160.6
-          }
-        ]
-      },
-      {
-        "phrase": "copa mundo",
-        "video_count": 2,
-        "momentum": 9.07,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "mpeVE-lXbr4",
-            "title": "JOGUEI O MODO COPA DO MUNDO NO FC 26 E AJUDEI O NEYMAR A TRAZER O HEXA! 🇧🇷🤩",
-            "channel": "RAFÃO",
-            "thumbnail": "https://i.ytimg.com/vi/mpeVE-lXbr4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=mpeVE-lXbr4",
-            "views": 70105,
-            "age_hours": 16.3
-          },
-          {
-            "id": "s0mtx7fYgEI",
-            "title": "JON VLOGS E 01 CONHECENDO A FABRICA DE FIGURINHAS DA COPA DO MUNDO PANINI",
-            "channel": "Lives do Jon",
-            "thumbnail": "https://i.ytimg.com/vi/s0mtx7fYgEI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=s0mtx7fYgEI",
-            "views": 159228,
-            "age_hours": 210.4
+            "views": 5014975,
+            "age_hours": 165.9
           }
         ]
       },
       {
         "phrase": "jon vlogs",
         "video_count": 2,
-        "momentum": 8.91,
+        "momentum": 8.86,
         "regions": [
           "BR"
         ],
@@ -1807,8 +1617,8 @@
             "channel": "Clipadas do Bonde do Jon",
             "thumbnail": "https://i.ytimg.com/vi/JtHfFxuRfkw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=JtHfFxuRfkw",
-            "views": 218443,
-            "age_hours": 64.9
+            "views": 221174,
+            "age_hours": 70.1
           },
           {
             "id": "s0mtx7fYgEI",
@@ -1816,209 +1626,55 @@
             "channel": "Lives do Jon",
             "thumbnail": "https://i.ytimg.com/vi/s0mtx7fYgEI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=s0mtx7fYgEI",
-            "views": 159228,
-            "age_hours": 210.4
+            "views": 160031,
+            "age_hours": 215.6
           }
         ]
       }
     ],
-    "GB": [],
-    "DE": [],
-    "ALL": [
+    "IN": [
       {
-        "phrase": "college football",
+        "phrase": "minecraft",
         "video_count": 4,
-        "momentum": 23.09,
+        "momentum": 18.76,
         "regions": [
-          "US"
+          "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "4hdImodqQks",
-            "title": "Madden 27 & College Football 27 | Opening Drive Official Reveal Event",
-            "channel": "EA SPORTS MADDEN NFL",
-            "thumbnail": "https://i.ytimg.com/vi/4hdImodqQks/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4hdImodqQks",
-            "views": 476904,
-            "age_hours": 12.4
+            "id": "G8axom7Gn4I",
+            "title": "WATER HOUSE BATTLE CHALLENGE IN MINECRAFT...",
+            "channel": "Karry Kraft",
+            "thumbnail": "https://i.ytimg.com/vi/G8axom7Gn4I/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=G8axom7Gn4I",
+            "views": 454085,
+            "age_hours": 7.8
           },
           {
-            "id": "a-JpwwMa5aM",
-            "title": "College Football 27 | Official Reveal Trailer | EA SPORTS",
-            "channel": "EA SPORTS College",
-            "thumbnail": "https://i.ytimg.com/vi/a-JpwwMa5aM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=a-JpwwMa5aM",
-            "views": 246071,
-            "age_hours": 14.2
+            "id": "ZquutYVCcNc",
+            "title": "Carry and Doorbin is No More in Minecraft..",
+            "channel": "Carry Depie",
+            "thumbnail": "https://i.ytimg.com/vi/ZquutYVCcNc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZquutYVCcNc",
+            "views": 1348461,
+            "age_hours": 32.2
           },
           {
-            "id": "wsUj-bNnGB4",
-            "title": "I Played College Football 27 Dynasty!",
-            "channel": "Bordeaux",
-            "thumbnail": "https://i.ytimg.com/vi/wsUj-bNnGB4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=wsUj-bNnGB4",
-            "views": 212058,
-            "age_hours": 11.9
-          }
-        ]
-      },
-      {
-        "phrase": "iphone",
-        "video_count": 5,
-        "momentum": 21.1,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "dR2x7GdJW60",
-            "title": "A folha encaixa na mordida ou não #iphone #apple #assistenciatecnica #tecnologia #entretenimento",
-            "channel": "RC ASSISTEC ",
-            "thumbnail": "https://i.ytimg.com/vi/dR2x7GdJW60/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=dR2x7GdJW60",
-            "views": 635860,
-            "age_hours": 45.5
-          },
-          {
-            "id": "NNbBP60FaM0",
-            "title": "Iphone 18 #shorts",
-            "channel": "Amandinha",
-            "thumbnail": "https://i.ytimg.com/vi/NNbBP60FaM0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NNbBP60FaM0",
-            "views": 1076166,
-            "age_hours": 111.9
-          },
-          {
-            "id": "6de0oKbha5A",
-            "title": "Troca somente do vidro iPhone 17 Pro Max!  Quanto você acha que eu cobrei por esse serviço?",
-            "channel": "João Longo",
-            "thumbnail": "https://i.ytimg.com/vi/6de0oKbha5A/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6de0oKbha5A",
-            "views": 1596867,
-            "age_hours": 286.4
-          }
-        ]
-      },
-      {
-        "phrase": "reveal",
-        "video_count": 4,
-        "momentum": 20.36,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "HLMX2w3cwuE",
-            "title": "God of War Laufey - Gameplay Reveal Trailer | PS5 Games",
-            "channel": "PlayStation",
-            "thumbnail": "https://i.ytimg.com/vi/HLMX2w3cwuE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=HLMX2w3cwuE",
-            "views": 5661678,
-            "age_hours": 64.2
-          },
-          {
-            "id": "45q18ujEYyk",
-            "title": "Thresh Gameplay Reveal Trailer | 2XKO",
-            "channel": "2XKO",
-            "thumbnail": "https://i.ytimg.com/vi/45q18ujEYyk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=45q18ujEYyk",
-            "views": 287276,
-            "age_hours": 23.4
-          },
-          {
-            "id": "4hdImodqQks",
-            "title": "Madden 27 & College Football 27 | Opening Drive Official Reveal Event",
-            "channel": "EA SPORTS MADDEN NFL",
-            "thumbnail": "https://i.ytimg.com/vi/4hdImodqQks/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4hdImodqQks",
-            "views": 476904,
-            "age_hours": 12.4
-          }
-        ]
-      },
-      {
-        "phrase": "reveal trailer",
-        "video_count": 3,
-        "momentum": 19.34,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "HLMX2w3cwuE",
-            "title": "God of War Laufey - Gameplay Reveal Trailer | PS5 Games",
-            "channel": "PlayStation",
-            "thumbnail": "https://i.ytimg.com/vi/HLMX2w3cwuE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=HLMX2w3cwuE",
-            "views": 5661678,
-            "age_hours": 64.2
-          },
-          {
-            "id": "45q18ujEYyk",
-            "title": "Thresh Gameplay Reveal Trailer | 2XKO",
-            "channel": "2XKO",
-            "thumbnail": "https://i.ytimg.com/vi/45q18ujEYyk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=45q18ujEYyk",
-            "views": 287276,
-            "age_hours": 23.4
-          },
-          {
-            "id": "a-JpwwMa5aM",
-            "title": "College Football 27 | Official Reveal Trailer | EA SPORTS",
-            "channel": "EA SPORTS College",
-            "thumbnail": "https://i.ytimg.com/vi/a-JpwwMa5aM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=a-JpwwMa5aM",
-            "views": 246071,
-            "age_hours": 14.2
-          }
-        ]
-      },
-      {
-        "phrase": "mundo",
-        "video_count": 4,
-        "momentum": 17.82,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "IqfxEJtVDxo",
-            "title": "EU COMPREI UM BANHEIRO PÚBLICO, MAS EU TENHO OS CLIENTES MAIS NOJENTOS DO MUNDO!",
-            "channel": "Jazzghost",
-            "thumbnail": "https://i.ytimg.com/vi/IqfxEJtVDxo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=IqfxEJtVDxo",
-            "views": 787581,
-            "age_hours": 23.4
-          },
-          {
-            "id": "rX44Yk5QtVw",
-            "title": "MUNDO TORAJO NO MINECRAFT NUM BLOCO SÓ 2 !!! ⛄",
-            "channel": "Mundo Torajo Jovem",
-            "thumbnail": "https://i.ytimg.com/vi/rX44Yk5QtVw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=rX44Yk5QtVw",
-            "views": 186721,
-            "age_hours": 18.4
-          },
-          {
-            "id": "mpeVE-lXbr4",
-            "title": "JOGUEI O MODO COPA DO MUNDO NO FC 26 E AJUDEI O NEYMAR A TRAZER O HEXA! 🇧🇷🤩",
-            "channel": "RAFÃO",
-            "thumbnail": "https://i.ytimg.com/vi/mpeVE-lXbr4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=mpeVE-lXbr4",
-            "views": 70105,
-            "age_hours": 16.3
+            "id": "HNGy38Y9nIE",
+            "title": "We Found a SECRET Underground Room in Minecraft! ",
+            "channel": "GAME THERAPIST",
+            "thumbnail": "https://i.ytimg.com/vi/HNGy38Y9nIE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=HNGy38Y9nIE",
+            "views": 102611,
+            "age_hours": 11.2
           }
         ]
       },
       {
         "phrase": "shorts youtubeshorts cricket",
         "video_count": 2,
-        "momentum": 17.71,
+        "momentum": 17.61,
         "regions": [
           "IN"
         ],
@@ -2030,8 +1686,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
-            "views": 5581932,
-            "age_hours": 82.9
+            "views": 5755503,
+            "age_hours": 88.2
           },
           {
             "id": "SoH0F6ZfbPY",
@@ -2039,15 +1695,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
-            "views": 7437746,
-            "age_hours": 34.9
+            "views": 8234760,
+            "age_hours": 40.2
           }
         ]
       },
       {
         "phrase": "youtubeshorts cricket unboxing",
         "video_count": 2,
-        "momentum": 17.71,
+        "momentum": 17.61,
         "regions": [
           "IN"
         ],
@@ -2059,8 +1715,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
-            "views": 5581932,
-            "age_hours": 82.9
+            "views": 5755503,
+            "age_hours": 88.2
           },
           {
             "id": "SoH0F6ZfbPY",
@@ -2068,15 +1724,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
-            "views": 7437746,
-            "age_hours": 34.9
+            "views": 8234760,
+            "age_hours": 40.2
           }
         ]
       },
       {
         "phrase": "cricket unboxing ball",
         "video_count": 2,
-        "momentum": 17.71,
+        "momentum": 17.61,
         "regions": [
           "IN"
         ],
@@ -2088,8 +1744,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
-            "views": 5581932,
-            "age_hours": 82.9
+            "views": 5755503,
+            "age_hours": 88.2
           },
           {
             "id": "SoH0F6ZfbPY",
@@ -2097,15 +1753,15 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
-            "views": 7437746,
-            "age_hours": 34.9
+            "views": 8234760,
+            "age_hours": 40.2
           }
         ]
       },
       {
         "phrase": "unboxing ball funny",
         "video_count": 2,
-        "momentum": 17.71,
+        "momentum": 17.61,
         "regions": [
           "IN"
         ],
@@ -2117,8 +1773,8 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
-            "views": 5581932,
-            "age_hours": 82.9
+            "views": 5755503,
+            "age_hours": 88.2
           },
           {
             "id": "SoH0F6ZfbPY",
@@ -2126,15 +1782,102 @@
             "channel": "Box Of Vengeance",
             "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
-            "views": 7437746,
-            "age_hours": 34.9
+            "views": 8234760,
+            "age_hours": 40.2
+          }
+        ]
+      },
+      {
+        "phrase": "hindi bmps survival",
+        "video_count": 2,
+        "momentum": 17.04,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "sLZtRgk3fVU",
+            "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 4 #BGMILIVE",
+            "channel": "KRAFTON INDIA ESPORTS",
+            "thumbnail": "https://i.ytimg.com/vi/sLZtRgk3fVU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=sLZtRgk3fVU",
+            "views": 2235337,
+            "age_hours": 3.5
+          },
+          {
+            "id": "9j3Dy7VoZFA",
+            "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 3 #BGMILIVE",
+            "channel": "KRAFTON INDIA ESPORTS",
+            "thumbnail": "https://i.ytimg.com/vi/9j3Dy7VoZFA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=9j3Dy7VoZFA",
+            "views": 2415466,
+            "age_hours": 28.7
+          }
+        ]
+      },
+      {
+        "phrase": "bmps survival stage",
+        "video_count": 2,
+        "momentum": 17.04,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "sLZtRgk3fVU",
+            "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 4 #BGMILIVE",
+            "channel": "KRAFTON INDIA ESPORTS",
+            "thumbnail": "https://i.ytimg.com/vi/sLZtRgk3fVU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=sLZtRgk3fVU",
+            "views": 2235337,
+            "age_hours": 3.5
+          },
+          {
+            "id": "9j3Dy7VoZFA",
+            "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 3 #BGMILIVE",
+            "channel": "KRAFTON INDIA ESPORTS",
+            "thumbnail": "https://i.ytimg.com/vi/9j3Dy7VoZFA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=9j3Dy7VoZFA",
+            "views": 2415466,
+            "age_hours": 28.7
+          }
+        ]
+      },
+      {
+        "phrase": "survival stage bgmilive",
+        "video_count": 2,
+        "momentum": 17.04,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "sLZtRgk3fVU",
+            "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 4 #BGMILIVE",
+            "channel": "KRAFTON INDIA ESPORTS",
+            "thumbnail": "https://i.ytimg.com/vi/sLZtRgk3fVU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=sLZtRgk3fVU",
+            "views": 2235337,
+            "age_hours": 3.5
+          },
+          {
+            "id": "9j3Dy7VoZFA",
+            "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 3 #BGMILIVE",
+            "channel": "KRAFTON INDIA ESPORTS",
+            "thumbnail": "https://i.ytimg.com/vi/9j3Dy7VoZFA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=9j3Dy7VoZFA",
+            "views": 2415466,
+            "age_hours": 28.7
           }
         ]
       },
       {
         "phrase": "tom jerry rithvi",
         "video_count": 2,
-        "momentum": 16.5,
+        "momentum": 16.53,
         "regions": [
           "IN"
         ],
@@ -2146,8 +1889,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 33803578,
-            "age_hours": 149.9
+            "views": 35304611,
+            "age_hours": 155.1
           },
           {
             "id": "OunGMq7s4_w",
@@ -2155,15 +1898,15 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-            "views": 4771751,
-            "age_hours": 29.9
+            "views": 6045560,
+            "age_hours": 35.2
           }
         ]
       },
       {
         "phrase": "jerry rithvi kavi",
         "video_count": 2,
-        "momentum": 16.5,
+        "momentum": 16.53,
         "regions": [
           "IN"
         ],
@@ -2175,8 +1918,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 33803578,
-            "age_hours": 149.9
+            "views": 35304611,
+            "age_hours": 155.1
           },
           {
             "id": "OunGMq7s4_w",
@@ -2184,15 +1927,15 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-            "views": 4771751,
-            "age_hours": 29.9
+            "views": 6045560,
+            "age_hours": 35.2
           }
         ]
       },
       {
         "phrase": "rithvi kavi real",
         "video_count": 2,
-        "momentum": 16.5,
+        "momentum": 16.53,
         "regions": [
           "IN"
         ],
@@ -2204,8 +1947,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 33803578,
-            "age_hours": 149.9
+            "views": 35304611,
+            "age_hours": 155.1
           },
           {
             "id": "OunGMq7s4_w",
@@ -2213,15 +1956,15 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-            "views": 4771751,
-            "age_hours": 29.9
+            "views": 6045560,
+            "age_hours": 35.2
           }
         ]
       },
       {
         "phrase": "kavi real end",
         "video_count": 2,
-        "momentum": 16.5,
+        "momentum": 16.53,
         "regions": [
           "IN"
         ],
@@ -2233,8 +1976,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 33803578,
-            "age_hours": 149.9
+            "views": 35304611,
+            "age_hours": 155.1
           },
           {
             "id": "OunGMq7s4_w",
@@ -2242,15 +1985,15 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-            "views": 4771751,
-            "age_hours": 29.9
+            "views": 6045560,
+            "age_hours": 35.2
           }
         ]
       },
       {
         "phrase": "real end twist",
         "video_count": 2,
-        "momentum": 16.5,
+        "momentum": 16.53,
         "regions": [
           "IN"
         ],
@@ -2262,8 +2005,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 33803578,
-            "age_hours": 149.9
+            "views": 35304611,
+            "age_hours": 155.1
           },
           {
             "id": "OunGMq7s4_w",
@@ -2271,15 +2014,15 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-            "views": 4771751,
-            "age_hours": 29.9
+            "views": 6045560,
+            "age_hours": 35.2
           }
         ]
       },
       {
         "phrase": "end twist shorts",
         "video_count": 2,
-        "momentum": 16.5,
+        "momentum": 16.53,
         "regions": [
           "IN"
         ],
@@ -2291,8 +2034,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
-            "views": 33803578,
-            "age_hours": 149.9
+            "views": 35304611,
+            "age_hours": 155.1
           },
           {
             "id": "OunGMq7s4_w",
@@ -2300,44 +2043,15 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
-            "views": 4771751,
-            "age_hours": 29.9
-          }
-        ]
-      },
-      {
-        "phrase": "gameplay reveal trailer",
-        "video_count": 2,
-        "momentum": 16.07,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "HLMX2w3cwuE",
-            "title": "God of War Laufey - Gameplay Reveal Trailer | PS5 Games",
-            "channel": "PlayStation",
-            "thumbnail": "https://i.ytimg.com/vi/HLMX2w3cwuE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=HLMX2w3cwuE",
-            "views": 5661678,
-            "age_hours": 64.2
-          },
-          {
-            "id": "45q18ujEYyk",
-            "title": "Thresh Gameplay Reveal Trailer | 2XKO",
-            "channel": "2XKO",
-            "thumbnail": "https://i.ytimg.com/vi/45q18ujEYyk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=45q18ujEYyk",
-            "views": 287276,
-            "age_hours": 23.4
+            "views": 6045560,
+            "age_hours": 35.2
           }
         ]
       },
       {
         "phrase": "vivo x300",
         "video_count": 3,
-        "momentum": 15.97,
+        "momentum": 15.93,
         "regions": [
           "IN"
         ],
@@ -2349,8 +2063,8 @@
             "channel": "Prasadtechintelugu",
             "thumbnail": "https://i.ytimg.com/vi/N3Jv_Fghc04/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=N3Jv_Fghc04",
-            "views": 396268,
-            "age_hours": 25.6
+            "views": 472894,
+            "age_hours": 30.9
           },
           {
             "id": "33mnHqHwKUM",
@@ -2358,8 +2072,8 @@
             "channel": "Rj Mobile 01",
             "thumbnail": "https://i.ytimg.com/vi/33mnHqHwKUM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=33mnHqHwKUM",
-            "views": 1829916,
-            "age_hours": 227.9
+            "views": 1889794,
+            "age_hours": 233.2
           },
           {
             "id": "BdJnasc-8yU",
@@ -2367,37 +2081,684 @@
             "channel": "Mr Perfect Tech",
             "thumbnail": "https://i.ytimg.com/vi/BdJnasc-8yU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BdJnasc-8yU",
-            "views": 1019211,
-            "age_hours": 319.1
+            "views": 1024504,
+            "age_hours": 324.4
           }
         ]
       },
       {
-        "phrase": "i played college",
+        "phrase": "free fire",
         "video_count": 2,
-        "momentum": 13.25,
+        "momentum": 13.4,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "iu2wswvMMJ0",
+            "title": "I GOT ALL RARE JERSEYS IN FREE FIRE",
+            "channel": "SATVIK",
+            "thumbnail": "https://i.ytimg.com/vi/iu2wswvMMJ0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iu2wswvMMJ0",
+            "views": 485054,
+            "age_hours": 8.0
+          },
+          {
+            "id": "5xR9k5TIwv0",
+            "title": "🔴[Live Free Fire New Rank Season Rank Push Live !!",
+            "channel": "VISHNU RAJPUT GAMING",
+            "thumbnail": "https://i.ytimg.com/vi/5xR9k5TIwv0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5xR9k5TIwv0",
+            "views": 513270,
+            "age_hours": 6.3
+          }
+        ]
+      },
+      {
+        "phrase": "kajalsoni vlogs",
+        "video_count": 2,
+        "momentum": 13.04,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "mL0hZ6-vkBg",
+            "title": "Car wash करके आया मजा🚘😂 #youtubeshorts #shorts #car #kajalsoni @Kaj@Kajalsoni_vlogs",
+            "channel": "Kajal Soni",
+            "thumbnail": "https://i.ytimg.com/vi/mL0hZ6-vkBg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mL0hZ6-vkBg",
+            "views": 22166128,
+            "age_hours": 135.2
+          },
+          {
+            "id": "3MVIk9uyOt0",
+            "title": "Cake वाले अंकल आए🍰😋 #youtubeshorts #shorts #cake #kajalsoni @K@Kajalsoni_vlogs",
+            "channel": "Kajal Soni",
+            "thumbnail": "https://i.ytimg.com/vi/3MVIk9uyOt0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3MVIk9uyOt0",
+            "views": 15687448,
+            "age_hours": 183.2
+          }
+        ]
+      },
+      {
+        "phrase": "vivo x300 ultra",
+        "video_count": 2,
+        "momentum": 12.82,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "N3Jv_Fghc04",
+            "title": "OPPO Find X9 Ultra Vs vivo X300 Ultra | Who win's the Zoom Test?👀 #ZoomTest #FindX9Ultra #X300Ultra",
+            "channel": "Prasadtechintelugu",
+            "thumbnail": "https://i.ytimg.com/vi/N3Jv_Fghc04/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=N3Jv_Fghc04",
+            "views": 472894,
+            "age_hours": 30.9
+          },
+          {
+            "id": "BdJnasc-8yU",
+            "title": "🔥Vivo X300 Ultra Zoom Power",
+            "channel": "Mr Perfect Tech",
+            "thumbnail": "https://i.ytimg.com/vi/BdJnasc-8yU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BdJnasc-8yU",
+            "views": 1024504,
+            "age_hours": 324.4
+          }
+        ]
+      }
+    ],
+    "CA": [],
+    "DE": [],
+    "ALL": [
+      {
+        "phrase": "iphone",
+        "video_count": 6,
+        "momentum": 25.49,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "dR2x7GdJW60",
+            "title": "A folha encaixa na mordida ou não #iphone #apple #assistenciatecnica #tecnologia #entretenimento",
+            "channel": "RC ASSISTEC ",
+            "thumbnail": "https://i.ytimg.com/vi/dR2x7GdJW60/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=dR2x7GdJW60",
+            "views": 865654,
+            "age_hours": 50.8
+          },
+          {
+            "id": "NNbBP60FaM0",
+            "title": "Iphone 18 #shorts",
+            "channel": "Amandinha",
+            "thumbnail": "https://i.ytimg.com/vi/NNbBP60FaM0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=NNbBP60FaM0",
+            "views": 1100220,
+            "age_hours": 117.2
+          },
+          {
+            "id": "6de0oKbha5A",
+            "title": "Troca somente do vidro iPhone 17 Pro Max!  Quanto você acha que eu cobrei por esse serviço?",
+            "channel": "João Longo",
+            "thumbnail": "https://i.ytimg.com/vi/6de0oKbha5A/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6de0oKbha5A",
+            "views": 1603440,
+            "age_hours": 291.7
+          }
+        ]
+      },
+      {
+        "phrase": "amigos",
+        "video_count": 5,
+        "momentum": 24.31,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "TocJoKqlvo4",
+            "title": "DEI UMA AULA PROS MEUS AMIGOS! - WORMS W.M.D COM OS AMIGOS",
+            "channel": "alanzoka",
+            "thumbnail": "https://i.ytimg.com/vi/TocJoKqlvo4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=TocJoKqlvo4",
+            "views": 101102,
+            "age_hours": 4.7
+          },
+          {
+            "id": "RrK-OvOA2wQ",
+            "title": "Usando Trapaças Esconde-Esconde com Meus Amigos!",
+            "channel": "ProbIems",
+            "thumbnail": "https://i.ytimg.com/vi/RrK-OvOA2wQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=RrK-OvOA2wQ",
+            "views": 223446,
+            "age_hours": 6.7
+          },
+          {
+            "id": "_Gyylk8dIlo",
+            "title": "1 BANCO! #shortvideo #viral #fyp #amigos#engraçado #explore #brincadeira #humor #videoviral",
+            "channel": "yuryago",
+            "thumbnail": "https://i.ytimg.com/vi/_Gyylk8dIlo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=_Gyylk8dIlo",
+            "views": 2025869,
+            "age_hours": 43.7
+          }
+        ]
+      },
+      {
+        "phrase": "college football",
+        "video_count": 4,
+        "momentum": 22.57,
         "regions": [
           "US"
         ],
         "lang": "en",
         "example_videos": [
           {
+            "id": "4hdImodqQks",
+            "title": "Madden 27 & College Football 27 | Opening Drive Official Reveal Event",
+            "channel": "EA SPORTS MADDEN NFL",
+            "thumbnail": "https://i.ytimg.com/vi/4hdImodqQks/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4hdImodqQks",
+            "views": 508221,
+            "age_hours": 17.6
+          },
+          {
+            "id": "a-JpwwMa5aM",
+            "title": "College Football 27 | Official Reveal Trailer | EA SPORTS",
+            "channel": "EA SPORTS College",
+            "thumbnail": "https://i.ytimg.com/vi/a-JpwwMa5aM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=a-JpwwMa5aM",
+            "views": 300975,
+            "age_hours": 19.5
+          },
+          {
             "id": "wsUj-bNnGB4",
             "title": "I Played College Football 27 Dynasty!",
             "channel": "Bordeaux",
             "thumbnail": "https://i.ytimg.com/vi/wsUj-bNnGB4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=wsUj-bNnGB4",
-            "views": 212058,
-            "age_hours": 11.9
+            "views": 256130,
+            "age_hours": 17.1
+          }
+        ]
+      },
+      {
+        "phrase": "reveal",
+        "video_count": 4,
+        "momentum": 19.98,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "HLMX2w3cwuE",
+            "title": "God of War Laufey - Gameplay Reveal Trailer | PS5 Games",
+            "channel": "PlayStation",
+            "thumbnail": "https://i.ytimg.com/vi/HLMX2w3cwuE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=HLMX2w3cwuE",
+            "views": 5790891,
+            "age_hours": 69.5
           },
           {
-            "id": "ONYmmPgDP8k",
-            "title": "I Played College Football 27 Early, Here's What Changed",
-            "channel": "Civil",
-            "thumbnail": "https://i.ytimg.com/vi/ONYmmPgDP8k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ONYmmPgDP8k",
-            "views": 85146,
-            "age_hours": 13.4
+            "id": "45q18ujEYyk",
+            "title": "Thresh Gameplay Reveal Trailer | 2XKO",
+            "channel": "2XKO",
+            "thumbnail": "https://i.ytimg.com/vi/45q18ujEYyk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=45q18ujEYyk",
+            "views": 301855,
+            "age_hours": 28.7
+          },
+          {
+            "id": "4hdImodqQks",
+            "title": "Madden 27 & College Football 27 | Opening Drive Official Reveal Event",
+            "channel": "EA SPORTS MADDEN NFL",
+            "thumbnail": "https://i.ytimg.com/vi/4hdImodqQks/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4hdImodqQks",
+            "views": 508221,
+            "age_hours": 17.6
+          }
+        ]
+      },
+      {
+        "phrase": "reveal trailer",
+        "video_count": 3,
+        "momentum": 19.05,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "HLMX2w3cwuE",
+            "title": "God of War Laufey - Gameplay Reveal Trailer | PS5 Games",
+            "channel": "PlayStation",
+            "thumbnail": "https://i.ytimg.com/vi/HLMX2w3cwuE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=HLMX2w3cwuE",
+            "views": 5790891,
+            "age_hours": 69.5
+          },
+          {
+            "id": "45q18ujEYyk",
+            "title": "Thresh Gameplay Reveal Trailer | 2XKO",
+            "channel": "2XKO",
+            "thumbnail": "https://i.ytimg.com/vi/45q18ujEYyk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=45q18ujEYyk",
+            "views": 301855,
+            "age_hours": 28.7
+          },
+          {
+            "id": "a-JpwwMa5aM",
+            "title": "College Football 27 | Official Reveal Trailer | EA SPORTS",
+            "channel": "EA SPORTS College",
+            "thumbnail": "https://i.ytimg.com/vi/a-JpwwMa5aM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=a-JpwwMa5aM",
+            "views": 300975,
+            "age_hours": 19.5
+          }
+        ]
+      },
+      {
+        "phrase": "minecraft",
+        "video_count": 4,
+        "momentum": 18.76,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "G8axom7Gn4I",
+            "title": "WATER HOUSE BATTLE CHALLENGE IN MINECRAFT...",
+            "channel": "Karry Kraft",
+            "thumbnail": "https://i.ytimg.com/vi/G8axom7Gn4I/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=G8axom7Gn4I",
+            "views": 454085,
+            "age_hours": 7.8
+          },
+          {
+            "id": "ZquutYVCcNc",
+            "title": "Carry and Doorbin is No More in Minecraft..",
+            "channel": "Carry Depie",
+            "thumbnail": "https://i.ytimg.com/vi/ZquutYVCcNc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZquutYVCcNc",
+            "views": 1348461,
+            "age_hours": 32.2
+          },
+          {
+            "id": "HNGy38Y9nIE",
+            "title": "We Found a SECRET Underground Room in Minecraft! ",
+            "channel": "GAME THERAPIST",
+            "thumbnail": "https://i.ytimg.com/vi/HNGy38Y9nIE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=HNGy38Y9nIE",
+            "views": 102611,
+            "age_hours": 11.2
+          }
+        ]
+      },
+      {
+        "phrase": "brasil",
+        "video_count": 4,
+        "momentum": 18.6,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "AsAZl_r9njQ",
+            "title": "VOLTEI PROS EUA 🇺🇸 COMO ESTÁ MINHA CASA APÓS 40 DIAS NO BRASIL 🇧🇷 FIZ UM DESABAFO 😨😰",
+            "channel": "Ana landim",
+            "thumbnail": "https://i.ytimg.com/vi/AsAZl_r9njQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=AsAZl_r9njQ",
+            "views": 23471,
+            "age_hours": 5.2
+          },
+          {
+            "id": "6xd2ZoYhz1E",
+            "title": "Tire uma figurinha do Brasil e ganhe R$1.000 #2026convocados",
+            "channel": "NextlevelDJ | O moço do Te Amo",
+            "thumbnail": "https://i.ytimg.com/vi/6xd2ZoYhz1E/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6xd2ZoYhz1E",
+            "views": 5474748,
+            "age_hours": 164.4
+          },
+          {
+            "id": "jNmRsNMXPzc",
+            "title": "Por Que Decidi Voltar ao Brasil?",
+            "channel": "Hugo Corelli",
+            "thumbnail": "https://i.ytimg.com/vi/jNmRsNMXPzc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=jNmRsNMXPzc",
+            "views": 22343,
+            "age_hours": 45.7
+          }
+        ]
+      },
+      {
+        "phrase": "shorts youtubeshorts cricket",
+        "video_count": 2,
+        "momentum": 17.61,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "EHuu_CciZ64",
+            "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
+            "views": 5755503,
+            "age_hours": 88.2
+          },
+          {
+            "id": "SoH0F6ZfbPY",
+            "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
+            "views": 8234760,
+            "age_hours": 40.2
+          }
+        ]
+      },
+      {
+        "phrase": "youtubeshorts cricket unboxing",
+        "video_count": 2,
+        "momentum": 17.61,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "EHuu_CciZ64",
+            "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
+            "views": 5755503,
+            "age_hours": 88.2
+          },
+          {
+            "id": "SoH0F6ZfbPY",
+            "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
+            "views": 8234760,
+            "age_hours": 40.2
+          }
+        ]
+      },
+      {
+        "phrase": "cricket unboxing ball",
+        "video_count": 2,
+        "momentum": 17.61,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "EHuu_CciZ64",
+            "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
+            "views": 5755503,
+            "age_hours": 88.2
+          },
+          {
+            "id": "SoH0F6ZfbPY",
+            "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
+            "views": 8234760,
+            "age_hours": 40.2
+          }
+        ]
+      },
+      {
+        "phrase": "unboxing ball funny",
+        "video_count": 2,
+        "momentum": 17.61,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "EHuu_CciZ64",
+            "title": "KUTTA BALL 🐶⚾ #shorts #youtubeshorts #cricket #unboxing #ball #funny #boxofvengeance",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
+            "views": 5755503,
+            "age_hours": 88.2
+          },
+          {
+            "id": "SoH0F6ZfbPY",
+            "title": "JOLO CHIP POORA KHA GAYA!🌶️🍪🥵 #shorts #youtubeshorts #cricket #unboxing #ball #funny",
+            "channel": "Box Of Vengeance",
+            "thumbnail": "https://i.ytimg.com/vi/SoH0F6ZfbPY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=SoH0F6ZfbPY",
+            "views": 8234760,
+            "age_hours": 40.2
+          }
+        ]
+      },
+      {
+        "phrase": "hindi bmps survival",
+        "video_count": 2,
+        "momentum": 17.04,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "sLZtRgk3fVU",
+            "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 4 #BGMILIVE",
+            "channel": "KRAFTON INDIA ESPORTS",
+            "thumbnail": "https://i.ytimg.com/vi/sLZtRgk3fVU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=sLZtRgk3fVU",
+            "views": 2235337,
+            "age_hours": 3.5
+          },
+          {
+            "id": "9j3Dy7VoZFA",
+            "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 3 #BGMILIVE",
+            "channel": "KRAFTON INDIA ESPORTS",
+            "thumbnail": "https://i.ytimg.com/vi/9j3Dy7VoZFA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=9j3Dy7VoZFA",
+            "views": 2415466,
+            "age_hours": 28.7
+          }
+        ]
+      },
+      {
+        "phrase": "bmps survival stage",
+        "video_count": 2,
+        "momentum": 17.04,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "sLZtRgk3fVU",
+            "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 4 #BGMILIVE",
+            "channel": "KRAFTON INDIA ESPORTS",
+            "thumbnail": "https://i.ytimg.com/vi/sLZtRgk3fVU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=sLZtRgk3fVU",
+            "views": 2235337,
+            "age_hours": 3.5
+          },
+          {
+            "id": "9j3Dy7VoZFA",
+            "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 3 #BGMILIVE",
+            "channel": "KRAFTON INDIA ESPORTS",
+            "thumbnail": "https://i.ytimg.com/vi/9j3Dy7VoZFA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=9j3Dy7VoZFA",
+            "views": 2415466,
+            "age_hours": 28.7
+          }
+        ]
+      },
+      {
+        "phrase": "survival stage bgmilive",
+        "video_count": 2,
+        "momentum": 17.04,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "sLZtRgk3fVU",
+            "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 4 #BGMILIVE",
+            "channel": "KRAFTON INDIA ESPORTS",
+            "thumbnail": "https://i.ytimg.com/vi/sLZtRgk3fVU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=sLZtRgk3fVU",
+            "views": 2235337,
+            "age_hours": 3.5
+          },
+          {
+            "id": "9j3Dy7VoZFA",
+            "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 3 #BGMILIVE",
+            "channel": "KRAFTON INDIA ESPORTS",
+            "thumbnail": "https://i.ytimg.com/vi/9j3Dy7VoZFA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=9j3Dy7VoZFA",
+            "views": 2415466,
+            "age_hours": 28.7
+          }
+        ]
+      },
+      {
+        "phrase": "tom jerry rithvi",
+        "video_count": 2,
+        "momentum": 16.53,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "dni8n9j1sgw",
+            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+            "channel": "KL BRO Biju Rithvik",
+            "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
+            "views": 35304611,
+            "age_hours": 155.1
+          },
+          {
+            "id": "OunGMq7s4_w",
+            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+            "channel": "KL BRO Biju Rithvik",
+            "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
+            "views": 6045560,
+            "age_hours": 35.2
+          }
+        ]
+      },
+      {
+        "phrase": "jerry rithvi kavi",
+        "video_count": 2,
+        "momentum": 16.53,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "dni8n9j1sgw",
+            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+            "channel": "KL BRO Biju Rithvik",
+            "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
+            "views": 35304611,
+            "age_hours": 155.1
+          },
+          {
+            "id": "OunGMq7s4_w",
+            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+            "channel": "KL BRO Biju Rithvik",
+            "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
+            "views": 6045560,
+            "age_hours": 35.2
+          }
+        ]
+      },
+      {
+        "phrase": "rithvi kavi real",
+        "video_count": 2,
+        "momentum": 16.53,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "dni8n9j1sgw",
+            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+            "channel": "KL BRO Biju Rithvik",
+            "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
+            "views": 35304611,
+            "age_hours": 155.1
+          },
+          {
+            "id": "OunGMq7s4_w",
+            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+            "channel": "KL BRO Biju Rithvik",
+            "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
+            "views": 6045560,
+            "age_hours": 35.2
+          }
+        ]
+      },
+      {
+        "phrase": "kavi real end",
+        "video_count": 2,
+        "momentum": 16.53,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "dni8n9j1sgw",
+            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+            "channel": "KL BRO Biju Rithvik",
+            "thumbnail": "https://i.ytimg.com/vi/dni8n9j1sgw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=dni8n9j1sgw",
+            "views": 35304611,
+            "age_hours": 155.1
+          },
+          {
+            "id": "OunGMq7s4_w",
+            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+            "channel": "KL BRO Biju Rithvik",
+            "thumbnail": "https://i.ytimg.com/vi/OunGMq7s4_w/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=OunGMq7s4_w",
+            "views": 6045560,
+            "age_hours": 35.2
           }
         ]
       }
@@ -2405,87 +2766,87 @@
   },
   "trending_searches": [
     {
-      "phrase": "why do birds suddenly appear",
-      "prefix": "why do",
-      "rank": 1,
-      "first_seen_at": "2026-06-05T14:26:06.869403+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what happened to virgil",
-      "prefix": "what happened",
-      "rank": 1,
-      "first_seen_at": "2026-06-05T14:26:06.869403+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "topoppgen",
-      "prefix": "top",
-      "rank": 1,
-      "first_seen_at": "2026-06-05T14:26:06.869403+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "is it a crime mariah the scientist",
-      "prefix": "is it",
-      "rank": 1,
-      "first_seen_at": "2026-06-05T14:26:06.869403+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "should i stay or should i go",
-      "prefix": "should i",
-      "rank": 1,
-      "first_seen_at": "2026-06-05T14:26:06.869403+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how to draw",
+      "phrase": "how to tie a tie",
       "prefix": "how to",
-      "rank": 2,
-      "first_seen_at": "2026-06-05T14:26:06.869403+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-06-05T19:42:13.983043+00:00",
       "is_new": true
     },
     {
-      "phrase": "how does it feel",
+      "phrase": "how do i say goodbye dean lewis",
+      "prefix": "how do",
+      "rank": 1,
+      "first_seen_at": "2026-06-05T19:42:13.983043+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how does it feel d'angelo",
       "prefix": "how does",
-      "rank": 2,
-      "first_seen_at": "2026-06-05T14:26:06.869403+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-06-05T19:42:13.983043+00:00",
       "is_new": true
     },
     {
-      "phrase": "why is my bus driver playing mitski",
+      "phrase": "why is it spicy",
       "prefix": "why is",
-      "rank": 2,
-      "first_seen_at": "2026-06-05T14:26:06.869403+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-06-05T19:42:13.983043+00:00",
       "is_new": true
     },
     {
-      "phrase": "why don't we fall in love",
-      "prefix": "why do",
-      "rank": 2,
-      "first_seen_at": "2026-06-05T14:26:06.869403+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why does it hurt to love you",
+      "phrase": "why does he call you darling",
       "prefix": "why does",
-      "rank": 2,
-      "first_seen_at": "2026-06-05T14:26:06.869403+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-06-05T19:42:13.983043+00:00",
       "is_new": true
     },
     {
-      "phrase": "what is love",
+      "phrase": "what is this diddy blud doing on the calculator",
       "prefix": "what is",
-      "rank": 2,
-      "first_seen_at": "2026-06-05T14:26:06.869403+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-06-05T19:42:13.983043+00:00",
       "is_new": true
     },
     {
-      "phrase": "what are you doing",
+      "phrase": "what are you listening to chris stapleton",
       "prefix": "what are",
+      "rank": 1,
+      "first_seen_at": "2026-06-05T19:42:13.983043+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "best build 2k26",
+      "prefix": "best",
+      "rank": 1,
+      "first_seen_at": "2026-06-05T19:42:13.983043+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "worst way riley green",
+      "prefix": "worst",
+      "rank": 1,
+      "first_seen_at": "2026-06-05T19:42:13.983043+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "can you stand the rain new edition",
+      "prefix": "can you",
+      "rank": 1,
+      "first_seen_at": "2026-06-05T19:42:13.983043+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what happened to that boy",
+      "prefix": "what happened",
       "rank": 2,
-      "first_seen_at": "2026-06-05T14:26:06.869403+00:00",
+      "first_seen_at": "2026-06-05T19:42:13.983043+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "best part",
+      "prefix": "best",
+      "rank": 2,
+      "first_seen_at": "2026-06-05T19:42:13.983043+00:00",
       "is_new": true
     }
   ],
@@ -2498,14 +2859,33 @@
       "thumbnail": "https://i.ytimg.com/vi/Zv6JKobJyFY/mqdefault.jpg",
       "published_at": "2026-06-04T15:00:01Z",
       "category_id": "10",
-      "views": 2641370,
-      "likes": 556152,
-      "comments": 23500,
-      "age_hours": 23.4,
-      "views_per_hour": 112728,
-      "momentum": 7.629,
+      "views": 2975246,
+      "likes": 584866,
+      "comments": 23997,
+      "age_hours": 28.7,
+      "views_per_hour": 103665,
+      "momentum": 7.392,
       "url": "https://www.youtube.com/watch?v=Zv6JKobJyFY",
       "region": "US",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "UUGGRIaVfds",
+      "title": "Electric Callboy feat. The Offspring - LET THE GOOD TIMES ROLL (OFFICIAL VIDEO)",
+      "channel": "Electric Callboy",
+      "channel_id": "UCAR30oDTNbJE-Zd2NDg1mTQ",
+      "thumbnail": "https://i.ytimg.com/vi/UUGGRIaVfds/mqdefault.jpg",
+      "published_at": "2026-06-05T16:00:06Z",
+      "category_id": "10",
+      "views": 87366,
+      "likes": 20412,
+      "comments": 1175,
+      "age_hours": 3.7,
+      "views_per_hour": 23615,
+      "momentum": 7.005,
+      "url": "https://www.youtube.com/watch?v=UUGGRIaVfds",
+      "region": "GB",
       "category": "Other",
       "_detected_lang": "en"
     },
@@ -2517,91 +2897,72 @@
       "thumbnail": "https://i.ytimg.com/vi/vrY1THC_NQE/mqdefault.jpg",
       "published_at": "2026-06-01T15:00:06Z",
       "category_id": "20",
-      "views": 21788922,
-      "likes": 2036209,
-      "comments": 125645,
-      "age_hours": 95.4,
-      "views_per_hour": 228321,
-      "momentum": 6.669,
+      "views": 23082429,
+      "likes": 2107118,
+      "comments": 129300,
+      "age_hours": 100.7,
+      "views_per_hour": 229219,
+      "momentum": 6.639,
       "url": "https://www.youtube.com/watch?v=vrY1THC_NQE",
       "region": "AU",
       "category": "Gaming",
       "_detected_lang": "en"
     },
     {
-      "id": "ujvSfYgnFGQ",
-      "title": "I REVISITED MY CAR FOR SALE WORLD AFTER 2 YEARS 🤑| EXPENSIVE",
-      "channel": "NotGamerFleet",
-      "channel_id": "UCHciekxM6H6F3OTPrHs6B5g",
-      "thumbnail": "https://i.ytimg.com/vi/ujvSfYgnFGQ/mqdefault.jpg",
-      "published_at": "2026-06-05T09:32:49Z",
+      "id": "41IuDfMOSNU",
+      "title": "World Cup Cake",
+      "channel": "Nick DiGiovanni",
+      "channel_id": "UCMyOj6fhvKFMjxUCp3b_3gA",
+      "thumbnail": "https://i.ytimg.com/vi/41IuDfMOSNU/mqdefault.jpg",
+      "published_at": "2026-06-04T16:00:28Z",
+      "category_id": "22",
+      "views": 6455789,
+      "likes": 360110,
+      "comments": 71974,
+      "age_hours": 27.7,
+      "views_per_hour": 233117,
+      "momentum": 6.565,
+      "url": "https://www.youtube.com/watch?v=41IuDfMOSNU",
+      "region": "US",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "5dz1m1BjjUw",
+      "title": "EU SÓ QUERIA VENDER MIOJO, MAS AGORA EU CORRO RISCO DE VIDA!",
+      "channel": "Jazzghost",
+      "channel_id": "UCIXguhHCl8eDTkXpEuiGPUA",
+      "thumbnail": "https://i.ytimg.com/vi/5dz1m1BjjUw/mqdefault.jpg",
+      "published_at": "2026-06-05T15:00:24Z",
       "category_id": "20",
-      "views": 237185,
-      "likes": 32193,
-      "comments": 2941,
-      "age_hours": 4.9,
-      "views_per_hour": 48542,
-      "momentum": 6.539,
-      "url": "https://www.youtube.com/watch?v=ujvSfYgnFGQ",
-      "region": "IN",
+      "views": 440745,
+      "likes": 45571,
+      "comments": 3308,
+      "age_hours": 4.7,
+      "views_per_hour": 93855,
+      "momentum": 6.374,
+      "url": "https://www.youtube.com/watch?v=5dz1m1BjjUw",
+      "region": "BR",
       "category": "Gaming",
-      "_detected_lang": "en"
+      "_detected_lang": "pt"
     },
     {
-      "id": "Ysm6dZzcOVQ",
-      "title": "HIMRA - YOUNG RICH PAPI Feat LETO (Clip Officiel)",
-      "channel": "Himra officiel",
-      "channel_id": "UCck5J0M6YKnXCrnuXkCFuvw",
-      "thumbnail": "https://i.ytimg.com/vi/Ysm6dZzcOVQ/mqdefault.jpg",
-      "published_at": "2026-06-04T16:00:36Z",
-      "category_id": "10",
-      "views": 563192,
-      "likes": 85872,
-      "comments": 9616,
-      "age_hours": 22.4,
-      "views_per_hour": 25117,
-      "momentum": 6.493,
-      "url": "https://www.youtube.com/watch?v=Ysm6dZzcOVQ",
-      "region": "CA",
-      "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "SzJXikN_4wA",
-      "title": "I Knew It, I Knew You",
-      "channel": "Taylor Swift - Topic",
-      "channel_id": "UCPC0L1d253x-KuMNwa05TpA",
-      "thumbnail": "https://i.ytimg.com/vi/SzJXikN_4wA/mqdefault.jpg",
-      "published_at": "2026-06-05T04:00:37Z",
-      "category_id": "10",
-      "views": 787656,
-      "likes": 85542,
-      "comments": 5531,
-      "age_hours": 10.4,
-      "views_per_hour": 75581,
-      "momentum": 6.281,
-      "url": "https://www.youtube.com/watch?v=SzJXikN_4wA",
-      "region": "US",
-      "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "Qw20tg1v7Fc",
-      "title": "Steve Lacy - the feeling (Official Video)",
-      "channel": "SteveLacyVEVO",
-      "channel_id": "UChCMVp55cauuO3-yF9OMl0A",
-      "thumbnail": "https://i.ytimg.com/vi/Qw20tg1v7Fc/mqdefault.jpg",
-      "published_at": "2026-06-05T04:00:19Z",
-      "category_id": "10",
-      "views": 107562,
-      "likes": 19678,
-      "comments": 2000,
-      "age_hours": 10.4,
-      "views_per_hour": 10316,
-      "momentum": 6.228,
-      "url": "https://www.youtube.com/watch?v=Qw20tg1v7Fc",
-      "region": "US",
-      "category": "Other",
+      "id": "E1NthB5wQ1w",
+      "title": "Don't Eat The Spicy Chocolate",
+      "channel": "MrBeast 2",
+      "channel_id": "UC4-79UOlP48-QNGgCko5p2g",
+      "thumbnail": "https://i.ytimg.com/vi/E1NthB5wQ1w/mqdefault.jpg",
+      "published_at": "2026-06-03T16:00:13Z",
+      "category_id": "22",
+      "views": 31933513,
+      "likes": 1090449,
+      "comments": 3527,
+      "age_hours": 51.7,
+      "views_per_hour": 617686,
+      "momentum": 6.193,
+      "url": "https://www.youtube.com/watch?v=E1NthB5wQ1w",
+      "region": "IN",
+      "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
@@ -2612,12 +2973,12 @@
       "thumbnail": "https://i.ytimg.com/vi/FFKAMZoLh5s/mqdefault.jpg",
       "published_at": "2026-06-03T01:27:00Z",
       "category_id": "27",
-      "views": 8184173,
-      "likes": 811690,
-      "comments": 11031,
-      "age_hours": 61.0,
-      "views_per_hour": 134207,
-      "momentum": 6.214,
+      "views": 8607327,
+      "likes": 848632,
+      "comments": 11627,
+      "age_hours": 66.3,
+      "views_per_hour": 129920,
+      "momentum": 6.191,
       "url": "https://www.youtube.com/watch?v=FFKAMZoLh5s",
       "region": "US",
       "category": "Education",
@@ -2631,35 +2992,54 @@
       "thumbnail": "https://i.ytimg.com/vi/XVEjJBLT_M8/mqdefault.jpg",
       "published_at": "2026-06-03T21:00:13Z",
       "category_id": "24",
-      "views": 2238745,
-      "likes": 326813,
-      "comments": 4617,
-      "age_hours": 41.4,
-      "views_per_hour": 54036,
-      "momentum": 6.212,
+      "views": 2277348,
+      "likes": 333411,
+      "comments": 4681,
+      "age_hours": 46.7,
+      "views_per_hour": 48766,
+      "momentum": 6.157,
       "url": "https://www.youtube.com/watch?v=XVEjJBLT_M8",
       "region": "BR",
       "category": "Entertainment",
       "_detected_lang": "pt"
     },
     {
-      "id": "E1NthB5wQ1w",
-      "title": "Don't Eat The Spicy Chocolate",
-      "channel": "MrBeast 2",
-      "channel_id": "UC4-79UOlP48-QNGgCko5p2g",
-      "thumbnail": "https://i.ytimg.com/vi/E1NthB5wQ1w/mqdefault.jpg",
-      "published_at": "2026-06-03T16:00:13Z",
-      "category_id": "22",
-      "views": 28460353,
-      "likes": 975993,
-      "comments": 3346,
-      "age_hours": 46.4,
-      "views_per_hour": 612977,
-      "momentum": 6.191,
-      "url": "https://www.youtube.com/watch?v=E1NthB5wQ1w",
+      "id": "sLZtRgk3fVU",
+      "title": "[HINDI] BMPS 2026 | SURVIVAL STAGE | Day 4 #BGMILIVE",
+      "channel": "KRAFTON INDIA ESPORTS",
+      "channel_id": "UCugG6-k5QGbq_iDEPAnG4NQ",
+      "thumbnail": "https://i.ytimg.com/vi/sLZtRgk3fVU/mqdefault.jpg",
+      "published_at": "2026-06-05T16:10:06Z",
+      "category_id": "20",
+      "views": 2235337,
+      "likes": 66470,
+      "comments": 160,
+      "age_hours": 3.5,
+      "views_per_hour": 632569,
+      "momentum": 6.15,
+      "url": "https://www.youtube.com/watch?v=sLZtRgk3fVU",
       "region": "IN",
-      "category": "People & Blogs",
+      "category": "Gaming",
       "_detected_lang": "en"
+    },
+    {
+      "id": "OKEtMJa-0Q0",
+      "title": "Pequenas VITÓRIAS 🙅🏽‍♂️ 3",
+      "channel": "Fernando Fernandes",
+      "channel_id": "UCfXRyYADI9Pkf-ITj7DWtQA",
+      "thumbnail": "https://i.ytimg.com/vi/OKEtMJa-0Q0/mqdefault.jpg",
+      "published_at": "2026-06-04T15:00:00Z",
+      "category_id": "20",
+      "views": 1002337,
+      "likes": 172810,
+      "comments": 189,
+      "age_hours": 28.7,
+      "views_per_hour": 34921,
+      "momentum": 6.118,
+      "url": "https://www.youtube.com/watch?v=OKEtMJa-0Q0",
+      "region": "BR",
+      "category": "Gaming",
+      "_detected_lang": "pt"
     },
     {
       "id": "EHuu_CciZ64",
@@ -2669,15 +3049,72 @@
       "thumbnail": "https://i.ytimg.com/vi/EHuu_CciZ64/mqdefault.jpg",
       "published_at": "2026-06-02T03:30:02Z",
       "category_id": "22",
-      "views": 5581932,
-      "likes": 700324,
-      "comments": 7483,
-      "age_hours": 82.9,
-      "views_per_hour": 67307,
-      "momentum": 6.104,
+      "views": 5755503,
+      "likes": 713012,
+      "comments": 7574,
+      "age_hours": 88.2,
+      "views_per_hour": 65254,
+      "momentum": 6.071,
       "url": "https://www.youtube.com/watch?v=EHuu_CciZ64",
       "region": "IN",
       "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "siK71bxPm5s",
+      "title": "MINHA NAMORADA É TIKTOKER E ESTÁ OBCECADA!",
+      "channel": "Felipe Neto Joga",
+      "channel_id": "UCIzdh7oty8jCnXUj3eUj2WQ",
+      "thumbnail": "https://i.ytimg.com/vi/siK71bxPm5s/mqdefault.jpg",
+      "published_at": "2026-06-05T15:00:31Z",
+      "category_id": "24",
+      "views": 114280,
+      "likes": 16975,
+      "comments": 902,
+      "age_hours": 4.7,
+      "views_per_hour": 24345,
+      "momentum": 6.036,
+      "url": "https://www.youtube.com/watch?v=siK71bxPm5s",
+      "region": "BR",
+      "category": "Entertainment",
+      "_detected_lang": "pt"
+    },
+    {
+      "id": "TocJoKqlvo4",
+      "title": "DEI UMA AULA PROS MEUS AMIGOS! - WORMS W.M.D COM OS AMIGOS",
+      "channel": "alanzoka",
+      "channel_id": "UCIwspRtKNszHhIhl36gREjQ",
+      "thumbnail": "https://i.ytimg.com/vi/TocJoKqlvo4/mqdefault.jpg",
+      "published_at": "2026-06-05T15:00:14Z",
+      "category_id": "20",
+      "views": 101102,
+      "likes": 17693,
+      "comments": 316,
+      "age_hours": 4.7,
+      "views_per_hour": 21516,
+      "momentum": 5.985,
+      "url": "https://www.youtube.com/watch?v=TocJoKqlvo4",
+      "region": "BR",
+      "category": "Gaming",
+      "_detected_lang": "pt"
+    },
+    {
+      "id": "SzJXikN_4wA",
+      "title": "I Knew It, I Knew You",
+      "channel": "Taylor Swift - Topic",
+      "channel_id": "UCPC0L1d253x-KuMNwa05TpA",
+      "thumbnail": "https://i.ytimg.com/vi/SzJXikN_4wA/mqdefault.jpg",
+      "published_at": "2026-06-05T04:00:37Z",
+      "category_id": "10",
+      "views": 1311769,
+      "likes": 107262,
+      "comments": 6590,
+      "age_hours": 15.7,
+      "views_per_hour": 83602,
+      "momentum": 5.974,
+      "url": "https://www.youtube.com/watch?v=SzJXikN_4wA",
+      "region": "US",
+      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -2688,34 +3125,34 @@
       "thumbnail": "https://i.ytimg.com/vi/ViF1R4ZA5RE/mqdefault.jpg",
       "published_at": "2026-06-04T12:58:37Z",
       "category_id": "22",
-      "views": 3940959,
-      "likes": 292920,
-      "comments": 1515,
-      "age_hours": 25.5,
-      "views_per_hour": 154819,
-      "momentum": 5.981,
+      "views": 5033285,
+      "likes": 358321,
+      "comments": 1687,
+      "age_hours": 30.7,
+      "views_per_hour": 163820,
+      "momentum": 5.974,
       "url": "https://www.youtube.com/watch?v=ViF1R4ZA5RE",
       "region": "GB",
       "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
-      "id": "82-jTNka3uc",
-      "title": "Ariana Grande - hate that i made you love me (official music video)",
-      "channel": "ArianaGrandeVevo",
-      "channel_id": "UC0VOyT2OCBKdQhF3BAbZ-1g",
-      "thumbnail": "https://i.ytimg.com/vi/82-jTNka3uc/mqdefault.jpg",
-      "published_at": "2026-06-01T15:00:06Z",
-      "category_id": "10",
-      "views": 10758276,
-      "likes": 784873,
-      "comments": 37659,
-      "age_hours": 95.4,
-      "views_per_hour": 112733,
-      "momentum": 5.966,
-      "url": "https://www.youtube.com/watch?v=82-jTNka3uc",
-      "region": "AU",
-      "category": "Other",
+      "id": "ujvSfYgnFGQ",
+      "title": "I REVISITED MY CAR FOR SALE WORLD AFTER 2 YEARS 🤑| EXPENSIVE",
+      "channel": "NotGamerFleet",
+      "channel_id": "UCHciekxM6H6F3OTPrHs6B5g",
+      "thumbnail": "https://i.ytimg.com/vi/ujvSfYgnFGQ/mqdefault.jpg",
+      "published_at": "2026-06-05T09:32:49Z",
+      "category_id": "20",
+      "views": 511051,
+      "likes": 50029,
+      "comments": 3749,
+      "age_hours": 10.2,
+      "views_per_hour": 50324,
+      "momentum": 5.967,
+      "url": "https://www.youtube.com/watch?v=ujvSfYgnFGQ",
+      "region": "IN",
+      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -2726,91 +3163,53 @@
       "thumbnail": "https://i.ytimg.com/vi/xPVbYT1tBjo/mqdefault.jpg",
       "published_at": "2026-06-02T14:00:20Z",
       "category_id": "24",
-      "views": 19524866,
-      "likes": 872256,
-      "comments": 2132,
-      "age_hours": 72.4,
-      "views_per_hour": 269583,
-      "momentum": 5.922,
+      "views": 22258182,
+      "likes": 1001359,
+      "comments": 2469,
+      "age_hours": 77.7,
+      "views_per_hour": 286480,
+      "momentum": 5.954,
       "url": "https://www.youtube.com/watch?v=xPVbYT1tBjo",
       "region": "US",
       "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
-      "id": "2FHTw2V9xKw",
-      "title": "When Your Delivery Driver Says Goodbye...",
-      "channel": "HomeownerCams",
-      "channel_id": "UC5QCWf41l4BIbMTP7jqzRLA",
-      "thumbnail": "https://i.ytimg.com/vi/2FHTw2V9xKw/mqdefault.jpg",
-      "published_at": "2026-06-03T21:17:19Z",
-      "category_id": "22",
-      "views": 4210257,
-      "likes": 331166,
-      "comments": 900,
-      "age_hours": 41.1,
-      "views_per_hour": 102332,
-      "momentum": 5.809,
-      "url": "https://www.youtube.com/watch?v=2FHTw2V9xKw",
-      "region": "US",
-      "category": "People & Blogs",
+      "id": "82-jTNka3uc",
+      "title": "Ariana Grande - hate that i made you love me (official music video)",
+      "channel": "ArianaGrandeVevo",
+      "channel_id": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+      "thumbnail": "https://i.ytimg.com/vi/82-jTNka3uc/mqdefault.jpg",
+      "published_at": "2026-06-01T15:00:06Z",
+      "category_id": "10",
+      "views": 11070949,
+      "likes": 793416,
+      "comments": 37930,
+      "age_hours": 100.7,
+      "views_per_hour": 109940,
+      "momentum": 5.936,
+      "url": "https://www.youtube.com/watch?v=82-jTNka3uc",
+      "region": "AU",
+      "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "HLMX2w3cwuE",
-      "title": "God of War Laufey - Gameplay Reveal Trailer | PS5 Games",
-      "channel": "PlayStation",
-      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
-      "thumbnail": "https://i.ytimg.com/vi/HLMX2w3cwuE/mqdefault.jpg",
-      "published_at": "2026-06-02T22:15:01Z",
-      "category_id": "20",
-      "views": 5661678,
-      "likes": 360461,
-      "comments": 26278,
-      "age_hours": 64.2,
-      "views_per_hour": 88214,
-      "momentum": 5.805,
-      "url": "https://www.youtube.com/watch?v=HLMX2w3cwuE",
-      "region": "US",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "NT2Is90lFoI",
-      "title": "Unstable SMP: Civil War FINALE",
-      "channel": "Parrot",
-      "channel_id": "UCPLMPHT-d8GZOqL_AHJFdQQ",
-      "thumbnail": "https://i.ytimg.com/vi/NT2Is90lFoI/mqdefault.jpg",
-      "published_at": "2026-06-03T13:00:35Z",
-      "category_id": "20",
-      "views": 3321103,
-      "likes": 170166,
-      "comments": 33256,
-      "age_hours": 49.4,
-      "views_per_hour": 67198,
-      "momentum": 5.805,
-      "url": "https://www.youtube.com/watch?v=NT2Is90lFoI",
-      "region": "GB",
-      "category": "Gaming",
-      "_detected_lang": "de"
-    },
-    {
-      "id": "2CvGbR_RkM8",
-      "title": "I STARTED MY OWN CAR BUSINESS | GTA 5 GAMEPLAY #169",
-      "channel": "Techno Gamerz",
-      "channel_id": "UCX8pnu3DYUnx8qy8V_c6oHg",
-      "thumbnail": "https://i.ytimg.com/vi/2CvGbR_RkM8/mqdefault.jpg",
-      "published_at": "2026-06-01T03:30:27Z",
-      "category_id": "20",
-      "views": 15561493,
-      "likes": 684820,
-      "comments": 53605,
-      "age_hours": 106.9,
-      "views_per_hour": 145536,
-      "momentum": 5.795,
-      "url": "https://www.youtube.com/watch?v=2CvGbR_RkM8",
+      "id": "pzZKgTQulXo",
+      "title": "🤥 गन्ने ka Juice Vs Car Washer 🚗: कौन जीतेगा ये Battle?⚔️ #shorts",
+      "channel": "Tech Master",
+      "channel_id": "UCglXlpWjIi95auM3umWWLdw",
+      "thumbnail": "https://i.ytimg.com/vi/pzZKgTQulXo/mqdefault.jpg",
+      "published_at": "2026-06-05T08:45:09Z",
+      "category_id": "28",
+      "views": 2872977,
+      "likes": 122502,
+      "comments": 669,
+      "age_hours": 10.9,
+      "views_per_hour": 262380,
+      "momentum": 5.894,
+      "url": "https://www.youtube.com/watch?v=pzZKgTQulXo",
       "region": "IN",
-      "category": "Gaming",
+      "category": "Science & Tech",
       "_detected_lang": "en"
     },
     {
@@ -2821,13 +3220,51 @@
       "thumbnail": "https://i.ytimg.com/vi/71SHJwvDhw4/mqdefault.jpg",
       "published_at": "2026-06-04T08:06:52Z",
       "category_id": "24",
-      "views": 4245991,
-      "likes": 255370,
-      "comments": 1143,
-      "age_hours": 30.3,
-      "views_per_hour": 140044,
-      "momentum": 5.779,
+      "views": 5561295,
+      "likes": 311475,
+      "comments": 1350,
+      "age_hours": 35.6,
+      "views_per_hour": 156270,
+      "momentum": 5.788,
       "url": "https://www.youtube.com/watch?v=71SHJwvDhw4",
+      "region": "IN",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "2CvGbR_RkM8",
+      "title": "I STARTED MY OWN CAR BUSINESS | GTA 5 GAMEPLAY #169",
+      "channel": "Techno Gamerz",
+      "channel_id": "UCX8pnu3DYUnx8qy8V_c6oHg",
+      "thumbnail": "https://i.ytimg.com/vi/2CvGbR_RkM8/mqdefault.jpg",
+      "published_at": "2026-06-01T03:30:27Z",
+      "category_id": "20",
+      "views": 15830187,
+      "likes": 689837,
+      "comments": 54047,
+      "age_hours": 112.2,
+      "views_per_hour": 141096,
+      "momentum": 5.774,
+      "url": "https://www.youtube.com/watch?v=2CvGbR_RkM8",
+      "region": "IN",
+      "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "64-R_LcLsCY",
+      "title": "🥳 Finally, a Dream Came True! Invited to Apple Park for WWDC 2026🍎#WWDC2026 #ApplePark #Apple #iOS26",
+      "channel": "PrasadLifeStyle",
+      "channel_id": "UCKk2f4aRbSCifjCRgRj8Rkg",
+      "thumbnail": "https://i.ytimg.com/vi/64-R_LcLsCY/mqdefault.jpg",
+      "published_at": "2026-06-05T11:02:46Z",
+      "category_id": "24",
+      "views": 145997,
+      "likes": 24897,
+      "comments": 363,
+      "age_hours": 8.7,
+      "views_per_hour": 16866,
+      "momentum": 5.774,
+      "url": "https://www.youtube.com/watch?v=64-R_LcLsCY",
       "region": "IN",
       "category": "Entertainment",
       "_detected_lang": "en"
@@ -2840,11 +3277,11 @@
       "thumbnail": "https://i.ytimg.com/vi/H2V1Ytswce8/mqdefault.jpg",
       "published_at": "2026-05-30T10:00:16Z",
       "category_id": "10",
-      "views": 21387296,
-      "likes": 1214951,
-      "comments": 10321,
-      "age_hours": 148.4,
-      "views_per_hour": 144093,
+      "views": 23332209,
+      "likes": 1273008,
+      "comments": 10674,
+      "age_hours": 153.7,
+      "views_per_hour": 151807,
       "momentum": 5.77,
       "url": "https://www.youtube.com/watch?v=H2V1Ytswce8",
       "region": "US",
@@ -2852,99 +3289,23 @@
       "_detected_lang": "en"
     },
     {
-      "id": "cRYvn-gWgSQ",
-      "title": "SELLING LEMON WITH JACK IN ROBLOX 😱",
-      "channel": "GamerBlox",
-      "channel_id": "UC2QbAX5osa0F52s8dQIvqvQ",
-      "thumbnail": "https://i.ytimg.com/vi/cRYvn-gWgSQ/mqdefault.jpg",
-      "published_at": "2026-06-05T03:30:18Z",
+      "id": "HLMX2w3cwuE",
+      "title": "God of War Laufey - Gameplay Reveal Trailer | PS5 Games",
+      "channel": "PlayStation",
+      "channel_id": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+      "thumbnail": "https://i.ytimg.com/vi/HLMX2w3cwuE/mqdefault.jpg",
+      "published_at": "2026-06-02T22:15:01Z",
       "category_id": "20",
-      "views": 352549,
-      "likes": 33859,
-      "comments": 3086,
-      "age_hours": 10.9,
-      "views_per_hour": 32261,
+      "views": 5790891,
+      "likes": 365616,
+      "comments": 26679,
+      "age_hours": 69.5,
+      "views_per_hour": 83381,
       "momentum": 5.769,
-      "url": "https://www.youtube.com/watch?v=cRYvn-gWgSQ",
-      "region": "IN",
+      "url": "https://www.youtube.com/watch?v=HLMX2w3cwuE",
+      "region": "US",
       "category": "Gaming",
       "_detected_lang": "en"
-    },
-    {
-      "id": "afAU6GIjr0o",
-      "title": "Still Wearing My Shoes... Just Not My Heels 👠😂 #meme",
-      "channel": "Ankit Joshi ",
-      "channel_id": "UCWWXoNUOayg3k83KccDYzyg",
-      "thumbnail": "https://i.ytimg.com/vi/afAU6GIjr0o/mqdefault.jpg",
-      "published_at": "2026-05-31T20:25:03Z",
-      "category_id": "24",
-      "views": 24814300,
-      "likes": 975017,
-      "comments": 3656,
-      "age_hours": 114.0,
-      "views_per_hour": 217642,
-      "momentum": 5.765,
-      "url": "https://www.youtube.com/watch?v=afAU6GIjr0o",
-      "region": "US",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "uCy-yPjp7nA",
-      "title": "A mixup results in a kidnapping | #TheRookie",
-      "channel": "The Rookie (Fan Page)",
-      "channel_id": "UCw8SISrWk-FboA_WnRrc4kw",
-      "thumbnail": "https://i.ytimg.com/vi/uCy-yPjp7nA/mqdefault.jpg",
-      "published_at": "2026-05-31T13:01:14Z",
-      "category_id": "1",
-      "views": 15465444,
-      "likes": 903676,
-      "comments": 4523,
-      "age_hours": 121.4,
-      "views_per_hour": 127381,
-      "momentum": 5.717,
-      "url": "https://www.youtube.com/watch?v=uCy-yPjp7nA",
-      "region": "US",
-      "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "9o4HktYxj3Q",
-      "title": "1 lakh saree surprise",
-      "channel": "Harsha Sai - For You Telugu",
-      "channel_id": "UCWEqIFOOjmL_olrETpSnGOQ",
-      "thumbnail": "https://i.ytimg.com/vi/9o4HktYxj3Q/mqdefault.jpg",
-      "published_at": "2026-06-03T13:24:39Z",
-      "category_id": "24",
-      "views": 10465341,
-      "likes": 358900,
-      "comments": 1950,
-      "age_hours": 49.0,
-      "views_per_hour": 213480,
-      "momentum": 5.705,
-      "url": "https://www.youtube.com/watch?v=9o4HktYxj3Q",
-      "region": "IN",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "JkxlDX0d4L4",
-      "title": "Des Soldats Français S'ÉVADE DE PRISON MAIS... 🤣 #shorts #armee #pourtoi #viral #fyp #film",
-      "channel": "Sarge le chef",
-      "channel_id": "UCD9GkYc29rRTotcFeyRVELA",
-      "thumbnail": "https://i.ytimg.com/vi/JkxlDX0d4L4/mqdefault.jpg",
-      "published_at": "2026-06-02T06:00:38Z",
-      "category_id": "24",
-      "views": 23529026,
-      "likes": 502505,
-      "comments": 283,
-      "age_hours": 80.4,
-      "views_per_hour": 292570,
-      "momentum": 5.7,
-      "url": "https://www.youtube.com/watch?v=JkxlDX0d4L4",
-      "region": "CA",
-      "category": "Entertainment",
-      "_detected_lang": "pt"
     }
   ]
 }
