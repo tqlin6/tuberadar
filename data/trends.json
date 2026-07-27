@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T18:58:44.904924+00:00",
+  "generated_at": "2026-07-27T02:05:28.799217+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,73 +40,177 @@
     }
   ],
   "stats": {
-    "total_videos": 449,
+    "total_videos": 450,
     "total_topics": 18,
     "total_themes": 8,
     "total_searches": 12,
     "by_category": {
-      "Other": 70,
-      "People & Blogs": 139,
-      "Entertainment": 98,
+      "Other": 69,
       "Gaming": 82,
+      "Entertainment": 96,
+      "People & Blogs": 137,
       "Science & Tech": 24,
-      "Comedy": 17,
-      "Howto & Style": 14,
+      "Comedy": 21,
+      "Howto & Style": 16,
       "Education": 5
     }
   },
   "emerging_themes": [
     {
-      "phrase": "shortsfeed gta5 gtaonline",
+      "phrase": "generation wearablegadget shortsfeed",
       "video_count": 30,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "48HWXqrdS9Q",
+          "title": "Introducing the &quot;VitalWear SmartBand,&quot; a next-generation wearable #shorts#shorts #shortsfeed",
+          "channel": "junior Junction",
+          "channel_id": "UC5_Gqd-FD7qDwolVLRkvYEg",
+          "subscribers": 5280,
+          "thumbnail": "https://i.ytimg.com/vi/48HWXqrdS9Q/mqdefault.jpg",
+          "published_at": "2026-07-27T02:01:48Z",
+          "url": "https://www.youtube.com/watch?v=48HWXqrdS9Q"
+        },
+        {
+          "id": "XmuS0XD2UJk",
+          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearable gadget #shortsfeed #trending",
+          "channel": "NIROB YT",
+          "channel_id": "UCm33Gn5VgBHmypAdB9ixSAA",
+          "subscribers": 933,
+          "thumbnail": "https://i.ytimg.com/vi/XmuS0XD2UJk/mqdefault.jpg",
+          "published_at": "2026-07-27T02:01:26Z",
+          "url": "https://www.youtube.com/watch?v=XmuS0XD2UJk"
+        },
+        {
+          "id": "bsdk_x5iGrw",
+          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearable gadget🎉#shortsfeed#trending",
+          "channel": "AH Magic",
+          "channel_id": "UCyvnGhNzaDU37cmo9OjrHzg",
+          "subscribers": 805,
+          "thumbnail": "https://i.ytimg.com/vi/bsdk_x5iGrw/mqdefault.jpg",
+          "published_at": "2026-07-27T02:00:39Z",
+          "url": "https://www.youtube.com/watch?v=bsdk_x5iGrw"
+        },
+        {
+          "id": "6hLT09mL7CA",
+          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearablegadget #shortsfeed #smartphone",
+          "channel": "Tamim Mondol",
+          "channel_id": "UC54MQRUN_Jy8B6dqvdlhvFw",
+          "subscribers": 7740,
+          "thumbnail": "https://i.ytimg.com/vi/6hLT09mL7CA/mqdefault.jpg",
+          "published_at": "2026-07-27T02:00:34Z",
+          "url": "https://www.youtube.com/watch?v=6hLT09mL7CA"
+        }
+      ],
+      "first_detected_at": "2026-07-26T18:58:44.904924+00:00",
+      "last_seen_at": "2026-07-27T02:05:28.799217+00:00"
+    },
+    {
+      "phrase": "wearablegadget shortsfeed trending",
+      "video_count": 30,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "XmuS0XD2UJk",
+          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearable gadget #shortsfeed #trending",
+          "channel": "NIROB YT",
+          "channel_id": "UCm33Gn5VgBHmypAdB9ixSAA",
+          "subscribers": 933,
+          "thumbnail": "https://i.ytimg.com/vi/XmuS0XD2UJk/mqdefault.jpg",
+          "published_at": "2026-07-27T02:01:26Z",
+          "url": "https://www.youtube.com/watch?v=XmuS0XD2UJk"
+        },
+        {
+          "id": "bsdk_x5iGrw",
+          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearable gadget🎉#shortsfeed#trending",
+          "channel": "AH Magic",
+          "channel_id": "UCyvnGhNzaDU37cmo9OjrHzg",
+          "subscribers": 805,
+          "thumbnail": "https://i.ytimg.com/vi/bsdk_x5iGrw/mqdefault.jpg",
+          "published_at": "2026-07-27T02:00:39Z",
+          "url": "https://www.youtube.com/watch?v=bsdk_x5iGrw"
+        },
+        {
+          "id": "IwyOS8BUpnA",
+          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearablegadget #shortsfeed #trending",
+          "channel": "sk mondol",
+          "channel_id": "UCsZC_5Cuc1nLT4IXhDf-QLg",
+          "subscribers": 2770,
+          "thumbnail": "https://i.ytimg.com/vi/IwyOS8BUpnA/mqdefault.jpg",
+          "published_at": "2026-07-27T02:00:34Z",
+          "url": "https://www.youtube.com/watch?v=IwyOS8BUpnA"
+        },
+        {
+          "id": "sSSGNpe4ALA",
+          "title": "Introducing the vitawear smartband a next-generation wearable gadget 3 #shortsfeed #trending",
+          "channel": "Mahin Dog",
+          "channel_id": "UCndQDkXbz3vwDPjxisX1TFA",
+          "subscribers": 29800,
+          "thumbnail": "https://i.ytimg.com/vi/sSSGNpe4ALA/mqdefault.jpg",
+          "published_at": "2026-07-27T02:00:33Z",
+          "url": "https://www.youtube.com/watch?v=sSSGNpe4ALA"
+        }
+      ],
+      "first_detected_at": "2026-07-27T02:05:28.799217+00:00",
+      "last_seen_at": "2026-07-27T02:05:28.799217+00:00"
+    },
+    {
+      "phrase": "first time",
+      "video_count": 29,
       "channel_count": 29,
-      "total_channels_seen": 29,
+      "total_channels_seen": 30,
       "uploads_per_hour": 2.42,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "JQh33N8nkOA",
-          "title": "GTA 5 LIVE #3 #shortslive#shortsfeed #gta5 #gtaonline",
-          "channel": "Sameer sam",
-          "channel_id": "UCNExBcDErArlSvvALg43kUQ",
-          "subscribers": 1590,
-          "thumbnail": "https://i.ytimg.com/vi/JQh33N8nkOA/mqdefault_live.jpg",
-          "published_at": "2026-07-26T18:35:20Z",
-          "url": "https://www.youtube.com/watch?v=JQh33N8nkOA"
+          "id": "sqmtX511NVU",
+          "title": "HOUSE OF THE DRAGON Season 3 Episode 6 REACTION! | FIRST TIME WATCH! | GAME OF THRONES",
+          "channel": "Kristian Harloff",
+          "channel_id": "UC7BZTnHihGgs7XZmXEBirjA",
+          "subscribers": 230000,
+          "thumbnail": "https://i.ytimg.com/vi/sqmtX511NVU/mqdefault.jpg",
+          "published_at": "2026-07-27T02:00:19Z",
+          "url": "https://www.youtube.com/watch?v=sqmtX511NVU"
         },
         {
-          "id": "1gNhbJbHoL8",
-          "title": "GTA V LIVE #shortsfeed #shortlive #gta5 #shorts #live",
-          "channel": "Berojgar gaming",
-          "channel_id": "UCtaK0jUmyRkCTkwpn0oMtbA",
-          "subscribers": 775,
-          "thumbnail": "https://i.ytimg.com/vi/1gNhbJbHoL8/mqdefault.jpg",
-          "published_at": "2026-07-26T18:24:45Z",
-          "url": "https://www.youtube.com/watch?v=1gNhbJbHoL8"
+          "id": "mNUFMqvQJzs",
+          "title": "FIRST TIME MONSTER HUNTER WORLD! - Elder&#39;s Recess and NERGIGANTE",
+          "channel": "crowmunist",
+          "channel_id": "UCFU4a3sWqR-3QlKoOhX0kSA",
+          "subscribers": 23800,
+          "thumbnail": "https://i.ytimg.com/vi/mNUFMqvQJzs/mqdefault.jpg",
+          "published_at": "2026-07-27T01:35:20Z",
+          "url": "https://www.youtube.com/watch?v=mNUFMqvQJzs"
         },
         {
-          "id": "CbfqfJpZcfk",
-          "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
-          "channel": "MR RAJA PLAYZONE",
-          "channel_id": "UCuM98BwdxBtyId7GtMmIDvw",
-          "subscribers": 23400,
-          "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
-          "published_at": "2026-07-26T18:19:12Z",
-          "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk"
+          "id": "YnXOnt8kkZ8",
+          "title": "she kissed her for the first time - (Parker &amp; Kristina)",
+          "channel": "Kate",
+          "channel_id": "UCyL_TjViIwPFbqRU-rKXLKw",
+          "subscribers": 115000,
+          "thumbnail": "https://i.ytimg.com/vi/YnXOnt8kkZ8/mqdefault.jpg",
+          "published_at": "2026-07-27T01:30:25Z",
+          "url": "https://www.youtube.com/watch?v=YnXOnt8kkZ8"
         },
         {
-          "id": "Kj9xOwf1zDg",
-          "title": "GTA 5 LIVE | Unlimited Fun &amp; Epic Gameplay | #shortslive #shortsfeed #gta5 #gtaonline @funny_shonny",
-          "channel": "funny@shonny",
-          "channel_id": "UCRg86qhilGZ7eYsMXNq4VbQ",
-          "subscribers": 261,
-          "thumbnail": "https://i.ytimg.com/vi/Kj9xOwf1zDg/mqdefault.jpg",
-          "published_at": "2026-07-26T18:15:20Z",
-          "url": "https://www.youtube.com/watch?v=Kj9xOwf1zDg"
+          "id": "WhUp4M1aGO4",
+          "title": "​Trying Chinese Foot Soak For The First Time Gone Wrong! 😭#ChineseFootSoak#FootSoakGoneWrong #shorts",
+          "channel": "Fluent Bite Shorts\n\n",
+          "channel_id": "UCQea_9PdhQYqHPCe5OHuZyg",
+          "subscribers": 2960,
+          "thumbnail": "https://i.ytimg.com/vi/WhUp4M1aGO4/mqdefault.jpg",
+          "published_at": "2026-07-27T01:30:04Z",
+          "url": "https://www.youtube.com/watch?v=WhUp4M1aGO4"
         }
       ],
-      "first_detected_at": "2026-07-26T18:58:44.904924+00:00",
-      "last_seen_at": "2026-07-26T18:58:44.904924+00:00"
+      "first_detected_at": "2026-07-26T08:10:48.549188+00:00",
+      "last_seen_at": "2026-07-27T02:05:28.799217+00:00"
     },
     {
       "phrase": "doomsday trailer marvel's",
@@ -117,367 +221,339 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "KnEC2WvqT7Q",
-          "title": "Avengers Doomsday trailer 2 comic con 2026 #marvel #edit #avengers #mcu",
-          "channel": "Marvel Prime ",
-          "channel_id": "UCVYOBfREOTdkAXWmDAOLe6w",
-          "subscribers": 17,
-          "thumbnail": "https://i.ytimg.com/vi/KnEC2WvqT7Q/mqdefault.jpg",
-          "published_at": "2026-07-26T18:40:36Z",
-          "url": "https://www.youtube.com/watch?v=KnEC2WvqT7Q"
+          "id": "V_ZPaUsdUs0",
+          "title": "doomsday trailer #marvel #avengers #avengersdoomsday #doomsday #marvelstudios #trailer #shorts #fyp",
+          "channel": "Chota_capsule",
+          "channel_id": "UCwO7J-Za4hPMRJ6NyE-dzkw",
+          "subscribers": 13,
+          "thumbnail": "https://i.ytimg.com/vi/V_ZPaUsdUs0/mqdefault.jpg",
+          "published_at": "2026-07-27T02:01:44Z",
+          "url": "https://www.youtube.com/watch?v=V_ZPaUsdUs0"
         },
         {
-          "id": "LTpwsuDg2Jk",
-          "title": "Marvel All San Diago Comic con Announcement💥 Doomsday Trailer Leaked??🤯 #trending #shorts #reels",
-          "channel": "PS KINGDOM",
-          "channel_id": "UCj4Tn6iKu7_D2Qq-q-Azeog",
-          "subscribers": 1920,
-          "thumbnail": "https://i.ytimg.com/vi/LTpwsuDg2Jk/mqdefault.jpg",
-          "published_at": "2026-07-26T18:37:39Z",
-          "url": "https://www.youtube.com/watch?v=LTpwsuDg2Jk"
+          "id": "_oVuYyacFPI",
+          "title": "Avengers Doomsday footage #shorts #shortsfeed #marvel #doomsday #trailer #subscribe #viral #trending",
+          "channel": "RAKT RASOI",
+          "channel_id": "UCHM5ooJgInaq3wRPTR6ONkA",
+          "subscribers": 41,
+          "thumbnail": "https://i.ytimg.com/vi/_oVuYyacFPI/mqdefault.jpg",
+          "published_at": "2026-07-27T01:55:32Z",
+          "url": "https://www.youtube.com/watch?v=_oVuYyacFPI"
         },
         {
-          "id": "Xgn8QSgSNc8",
-          "title": "GHOST RIDER, NEW BLACK PANTHER &amp; AVENGERS DOOMSDAY EVERYTHING ANNOUNCED AT MARVEL PANEL SDCC",
-          "channel": "Zach Pope",
-          "channel_id": "UCijvgktEbDs79vIrUEOqm7A",
-          "subscribers": 59800,
-          "thumbnail": "https://i.ytimg.com/vi/Xgn8QSgSNc8/mqdefault.jpg",
-          "published_at": "2026-07-26T18:35:11Z",
-          "url": "https://www.youtube.com/watch?v=Xgn8QSgSNc8"
+          "id": "DzRipWjb8Jo",
+          "title": "🔥 Avengers: Doomsday Trailer Breakdown | Doctor Doom Returns! | Marvel Multiverse Explained",
+          "channel": "(HollywoodSCREENX)",
+          "channel_id": "UCUaA1BXrB5jF-7o1N1X73Pg",
+          "subscribers": 4,
+          "thumbnail": "https://i.ytimg.com/vi/DzRipWjb8Jo/mqdefault.jpg",
+          "published_at": "2026-07-27T01:51:26Z",
+          "url": "https://www.youtube.com/watch?v=DzRipWjb8Jo"
         },
         {
-          "id": "gSL5s7GAJcQ",
-          "title": "Marvel Just Leaked Doomsday Trailer? 😱 Every Hidden Detail Explained | plot point",
-          "channel": "Plot point ",
-          "channel_id": "UCWUzJ2SKO_bcbg7d-piQoQg",
-          "subscribers": 1,
-          "thumbnail": "https://i.ytimg.com/vi/gSL5s7GAJcQ/mqdefault.jpg",
-          "published_at": "2026-07-26T18:30:24Z",
-          "url": "https://www.youtube.com/watch?v=gSL5s7GAJcQ"
+          "id": "FDDgbaqK5PU",
+          "title": "Avengers Doomsday Comic Con Trailer Launch | New Avengers Doomsday Trailer Leak | Ghost Rider ",
+          "channel": "Zhasball Ykt",
+          "channel_id": "UCFaw1YFzMPJBjS8P7LSkk2A",
+          "subscribers": 56,
+          "thumbnail": "https://i.ytimg.com/vi/FDDgbaqK5PU/mqdefault.jpg",
+          "published_at": "2026-07-27T01:51:07Z",
+          "url": "https://www.youtube.com/watch?v=FDDgbaqK5PU"
         }
       ],
       "first_detected_at": "2026-07-26T13:01:03.154852+00:00",
-      "last_seen_at": "2026-07-26T18:58:44.904924+00:00"
-    },
-    {
-      "phrase": "generation wearablegadget shortsfeed",
-      "video_count": 30,
-      "channel_count": 28,
-      "total_channels_seen": 28,
-      "uploads_per_hour": 2.33,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "HHrXSYps6eo",
-          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearablegadget#shortsfeed #trending",
-          "channel": "hkedits695",
-          "channel_id": "UCRNGhbseaT2W1E5PmodzPvg",
-          "subscribers": 22,
-          "thumbnail": "https://i.ytimg.com/vi/HHrXSYps6eo/mqdefault.jpg",
-          "published_at": "2026-07-26T18:41:41Z",
-          "url": "https://www.youtube.com/watch?v=HHrXSYps6eo"
-        },
-        {
-          "id": "3h-QqS6RJ6Q",
-          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearable gadget#shortsfeed #trending",
-          "channel": "Sahil 200k",
-          "channel_id": "UCqf4k9r7p5oQMByAFTLCK-A",
-          "subscribers": 143000,
-          "thumbnail": "https://i.ytimg.com/vi/3h-QqS6RJ6Q/mqdefault.jpg",
-          "published_at": "2026-07-26T18:39:32Z",
-          "url": "https://www.youtube.com/watch?v=3h-QqS6RJ6Q"
-        },
-        {
-          "id": "uF9QUUB49sY",
-          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearablegadget#shortsfeed #trending",
-          "channel": "Hk khan",
-          "channel_id": "UCxs5kUllnIUldQDMLcKgdiw",
-          "subscribers": 47,
-          "thumbnail": "https://i.ytimg.com/vi/uF9QUUB49sY/mqdefault.jpg",
-          "published_at": "2026-07-26T18:34:30Z",
-          "url": "https://www.youtube.com/watch?v=uF9QUUB49sY"
-        },
-        {
-          "id": "NYBK6HTPz_Q",
-          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearablegadget#shortsfeed #trending",
-          "channel": "Hk khan",
-          "channel_id": "UCxs5kUllnIUldQDMLcKgdiw",
-          "subscribers": 47,
-          "thumbnail": "https://i.ytimg.com/vi/NYBK6HTPz_Q/mqdefault.jpg",
-          "published_at": "2026-07-26T18:32:34Z",
-          "url": "https://www.youtube.com/watch?v=NYBK6HTPz_Q"
-        }
-      ],
-      "first_detected_at": "2026-07-26T18:58:44.904924+00:00",
-      "last_seen_at": "2026-07-26T18:58:44.904924+00:00"
-    },
-    {
-      "phrase": "hospital animais",
-      "video_count": 29,
-      "channel_count": 28,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.33,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "-IyzKfWLd-w",
-          "title": "BORA DE HOSPITAL ANIMAIS ANOMALIA",
-          "channel": "Christian & Yasmin Gamers",
-          "channel_id": "UCfxN9dJ1TiTb34-9KxG6tTw",
-          "subscribers": 4160,
-          "thumbnail": "https://i.ytimg.com/vi/-IyzKfWLd-w/mqdefault.jpg",
-          "published_at": "2026-07-26T18:58:14Z",
-          "url": "https://www.youtube.com/watch?v=-IyzKfWLd-w"
-        },
-        {
-          "id": "_c3yTWi2CUA",
-          "title": "BORA DE HOSPITAL ANIMAIS ANOMALIA",
-          "channel": "Christian & Yasmin Gamers",
-          "channel_id": "UCfxN9dJ1TiTb34-9KxG6tTw",
-          "subscribers": 4160,
-          "thumbnail": "https://i.ytimg.com/vi/_c3yTWi2CUA/mqdefault_live.jpg",
-          "published_at": "2026-07-26T18:57:48Z",
-          "url": "https://www.youtube.com/watch?v=_c3yTWi2CUA"
-        },
-        {
-          "id": "3JPqIXRpViA",
-          "title": "Hospital para animais",
-          "channel": "sz_somba ",
-          "channel_id": "UCY1GxUy6E52fQDZ8MPmlV2g",
-          "subscribers": 136,
-          "thumbnail": "https://i.ytimg.com/vi/3JPqIXRpViA/mqdefault.jpg",
-          "published_at": "2026-07-26T18:47:13Z",
-          "url": "https://www.youtube.com/watch?v=3JPqIXRpViA"
-        },
-        {
-          "id": "Jm1ZV_gzv2Q",
-          "title": "Esse é o BACK o NOVO FUNCIONÁRIO do hospital de animais!!!! #roblox",
-          "channel": "GaBS",
-          "channel_id": "UCyeAu8NHEdY6flwRPmY7BPQ",
-          "subscribers": 447000,
-          "thumbnail": "https://i.ytimg.com/vi/Jm1ZV_gzv2Q/mqdefault.jpg",
-          "published_at": "2026-07-26T18:40:55Z",
-          "url": "https://www.youtube.com/watch?v=Jm1ZV_gzv2Q"
-        }
-      ],
-      "first_detected_at": "2026-07-26T18:58:44.904924+00:00",
-      "last_seen_at": "2026-07-26T18:58:44.904924+00:00"
-    },
-    {
-      "phrase": "shortslive shortsfeed gta5",
-      "video_count": 30,
-      "channel_count": 27,
-      "total_channels_seen": 27,
-      "uploads_per_hour": 2.25,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "fUW5iANiDqU",
-          "title": "🔴GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED #gta5 #shortsfeed #shortslive  #gaming #virallive",
-          "channel": "BHURA OP GAMING",
-          "channel_id": "UChpuvDyzFPCOvwM2qrkynKQ",
-          "subscribers": 602,
-          "thumbnail": "https://i.ytimg.com/vi/fUW5iANiDqU/mqdefault.jpg",
-          "published_at": "2026-07-26T18:37:50Z",
-          "url": "https://www.youtube.com/watch?v=fUW5iANiDqU"
-        },
-        {
-          "id": "Heb6iBZlrOM",
-          "title": "GTA 5 LIVE #gta5 #gtalivestream  X  #gtastorymode #shortslive#verticallivefeed",
-          "channel": "IM VIRAL MAN",
-          "channel_id": "UC44c8v96FHA7k2lg3fhZYgw",
-          "subscribers": 487,
-          "thumbnail": "https://i.ytimg.com/vi/Heb6iBZlrOM/mqdefault.jpg",
-          "published_at": "2026-07-26T18:37:07Z",
-          "url": "https://www.youtube.com/watch?v=Heb6iBZlrOM"
-        },
-        {
-          "id": "JQh33N8nkOA",
-          "title": "GTA 5 LIVE #3 #shortslive#shortsfeed #gta5 #gtaonline",
-          "channel": "Sameer sam",
-          "channel_id": "UCNExBcDErArlSvvALg43kUQ",
-          "subscribers": 1590,
-          "thumbnail": "https://i.ytimg.com/vi/JQh33N8nkOA/mqdefault_live.jpg",
-          "published_at": "2026-07-26T18:35:20Z",
-          "url": "https://www.youtube.com/watch?v=JQh33N8nkOA"
-        },
-        {
-          "id": "FzXBJuKB8Qk",
-          "title": "HORROR GAME CHARLES🔥 #granny #shortslive #choochoo #shorts #live #gaming #gta5",
-          "channel": "RespawnRV",
-          "channel_id": "UC9rYIg0NyfMjKeugo4dSjTw",
-          "subscribers": 27,
-          "thumbnail": "https://i.ytimg.com/vi/FzXBJuKB8Qk/mqdefault_live.jpg",
-          "published_at": "2026-07-26T18:34:32Z",
-          "url": "https://www.youtube.com/watch?v=FzXBJuKB8Qk"
-        }
-      ],
-      "first_detected_at": "2026-07-26T18:58:44.904924+00:00",
-      "last_seen_at": "2026-07-26T18:58:44.904924+00:00"
-    },
-    {
-      "phrase": "first time",
-      "video_count": 25,
-      "channel_count": 24,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.0,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "A89LnehOOPo",
-          "title": "FIRST TIME REACTION to EVERY POWER RANGER OPENING THEME SONG! (1993-2023)",
-          "channel": "Nicholas Dark TV",
-          "channel_id": "UCQvYdEa2lDWZwQL7kKzp8FQ",
-          "subscribers": 298000,
-          "thumbnail": "https://i.ytimg.com/vi/A89LnehOOPo/mqdefault.jpg",
-          "published_at": "2026-07-26T18:31:40Z",
-          "url": "https://www.youtube.com/watch?v=A89LnehOOPo"
-        },
-        {
-          "id": "bQjuvMgsO6I",
-          "title": "First Time Hearing Prince &quot;Purple Rain&quot; | Official Video | REACTION",
-          "channel": "G.O.T Games",
-          "channel_id": "UCEpGO4cx6j0PBc5LzkmtYdw",
-          "subscribers": 716000,
-          "thumbnail": "https://i.ytimg.com/vi/bQjuvMgsO6I/mqdefault.jpg",
-          "published_at": "2026-07-26T18:25:26Z",
-          "url": "https://www.youtube.com/watch?v=bQjuvMgsO6I"
-        },
-        {
-          "id": "WkLcdCzBOyk",
-          "title": "Ear Grown On Hand of Patient | First Time In India | Ear shaped on Forearm | Dr. Saurabh Gupta",
-          "channel": "Dr. Saurabh Yogi",
-          "channel_id": "UCNT5Ka2Hlg0Z2Jst3sAVbxA",
-          "subscribers": 15600,
-          "thumbnail": "https://i.ytimg.com/vi/WkLcdCzBOyk/mqdefault.jpg",
-          "published_at": "2026-07-26T18:12:16Z",
-          "url": "https://www.youtube.com/watch?v=WkLcdCzBOyk"
-        },
-        {
-          "id": "M2kq1N7Lxuk",
-          "title": "FIRST TIME Watching Aang VS Traveler (Avatar VS Genshin) DEATH BATTLE! 💔 They Did Aang Dirty... 😭",
-          "channel": "E.D. ANIME",
-          "channel_id": "UCvp82fu0wlwoW4Nleb-lFCg",
-          "subscribers": 114000,
-          "thumbnail": "https://i.ytimg.com/vi/M2kq1N7Lxuk/mqdefault.jpg",
-          "published_at": "2026-07-26T18:11:57Z",
-          "url": "https://www.youtube.com/watch?v=M2kq1N7Lxuk"
-        }
-      ],
-      "first_detected_at": "2026-07-26T08:10:48.549188+00:00",
-      "last_seen_at": "2026-07-26T18:58:44.904924+00:00"
+      "last_seen_at": "2026-07-27T02:05:28.799217+00:00"
     },
     {
       "phrase": "introducing vitawear smartband",
       "video_count": 28,
-      "channel_count": 23,
-      "total_channels_seen": 25,
-      "uploads_per_hour": 1.92,
+      "channel_count": 27,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.25,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "3h-QqS6RJ6Q",
+          "id": "pnUE2QkUM3k",
+          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next+generation wearable gadget✨#shortvideo#shorts",
+          "channel": "Arafat100k",
+          "channel_id": "UCR0TSGL8NkI-uVUAbsMMILw",
+          "subscribers": 220,
+          "thumbnail": "https://i.ytimg.com/vi/pnUE2QkUM3k/mqdefault.jpg",
+          "published_at": "2026-07-27T02:00:38Z",
+          "url": "https://www.youtube.com/watch?v=pnUE2QkUM3k"
+        },
+        {
+          "id": "XH_u5X17B-c",
+          "title": "Introducing the &quot;vitawear smartband,&quot; a next-generation wearable gadget #shortsfeed​ #trending​",
+          "channel": "Tanzil islam",
+          "channel_id": "UCHT602hk2m0IuLS3zAzSNxg",
+          "subscribers": 1,
+          "thumbnail": "https://i.ytimg.com/vi/XH_u5X17B-c/mqdefault.jpg",
+          "published_at": "2026-07-27T02:00:28Z",
+          "url": "https://www.youtube.com/watch?v=XH_u5X17B-c"
+        },
+        {
+          "id": "NuXWwUAchJs",
           "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearable gadget#shortsfeed #trending",
-          "channel": "Sahil 200k",
-          "channel_id": "UCqf4k9r7p5oQMByAFTLCK-A",
-          "subscribers": 143000,
-          "thumbnail": "https://i.ytimg.com/vi/3h-QqS6RJ6Q/mqdefault.jpg",
-          "published_at": "2026-07-26T18:39:32Z",
-          "url": "https://www.youtube.com/watch?v=3h-QqS6RJ6Q"
+          "channel": "Jisan Islam Jihad ",
+          "channel_id": "UC5bjaAsHhwCcONyU0X3Iclw",
+          "subscribers": 341,
+          "thumbnail": "https://i.ytimg.com/vi/NuXWwUAchJs/mqdefault.jpg",
+          "published_at": "2026-07-27T02:00:28Z",
+          "url": "https://www.youtube.com/watch?v=NuXWwUAchJs"
         },
         {
-          "id": "0mvw_JGUGMQ",
-          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearablegadget#shortsfeed#trending",
-          "channel": "ZenZ 1M",
-          "channel_id": "UCwo00Yfh4Ar8loYOuq7LpgA",
-          "subscribers": 135000,
-          "thumbnail": "https://i.ytimg.com/vi/0mvw_JGUGMQ/mqdefault.jpg",
-          "published_at": "2026-07-26T18:02:34Z",
-          "url": "https://www.youtube.com/watch?v=0mvw_JGUGMQ"
-        },
-        {
-          "id": "54lxOLxNP3s",
-          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearablegadget#shortsfeed#trending",
-          "channel": "Nexora",
-          "channel_id": "UC-O80bVgzUXL3aX5EODweHQ",
-          "subscribers": 12600,
-          "thumbnail": "https://i.ytimg.com/vi/54lxOLxNP3s/mqdefault.jpg",
-          "published_at": "2026-07-26T18:01:13Z",
-          "url": "https://www.youtube.com/watch?v=54lxOLxNP3s"
-        },
-        {
-          "id": "-lMDodufhYg",
-          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearablegadget#shortsfeed#trending",
-          "channel": "Mr binodon",
-          "channel_id": "UCHO5BRAxtXljPkYmjc8-Fmg",
-          "subscribers": 1280,
-          "thumbnail": "https://i.ytimg.com/vi/-lMDodufhYg/mqdefault.jpg",
-          "published_at": "2026-07-26T18:00:42Z",
-          "url": "https://www.youtube.com/watch?v=-lMDodufhYg"
+          "id": "Thnf-LU7_QA",
+          "title": "introducing the vitawear smartband a next-generation wearable gadget# shortsfeed#trending",
+          "channel": "Film Vision Star",
+          "channel_id": "UCy9JPwRTzgG8u8Lj0zC2jTw",
+          "subscribers": 665,
+          "thumbnail": "https://i.ytimg.com/vi/Thnf-LU7_QA/mqdefault.jpg",
+          "published_at": "2026-07-27T02:00:03Z",
+          "url": "https://www.youtube.com/watch?v=Thnf-LU7_QA"
         }
       ],
       "first_detected_at": "2026-07-26T18:58:44.904924+00:00",
-      "last_seen_at": "2026-07-26T18:58:44.904924+00:00"
+      "last_seen_at": "2026-07-27T02:05:28.799217+00:00"
     },
     {
-      "phrase": "minecraft helden",
-      "video_count": 29,
+      "phrase": "black ops",
+      "video_count": 28,
+      "channel_count": 26,
+      "total_channels_seen": 28,
+      "uploads_per_hour": 2.17,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "WAFTTlXOE2E",
+          "title": "HUGE Black Ops 2 GRIEF Tournament launching in August!",
+          "channel": "Wunderful",
+          "channel_id": "UCUEBiSdNqUuMwLWsv1UKvRA",
+          "subscribers": 53400,
+          "thumbnail": "https://i.ytimg.com/vi/WAFTTlXOE2E/mqdefault.jpg",
+          "published_at": "2026-07-27T01:49:41Z",
+          "url": "https://www.youtube.com/watch?v=WAFTTlXOE2E"
+        },
+        {
+          "id": "7-eC1Udw8mQ",
+          "title": "Black Ops 2 WAS so back :&#39;( #callofduty #bo2",
+          "channel": "SoaR Necca",
+          "channel_id": "UC5Amp63uYdK20f8kJhHxh_g",
+          "subscribers": 91900,
+          "thumbnail": "https://i.ytimg.com/vi/7-eC1Udw8mQ/mqdefault.jpg",
+          "published_at": "2026-07-27T01:30:24Z",
+          "url": "https://www.youtube.com/watch?v=7-eC1Udw8mQ"
+        },
+        {
+          "id": "PZRVzkbJE6Q",
+          "title": "Call of Duty Black Ops Campaign in 2026 🔥 #callofduty",
+          "channel": "ShepBandicoot",
+          "channel_id": "UCAkVwxy17NMt4zT3oW5KKrQ",
+          "subscribers": 4210,
+          "thumbnail": "https://i.ytimg.com/vi/PZRVzkbJE6Q/mqdefault.jpg",
+          "published_at": "2026-07-27T01:14:12Z",
+          "url": "https://www.youtube.com/watch?v=PZRVzkbJE6Q"
+        },
+        {
+          "id": "5T_GlRLnv9E",
+          "title": "Black Ops 2 Zombies: End of Round Blessings | #neko_raiden on #Twitch",
+          "channel": "Richard Pradlik",
+          "channel_id": "UC6Bw1eQZjkZmCZwtQpMOmvA",
+          "subscribers": 3,
+          "thumbnail": "https://i.ytimg.com/vi/5T_GlRLnv9E/mqdefault.jpg",
+          "published_at": "2026-07-27T01:08:23Z",
+          "url": "https://www.youtube.com/watch?v=5T_GlRLnv9E"
+        }
+      ],
+      "first_detected_at": "2026-07-27T02:05:28.799217+00:00",
+      "last_seen_at": "2026-07-27T02:05:28.799217+00:00"
+    },
+    {
+      "phrase": "avengers doomsday",
+      "video_count": 22,
       "channel_count": 22,
-      "total_channels_seen": 23,
+      "total_channels_seen": 29,
       "uploads_per_hour": 1.83,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "j0sWK6LfIJc",
-          "title": "Minecraft Hardcore Grind!",
-          "channel": "yukiime",
-          "channel_id": "UCEw98kgMlGFuvYcCLM4g4hQ",
-          "subscribers": 546,
-          "thumbnail": "https://i.ytimg.com/vi/j0sWK6LfIJc/mqdefault.jpg",
-          "published_at": "2026-07-26T18:58:11Z",
-          "url": "https://www.youtube.com/watch?v=j0sWK6LfIJc"
+          "id": "n6g-l9Vkhz8",
+          "title": "Marvel Legends Avengers Doomsday SDCC 2026",
+          "channel": "MCUcollector24",
+          "channel_id": "UCRrpQjwkXVm0JsTEIxRB9OA",
+          "subscribers": 59700,
+          "thumbnail": "https://i.ytimg.com/vi/n6g-l9Vkhz8/mqdefault.jpg",
+          "published_at": "2026-07-27T01:51:03Z",
+          "url": "https://www.youtube.com/watch?v=n6g-l9Vkhz8"
         },
         {
-          "id": "94-VMlumRh4",
-          "title": "Meine ERSTE Minecraft Helden 3 Tierlist",
-          "channel": "Nexon",
-          "channel_id": "UCIfSRoyJoediuza-3x8WE6w",
-          "subscribers": 1000,
-          "thumbnail": "https://i.ytimg.com/vi/94-VMlumRh4/mqdefault.jpg",
-          "published_at": "2026-07-26T18:48:34Z",
-          "url": "https://www.youtube.com/watch?v=94-VMlumRh4"
+          "id": "DERnF4FbYHc",
+          "title": "Avengers doomsday marvel legends! #marvellegends #avengersdoomsday #actionfigures #collection #sdcc",
+          "channel": "BOBtheMUSHROOM",
+          "channel_id": "UCV41TWjhgH-4oLtw_YNeuVA",
+          "subscribers": 20200,
+          "thumbnail": "https://i.ytimg.com/vi/DERnF4FbYHc/mqdefault.jpg",
+          "published_at": "2026-07-27T01:38:48Z",
+          "url": "https://www.youtube.com/watch?v=DERnF4FbYHc"
         },
         {
-          "id": "G_wsBYFWnus",
-          "title": "Tridan killt Danergy #minecraft#Helden",
-          "channel": "TheDuo_Shorts",
-          "channel_id": "UCE1Y82Ue2hDdGPuFFh515NQ",
-          "subscribers": 36,
-          "thumbnail": "https://i.ytimg.com/vi/G_wsBYFWnus/mqdefault.jpg",
-          "published_at": "2026-07-26T18:20:04Z",
-          "url": "https://www.youtube.com/watch?v=G_wsBYFWnus"
+          "id": "GJxSIRIoA44",
+          "title": "Avengers Doomsday 🔥 Official Trailer Captain America Steve Rogers Attitude Status..#shorts #viral",
+          "channel": "Kunal Edit Zone..",
+          "channel_id": "UC3C0eBVq5m4-FJ2NoKQXmlQ",
+          "subscribers": 25400,
+          "thumbnail": "https://i.ytimg.com/vi/GJxSIRIoA44/mqdefault.jpg",
+          "published_at": "2026-07-27T01:30:07Z",
+          "url": "https://www.youtube.com/watch?v=GJxSIRIoA44"
         },
         {
-          "id": "ltikkOqlVPs",
-          "title": "#stanni #syou Minecraft Helden 3",
-          "channel": "MinecraftHelden3",
-          "channel_id": "UCIcXcqK7d3M8WxdBhy73eEA",
-          "subscribers": 95,
-          "thumbnail": "https://i.ytimg.com/vi/ltikkOqlVPs/mqdefault.jpg",
-          "published_at": "2026-07-26T18:17:44Z",
-          "url": "https://www.youtube.com/watch?v=ltikkOqlVPs"
+          "id": "CTs48sE19B4",
+          "title": "Avengers Doomsday popcorn bucket predictions!",
+          "channel": "Shahji Adam",
+          "channel_id": "UC4vdxgHLB4CJF1-bf1DEjYg",
+          "subscribers": 998,
+          "thumbnail": "https://i.ytimg.com/vi/CTs48sE19B4/mqdefault.jpg",
+          "published_at": "2026-07-27T00:33:58Z",
+          "url": "https://www.youtube.com/watch?v=CTs48sE19B4"
         }
       ],
-      "first_detected_at": "2026-07-26T18:58:44.904924+00:00",
-      "last_seen_at": "2026-07-26T18:58:44.904924+00:00"
+      "first_detected_at": "2026-07-27T02:05:28.799217+00:00",
+      "last_seen_at": "2026-07-27T02:05:28.799217+00:00"
+    },
+    {
+      "phrase": "trailer theaters december",
+      "video_count": 16,
+      "channel_count": 15,
+      "total_channels_seen": 15,
+      "uploads_per_hour": 1.25,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "_CUCpzTOgQQ",
+          "title": "LEGO Avengers: Doomsday | Official Trailer | In Theaters December 18th",
+          "channel": "Epic Bro",
+          "channel_id": "UCLOs7Pk-_6U7tE8I6gHmhUQ",
+          "subscribers": 382,
+          "thumbnail": "https://i.ytimg.com/vi/_CUCpzTOgQQ/mqdefault.jpg",
+          "published_at": "2026-07-26T23:37:19Z",
+          "url": "https://www.youtube.com/watch?v=_CUCpzTOgQQ"
+        },
+        {
+          "id": "JKdAvlBZewg",
+          "title": "Avengers  Doomsday   Official Trailer   In Theaters December 18",
+          "channel": "The Nest Trailers",
+          "channel_id": "UCgSflmBfPc0h9hZyGaJKxHQ",
+          "subscribers": 811,
+          "thumbnail": "https://i.ytimg.com/vi/JKdAvlBZewg/mqdefault.jpg",
+          "published_at": "2026-07-26T21:23:48Z",
+          "url": "https://www.youtube.com/watch?v=JKdAvlBZewg"
+        },
+        {
+          "id": "E5W-mMuXyrQ",
+          "title": "Avengers :doomsday  | official trailer | in theatres december 26. ||",
+          "channel": "dark tales",
+          "channel_id": "UCXDPPAXBLNsJ3TcipfXpEKA",
+          "subscribers": 119,
+          "thumbnail": "https://i.ytimg.com/vi/E5W-mMuXyrQ/mqdefault.jpg",
+          "published_at": "2026-07-26T20:32:42Z",
+          "url": "https://www.youtube.com/watch?v=E5W-mMuXyrQ"
+        },
+        {
+          "id": "oOKMjPCmxU8",
+          "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+          "channel": "X  V E N O M  gaming",
+          "channel_id": "UC5dsVkMv4iSnSh0oGpWSqoQ",
+          "subscribers": 19,
+          "thumbnail": "https://i.ytimg.com/vi/oOKMjPCmxU8/mqdefault.jpg",
+          "published_at": "2026-07-26T20:08:37Z",
+          "url": "https://www.youtube.com/watch?v=oOKMjPCmxU8"
+        }
+      ],
+      "first_detected_at": "2026-07-27T02:05:28.799217+00:00",
+      "last_seen_at": "2026-07-27T02:05:28.799217+00:00"
     }
   ],
   "topics": [
     {
-      "phrase": "minecraft",
+      "phrase": "family",
       "video_count": 5,
-      "momentum": 25.66,
+      "momentum": 25.4,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "2XJYQ335cqE",
+          "title": "A bad day for a sad stranded family...😢❤️ #fyp #fypシ #car #giveaway #sad #help #shorts #mechanic",
+          "channel": "Matthew Parker",
+          "thumbnail": "https://i.ytimg.com/vi/2XJYQ335cqE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=2XJYQ335cqE",
+          "views": 1921466,
+          "age_hours": 52.3
+        },
+        {
+          "id": "iARNlZHvCpU",
+          "title": "His Son will Remember this Forever! (via: thebrianong/TT) #shorts #trending #viral #family #love",
+          "channel": "Shiba Diva",
+          "thumbnail": "https://i.ytimg.com/vi/iARNlZHvCpU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=iARNlZHvCpU",
+          "views": 9194269,
+          "age_hours": 156.0
+        },
+        {
+          "id": "Jaq7aG0nGnM",
+          "title": "Her Family Refuses To Dogsit This Puppy…",
+          "channel": "Cams Witness",
+          "thumbnail": "https://i.ytimg.com/vi/Jaq7aG0nGnM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Jaq7aG0nGnM",
+          "views": 2643168,
+          "age_hours": 101.1
+        }
+      ]
+    },
+    {
+      "phrase": "first",
+      "video_count": 5,
+      "momentum": 20.29,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "vsOON1IDPTo",
+          "title": "Desis Go to LONDON for the First Time",
+          "channel": "Slayy Point",
+          "thumbnail": "https://i.ytimg.com/vi/vsOON1IDPTo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=vsOON1IDPTo",
+          "views": 6939017,
+          "age_hours": 565.4
+        },
+        {
+          "id": "NecrvFTX3Dk",
+          "title": "First Time Making Ghewar for My In-Laws! 🥹❤️ | Will They Like It?",
+          "channel": "Poonam P Bisht",
+          "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
+          "views": 189129,
+          "age_hours": 19.6
+        },
+        {
+          "id": "IwX8xUuV7og",
+          "title": "First PC Build on Engineering Facts 😍😍 | How to build a PC on your own?",
+          "channel": "Engineering Facts",
+          "thumbnail": "https://i.ytimg.com/vi/IwX8xUuV7og/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=IwX8xUuV7og",
+          "views": 218442,
+          "age_hours": 36.1
+        }
+      ]
+    },
+    {
+      "phrase": "minecraft",
+      "video_count": 4,
+      "momentum": 19.88,
       "regions": [
         "IN"
       ],
@@ -489,17 +565,17 @@
           "channel": "Anshu Bisht",
           "thumbnail": "https://i.ytimg.com/vi/z2NoND9GnAA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=z2NoND9GnAA",
-          "views": 552261,
-          "age_hours": 8.1
+          "views": 623744,
+          "age_hours": 15.2
         },
         {
-          "id": "taIFmjocMwI",
-          "title": "I Found Abandoned Airplane in Minecraft!",
-          "channel": "Junkeyy",
-          "thumbnail": "https://i.ytimg.com/vi/taIFmjocMwI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=taIFmjocMwI",
-          "views": 286999,
-          "age_hours": 6.1
+          "id": "Piu0FBw3Hwo",
+          "title": "Why I Flooded My Entire World in Minecraft!?",
+          "channel": "ProBoiz 95",
+          "thumbnail": "https://i.ytimg.com/vi/Piu0FBw3Hwo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Piu0FBw3Hwo",
+          "views": 2019595,
+          "age_hours": 59.9
         },
         {
           "id": "b0R7MwVE9hE",
@@ -507,323 +583,104 @@
           "channel": "Karry Kraft",
           "thumbnail": "https://i.ytimg.com/vi/b0R7MwVE9hE/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=b0R7MwVE9hE",
-          "views": 564851,
-          "age_hours": 10.2
+          "views": 593929,
+          "age_hours": 17.3
         }
       ]
     },
     {
-      "phrase": "minecraft helden",
-      "video_count": 4,
-      "momentum": 24.02,
+      "phrase": "trailer theaters december",
+      "video_count": 2,
+      "momentum": 16.23,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "irVNGjRFZGk",
+          "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+          "channel": "Marvel Entertainment",
+          "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+          "views": 51046509,
+          "age_hours": 157.1
+        },
+        {
+          "id": "ovv5V6rDSxc",
+          "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
+          "channel": "TeaserCon",
+          "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
+          "views": 337760,
+          "age_hours": 12.9
+        }
+      ]
+    },
+    {
+      "phrase": "black ops",
+      "video_count": 3,
+      "momentum": 16.01,
       "regions": [
         "DE"
       ],
       "lang": "de",
       "example_videos": [
         {
-          "id": "W34MJT6blyQ",
-          "title": "ICH HOLE den ERSTEN KILL in FOLGE 1 (Minecraft HELDEN 3)",
-          "channel": "SYou",
-          "thumbnail": "https://i.ytimg.com/vi/W34MJT6blyQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=W34MJT6blyQ",
-          "views": 30995,
-          "age_hours": 9.0
+          "id": "aIdri0nvyqQ",
+          "title": "BLACK OPS 2 bricht ALLE REKORDE!!",
+          "channel": "HapticRush",
+          "thumbnail": "https://i.ytimg.com/vi/aIdri0nvyqQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=aIdri0nvyqQ",
+          "views": 135537,
+          "age_hours": 17.1
         },
         {
-          "id": "UNzdaE-NZyY",
-          "title": "Ich WERDE VERFOLGT und BEDROHT am 1.TAG von MINECRAFT HELDEN 3! (Neues Projekt)",
-          "channel": "AviveHD",
-          "thumbnail": "https://i.ytimg.com/vi/UNzdaE-NZyY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=UNzdaE-NZyY",
-          "views": 48503,
-          "age_hours": 7.0
+          "id": "eXFvVYwK1j4",
+          "title": "ALLTAG in COD 2.0?! 😂 SUCHEN & ZERSTÖREN mit OG-Zuschauern 😱 | Black Ops 2 | MontanaBlack Uncut",
+          "channel": "MontanaBlack Uncut",
+          "thumbnail": "https://i.ytimg.com/vi/eXFvVYwK1j4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=eXFvVYwK1j4",
+          "views": 47545,
+          "age_hours": 9.1
         },
         {
-          "id": "SLmXpy90Hp4",
-          "title": "ICH mache ERSTEN KILL am 1.TAG in MINECRAFT HELDEN!⚔️",
-          "channel": "TriDan",
-          "thumbnail": "https://i.ytimg.com/vi/SLmXpy90Hp4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=SLmXpy90Hp4",
-          "views": 37722,
-          "age_hours": 9.0
-        }
-      ]
-    },
-    {
-      "phrase": "real",
-      "video_count": 4,
-      "momentum": 21.05,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "n_rdciGcJUc",
-          "title": "Playing MECCHA CHAMELEON In Real Life…🎨🖌️🌈 | Viral Hide & Seek Game ",
-          "channel": "MR. INDIAN HACKER",
-          "thumbnail": "https://i.ytimg.com/vi/n_rdciGcJUc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=n_rdciGcJUc",
-          "views": 5788346,
-          "age_hours": 42.5
-        },
-        {
-          "id": "2eThyKjierQ",
-          "title": "I met the real GHOST ID owner",
-          "channel": "SATVIK",
-          "thumbnail": "https://i.ytimg.com/vi/2eThyKjierQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2eThyKjierQ",
-          "views": 440965,
-          "age_hours": 7.1
-        },
-        {
-          "id": "uBD2SH_onkA",
-          "title": "Real end Twist 😂🤣#shorts #trending #funny #viral #viralvideo #youtubeshorts",
-          "channel": "Rishan sriansh & Sree nayana",
-          "thumbnail": "https://i.ytimg.com/vi/uBD2SH_onkA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=uBD2SH_onkA",
-          "views": 19664449,
-          "age_hours": 177.0
-        }
-      ]
-    },
-    {
-      "phrase": "gta live",
-      "video_count": 3,
-      "momentum": 20.77,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "CbfqfJpZcfk",
-          "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
-          "channel": "MR RAJA PLAYZONE",
-          "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
-          "views": 1410930,
-          "age_hours": 1.0
-        },
-        {
-          "id": "EjZMnwEVmGM",
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-          "channel": "Hear Is Live",
-          "thumbnail": "https://i.ytimg.com/vi/EjZMnwEVmGM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EjZMnwEVmGM",
-          "views": 1786716,
-          "age_hours": 7.0
-        },
-        {
-          "id": "utpjuoss_Wk",
-          "title": "GTA 5 LIVE | Unlimited Fun & Epic Gameplay | Nexora Live |#shortslive  #shortsfeed #gta5 #gtaonline",
-          "channel": "NexoraLIVE",
-          "thumbnail": "https://i.ytimg.com/vi/utpjuoss_Wk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=utpjuoss_Wk",
-          "views": 830950,
-          "age_hours": 8.2
-        }
-      ]
-    },
-    {
-      "phrase": "first",
-      "video_count": 5,
-      "momentum": 20.66,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "NecrvFTX3Dk",
-          "title": "First Time Making Ghewar for My In-Laws! 🥹❤️ | Will They Like It?",
-          "channel": "Poonam P Bisht",
-          "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
-          "views": 167446,
-          "age_hours": 12.5
-        },
-        {
-          "id": "vsOON1IDPTo",
-          "title": "Desis Go to LONDON for the First Time",
-          "channel": "Slayy Point",
-          "thumbnail": "https://i.ytimg.com/vi/vsOON1IDPTo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=vsOON1IDPTo",
-          "views": 6931173,
-          "age_hours": 558.3
-        },
-        {
-          "id": "IwX8xUuV7og",
-          "title": "First PC Build on Engineering Facts 😍😍 | How to build a PC on your own?",
-          "channel": "Engineering Facts",
-          "thumbnail": "https://i.ytimg.com/vi/IwX8xUuV7og/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=IwX8xUuV7og",
-          "views": 206548,
-          "age_hours": 29.0
-        }
-      ]
-    },
-    {
-      "phrase": "mundo",
-      "video_count": 4,
-      "momentum": 17.96,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "nTGX686WlbI",
-          "title": "QUEM NUNCA PASSOU POR ISSO NE??😹❤️ fico com medo de todo mundo que passa do lado",
-          "channel": "mihtanino",
-          "thumbnail": "https://i.ytimg.com/vi/nTGX686WlbI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nTGX686WlbI",
-          "views": 1727080,
-          "age_hours": 72.6
-        },
-        {
-          "id": "q6bfEU8l-wA",
-          "title": "Todos PRODUTOS da Copa do Mundo 2026 ⚽️🏆",
-          "channel": "LuCr4zy",
-          "thumbnail": "https://i.ytimg.com/vi/q6bfEU8l-wA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=q6bfEU8l-wA",
-          "views": 1990480,
-          "age_hours": 72.4
-        },
-        {
-          "id": "p-yATabwME0",
-          "title": "AS SELEÇÕES LUTAM PELA COPA DO MUNDO NO PENALTY DO ROBLOX",
-          "channel": "Lucas Clash ON",
-          "thumbnail": "https://i.ytimg.com/vi/p-yATabwME0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=p-yATabwME0",
-          "views": 31250,
-          "age_hours": 4.4
-        }
-      ]
-    },
-    {
-      "phrase": "hospital animais",
-      "video_count": 3,
-      "momentum": 17.08,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "KhPxZTDrkrU",
-          "title": "DESCOBRI NOVOS SEGREDOS OCULTOS DE SLIME NO HOSPITAL DE ANIMAIS COM ANOMALIAS",
-          "channel": "Pabllym GO!",
-          "thumbnail": "https://i.ytimg.com/vi/KhPxZTDrkrU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=KhPxZTDrkrU",
-          "views": 57205,
-          "age_hours": 5.5
-        },
-        {
-          "id": "GMGuk8NRkUw",
-          "title": "🫟 NOVA ANOMALIA SLIME NO HOSPITAL DE ANIMAIS NO ROBLOX! (ATUALIZAÇÃO)",
-          "channel": "PIZÃO",
-          "thumbnail": "https://i.ytimg.com/vi/GMGuk8NRkUw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=GMGuk8NRkUw",
-          "views": 39289,
-          "age_hours": 4.0
-        },
-        {
-          "id": "xDTa580fQDs",
-          "title": "O NOVO BOMBEIRO E NOVO AGENTE NO HOSPITAL DE ANIMAIS",
-          "channel": "DUDU Betero",
-          "thumbnail": "https://i.ytimg.com/vi/xDTa580fQDs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=xDTa580fQDs",
-          "views": 25470,
-          "age_hours": 5.0
-        }
-      ]
-    },
-    {
-      "phrase": "shortslive shortsfeed gta5",
-      "video_count": 2,
-      "momentum": 16.78,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "CbfqfJpZcfk",
-          "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
-          "channel": "MR RAJA PLAYZONE",
-          "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
-          "views": 1410930,
-          "age_hours": 1.0
-        },
-        {
-          "id": "utpjuoss_Wk",
-          "title": "GTA 5 LIVE | Unlimited Fun & Epic Gameplay | Nexora Live |#shortslive  #shortsfeed #gta5 #gtaonline",
-          "channel": "NexoraLIVE",
-          "thumbnail": "https://i.ytimg.com/vi/utpjuoss_Wk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=utpjuoss_Wk",
-          "views": 830950,
-          "age_hours": 8.2
-        }
-      ]
-    },
-    {
-      "phrase": "shortsfeed gta5 gtaonline",
-      "video_count": 2,
-      "momentum": 16.78,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "CbfqfJpZcfk",
-          "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
-          "channel": "MR RAJA PLAYZONE",
-          "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
-          "views": 1410930,
-          "age_hours": 1.0
-        },
-        {
-          "id": "utpjuoss_Wk",
-          "title": "GTA 5 LIVE | Unlimited Fun & Epic Gameplay | Nexora Live |#shortslive  #shortsfeed #gta5 #gtaonline",
-          "channel": "NexoraLIVE",
-          "thumbnail": "https://i.ytimg.com/vi/utpjuoss_Wk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=utpjuoss_Wk",
-          "views": 830950,
-          "age_hours": 8.2
+          "id": "VFqo2GCtToc",
+          "title": "😍🔥200€ WETTE & NOSTALGIE pur! - Black Ops 2 Zombies mit Monte & Repaz!",
+          "channel": "Trymacs",
+          "thumbnail": "https://i.ytimg.com/vi/VFqo2GCtToc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=VFqo2GCtToc",
+          "views": 104895,
+          "age_hours": 16.8
         }
       ]
     },
     {
       "phrase": "first time",
       "video_count": 3,
-      "momentum": 15.61,
+      "momentum": 15.31,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "NecrvFTX3Dk",
-          "title": "First Time Making Ghewar for My In-Laws! 🥹❤️ | Will They Like It?",
-          "channel": "Poonam P Bisht",
-          "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
-          "views": 167446,
-          "age_hours": 12.5
-        },
-        {
           "id": "vsOON1IDPTo",
           "title": "Desis Go to LONDON for the First Time",
           "channel": "Slayy Point",
           "thumbnail": "https://i.ytimg.com/vi/vsOON1IDPTo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=vsOON1IDPTo",
-          "views": 6931173,
-          "age_hours": 558.3
+          "views": 6939017,
+          "age_hours": 565.4
+        },
+        {
+          "id": "NecrvFTX3Dk",
+          "title": "First Time Making Ghewar for My In-Laws! 🥹❤️ | Will They Like It?",
+          "channel": "Poonam P Bisht",
+          "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
+          "views": 189129,
+          "age_hours": 19.6
         },
         {
           "id": "BWJXkU8ZSD8",
@@ -831,15 +688,102 @@
           "channel": "Paras Thakral Vlogs",
           "thumbnail": "https://i.ytimg.com/vi/BWJXkU8ZSD8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=BWJXkU8ZSD8",
-          "views": 92101,
-          "age_hours": 56.5
+          "views": 92596,
+          "age_hours": 63.6
+        }
+      ]
+    },
+    {
+      "phrase": "introducing vitawear smartband",
+      "video_count": 2,
+      "momentum": 15.2,
+      "regions": [
+        "BR"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "7LHAREM6auc",
+          "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
+          "channel": "MR Vision BD",
+          "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
+          "views": 1025973,
+          "age_hours": 84.9
+        },
+        {
+          "id": "6KkG4v7_Jno",
+          "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
+          "channel": "English Vai",
+          "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
+          "views": 5473584,
+          "age_hours": 199.8
+        }
+      ]
+    },
+    {
+      "phrase": "generation wearablegadget shortsfeed",
+      "video_count": 2,
+      "momentum": 15.2,
+      "regions": [
+        "BR"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "7LHAREM6auc",
+          "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
+          "channel": "MR Vision BD",
+          "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
+          "views": 1025973,
+          "age_hours": 84.9
+        },
+        {
+          "id": "6KkG4v7_Jno",
+          "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
+          "channel": "English Vai",
+          "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
+          "views": 5473584,
+          "age_hours": 199.8
+        }
+      ]
+    },
+    {
+      "phrase": "wearablegadget shortsfeed trending",
+      "video_count": 2,
+      "momentum": 15.2,
+      "regions": [
+        "BR"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "7LHAREM6auc",
+          "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
+          "channel": "MR Vision BD",
+          "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
+          "views": 1025973,
+          "age_hours": 84.9
+        },
+        {
+          "id": "6KkG4v7_Jno",
+          "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
+          "channel": "English Vai",
+          "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
+          "views": 5473584,
+          "age_hours": 199.8
         }
       ]
     },
     {
       "phrase": "doomsday trailer marvel's",
       "video_count": 2,
-      "momentum": 15.43,
+      "momentum": 14.82,
       "regions": [
         "IN"
       ],
@@ -851,8 +795,8 @@
           "channel": "ComicVerse",
           "thumbnail": "https://i.ytimg.com/vi/-mp7wJA3vKM/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=-mp7wJA3vKM",
-          "views": 628678,
-          "age_hours": 13.4
+          "views": 708719,
+          "age_hours": 20.5
         },
         {
           "id": "1eOn_DvUZHA",
@@ -860,189 +804,44 @@
           "channel": "PJ Explained",
           "thumbnail": "https://i.ytimg.com/vi/1eOn_DvUZHA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=1eOn_DvUZHA",
-          "views": 272449,
-          "age_hours": 11.9
+          "views": 324883,
+          "age_hours": 19.0
         }
       ]
     },
     {
-      "phrase": "introducing vitawear smartband",
+      "phrase": "avengers doomsday",
       "video_count": 2,
-      "momentum": 15.15,
+      "momentum": 13.53,
       "regions": [
-        "BR"
+        "US"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "7LHAREM6auc",
-          "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
-          "channel": "MR Vision BD",
-          "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
-          "views": 709420,
-          "age_hours": 77.8
+          "id": "irVNGjRFZGk",
+          "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+          "channel": "Marvel Entertainment",
+          "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+          "views": 51046509,
+          "age_hours": 157.1
         },
         {
-          "id": "6KkG4v7_Jno",
-          "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
-          "channel": "English Vai",
-          "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
-          "views": 5420111,
-          "age_hours": 192.7
-        }
-      ]
-    },
-    {
-      "phrase": "generation wearablegadget shortsfeed",
-      "video_count": 2,
-      "momentum": 15.15,
-      "regions": [
-        "BR"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "7LHAREM6auc",
-          "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
-          "channel": "MR Vision BD",
-          "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
-          "views": 709420,
-          "age_hours": 77.8
-        },
-        {
-          "id": "6KkG4v7_Jno",
-          "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
-          "channel": "English Vai",
-          "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
-          "views": 5420111,
-          "age_hours": 192.7
-        }
-      ]
-    },
-    {
-      "phrase": "wearablegadget shortsfeed trending",
-      "video_count": 2,
-      "momentum": 15.15,
-      "regions": [
-        "BR"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "7LHAREM6auc",
-          "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
-          "channel": "MR Vision BD",
-          "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
-          "views": 709420,
-          "age_hours": 77.8
-        },
-        {
-          "id": "6KkG4v7_Jno",
-          "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
-          "channel": "English Vai",
-          "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
-          "views": 5420111,
-          "age_hours": 192.7
-        }
-      ]
-    },
-    {
-      "phrase": "am minecraft helden",
-      "video_count": 2,
-      "momentum": 14.42,
-      "regions": [
-        "DE"
-      ],
-      "lang": "de",
-      "example_videos": [
-        {
-          "id": "UNzdaE-NZyY",
-          "title": "Ich WERDE VERFOLGT und BEDROHT am 1.TAG von MINECRAFT HELDEN 3! (Neues Projekt)",
-          "channel": "AviveHD",
-          "thumbnail": "https://i.ytimg.com/vi/UNzdaE-NZyY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=UNzdaE-NZyY",
-          "views": 48503,
-          "age_hours": 7.0
-        },
-        {
-          "id": "SLmXpy90Hp4",
-          "title": "ICH mache ERSTEN KILL am 1.TAG in MINECRAFT HELDEN!⚔️",
-          "channel": "TriDan",
-          "thumbnail": "https://i.ytimg.com/vi/SLmXpy90Hp4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=SLmXpy90Hp4",
-          "views": 37722,
-          "age_hours": 9.0
-        }
-      ]
-    },
-    {
-      "phrase": "iphone pro max",
-      "video_count": 2,
-      "momentum": 14.16,
-      "regions": [
-        "BR"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "6-mLegIuMf0",
-          "title": "🚀⚡ IPHONE 17 PRO MAX VS GALAXY Z FOLD 7 SPEED TEST!!",
-          "channel": "TECH OF CLASH ",
-          "thumbnail": "https://i.ytimg.com/vi/6-mLegIuMf0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=6-mLegIuMf0",
-          "views": 3100003,
-          "age_hours": 128.6
-        },
-        {
-          "id": "H1IK0rANmJI",
-          "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 12",
-          "channel": "Mr Tungtungsahur Blue ",
-          "thumbnail": "https://i.ytimg.com/vi/H1IK0rANmJI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=H1IK0rANmJI",
-          "views": 6786372,
-          "age_hours": 162.0
-        }
-      ]
-    },
-    {
-      "phrase": "slime hospital animais",
-      "video_count": 2,
-      "momentum": 13.82,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "KhPxZTDrkrU",
-          "title": "DESCOBRI NOVOS SEGREDOS OCULTOS DE SLIME NO HOSPITAL DE ANIMAIS COM ANOMALIAS",
-          "channel": "Pabllym GO!",
-          "thumbnail": "https://i.ytimg.com/vi/KhPxZTDrkrU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=KhPxZTDrkrU",
-          "views": 57205,
-          "age_hours": 5.5
-        },
-        {
-          "id": "GMGuk8NRkUw",
-          "title": "🫟 NOVA ANOMALIA SLIME NO HOSPITAL DE ANIMAIS NO ROBLOX! (ATUALIZAÇÃO)",
-          "channel": "PIZÃO",
-          "thumbnail": "https://i.ytimg.com/vi/GMGuk8NRkUw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=GMGuk8NRkUw",
-          "views": 39289,
-          "age_hours": 4.0
+          "id": "ovv5V6rDSxc",
+          "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
+          "channel": "TeaserCon",
+          "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
+          "views": 337760,
+          "age_hours": 12.9
         }
       ]
     },
     {
       "phrase": "his brother",
       "video_count": 2,
-      "momentum": 13.52,
+      "momentum": 13.44,
       "regions": [
         "GB"
       ],
@@ -1054,8 +853,8 @@
           "channel": "Ronox Aep",
           "thumbnail": "https://i.ytimg.com/vi/Quojg49L6ls/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Quojg49L6ls",
-          "views": 5692378,
-          "age_hours": 26.9
+          "views": 6630390,
+          "age_hours": 34.0
         },
         {
           "id": "3weBP58CnAY",
@@ -1063,114 +862,339 @@
           "channel": "Superverse Central",
           "thumbnail": "https://i.ytimg.com/vi/3weBP58CnAY/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=3weBP58CnAY",
-          "views": 4141002,
-          "age_hours": 143.5
+          "views": 4239888,
+          "age_hours": 150.6
+        }
+      ]
+    },
+    {
+      "phrase": "slime hospital animais",
+      "video_count": 2,
+      "momentum": 13.3,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "KhPxZTDrkrU",
+          "title": "DESCOBRI NOVOS SEGREDOS OCULTOS DE SLIME NO HOSPITAL DE ANIMAIS COM ANOMALIAS",
+          "channel": "Pabllym GO!",
+          "thumbnail": "https://i.ytimg.com/vi/KhPxZTDrkrU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KhPxZTDrkrU",
+          "views": 138794,
+          "age_hours": 12.6
+        },
+        {
+          "id": "GMGuk8NRkUw",
+          "title": "🫟 NOVA ANOMALIA SLIME NO HOSPITAL DE ANIMAIS NO ROBLOX! (ATUALIZAÇÃO)",
+          "channel": "PIZÃO",
+          "thumbnail": "https://i.ytimg.com/vi/GMGuk8NRkUw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=GMGuk8NRkUw",
+          "views": 110889,
+          "age_hours": 11.1
+        }
+      ]
+    },
+    {
+      "phrase": "animal hospital",
+      "video_count": 2,
+      "momentum": 13.19,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "72e_Y6OVBkE",
+          "title": "ANIMAL HOSPITAL HAS OFFICIALLY DESTROYED OUR FRIENDSHIP 😭💔",
+          "channel": "StinkyAsher",
+          "thumbnail": "https://i.ytimg.com/vi/72e_Y6OVBkE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=72e_Y6OVBkE",
+          "views": 168114,
+          "age_hours": 8.5
+        },
+        {
+          "id": "XrIEF1CtIF0",
+          "title": "I Hired The NEW HAZMAT TEAM in ANIMAL HOSPITAL... *INSANE*",
+          "channel": "Lana's Life",
+          "thumbnail": "https://i.ytimg.com/vi/XrIEF1CtIF0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=XrIEF1CtIF0",
+          "views": 222685,
+          "age_hours": 10.4
+        }
+      ]
+    },
+    {
+      "phrase": "fun trending",
+      "video_count": 2,
+      "momentum": 13.11,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "k399LjCMSsA",
+          "title": "Movie ponum lave venum😅Kandippa twist irukku🤣Just for fun😅🤣 #trending #autokaaran #twist #comedy",
+          "channel": "Auto Kaaran ",
+          "thumbnail": "https://i.ytimg.com/vi/k399LjCMSsA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=k399LjCMSsA",
+          "views": 2597824,
+          "age_hours": 86.3
+        },
+        {
+          "id": "t-8vwd30gfQ",
+          "title": "எதுவா இருந்தாலும் என் பாஸ்-அ தான் கேக்கணும்🤣 #shorts #fun #trending",
+          "channel": "With Love Nagaraj Sangeetha",
+          "thumbnail": "https://i.ytimg.com/vi/t-8vwd30gfQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=t-8vwd30gfQ",
+          "views": 1720685,
+          "age_hours": 35.4
+        }
+      ]
+    },
+    {
+      "phrase": "gta live",
+      "video_count": 2,
+      "momentum": 13.06,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "CbfqfJpZcfk",
+          "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
+          "channel": "MR RAJA PLAYZONE",
+          "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
+          "views": 1637724,
+          "age_hours": 7.8
+        },
+        {
+          "id": "EjZMnwEVmGM",
+          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+          "channel": "Hear Is Live",
+          "thumbnail": "https://i.ytimg.com/vi/EjZMnwEVmGM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=EjZMnwEVmGM",
+          "views": 1787023,
+          "age_hours": 14.1
+        }
+      ]
+    },
+    {
+      "phrase": "world cup",
+      "video_count": 2,
+      "momentum": 12.31,
+      "regions": [
+        "GB"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "EjiKwFLaQTo",
+          "title": "Lamine Yamal is NOT Safe from Neymar after World Cup 😭",
+          "channel": "NV10HD",
+          "thumbnail": "https://i.ytimg.com/vi/EjiKwFLaQTo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=EjiKwFLaQTo",
+          "views": 26602311,
+          "age_hours": 108.5
+        },
+        {
+          "id": "3tKXYcHgCRY",
+          "title": "Best World Cup 2026 Team",
+          "channel": "More Chuff",
+          "thumbnail": "https://i.ytimg.com/vi/3tKXYcHgCRY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3tKXYcHgCRY",
+          "views": 177945,
+          "age_hours": 18.1
+        }
+      ]
+    },
+    {
+      "phrase": "comic con",
+      "video_count": 2,
+      "momentum": 12.11,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "KGhCBKqjB3Q",
+          "title": "New Doomsday Trailer + Ghost Rider + Black Panther Recast! Marvel Comic Con Panel Breakdown!",
+          "channel": "New Rockstars",
+          "thumbnail": "https://i.ytimg.com/vi/KGhCBKqjB3Q/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KGhCBKqjB3Q",
+          "views": 688869,
+          "age_hours": 16.8
+        },
+        {
+          "id": "mh1BYXHpeOc",
+          "title": "THE BEST COMIC-CON 2026 MOVIE TRAILERS",
+          "channel": "KinoCheck.com",
+          "thumbnail": "https://i.ytimg.com/vi/mh1BYXHpeOc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=mh1BYXHpeOc",
+          "views": 464015,
+          "age_hours": 14.0
         }
       ]
     }
   ],
   "topics_by_region": {
+    "BR": [
+      {
+        "phrase": "introducing vitawear smartband",
+        "video_count": 2,
+        "momentum": 15.2,
+        "regions": [
+          "BR"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "7LHAREM6auc",
+            "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
+            "channel": "MR Vision BD",
+            "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
+            "views": 1025973,
+            "age_hours": 84.9
+          },
+          {
+            "id": "6KkG4v7_Jno",
+            "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
+            "channel": "English Vai",
+            "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
+            "views": 5473584,
+            "age_hours": 199.8
+          }
+        ]
+      },
+      {
+        "phrase": "generation wearablegadget shortsfeed",
+        "video_count": 2,
+        "momentum": 15.2,
+        "regions": [
+          "BR"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "7LHAREM6auc",
+            "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
+            "channel": "MR Vision BD",
+            "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
+            "views": 1025973,
+            "age_hours": 84.9
+          },
+          {
+            "id": "6KkG4v7_Jno",
+            "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
+            "channel": "English Vai",
+            "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
+            "views": 5473584,
+            "age_hours": 199.8
+          }
+        ]
+      },
+      {
+        "phrase": "wearablegadget shortsfeed trending",
+        "video_count": 2,
+        "momentum": 15.2,
+        "regions": [
+          "BR"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "7LHAREM6auc",
+            "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
+            "channel": "MR Vision BD",
+            "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
+            "views": 1025973,
+            "age_hours": 84.9
+          },
+          {
+            "id": "6KkG4v7_Jno",
+            "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
+            "channel": "English Vai",
+            "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
+            "views": 5473584,
+            "age_hours": 199.8
+          }
+        ]
+      },
+      {
+        "phrase": "slime hospital animais",
+        "video_count": 2,
+        "momentum": 13.3,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "KhPxZTDrkrU",
+            "title": "DESCOBRI NOVOS SEGREDOS OCULTOS DE SLIME NO HOSPITAL DE ANIMAIS COM ANOMALIAS",
+            "channel": "Pabllym GO!",
+            "thumbnail": "https://i.ytimg.com/vi/KhPxZTDrkrU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KhPxZTDrkrU",
+            "views": 138794,
+            "age_hours": 12.6
+          },
+          {
+            "id": "GMGuk8NRkUw",
+            "title": "🫟 NOVA ANOMALIA SLIME NO HOSPITAL DE ANIMAIS NO ROBLOX! (ATUALIZAÇÃO)",
+            "channel": "PIZÃO",
+            "thumbnail": "https://i.ytimg.com/vi/GMGuk8NRkUw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=GMGuk8NRkUw",
+            "views": 110889,
+            "age_hours": 11.1
+          }
+        ]
+      },
+      {
+        "phrase": "copa mundo",
+        "video_count": 2,
+        "momentum": 10.78,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "q6bfEU8l-wA",
+            "title": "Todos PRODUTOS da Copa do Mundo 2026 ⚽️🏆",
+            "channel": "LuCr4zy",
+            "thumbnail": "https://i.ytimg.com/vi/q6bfEU8l-wA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=q6bfEU8l-wA",
+            "views": 2118181,
+            "age_hours": 79.5
+          },
+          {
+            "id": "p-yATabwME0",
+            "title": "AS SELEÇÕES LUTAM PELA COPA DO MUNDO NO PENALTY DO ROBLOX",
+            "channel": "Lucas Clash ON",
+            "thumbnail": "https://i.ytimg.com/vi/p-yATabwME0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=p-yATabwME0",
+            "views": 75074,
+            "age_hours": 11.5
+          }
+        ]
+      }
+    ],
     "DE": [
       {
-        "phrase": "minecraft helden",
-        "video_count": 4,
-        "momentum": 24.02,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "W34MJT6blyQ",
-            "title": "ICH HOLE den ERSTEN KILL in FOLGE 1 (Minecraft HELDEN 3)",
-            "channel": "SYou",
-            "thumbnail": "https://i.ytimg.com/vi/W34MJT6blyQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=W34MJT6blyQ",
-            "views": 30995,
-            "age_hours": 9.0
-          },
-          {
-            "id": "UNzdaE-NZyY",
-            "title": "Ich WERDE VERFOLGT und BEDROHT am 1.TAG von MINECRAFT HELDEN 3! (Neues Projekt)",
-            "channel": "AviveHD",
-            "thumbnail": "https://i.ytimg.com/vi/UNzdaE-NZyY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UNzdaE-NZyY",
-            "views": 48503,
-            "age_hours": 7.0
-          },
-          {
-            "id": "SLmXpy90Hp4",
-            "title": "ICH mache ERSTEN KILL am 1.TAG in MINECRAFT HELDEN!⚔️",
-            "channel": "TriDan",
-            "thumbnail": "https://i.ytimg.com/vi/SLmXpy90Hp4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SLmXpy90Hp4",
-            "views": 37722,
-            "age_hours": 9.0
-          }
-        ]
-      },
-      {
-        "phrase": "am minecraft helden",
-        "video_count": 2,
-        "momentum": 14.42,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "UNzdaE-NZyY",
-            "title": "Ich WERDE VERFOLGT und BEDROHT am 1.TAG von MINECRAFT HELDEN 3! (Neues Projekt)",
-            "channel": "AviveHD",
-            "thumbnail": "https://i.ytimg.com/vi/UNzdaE-NZyY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UNzdaE-NZyY",
-            "views": 48503,
-            "age_hours": 7.0
-          },
-          {
-            "id": "SLmXpy90Hp4",
-            "title": "ICH mache ERSTEN KILL am 1.TAG in MINECRAFT HELDEN!⚔️",
-            "channel": "TriDan",
-            "thumbnail": "https://i.ytimg.com/vi/SLmXpy90Hp4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SLmXpy90Hp4",
-            "views": 37722,
-            "age_hours": 9.0
-          }
-        ]
-      },
-      {
-        "phrase": "ersten kill",
-        "video_count": 2,
-        "momentum": 12.07,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "W34MJT6blyQ",
-            "title": "ICH HOLE den ERSTEN KILL in FOLGE 1 (Minecraft HELDEN 3)",
-            "channel": "SYou",
-            "thumbnail": "https://i.ytimg.com/vi/W34MJT6blyQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=W34MJT6blyQ",
-            "views": 30995,
-            "age_hours": 9.0
-          },
-          {
-            "id": "SLmXpy90Hp4",
-            "title": "ICH mache ERSTEN KILL am 1.TAG in MINECRAFT HELDEN!⚔️",
-            "channel": "TriDan",
-            "thumbnail": "https://i.ytimg.com/vi/SLmXpy90Hp4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SLmXpy90Hp4",
-            "views": 37722,
-            "age_hours": 9.0
-          }
-        ]
-      },
-      {
         "phrase": "black ops",
-        "video_count": 2,
-        "momentum": 11.23,
+        "video_count": 3,
+        "momentum": 16.01,
         "regions": [
           "DE"
         ],
@@ -1182,8 +1206,17 @@
             "channel": "HapticRush",
             "thumbnail": "https://i.ytimg.com/vi/aIdri0nvyqQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=aIdri0nvyqQ",
-            "views": 101756,
-            "age_hours": 10.0
+            "views": 135537,
+            "age_hours": 17.1
+          },
+          {
+            "id": "eXFvVYwK1j4",
+            "title": "ALLTAG in COD 2.0?! 😂 SUCHEN & ZERSTÖREN mit OG-Zuschauern 😱 | Black Ops 2 | MontanaBlack Uncut",
+            "channel": "MontanaBlack Uncut",
+            "thumbnail": "https://i.ytimg.com/vi/eXFvVYwK1j4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=eXFvVYwK1j4",
+            "views": 47545,
+            "age_hours": 9.1
           },
           {
             "id": "VFqo2GCtToc",
@@ -1191,8 +1224,37 @@
             "channel": "Trymacs",
             "thumbnail": "https://i.ytimg.com/vi/VFqo2GCtToc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=VFqo2GCtToc",
-            "views": 66287,
-            "age_hours": 9.7
+            "views": 104895,
+            "age_hours": 16.8
+          }
+        ]
+      },
+      {
+        "phrase": "minecraft helden",
+        "video_count": 2,
+        "momentum": 11.09,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "UNzdaE-NZyY",
+            "title": "Ich WERDE VERFOLGT und BEDROHT am 1.TAG von MINECRAFT HELDEN 3! (Neues Projekt)",
+            "channel": "AviveHD",
+            "thumbnail": "https://i.ytimg.com/vi/UNzdaE-NZyY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UNzdaE-NZyY",
+            "views": 84556,
+            "age_hours": 14.1
+          },
+          {
+            "id": "5aZJvZJrfxk",
+            "title": "Ich FINDE DIAMANTEN in Minecraft Helden 3!",
+            "channel": "Paulberger",
+            "thumbnail": "https://i.ytimg.com/vi/5aZJvZJrfxk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5aZJvZJrfxk",
+            "views": 90233,
+            "age_hours": 16.0
           }
         ]
       }
@@ -1201,7 +1263,7 @@
       {
         "phrase": "his brother",
         "video_count": 2,
-        "momentum": 13.52,
+        "momentum": 13.44,
         "regions": [
           "GB"
         ],
@@ -1213,8 +1275,8 @@
             "channel": "Ronox Aep",
             "thumbnail": "https://i.ytimg.com/vi/Quojg49L6ls/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Quojg49L6ls",
-            "views": 5692378,
-            "age_hours": 26.9
+            "views": 6630390,
+            "age_hours": 34.0
           },
           {
             "id": "3weBP58CnAY",
@@ -1222,44 +1284,15 @@
             "channel": "Superverse Central",
             "thumbnail": "https://i.ytimg.com/vi/3weBP58CnAY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=3weBP58CnAY",
-            "views": 4141002,
-            "age_hours": 143.5
-          }
-        ]
-      },
-      {
-        "phrase": "tom holland",
-        "video_count": 2,
-        "momentum": 13.11,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "3weBP58CnAY",
-            "title": "Tom Holland PRANKED his brother by putting him in a Spider-Man movie!",
-            "channel": "Superverse Central",
-            "thumbnail": "https://i.ytimg.com/vi/3weBP58CnAY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=3weBP58CnAY",
-            "views": 4141002,
-            "age_hours": 143.5
-          },
-          {
-            "id": "NKFHsy9QVuw",
-            "title": "Tom Holland TURNED BACK for Zendaya! 📉😱 | #Shorts",
-            "channel": "Cine Vault YT",
-            "thumbnail": "https://i.ytimg.com/vi/NKFHsy9QVuw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NKFHsy9QVuw",
-            "views": 2197873,
-            "age_hours": 31.5
+            "views": 4239888,
+            "age_hours": 150.6
           }
         ]
       },
       {
         "phrase": "world cup",
         "video_count": 2,
-        "momentum": 12.53,
+        "momentum": 12.31,
         "regions": [
           "GB"
         ],
@@ -1271,8 +1304,8 @@
             "channel": "NV10HD",
             "thumbnail": "https://i.ytimg.com/vi/EjiKwFLaQTo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=EjiKwFLaQTo",
-            "views": 26216863,
-            "age_hours": 101.3
+            "views": 26602311,
+            "age_hours": 108.5
           },
           {
             "id": "3tKXYcHgCRY",
@@ -1280,358 +1313,241 @@
             "channel": "More Chuff",
             "thumbnail": "https://i.ytimg.com/vi/3tKXYcHgCRY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=3tKXYcHgCRY",
-            "views": 136239,
-            "age_hours": 11.0
-          }
-        ]
-      },
-      {
-        "phrase": "i've ever",
-        "video_count": 2,
-        "momentum": 11.54,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "C8hBf7Lkxn0",
-            "title": "One Of The Saddest Horror Games I've Ever Played [Family Secrets]",
-            "channel": "Joe Bart Games",
-            "thumbnail": "https://i.ytimg.com/vi/C8hBf7Lkxn0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=C8hBf7Lkxn0",
-            "views": 59726,
-            "age_hours": 4.7
-          },
-          {
-            "id": "0IF3cQ6RUrc",
-            "title": "The Most Expensive Pack Opening I've Ever Done...",
-            "channel": "Danny Aarons",
-            "thumbnail": "https://i.ytimg.com/vi/0IF3cQ6RUrc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0IF3cQ6RUrc",
-            "views": 63064,
-            "age_hours": 6.2
+            "views": 177945,
+            "age_hours": 18.1
           }
         ]
       }
     ],
-    "BR": [
+    "US": [
       {
-        "phrase": "mundo",
-        "video_count": 4,
-        "momentum": 17.96,
+        "phrase": "family",
+        "video_count": 5,
+        "momentum": 25.4,
         "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "nTGX686WlbI",
-            "title": "QUEM NUNCA PASSOU POR ISSO NE??😹❤️ fico com medo de todo mundo que passa do lado",
-            "channel": "mihtanino",
-            "thumbnail": "https://i.ytimg.com/vi/nTGX686WlbI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nTGX686WlbI",
-            "views": 1727080,
-            "age_hours": 72.6
-          },
-          {
-            "id": "q6bfEU8l-wA",
-            "title": "Todos PRODUTOS da Copa do Mundo 2026 ⚽️🏆",
-            "channel": "LuCr4zy",
-            "thumbnail": "https://i.ytimg.com/vi/q6bfEU8l-wA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=q6bfEU8l-wA",
-            "views": 1990480,
-            "age_hours": 72.4
-          },
-          {
-            "id": "p-yATabwME0",
-            "title": "AS SELEÇÕES LUTAM PELA COPA DO MUNDO NO PENALTY DO ROBLOX",
-            "channel": "Lucas Clash ON",
-            "thumbnail": "https://i.ytimg.com/vi/p-yATabwME0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=p-yATabwME0",
-            "views": 31250,
-            "age_hours": 4.4
-          }
-        ]
-      },
-      {
-        "phrase": "hospital animais",
-        "video_count": 3,
-        "momentum": 17.08,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "KhPxZTDrkrU",
-            "title": "DESCOBRI NOVOS SEGREDOS OCULTOS DE SLIME NO HOSPITAL DE ANIMAIS COM ANOMALIAS",
-            "channel": "Pabllym GO!",
-            "thumbnail": "https://i.ytimg.com/vi/KhPxZTDrkrU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=KhPxZTDrkrU",
-            "views": 57205,
-            "age_hours": 5.5
-          },
-          {
-            "id": "GMGuk8NRkUw",
-            "title": "🫟 NOVA ANOMALIA SLIME NO HOSPITAL DE ANIMAIS NO ROBLOX! (ATUALIZAÇÃO)",
-            "channel": "PIZÃO",
-            "thumbnail": "https://i.ytimg.com/vi/GMGuk8NRkUw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GMGuk8NRkUw",
-            "views": 39289,
-            "age_hours": 4.0
-          },
-          {
-            "id": "xDTa580fQDs",
-            "title": "O NOVO BOMBEIRO E NOVO AGENTE NO HOSPITAL DE ANIMAIS",
-            "channel": "DUDU Betero",
-            "thumbnail": "https://i.ytimg.com/vi/xDTa580fQDs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xDTa580fQDs",
-            "views": 25470,
-            "age_hours": 5.0
-          }
-        ]
-      },
-      {
-        "phrase": "introducing vitawear smartband",
-        "video_count": 2,
-        "momentum": 15.15,
-        "regions": [
-          "BR"
+          "US"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "7LHAREM6auc",
-            "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
-            "channel": "MR Vision BD",
-            "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
-            "views": 709420,
-            "age_hours": 77.8
+            "id": "2XJYQ335cqE",
+            "title": "A bad day for a sad stranded family...😢❤️ #fyp #fypシ #car #giveaway #sad #help #shorts #mechanic",
+            "channel": "Matthew Parker",
+            "thumbnail": "https://i.ytimg.com/vi/2XJYQ335cqE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=2XJYQ335cqE",
+            "views": 1921466,
+            "age_hours": 52.3
           },
           {
-            "id": "6KkG4v7_Jno",
-            "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
-            "channel": "English Vai",
-            "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
-            "views": 5420111,
-            "age_hours": 192.7
+            "id": "iARNlZHvCpU",
+            "title": "His Son will Remember this Forever! (via: thebrianong/TT) #shorts #trending #viral #family #love",
+            "channel": "Shiba Diva",
+            "thumbnail": "https://i.ytimg.com/vi/iARNlZHvCpU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iARNlZHvCpU",
+            "views": 9194269,
+            "age_hours": 156.0
+          },
+          {
+            "id": "Jaq7aG0nGnM",
+            "title": "Her Family Refuses To Dogsit This Puppy…",
+            "channel": "Cams Witness",
+            "thumbnail": "https://i.ytimg.com/vi/Jaq7aG0nGnM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Jaq7aG0nGnM",
+            "views": 2643168,
+            "age_hours": 101.1
           }
         ]
       },
       {
-        "phrase": "generation wearablegadget shortsfeed",
+        "phrase": "trailer theaters december",
         "video_count": 2,
-        "momentum": 15.15,
+        "momentum": 16.23,
         "regions": [
-          "BR"
+          "US"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "7LHAREM6auc",
-            "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
-            "channel": "MR Vision BD",
-            "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
-            "views": 709420,
-            "age_hours": 77.8
+            "id": "irVNGjRFZGk",
+            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+            "channel": "Marvel Entertainment",
+            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+            "views": 51046509,
+            "age_hours": 157.1
           },
           {
-            "id": "6KkG4v7_Jno",
-            "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
-            "channel": "English Vai",
-            "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
-            "views": 5420111,
-            "age_hours": 192.7
+            "id": "ovv5V6rDSxc",
+            "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
+            "channel": "TeaserCon",
+            "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
+            "views": 337760,
+            "age_hours": 12.9
           }
         ]
       },
       {
-        "phrase": "wearablegadget shortsfeed trending",
+        "phrase": "avengers doomsday",
         "video_count": 2,
-        "momentum": 15.15,
+        "momentum": 13.53,
         "regions": [
-          "BR"
+          "US"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "7LHAREM6auc",
-            "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
-            "channel": "MR Vision BD",
-            "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
-            "views": 709420,
-            "age_hours": 77.8
+            "id": "irVNGjRFZGk",
+            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+            "channel": "Marvel Entertainment",
+            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+            "views": 51046509,
+            "age_hours": 157.1
           },
           {
-            "id": "6KkG4v7_Jno",
-            "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
-            "channel": "English Vai",
-            "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
-            "views": 5420111,
-            "age_hours": 192.7
+            "id": "ovv5V6rDSxc",
+            "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
+            "channel": "TeaserCon",
+            "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
+            "views": 337760,
+            "age_hours": 12.9
           }
         ]
       },
       {
-        "phrase": "iphone pro max",
+        "phrase": "animal hospital",
         "video_count": 2,
-        "momentum": 14.16,
+        "momentum": 13.19,
         "regions": [
-          "BR"
+          "US"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "6-mLegIuMf0",
-            "title": "🚀⚡ IPHONE 17 PRO MAX VS GALAXY Z FOLD 7 SPEED TEST!!",
-            "channel": "TECH OF CLASH ",
-            "thumbnail": "https://i.ytimg.com/vi/6-mLegIuMf0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6-mLegIuMf0",
-            "views": 3100003,
-            "age_hours": 128.6
+            "id": "72e_Y6OVBkE",
+            "title": "ANIMAL HOSPITAL HAS OFFICIALLY DESTROYED OUR FRIENDSHIP 😭💔",
+            "channel": "StinkyAsher",
+            "thumbnail": "https://i.ytimg.com/vi/72e_Y6OVBkE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=72e_Y6OVBkE",
+            "views": 168114,
+            "age_hours": 8.5
           },
           {
-            "id": "H1IK0rANmJI",
-            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 12",
-            "channel": "Mr Tungtungsahur Blue ",
-            "thumbnail": "https://i.ytimg.com/vi/H1IK0rANmJI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=H1IK0rANmJI",
-            "views": 6786372,
-            "age_hours": 162.0
+            "id": "XrIEF1CtIF0",
+            "title": "I Hired The NEW HAZMAT TEAM in ANIMAL HOSPITAL... *INSANE*",
+            "channel": "Lana's Life",
+            "thumbnail": "https://i.ytimg.com/vi/XrIEF1CtIF0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=XrIEF1CtIF0",
+            "views": 222685,
+            "age_hours": 10.4
           }
         ]
       },
       {
-        "phrase": "slime hospital animais",
+        "phrase": "comic con",
         "video_count": 2,
-        "momentum": 13.82,
+        "momentum": 12.11,
         "regions": [
-          "BR"
+          "US"
         ],
-        "lang": "pt",
+        "lang": "en",
         "example_videos": [
           {
-            "id": "KhPxZTDrkrU",
-            "title": "DESCOBRI NOVOS SEGREDOS OCULTOS DE SLIME NO HOSPITAL DE ANIMAIS COM ANOMALIAS",
-            "channel": "Pabllym GO!",
-            "thumbnail": "https://i.ytimg.com/vi/KhPxZTDrkrU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=KhPxZTDrkrU",
-            "views": 57205,
-            "age_hours": 5.5
+            "id": "KGhCBKqjB3Q",
+            "title": "New Doomsday Trailer + Ghost Rider + Black Panther Recast! Marvel Comic Con Panel Breakdown!",
+            "channel": "New Rockstars",
+            "thumbnail": "https://i.ytimg.com/vi/KGhCBKqjB3Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KGhCBKqjB3Q",
+            "views": 688869,
+            "age_hours": 16.8
           },
           {
-            "id": "GMGuk8NRkUw",
-            "title": "🫟 NOVA ANOMALIA SLIME NO HOSPITAL DE ANIMAIS NO ROBLOX! (ATUALIZAÇÃO)",
-            "channel": "PIZÃO",
-            "thumbnail": "https://i.ytimg.com/vi/GMGuk8NRkUw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GMGuk8NRkUw",
-            "views": 39289,
-            "age_hours": 4.0
+            "id": "mh1BYXHpeOc",
+            "title": "THE BEST COMIC-CON 2026 MOVIE TRAILERS",
+            "channel": "KinoCheck.com",
+            "thumbnail": "https://i.ytimg.com/vi/mh1BYXHpeOc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mh1BYXHpeOc",
+            "views": 464015,
+            "age_hours": 14.0
           }
         ]
       },
       {
-        "phrase": "todo mundo",
+        "phrase": "doomsday trailer",
         "video_count": 2,
-        "momentum": 11.43,
+        "momentum": 11.98,
         "regions": [
-          "BR"
+          "US"
         ],
-        "lang": "pt",
+        "lang": "en",
         "example_videos": [
           {
-            "id": "nTGX686WlbI",
-            "title": "QUEM NUNCA PASSOU POR ISSO NE??😹❤️ fico com medo de todo mundo que passa do lado",
-            "channel": "mihtanino",
-            "thumbnail": "https://i.ytimg.com/vi/nTGX686WlbI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nTGX686WlbI",
-            "views": 1727080,
-            "age_hours": 72.6
+            "id": "KGhCBKqjB3Q",
+            "title": "New Doomsday Trailer + Ghost Rider + Black Panther Recast! Marvel Comic Con Panel Breakdown!",
+            "channel": "New Rockstars",
+            "thumbnail": "https://i.ytimg.com/vi/KGhCBKqjB3Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KGhCBKqjB3Q",
+            "views": 688869,
+            "age_hours": 16.8
           },
           {
-            "id": "xgjZvLzlojw",
-            "title": "TODO MUNDO PARTIU o CORAÇÃO do CADRES no Minecraft! 💔😭",
-            "channel": "Cadres",
-            "thumbnail": "https://i.ytimg.com/vi/xgjZvLzlojw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xgjZvLzlojw",
-            "views": 100301,
-            "age_hours": 6.3
-          }
-        ]
-      },
-      {
-        "phrase": "copa mundo",
-        "video_count": 2,
-        "momentum": 11.03,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "q6bfEU8l-wA",
-            "title": "Todos PRODUTOS da Copa do Mundo 2026 ⚽️🏆",
-            "channel": "LuCr4zy",
-            "thumbnail": "https://i.ytimg.com/vi/q6bfEU8l-wA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=q6bfEU8l-wA",
-            "views": 1990480,
-            "age_hours": 72.4
-          },
-          {
-            "id": "p-yATabwME0",
-            "title": "AS SELEÇÕES LUTAM PELA COPA DO MUNDO NO PENALTY DO ROBLOX",
-            "channel": "Lucas Clash ON",
-            "thumbnail": "https://i.ytimg.com/vi/p-yATabwME0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=p-yATabwME0",
-            "views": 31250,
-            "age_hours": 4.4
-          }
-        ]
-      },
-      {
-        "phrase": "antigas melhores",
-        "video_count": 2,
-        "momentum": 10.36,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "OGdbF-mLEkU",
-            "title": "💿RAÇA NEGRA SÓ RECORDAÇÕES ANTIGAS AS MELHORES🎶",
-            "channel": "Vortex Melody",
-            "thumbnail": "https://i.ytimg.com/vi/OGdbF-mLEkU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=OGdbF-mLEkU",
-            "views": 78601,
-            "age_hours": 1.1
-          },
-          {
-            "id": "111FFnmIrFg",
-            "title": "PABLO 💖 SÓ AS ANTIGAS PLAYLIST 💝 ANTIGAS AS MELHORES",
-            "channel": "Coração Sertanejo",
-            "thumbnail": "https://i.ytimg.com/vi/111FFnmIrFg/mqdefault_live.jpg",
-            "url": "https://www.youtube.com/watch?v=111FFnmIrFg",
-            "views": 34097,
-            "age_hours": 20.7
+            "id": "ovv5V6rDSxc",
+            "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
+            "channel": "TeaserCon",
+            "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
+            "views": 337760,
+            "age_hours": 12.9
           }
         ]
       }
     ],
-    "US": [],
     "AU": [],
     "IN": [
       {
-        "phrase": "minecraft",
+        "phrase": "first",
         "video_count": 5,
-        "momentum": 25.66,
+        "momentum": 20.29,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "vsOON1IDPTo",
+            "title": "Desis Go to LONDON for the First Time",
+            "channel": "Slayy Point",
+            "thumbnail": "https://i.ytimg.com/vi/vsOON1IDPTo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=vsOON1IDPTo",
+            "views": 6939017,
+            "age_hours": 565.4
+          },
+          {
+            "id": "NecrvFTX3Dk",
+            "title": "First Time Making Ghewar for My In-Laws! 🥹❤️ | Will They Like It?",
+            "channel": "Poonam P Bisht",
+            "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
+            "views": 189129,
+            "age_hours": 19.6
+          },
+          {
+            "id": "IwX8xUuV7og",
+            "title": "First PC Build on Engineering Facts 😍😍 | How to build a PC on your own?",
+            "channel": "Engineering Facts",
+            "thumbnail": "https://i.ytimg.com/vi/IwX8xUuV7og/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IwX8xUuV7og",
+            "views": 218442,
+            "age_hours": 36.1
+          }
+        ]
+      },
+      {
+        "phrase": "minecraft",
+        "video_count": 4,
+        "momentum": 19.88,
         "regions": [
           "IN"
         ],
@@ -1643,17 +1559,17 @@
             "channel": "Anshu Bisht",
             "thumbnail": "https://i.ytimg.com/vi/z2NoND9GnAA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=z2NoND9GnAA",
-            "views": 552261,
-            "age_hours": 8.1
+            "views": 623744,
+            "age_hours": 15.2
           },
           {
-            "id": "taIFmjocMwI",
-            "title": "I Found Abandoned Airplane in Minecraft!",
-            "channel": "Junkeyy",
-            "thumbnail": "https://i.ytimg.com/vi/taIFmjocMwI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=taIFmjocMwI",
-            "views": 286999,
-            "age_hours": 6.1
+            "id": "Piu0FBw3Hwo",
+            "title": "Why I Flooded My Entire World in Minecraft!?",
+            "channel": "ProBoiz 95",
+            "thumbnail": "https://i.ytimg.com/vi/Piu0FBw3Hwo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Piu0FBw3Hwo",
+            "views": 2019595,
+            "age_hours": 59.9
           },
           {
             "id": "b0R7MwVE9hE",
@@ -1661,209 +1577,37 @@
             "channel": "Karry Kraft",
             "thumbnail": "https://i.ytimg.com/vi/b0R7MwVE9hE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=b0R7MwVE9hE",
-            "views": 564851,
-            "age_hours": 10.2
-          }
-        ]
-      },
-      {
-        "phrase": "real",
-        "video_count": 4,
-        "momentum": 21.05,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "n_rdciGcJUc",
-            "title": "Playing MECCHA CHAMELEON In Real Life…🎨🖌️🌈 | Viral Hide & Seek Game ",
-            "channel": "MR. INDIAN HACKER",
-            "thumbnail": "https://i.ytimg.com/vi/n_rdciGcJUc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=n_rdciGcJUc",
-            "views": 5788346,
-            "age_hours": 42.5
-          },
-          {
-            "id": "2eThyKjierQ",
-            "title": "I met the real GHOST ID owner",
-            "channel": "SATVIK",
-            "thumbnail": "https://i.ytimg.com/vi/2eThyKjierQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2eThyKjierQ",
-            "views": 440965,
-            "age_hours": 7.1
-          },
-          {
-            "id": "uBD2SH_onkA",
-            "title": "Real end Twist 😂🤣#shorts #trending #funny #viral #viralvideo #youtubeshorts",
-            "channel": "Rishan sriansh & Sree nayana",
-            "thumbnail": "https://i.ytimg.com/vi/uBD2SH_onkA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=uBD2SH_onkA",
-            "views": 19664449,
-            "age_hours": 177.0
-          }
-        ]
-      },
-      {
-        "phrase": "gta live",
-        "video_count": 3,
-        "momentum": 20.77,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "CbfqfJpZcfk",
-            "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
-            "channel": "MR RAJA PLAYZONE",
-            "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
-            "views": 1410930,
-            "age_hours": 1.0
-          },
-          {
-            "id": "EjZMnwEVmGM",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/EjZMnwEVmGM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EjZMnwEVmGM",
-            "views": 1786716,
-            "age_hours": 7.0
-          },
-          {
-            "id": "utpjuoss_Wk",
-            "title": "GTA 5 LIVE | Unlimited Fun & Epic Gameplay | Nexora Live |#shortslive  #shortsfeed #gta5 #gtaonline",
-            "channel": "NexoraLIVE",
-            "thumbnail": "https://i.ytimg.com/vi/utpjuoss_Wk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=utpjuoss_Wk",
-            "views": 830950,
-            "age_hours": 8.2
-          }
-        ]
-      },
-      {
-        "phrase": "first",
-        "video_count": 5,
-        "momentum": 20.66,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "NecrvFTX3Dk",
-            "title": "First Time Making Ghewar for My In-Laws! 🥹❤️ | Will They Like It?",
-            "channel": "Poonam P Bisht",
-            "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
-            "views": 167446,
-            "age_hours": 12.5
-          },
-          {
-            "id": "vsOON1IDPTo",
-            "title": "Desis Go to LONDON for the First Time",
-            "channel": "Slayy Point",
-            "thumbnail": "https://i.ytimg.com/vi/vsOON1IDPTo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=vsOON1IDPTo",
-            "views": 6931173,
-            "age_hours": 558.3
-          },
-          {
-            "id": "IwX8xUuV7og",
-            "title": "First PC Build on Engineering Facts 😍😍 | How to build a PC on your own?",
-            "channel": "Engineering Facts",
-            "thumbnail": "https://i.ytimg.com/vi/IwX8xUuV7og/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=IwX8xUuV7og",
-            "views": 206548,
-            "age_hours": 29.0
-          }
-        ]
-      },
-      {
-        "phrase": "shortslive shortsfeed gta5",
-        "video_count": 2,
-        "momentum": 16.78,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "CbfqfJpZcfk",
-            "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
-            "channel": "MR RAJA PLAYZONE",
-            "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
-            "views": 1410930,
-            "age_hours": 1.0
-          },
-          {
-            "id": "utpjuoss_Wk",
-            "title": "GTA 5 LIVE | Unlimited Fun & Epic Gameplay | Nexora Live |#shortslive  #shortsfeed #gta5 #gtaonline",
-            "channel": "NexoraLIVE",
-            "thumbnail": "https://i.ytimg.com/vi/utpjuoss_Wk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=utpjuoss_Wk",
-            "views": 830950,
-            "age_hours": 8.2
-          }
-        ]
-      },
-      {
-        "phrase": "shortsfeed gta5 gtaonline",
-        "video_count": 2,
-        "momentum": 16.78,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "CbfqfJpZcfk",
-            "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
-            "channel": "MR RAJA PLAYZONE",
-            "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
-            "views": 1410930,
-            "age_hours": 1.0
-          },
-          {
-            "id": "utpjuoss_Wk",
-            "title": "GTA 5 LIVE | Unlimited Fun & Epic Gameplay | Nexora Live |#shortslive  #shortsfeed #gta5 #gtaonline",
-            "channel": "NexoraLIVE",
-            "thumbnail": "https://i.ytimg.com/vi/utpjuoss_Wk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=utpjuoss_Wk",
-            "views": 830950,
-            "age_hours": 8.2
+            "views": 593929,
+            "age_hours": 17.3
           }
         ]
       },
       {
         "phrase": "first time",
         "video_count": 3,
-        "momentum": 15.61,
+        "momentum": 15.31,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "NecrvFTX3Dk",
-            "title": "First Time Making Ghewar for My In-Laws! 🥹❤️ | Will They Like It?",
-            "channel": "Poonam P Bisht",
-            "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
-            "views": 167446,
-            "age_hours": 12.5
-          },
-          {
             "id": "vsOON1IDPTo",
             "title": "Desis Go to LONDON for the First Time",
             "channel": "Slayy Point",
             "thumbnail": "https://i.ytimg.com/vi/vsOON1IDPTo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=vsOON1IDPTo",
-            "views": 6931173,
-            "age_hours": 558.3
+            "views": 6939017,
+            "age_hours": 565.4
+          },
+          {
+            "id": "NecrvFTX3Dk",
+            "title": "First Time Making Ghewar for My In-Laws! 🥹❤️ | Will They Like It?",
+            "channel": "Poonam P Bisht",
+            "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
+            "views": 189129,
+            "age_hours": 19.6
           },
           {
             "id": "BWJXkU8ZSD8",
@@ -1871,15 +1615,15 @@
             "channel": "Paras Thakral Vlogs",
             "thumbnail": "https://i.ytimg.com/vi/BWJXkU8ZSD8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BWJXkU8ZSD8",
-            "views": 92101,
-            "age_hours": 56.5
+            "views": 92596,
+            "age_hours": 63.6
           }
         ]
       },
       {
         "phrase": "doomsday trailer marvel's",
         "video_count": 2,
-        "momentum": 15.43,
+        "momentum": 14.82,
         "regions": [
           "IN"
         ],
@@ -1891,8 +1635,8 @@
             "channel": "ComicVerse",
             "thumbnail": "https://i.ytimg.com/vi/-mp7wJA3vKM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=-mp7wJA3vKM",
-            "views": 628678,
-            "age_hours": 13.4
+            "views": 708719,
+            "age_hours": 20.5
           },
           {
             "id": "1eOn_DvUZHA",
@@ -1900,15 +1644,15 @@
             "channel": "PJ Explained",
             "thumbnail": "https://i.ytimg.com/vi/1eOn_DvUZHA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1eOn_DvUZHA",
-            "views": 272449,
-            "age_hours": 11.9
+            "views": 324883,
+            "age_hours": 19.0
           }
         ]
       },
       {
         "phrase": "fun trending",
         "video_count": 2,
-        "momentum": 13.28,
+        "momentum": 13.11,
         "regions": [
           "IN"
         ],
@@ -1920,8 +1664,8 @@
             "channel": "Auto Kaaran ",
             "thumbnail": "https://i.ytimg.com/vi/k399LjCMSsA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=k399LjCMSsA",
-            "views": 2556223,
-            "age_hours": 79.2
+            "views": 2597824,
+            "age_hours": 86.3
           },
           {
             "id": "t-8vwd30gfQ",
@@ -1929,15 +1673,44 @@
             "channel": "With Love Nagaraj Sangeetha",
             "thumbnail": "https://i.ytimg.com/vi/t-8vwd30gfQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=t-8vwd30gfQ",
-            "views": 1665367,
-            "age_hours": 28.3
+            "views": 1720685,
+            "age_hours": 35.4
+          }
+        ]
+      },
+      {
+        "phrase": "gta live",
+        "video_count": 2,
+        "momentum": 13.06,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "CbfqfJpZcfk",
+            "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
+            "views": 1637724,
+            "age_hours": 7.8
+          },
+          {
+            "id": "EjZMnwEVmGM",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Hear Is Live",
+            "thumbnail": "https://i.ytimg.com/vi/EjZMnwEVmGM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=EjZMnwEVmGM",
+            "views": 1787023,
+            "age_hours": 14.1
           }
         ]
       },
       {
         "phrase": "ramayana trailer",
         "video_count": 2,
-        "momentum": 11.91,
+        "momentum": 11.57,
         "regions": [
           "IN"
         ],
@@ -1949,8 +1722,8 @@
             "channel": "Filmi Indian",
             "thumbnail": "https://i.ytimg.com/vi/XqSVTR0jOs4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=XqSVTR0jOs4",
-            "views": 465116,
-            "age_hours": 13.4
+            "views": 524085,
+            "age_hours": 20.5
           },
           {
             "id": "RBlBDGoao1Q",
@@ -1958,8 +1731,8 @@
             "channel": "FlickVerse",
             "thumbnail": "https://i.ytimg.com/vi/RBlBDGoao1Q/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=RBlBDGoao1Q",
-            "views": 420964,
-            "age_hours": 29.2
+            "views": 433984,
+            "age_hours": 36.3
           }
         ]
       }
@@ -1967,9 +1740,85 @@
     "CA": [],
     "ALL": [
       {
-        "phrase": "minecraft",
+        "phrase": "family",
         "video_count": 5,
-        "momentum": 25.66,
+        "momentum": 25.4,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "2XJYQ335cqE",
+            "title": "A bad day for a sad stranded family...😢❤️ #fyp #fypシ #car #giveaway #sad #help #shorts #mechanic",
+            "channel": "Matthew Parker",
+            "thumbnail": "https://i.ytimg.com/vi/2XJYQ335cqE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=2XJYQ335cqE",
+            "views": 1921466,
+            "age_hours": 52.3
+          },
+          {
+            "id": "iARNlZHvCpU",
+            "title": "His Son will Remember this Forever! (via: thebrianong/TT) #shorts #trending #viral #family #love",
+            "channel": "Shiba Diva",
+            "thumbnail": "https://i.ytimg.com/vi/iARNlZHvCpU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iARNlZHvCpU",
+            "views": 9194269,
+            "age_hours": 156.0
+          },
+          {
+            "id": "Jaq7aG0nGnM",
+            "title": "Her Family Refuses To Dogsit This Puppy…",
+            "channel": "Cams Witness",
+            "thumbnail": "https://i.ytimg.com/vi/Jaq7aG0nGnM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Jaq7aG0nGnM",
+            "views": 2643168,
+            "age_hours": 101.1
+          }
+        ]
+      },
+      {
+        "phrase": "first",
+        "video_count": 5,
+        "momentum": 20.29,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "vsOON1IDPTo",
+            "title": "Desis Go to LONDON for the First Time",
+            "channel": "Slayy Point",
+            "thumbnail": "https://i.ytimg.com/vi/vsOON1IDPTo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=vsOON1IDPTo",
+            "views": 6939017,
+            "age_hours": 565.4
+          },
+          {
+            "id": "NecrvFTX3Dk",
+            "title": "First Time Making Ghewar for My In-Laws! 🥹❤️ | Will They Like It?",
+            "channel": "Poonam P Bisht",
+            "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
+            "views": 189129,
+            "age_hours": 19.6
+          },
+          {
+            "id": "IwX8xUuV7og",
+            "title": "First PC Build on Engineering Facts 😍😍 | How to build a PC on your own?",
+            "channel": "Engineering Facts",
+            "thumbnail": "https://i.ytimg.com/vi/IwX8xUuV7og/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IwX8xUuV7og",
+            "views": 218442,
+            "age_hours": 36.1
+          }
+        ]
+      },
+      {
+        "phrase": "minecraft",
+        "video_count": 4,
+        "momentum": 19.88,
         "regions": [
           "IN"
         ],
@@ -1981,17 +1830,17 @@
             "channel": "Anshu Bisht",
             "thumbnail": "https://i.ytimg.com/vi/z2NoND9GnAA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=z2NoND9GnAA",
-            "views": 552261,
-            "age_hours": 8.1
+            "views": 623744,
+            "age_hours": 15.2
           },
           {
-            "id": "taIFmjocMwI",
-            "title": "I Found Abandoned Airplane in Minecraft!",
-            "channel": "Junkeyy",
-            "thumbnail": "https://i.ytimg.com/vi/taIFmjocMwI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=taIFmjocMwI",
-            "views": 286999,
-            "age_hours": 6.1
+            "id": "Piu0FBw3Hwo",
+            "title": "Why I Flooded My Entire World in Minecraft!?",
+            "channel": "ProBoiz 95",
+            "thumbnail": "https://i.ytimg.com/vi/Piu0FBw3Hwo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Piu0FBw3Hwo",
+            "views": 2019595,
+            "age_hours": 59.9
           },
           {
             "id": "b0R7MwVE9hE",
@@ -1999,323 +1848,104 @@
             "channel": "Karry Kraft",
             "thumbnail": "https://i.ytimg.com/vi/b0R7MwVE9hE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=b0R7MwVE9hE",
-            "views": 564851,
-            "age_hours": 10.2
+            "views": 593929,
+            "age_hours": 17.3
           }
         ]
       },
       {
-        "phrase": "minecraft helden",
-        "video_count": 4,
-        "momentum": 24.02,
+        "phrase": "trailer theaters december",
+        "video_count": 2,
+        "momentum": 16.23,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "irVNGjRFZGk",
+            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+            "channel": "Marvel Entertainment",
+            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+            "views": 51046509,
+            "age_hours": 157.1
+          },
+          {
+            "id": "ovv5V6rDSxc",
+            "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
+            "channel": "TeaserCon",
+            "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
+            "views": 337760,
+            "age_hours": 12.9
+          }
+        ]
+      },
+      {
+        "phrase": "black ops",
+        "video_count": 3,
+        "momentum": 16.01,
         "regions": [
           "DE"
         ],
         "lang": "de",
         "example_videos": [
           {
-            "id": "W34MJT6blyQ",
-            "title": "ICH HOLE den ERSTEN KILL in FOLGE 1 (Minecraft HELDEN 3)",
-            "channel": "SYou",
-            "thumbnail": "https://i.ytimg.com/vi/W34MJT6blyQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=W34MJT6blyQ",
-            "views": 30995,
-            "age_hours": 9.0
+            "id": "aIdri0nvyqQ",
+            "title": "BLACK OPS 2 bricht ALLE REKORDE!!",
+            "channel": "HapticRush",
+            "thumbnail": "https://i.ytimg.com/vi/aIdri0nvyqQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aIdri0nvyqQ",
+            "views": 135537,
+            "age_hours": 17.1
           },
           {
-            "id": "UNzdaE-NZyY",
-            "title": "Ich WERDE VERFOLGT und BEDROHT am 1.TAG von MINECRAFT HELDEN 3! (Neues Projekt)",
-            "channel": "AviveHD",
-            "thumbnail": "https://i.ytimg.com/vi/UNzdaE-NZyY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UNzdaE-NZyY",
-            "views": 48503,
-            "age_hours": 7.0
+            "id": "eXFvVYwK1j4",
+            "title": "ALLTAG in COD 2.0?! 😂 SUCHEN & ZERSTÖREN mit OG-Zuschauern 😱 | Black Ops 2 | MontanaBlack Uncut",
+            "channel": "MontanaBlack Uncut",
+            "thumbnail": "https://i.ytimg.com/vi/eXFvVYwK1j4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=eXFvVYwK1j4",
+            "views": 47545,
+            "age_hours": 9.1
           },
           {
-            "id": "SLmXpy90Hp4",
-            "title": "ICH mache ERSTEN KILL am 1.TAG in MINECRAFT HELDEN!⚔️",
-            "channel": "TriDan",
-            "thumbnail": "https://i.ytimg.com/vi/SLmXpy90Hp4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SLmXpy90Hp4",
-            "views": 37722,
-            "age_hours": 9.0
-          }
-        ]
-      },
-      {
-        "phrase": "real",
-        "video_count": 4,
-        "momentum": 21.05,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "n_rdciGcJUc",
-            "title": "Playing MECCHA CHAMELEON In Real Life…🎨🖌️🌈 | Viral Hide & Seek Game ",
-            "channel": "MR. INDIAN HACKER",
-            "thumbnail": "https://i.ytimg.com/vi/n_rdciGcJUc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=n_rdciGcJUc",
-            "views": 5788346,
-            "age_hours": 42.5
-          },
-          {
-            "id": "2eThyKjierQ",
-            "title": "I met the real GHOST ID owner",
-            "channel": "SATVIK",
-            "thumbnail": "https://i.ytimg.com/vi/2eThyKjierQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2eThyKjierQ",
-            "views": 440965,
-            "age_hours": 7.1
-          },
-          {
-            "id": "uBD2SH_onkA",
-            "title": "Real end Twist 😂🤣#shorts #trending #funny #viral #viralvideo #youtubeshorts",
-            "channel": "Rishan sriansh & Sree nayana",
-            "thumbnail": "https://i.ytimg.com/vi/uBD2SH_onkA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=uBD2SH_onkA",
-            "views": 19664449,
-            "age_hours": 177.0
-          }
-        ]
-      },
-      {
-        "phrase": "gta live",
-        "video_count": 3,
-        "momentum": 20.77,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "CbfqfJpZcfk",
-            "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
-            "channel": "MR RAJA PLAYZONE",
-            "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
-            "views": 1410930,
-            "age_hours": 1.0
-          },
-          {
-            "id": "EjZMnwEVmGM",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/EjZMnwEVmGM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EjZMnwEVmGM",
-            "views": 1786716,
-            "age_hours": 7.0
-          },
-          {
-            "id": "utpjuoss_Wk",
-            "title": "GTA 5 LIVE | Unlimited Fun & Epic Gameplay | Nexora Live |#shortslive  #shortsfeed #gta5 #gtaonline",
-            "channel": "NexoraLIVE",
-            "thumbnail": "https://i.ytimg.com/vi/utpjuoss_Wk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=utpjuoss_Wk",
-            "views": 830950,
-            "age_hours": 8.2
-          }
-        ]
-      },
-      {
-        "phrase": "first",
-        "video_count": 5,
-        "momentum": 20.66,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "NecrvFTX3Dk",
-            "title": "First Time Making Ghewar for My In-Laws! 🥹❤️ | Will They Like It?",
-            "channel": "Poonam P Bisht",
-            "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
-            "views": 167446,
-            "age_hours": 12.5
-          },
-          {
-            "id": "vsOON1IDPTo",
-            "title": "Desis Go to LONDON for the First Time",
-            "channel": "Slayy Point",
-            "thumbnail": "https://i.ytimg.com/vi/vsOON1IDPTo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=vsOON1IDPTo",
-            "views": 6931173,
-            "age_hours": 558.3
-          },
-          {
-            "id": "IwX8xUuV7og",
-            "title": "First PC Build on Engineering Facts 😍😍 | How to build a PC on your own?",
-            "channel": "Engineering Facts",
-            "thumbnail": "https://i.ytimg.com/vi/IwX8xUuV7og/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=IwX8xUuV7og",
-            "views": 206548,
-            "age_hours": 29.0
-          }
-        ]
-      },
-      {
-        "phrase": "mundo",
-        "video_count": 4,
-        "momentum": 17.96,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "nTGX686WlbI",
-            "title": "QUEM NUNCA PASSOU POR ISSO NE??😹❤️ fico com medo de todo mundo que passa do lado",
-            "channel": "mihtanino",
-            "thumbnail": "https://i.ytimg.com/vi/nTGX686WlbI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nTGX686WlbI",
-            "views": 1727080,
-            "age_hours": 72.6
-          },
-          {
-            "id": "q6bfEU8l-wA",
-            "title": "Todos PRODUTOS da Copa do Mundo 2026 ⚽️🏆",
-            "channel": "LuCr4zy",
-            "thumbnail": "https://i.ytimg.com/vi/q6bfEU8l-wA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=q6bfEU8l-wA",
-            "views": 1990480,
-            "age_hours": 72.4
-          },
-          {
-            "id": "p-yATabwME0",
-            "title": "AS SELEÇÕES LUTAM PELA COPA DO MUNDO NO PENALTY DO ROBLOX",
-            "channel": "Lucas Clash ON",
-            "thumbnail": "https://i.ytimg.com/vi/p-yATabwME0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=p-yATabwME0",
-            "views": 31250,
-            "age_hours": 4.4
-          }
-        ]
-      },
-      {
-        "phrase": "hospital animais",
-        "video_count": 3,
-        "momentum": 17.08,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "KhPxZTDrkrU",
-            "title": "DESCOBRI NOVOS SEGREDOS OCULTOS DE SLIME NO HOSPITAL DE ANIMAIS COM ANOMALIAS",
-            "channel": "Pabllym GO!",
-            "thumbnail": "https://i.ytimg.com/vi/KhPxZTDrkrU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=KhPxZTDrkrU",
-            "views": 57205,
-            "age_hours": 5.5
-          },
-          {
-            "id": "GMGuk8NRkUw",
-            "title": "🫟 NOVA ANOMALIA SLIME NO HOSPITAL DE ANIMAIS NO ROBLOX! (ATUALIZAÇÃO)",
-            "channel": "PIZÃO",
-            "thumbnail": "https://i.ytimg.com/vi/GMGuk8NRkUw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GMGuk8NRkUw",
-            "views": 39289,
-            "age_hours": 4.0
-          },
-          {
-            "id": "xDTa580fQDs",
-            "title": "O NOVO BOMBEIRO E NOVO AGENTE NO HOSPITAL DE ANIMAIS",
-            "channel": "DUDU Betero",
-            "thumbnail": "https://i.ytimg.com/vi/xDTa580fQDs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=xDTa580fQDs",
-            "views": 25470,
-            "age_hours": 5.0
-          }
-        ]
-      },
-      {
-        "phrase": "shortslive shortsfeed gta5",
-        "video_count": 2,
-        "momentum": 16.78,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "CbfqfJpZcfk",
-            "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
-            "channel": "MR RAJA PLAYZONE",
-            "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
-            "views": 1410930,
-            "age_hours": 1.0
-          },
-          {
-            "id": "utpjuoss_Wk",
-            "title": "GTA 5 LIVE | Unlimited Fun & Epic Gameplay | Nexora Live |#shortslive  #shortsfeed #gta5 #gtaonline",
-            "channel": "NexoraLIVE",
-            "thumbnail": "https://i.ytimg.com/vi/utpjuoss_Wk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=utpjuoss_Wk",
-            "views": 830950,
-            "age_hours": 8.2
-          }
-        ]
-      },
-      {
-        "phrase": "shortsfeed gta5 gtaonline",
-        "video_count": 2,
-        "momentum": 16.78,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "CbfqfJpZcfk",
-            "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
-            "channel": "MR RAJA PLAYZONE",
-            "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
-            "views": 1410930,
-            "age_hours": 1.0
-          },
-          {
-            "id": "utpjuoss_Wk",
-            "title": "GTA 5 LIVE | Unlimited Fun & Epic Gameplay | Nexora Live |#shortslive  #shortsfeed #gta5 #gtaonline",
-            "channel": "NexoraLIVE",
-            "thumbnail": "https://i.ytimg.com/vi/utpjuoss_Wk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=utpjuoss_Wk",
-            "views": 830950,
-            "age_hours": 8.2
+            "id": "VFqo2GCtToc",
+            "title": "😍🔥200€ WETTE & NOSTALGIE pur! - Black Ops 2 Zombies mit Monte & Repaz!",
+            "channel": "Trymacs",
+            "thumbnail": "https://i.ytimg.com/vi/VFqo2GCtToc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=VFqo2GCtToc",
+            "views": 104895,
+            "age_hours": 16.8
           }
         ]
       },
       {
         "phrase": "first time",
         "video_count": 3,
-        "momentum": 15.61,
+        "momentum": 15.31,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "NecrvFTX3Dk",
-            "title": "First Time Making Ghewar for My In-Laws! 🥹❤️ | Will They Like It?",
-            "channel": "Poonam P Bisht",
-            "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
-            "views": 167446,
-            "age_hours": 12.5
-          },
-          {
             "id": "vsOON1IDPTo",
             "title": "Desis Go to LONDON for the First Time",
             "channel": "Slayy Point",
             "thumbnail": "https://i.ytimg.com/vi/vsOON1IDPTo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=vsOON1IDPTo",
-            "views": 6931173,
-            "age_hours": 558.3
+            "views": 6939017,
+            "age_hours": 565.4
+          },
+          {
+            "id": "NecrvFTX3Dk",
+            "title": "First Time Making Ghewar for My In-Laws! 🥹❤️ | Will They Like It?",
+            "channel": "Poonam P Bisht",
+            "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
+            "views": 189129,
+            "age_hours": 19.6
           },
           {
             "id": "BWJXkU8ZSD8",
@@ -2323,15 +1953,102 @@
             "channel": "Paras Thakral Vlogs",
             "thumbnail": "https://i.ytimg.com/vi/BWJXkU8ZSD8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BWJXkU8ZSD8",
-            "views": 92101,
-            "age_hours": 56.5
+            "views": 92596,
+            "age_hours": 63.6
+          }
+        ]
+      },
+      {
+        "phrase": "introducing vitawear smartband",
+        "video_count": 2,
+        "momentum": 15.2,
+        "regions": [
+          "BR"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "7LHAREM6auc",
+            "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
+            "channel": "MR Vision BD",
+            "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
+            "views": 1025973,
+            "age_hours": 84.9
+          },
+          {
+            "id": "6KkG4v7_Jno",
+            "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
+            "channel": "English Vai",
+            "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
+            "views": 5473584,
+            "age_hours": 199.8
+          }
+        ]
+      },
+      {
+        "phrase": "generation wearablegadget shortsfeed",
+        "video_count": 2,
+        "momentum": 15.2,
+        "regions": [
+          "BR"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "7LHAREM6auc",
+            "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
+            "channel": "MR Vision BD",
+            "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
+            "views": 1025973,
+            "age_hours": 84.9
+          },
+          {
+            "id": "6KkG4v7_Jno",
+            "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
+            "channel": "English Vai",
+            "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
+            "views": 5473584,
+            "age_hours": 199.8
+          }
+        ]
+      },
+      {
+        "phrase": "wearablegadget shortsfeed trending",
+        "video_count": 2,
+        "momentum": 15.2,
+        "regions": [
+          "BR"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "7LHAREM6auc",
+            "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
+            "channel": "MR Vision BD",
+            "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
+            "views": 1025973,
+            "age_hours": 84.9
+          },
+          {
+            "id": "6KkG4v7_Jno",
+            "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
+            "channel": "English Vai",
+            "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
+            "views": 5473584,
+            "age_hours": 199.8
           }
         ]
       },
       {
         "phrase": "doomsday trailer marvel's",
         "video_count": 2,
-        "momentum": 15.43,
+        "momentum": 14.82,
         "regions": [
           "IN"
         ],
@@ -2343,8 +2060,8 @@
             "channel": "ComicVerse",
             "thumbnail": "https://i.ytimg.com/vi/-mp7wJA3vKM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=-mp7wJA3vKM",
-            "views": 628678,
-            "age_hours": 13.4
+            "views": 708719,
+            "age_hours": 20.5
           },
           {
             "id": "1eOn_DvUZHA",
@@ -2352,189 +2069,44 @@
             "channel": "PJ Explained",
             "thumbnail": "https://i.ytimg.com/vi/1eOn_DvUZHA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1eOn_DvUZHA",
-            "views": 272449,
-            "age_hours": 11.9
+            "views": 324883,
+            "age_hours": 19.0
           }
         ]
       },
       {
-        "phrase": "introducing vitawear smartband",
+        "phrase": "avengers doomsday",
         "video_count": 2,
-        "momentum": 15.15,
+        "momentum": 13.53,
         "regions": [
-          "BR"
+          "US"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "7LHAREM6auc",
-            "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
-            "channel": "MR Vision BD",
-            "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
-            "views": 709420,
-            "age_hours": 77.8
+            "id": "irVNGjRFZGk",
+            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+            "channel": "Marvel Entertainment",
+            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+            "views": 51046509,
+            "age_hours": 157.1
           },
           {
-            "id": "6KkG4v7_Jno",
-            "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
-            "channel": "English Vai",
-            "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
-            "views": 5420111,
-            "age_hours": 192.7
-          }
-        ]
-      },
-      {
-        "phrase": "generation wearablegadget shortsfeed",
-        "video_count": 2,
-        "momentum": 15.15,
-        "regions": [
-          "BR"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "7LHAREM6auc",
-            "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
-            "channel": "MR Vision BD",
-            "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
-            "views": 709420,
-            "age_hours": 77.8
-          },
-          {
-            "id": "6KkG4v7_Jno",
-            "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
-            "channel": "English Vai",
-            "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
-            "views": 5420111,
-            "age_hours": 192.7
-          }
-        ]
-      },
-      {
-        "phrase": "wearablegadget shortsfeed trending",
-        "video_count": 2,
-        "momentum": 15.15,
-        "regions": [
-          "BR"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "7LHAREM6auc",
-            "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget😱#shortsfeed#trending",
-            "channel": "MR Vision BD",
-            "thumbnail": "https://i.ytimg.com/vi/7LHAREM6auc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=7LHAREM6auc",
-            "views": 709420,
-            "age_hours": 77.8
-          },
-          {
-            "id": "6KkG4v7_Jno",
-            "title": "Introducing the \"VitaWear SmartBand, \"anext-generation wearablegadget#shortsfeed#trending",
-            "channel": "English Vai",
-            "thumbnail": "https://i.ytimg.com/vi/6KkG4v7_Jno/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6KkG4v7_Jno",
-            "views": 5420111,
-            "age_hours": 192.7
-          }
-        ]
-      },
-      {
-        "phrase": "am minecraft helden",
-        "video_count": 2,
-        "momentum": 14.42,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "UNzdaE-NZyY",
-            "title": "Ich WERDE VERFOLGT und BEDROHT am 1.TAG von MINECRAFT HELDEN 3! (Neues Projekt)",
-            "channel": "AviveHD",
-            "thumbnail": "https://i.ytimg.com/vi/UNzdaE-NZyY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UNzdaE-NZyY",
-            "views": 48503,
-            "age_hours": 7.0
-          },
-          {
-            "id": "SLmXpy90Hp4",
-            "title": "ICH mache ERSTEN KILL am 1.TAG in MINECRAFT HELDEN!⚔️",
-            "channel": "TriDan",
-            "thumbnail": "https://i.ytimg.com/vi/SLmXpy90Hp4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=SLmXpy90Hp4",
-            "views": 37722,
-            "age_hours": 9.0
-          }
-        ]
-      },
-      {
-        "phrase": "iphone pro max",
-        "video_count": 2,
-        "momentum": 14.16,
-        "regions": [
-          "BR"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "6-mLegIuMf0",
-            "title": "🚀⚡ IPHONE 17 PRO MAX VS GALAXY Z FOLD 7 SPEED TEST!!",
-            "channel": "TECH OF CLASH ",
-            "thumbnail": "https://i.ytimg.com/vi/6-mLegIuMf0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=6-mLegIuMf0",
-            "views": 3100003,
-            "age_hours": 128.6
-          },
-          {
-            "id": "H1IK0rANmJI",
-            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa Part 12",
-            "channel": "Mr Tungtungsahur Blue ",
-            "thumbnail": "https://i.ytimg.com/vi/H1IK0rANmJI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=H1IK0rANmJI",
-            "views": 6786372,
-            "age_hours": 162.0
-          }
-        ]
-      },
-      {
-        "phrase": "slime hospital animais",
-        "video_count": 2,
-        "momentum": 13.82,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "KhPxZTDrkrU",
-            "title": "DESCOBRI NOVOS SEGREDOS OCULTOS DE SLIME NO HOSPITAL DE ANIMAIS COM ANOMALIAS",
-            "channel": "Pabllym GO!",
-            "thumbnail": "https://i.ytimg.com/vi/KhPxZTDrkrU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=KhPxZTDrkrU",
-            "views": 57205,
-            "age_hours": 5.5
-          },
-          {
-            "id": "GMGuk8NRkUw",
-            "title": "🫟 NOVA ANOMALIA SLIME NO HOSPITAL DE ANIMAIS NO ROBLOX! (ATUALIZAÇÃO)",
-            "channel": "PIZÃO",
-            "thumbnail": "https://i.ytimg.com/vi/GMGuk8NRkUw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GMGuk8NRkUw",
-            "views": 39289,
-            "age_hours": 4.0
+            "id": "ovv5V6rDSxc",
+            "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
+            "channel": "TeaserCon",
+            "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
+            "views": 337760,
+            "age_hours": 12.9
           }
         ]
       },
       {
         "phrase": "his brother",
         "video_count": 2,
-        "momentum": 13.52,
+        "momentum": 13.44,
         "regions": [
           "GB"
         ],
@@ -2546,8 +2118,8 @@
             "channel": "Ronox Aep",
             "thumbnail": "https://i.ytimg.com/vi/Quojg49L6ls/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Quojg49L6ls",
-            "views": 5692378,
-            "age_hours": 26.9
+            "views": 6630390,
+            "age_hours": 34.0
           },
           {
             "id": "3weBP58CnAY",
@@ -2555,8 +2127,182 @@
             "channel": "Superverse Central",
             "thumbnail": "https://i.ytimg.com/vi/3weBP58CnAY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=3weBP58CnAY",
-            "views": 4141002,
-            "age_hours": 143.5
+            "views": 4239888,
+            "age_hours": 150.6
+          }
+        ]
+      },
+      {
+        "phrase": "slime hospital animais",
+        "video_count": 2,
+        "momentum": 13.3,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "KhPxZTDrkrU",
+            "title": "DESCOBRI NOVOS SEGREDOS OCULTOS DE SLIME NO HOSPITAL DE ANIMAIS COM ANOMALIAS",
+            "channel": "Pabllym GO!",
+            "thumbnail": "https://i.ytimg.com/vi/KhPxZTDrkrU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KhPxZTDrkrU",
+            "views": 138794,
+            "age_hours": 12.6
+          },
+          {
+            "id": "GMGuk8NRkUw",
+            "title": "🫟 NOVA ANOMALIA SLIME NO HOSPITAL DE ANIMAIS NO ROBLOX! (ATUALIZAÇÃO)",
+            "channel": "PIZÃO",
+            "thumbnail": "https://i.ytimg.com/vi/GMGuk8NRkUw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=GMGuk8NRkUw",
+            "views": 110889,
+            "age_hours": 11.1
+          }
+        ]
+      },
+      {
+        "phrase": "animal hospital",
+        "video_count": 2,
+        "momentum": 13.19,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "72e_Y6OVBkE",
+            "title": "ANIMAL HOSPITAL HAS OFFICIALLY DESTROYED OUR FRIENDSHIP 😭💔",
+            "channel": "StinkyAsher",
+            "thumbnail": "https://i.ytimg.com/vi/72e_Y6OVBkE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=72e_Y6OVBkE",
+            "views": 168114,
+            "age_hours": 8.5
+          },
+          {
+            "id": "XrIEF1CtIF0",
+            "title": "I Hired The NEW HAZMAT TEAM in ANIMAL HOSPITAL... *INSANE*",
+            "channel": "Lana's Life",
+            "thumbnail": "https://i.ytimg.com/vi/XrIEF1CtIF0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=XrIEF1CtIF0",
+            "views": 222685,
+            "age_hours": 10.4
+          }
+        ]
+      },
+      {
+        "phrase": "fun trending",
+        "video_count": 2,
+        "momentum": 13.11,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "k399LjCMSsA",
+            "title": "Movie ponum lave venum😅Kandippa twist irukku🤣Just for fun😅🤣 #trending #autokaaran #twist #comedy",
+            "channel": "Auto Kaaran ",
+            "thumbnail": "https://i.ytimg.com/vi/k399LjCMSsA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=k399LjCMSsA",
+            "views": 2597824,
+            "age_hours": 86.3
+          },
+          {
+            "id": "t-8vwd30gfQ",
+            "title": "எதுவா இருந்தாலும் என் பாஸ்-அ தான் கேக்கணும்🤣 #shorts #fun #trending",
+            "channel": "With Love Nagaraj Sangeetha",
+            "thumbnail": "https://i.ytimg.com/vi/t-8vwd30gfQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=t-8vwd30gfQ",
+            "views": 1720685,
+            "age_hours": 35.4
+          }
+        ]
+      },
+      {
+        "phrase": "gta live",
+        "video_count": 2,
+        "momentum": 13.06,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "CbfqfJpZcfk",
+            "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
+            "channel": "MR RAJA PLAYZONE",
+            "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
+            "views": 1637724,
+            "age_hours": 7.8
+          },
+          {
+            "id": "EjZMnwEVmGM",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Hear Is Live",
+            "thumbnail": "https://i.ytimg.com/vi/EjZMnwEVmGM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=EjZMnwEVmGM",
+            "views": 1787023,
+            "age_hours": 14.1
+          }
+        ]
+      },
+      {
+        "phrase": "world cup",
+        "video_count": 2,
+        "momentum": 12.31,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "EjiKwFLaQTo",
+            "title": "Lamine Yamal is NOT Safe from Neymar after World Cup 😭",
+            "channel": "NV10HD",
+            "thumbnail": "https://i.ytimg.com/vi/EjiKwFLaQTo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=EjiKwFLaQTo",
+            "views": 26602311,
+            "age_hours": 108.5
+          },
+          {
+            "id": "3tKXYcHgCRY",
+            "title": "Best World Cup 2026 Team",
+            "channel": "More Chuff",
+            "thumbnail": "https://i.ytimg.com/vi/3tKXYcHgCRY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3tKXYcHgCRY",
+            "views": 177945,
+            "age_hours": 18.1
+          }
+        ]
+      },
+      {
+        "phrase": "comic con",
+        "video_count": 2,
+        "momentum": 12.11,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "KGhCBKqjB3Q",
+            "title": "New Doomsday Trailer + Ghost Rider + Black Panther Recast! Marvel Comic Con Panel Breakdown!",
+            "channel": "New Rockstars",
+            "thumbnail": "https://i.ytimg.com/vi/KGhCBKqjB3Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KGhCBKqjB3Q",
+            "views": 688869,
+            "age_hours": 16.8
+          },
+          {
+            "id": "mh1BYXHpeOc",
+            "title": "THE BEST COMIC-CON 2026 MOVIE TRAILERS",
+            "channel": "KinoCheck.com",
+            "thumbnail": "https://i.ytimg.com/vi/mh1BYXHpeOc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=mh1BYXHpeOc",
+            "views": 464015,
+            "age_hours": 14.0
           }
         ]
       }
@@ -2564,91 +2310,110 @@
   },
   "trending_searches": [
     {
-      "phrase": "how to tie a tie",
-      "prefix": "how to",
+      "phrase": "why do birds suddenly appear",
+      "prefix": "why do",
       "rank": 1,
-      "first_seen_at": "2026-07-26T18:58:44.907366+00:00",
+      "first_seen_at": "2026-07-27T02:05:28.802487+00:00",
       "is_new": true
     },
     {
-      "phrase": "how do i say goodbye dean lewis",
-      "prefix": "how do",
-      "rank": 1,
-      "first_seen_at": "2026-07-26T18:58:44.907366+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how does it feel d'angelo",
-      "prefix": "how does",
-      "rank": 1,
-      "first_seen_at": "2026-07-26T18:58:44.907366+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why is it spicy",
-      "prefix": "why is",
-      "rank": 1,
-      "first_seen_at": "2026-07-26T18:58:44.907366+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what is this diddy blud doing on the calculator",
-      "prefix": "what is",
-      "rank": 1,
-      "first_seen_at": "2026-07-26T18:58:44.907366+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what are you listening to chris stapleton",
-      "prefix": "what are",
-      "rank": 1,
-      "first_seen_at": "2026-07-26T18:58:44.907366+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "best of zach",
-      "prefix": "best",
-      "rank": 1,
-      "first_seen_at": "2026-07-26T18:58:44.907366+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "worst way riley green",
-      "prefix": "worst",
-      "rank": 1,
-      "first_seen_at": "2026-07-26T18:58:44.907366+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "can you stand the rain new edition",
-      "prefix": "can you",
-      "rank": 1,
-      "first_seen_at": "2026-07-26T18:58:44.907366+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how does it feel",
-      "prefix": "how does",
-      "rank": 2,
-      "first_seen_at": "2026-07-26T18:58:44.907366+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why does it hurt so bad whitney houston",
+      "phrase": "why does he call you darling",
       "prefix": "why does",
-      "rank": 2,
-      "first_seen_at": "2026-07-26T18:58:44.907366+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-07-27T02:05:28.802487+00:00",
       "is_new": true
     },
     {
-      "phrase": "best build 2k26",
-      "prefix": "best",
+      "phrase": "what happened to virgil",
+      "prefix": "what happened",
+      "rank": 1,
+      "first_seen_at": "2026-07-27T02:05:28.802487+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "topper guild",
+      "prefix": "top",
+      "rank": 1,
+      "first_seen_at": "2026-07-27T02:05:28.802487+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "is it a crime mariah the scientist",
+      "prefix": "is it",
+      "rank": 1,
+      "first_seen_at": "2026-07-27T02:05:28.802487+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "should i stay or should i go",
+      "prefix": "should i",
+      "rank": 1,
+      "first_seen_at": "2026-07-27T02:05:28.802487+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how to draw",
+      "prefix": "how to",
       "rank": 2,
-      "first_seen_at": "2026-07-26T18:58:44.907366+00:00",
+      "first_seen_at": "2026-07-27T02:05:28.802487+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why is my bus driver playing mitski",
+      "prefix": "why is",
+      "rank": 2,
+      "first_seen_at": "2026-07-27T02:05:28.802487+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why don't we",
+      "prefix": "why do",
+      "rank": 2,
+      "first_seen_at": "2026-07-27T02:05:28.802487+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what is love",
+      "prefix": "what is",
+      "rank": 2,
+      "first_seen_at": "2026-07-27T02:05:28.802487+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what are you doing",
+      "prefix": "what are",
+      "rank": 2,
+      "first_seen_at": "2026-07-27T02:05:28.802487+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what happened to nolan wells",
+      "prefix": "what happened",
+      "rank": 2,
+      "first_seen_at": "2026-07-27T02:05:28.802487+00:00",
       "is_new": true
     }
   ],
   "breakout_videos": [
+    {
+      "id": "IclTWVhvvF4",
+      "title": "Catedral",
+      "channel": "Jão - Topic",
+      "channel_id": "UCzrIiAc8RMd6kguvJA_yLmw",
+      "thumbnail": "https://i.ytimg.com/vi/IclTWVhvvF4/mqdefault.jpg",
+      "published_at": "2026-07-27T00:03:09Z",
+      "category_id": "10",
+      "views": 8175,
+      "likes": 5384,
+      "comments": 513,
+      "age_hours": 2.0,
+      "views_per_hour": 4012,
+      "momentum": 10.611,
+      "url": "https://www.youtube.com/watch?v=IclTWVhvvF4",
+      "region": "BR",
+      "category": "Other",
+      "_detected_lang": "pt"
+    },
     {
       "id": "w0piZCnpxZo",
       "title": "Tokio Hotel - Without You (Official Music Video)",
@@ -2657,12 +2422,12 @@
       "thumbnail": "https://i.ytimg.com/vi/w0piZCnpxZo/mqdefault.jpg",
       "published_at": "2026-07-26T17:00:06Z",
       "category_id": "10",
-      "views": 12615,
-      "likes": 6768,
-      "comments": 4036,
-      "age_hours": 2.0,
-      "views_per_hour": 6384,
-      "momentum": 20.062,
+      "views": 58279,
+      "likes": 10045,
+      "comments": 4673,
+      "age_hours": 9.1,
+      "views_per_hour": 6413,
+      "momentum": 8.172,
       "url": "https://www.youtube.com/watch?v=w0piZCnpxZo",
       "region": "DE",
       "category": "Other",
@@ -2676,35 +2441,54 @@
       "thumbnail": "https://i.ytimg.com/vi/6yvxHpIO5NY/mqdefault.jpg",
       "published_at": "2026-07-26T15:00:01Z",
       "category_id": "10",
-      "views": 299280,
-      "likes": 116528,
-      "comments": 6775,
-      "age_hours": 4.0,
-      "views_per_hour": 75269,
-      "momentum": 9.778,
+      "views": 569899,
+      "likes": 152908,
+      "comments": 7772,
+      "age_hours": 11.1,
+      "views_per_hour": 51395,
+      "momentum": 7.881,
       "url": "https://www.youtube.com/watch?v=6yvxHpIO5NY",
       "region": "GB",
       "category": "Other",
       "_detected_lang": "pt"
     },
     {
-      "id": "J_ER21tEKV8",
-      "title": "Quem é mais forte menino ou menina?",
-      "channel": "Gigi Rayegilla",
-      "channel_id": "UC3iul90_Pn2eij4ohlUZRdg",
-      "thumbnail": "https://i.ytimg.com/vi/J_ER21tEKV8/mqdefault.jpg",
-      "published_at": "2026-07-22T21:00:27Z",
-      "category_id": "22",
-      "views": 3972461,
-      "likes": 595818,
-      "comments": 237256,
-      "age_hours": 94.0,
-      "views_per_hour": 42273,
-      "momentum": 8.777,
-      "url": "https://www.youtube.com/watch?v=J_ER21tEKV8",
+      "id": "EviEF2JJx8U",
+      "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
+      "channel": "MARINARA",
+      "channel_id": "UCrfgwNVm6qjuRoD4SJS9OAA",
+      "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
+      "published_at": "2026-07-26T15:00:24Z",
+      "category_id": "20",
+      "views": 272506,
+      "likes": 57352,
+      "comments": 6477,
+      "age_hours": 11.1,
+      "views_per_hour": 24586,
+      "momentum": 7.282,
+      "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
       "region": "BR",
-      "category": "People & Blogs",
-      "_detected_lang": "pt"
+      "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "ynkhNRpQ9Xc",
+      "title": "1000 Players Build END Civilization in Hardcore Minecraft",
+      "channel": "Spoke",
+      "channel_id": "UCk2uxbWi5py_iJXaEsh2YRA",
+      "thumbnail": "https://i.ytimg.com/vi/ynkhNRpQ9Xc/mqdefault.jpg",
+      "published_at": "2026-07-26T17:53:18Z",
+      "category_id": "20",
+      "views": 970383,
+      "likes": 85538,
+      "comments": 23134,
+      "age_hours": 8.2,
+      "views_per_hour": 118337,
+      "momentum": 7.177,
+      "url": "https://www.youtube.com/watch?v=ynkhNRpQ9Xc",
+      "region": "US",
+      "category": "Gaming",
+      "_detected_lang": "en"
     },
     {
       "id": "_Pk6xfju3l0",
@@ -2714,12 +2498,12 @@
       "thumbnail": "https://i.ytimg.com/vi/_Pk6xfju3l0/mqdefault.jpg",
       "published_at": "2026-07-26T11:00:03Z",
       "category_id": "10",
-      "views": 1670512,
-      "likes": 200541,
-      "comments": 20367,
-      "age_hours": 8.0,
-      "views_per_hour": 209460,
-      "momentum": 7.247,
+      "views": 2329539,
+      "likes": 245426,
+      "comments": 22716,
+      "age_hours": 15.1,
+      "views_per_hour": 154400,
+      "momentum": 6.788,
       "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0",
       "region": "US",
       "category": "Other",
@@ -2733,34 +2517,72 @@
       "thumbnail": "https://i.ytimg.com/vi/_IT83Y_HcAw/mqdefault.jpg",
       "published_at": "2026-07-24T04:00:05Z",
       "category_id": "10",
-      "views": 9193013,
-      "likes": 975208,
-      "comments": 63174,
-      "age_hours": 63.0,
-      "views_per_hour": 145977,
-      "momentum": 6.615,
+      "views": 9446082,
+      "likes": 984767,
+      "comments": 63669,
+      "age_hours": 70.1,
+      "views_per_hour": 134775,
+      "momentum": 6.545,
       "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
       "region": "AU",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "6AFrjp_-ODA",
-      "title": "Calling All Villains - Trailer #2",
-      "channel": "ZAMination",
-      "channel_id": "UCI_hjK53AIDlpB-Rpr1WnwQ",
-      "thumbnail": "https://i.ytimg.com/vi/6AFrjp_-ODA/mqdefault.jpg",
-      "published_at": "2026-07-26T14:00:06Z",
-      "category_id": "1",
-      "views": 154924,
-      "likes": 23970,
-      "comments": 2475,
-      "age_hours": 5.0,
-      "views_per_hour": 31144,
-      "momentum": 6.602,
-      "url": "https://www.youtube.com/watch?v=6AFrjp_-ODA",
-      "region": "US",
+      "id": "_f0hOVzGIZs",
+      "title": "Tipo Rick Sanchez 🧪 (Rick & Morty) | MHRAP ",
+      "channel": "MHRAP",
+      "channel_id": "UC_4PRrKey0iv18cqHuj9CLA",
+      "thumbnail": "https://i.ytimg.com/vi/_f0hOVzGIZs/mqdefault.jpg",
+      "published_at": "2026-07-26T21:00:06Z",
+      "category_id": "10",
+      "views": 18801,
+      "likes": 5666,
+      "comments": 368,
+      "age_hours": 5.1,
+      "views_per_hour": 3695,
+      "momentum": 6.416,
+      "url": "https://www.youtube.com/watch?v=_f0hOVzGIZs",
+      "region": "BR",
       "category": "Other",
+      "_detected_lang": "pt"
+    },
+    {
+      "id": "5gN72wntuig",
+      "title": "REPAIRING MY VEYRON THEN TAKING IT BACK TO BUGATTI",
+      "channel": "Mat Armstrong",
+      "channel_id": "UCcLYOTz3ct6_lk9iLToxxAw",
+      "thumbnail": "https://i.ytimg.com/vi/5gN72wntuig/mqdefault.jpg",
+      "published_at": "2026-07-26T17:09:16Z",
+      "category_id": "2",
+      "views": 2340982,
+      "likes": 170332,
+      "comments": 8346,
+      "age_hours": 8.9,
+      "views_per_hour": 262015,
+      "momentum": 6.4,
+      "url": "https://www.youtube.com/watch?v=5gN72wntuig",
+      "region": "GB",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "NAX-FHiXrOg",
+      "title": "Hermitcraft 11: Episode 23 - Creative Process",
+      "channel": "Mumbo Jumbo",
+      "channel_id": "UChFur_NwVSbUozOcF_F2kMg",
+      "thumbnail": "https://i.ytimg.com/vi/NAX-FHiXrOg/mqdefault.jpg",
+      "published_at": "2026-07-26T19:00:24Z",
+      "category_id": "20",
+      "views": 259573,
+      "likes": 35311,
+      "comments": 2718,
+      "age_hours": 7.1,
+      "views_per_hour": 36653,
+      "momentum": 6.284,
+      "url": "https://www.youtube.com/watch?v=NAX-FHiXrOg",
+      "region": "US",
+      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -2771,13 +2593,32 @@
       "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
       "published_at": "2026-07-20T13:00:20Z",
       "category_id": "24",
-      "views": 50638782,
-      "likes": 2420544,
-      "comments": 185387,
-      "age_hours": 150.0,
-      "views_per_hour": 337658,
-      "momentum": 6.259,
+      "views": 51046509,
+      "likes": 2424919,
+      "comments": 185599,
+      "age_hours": 157.1,
+      "views_per_hour": 324965,
+      "momentum": 6.236,
       "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+      "region": "US",
+      "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "2XJYQ335cqE",
+      "title": "A bad day for a sad stranded family...😢❤️ #fyp #fypシ #car #giveaway #sad #help #shorts #mechanic",
+      "channel": "Matthew Parker",
+      "channel_id": "UC27mSaehdPPdqK8_u-g_8Vg",
+      "thumbnail": "https://i.ytimg.com/vi/2XJYQ335cqE/mqdefault.jpg",
+      "published_at": "2026-07-24T21:46:08Z",
+      "category_id": "24",
+      "views": 1921466,
+      "likes": 264642,
+      "comments": 10890,
+      "age_hours": 52.3,
+      "views_per_hour": 36725,
+      "momentum": 6.081,
+      "url": "https://www.youtube.com/watch?v=2XJYQ335cqE",
       "region": "US",
       "category": "Entertainment",
       "_detected_lang": "en"
@@ -2790,14 +2631,52 @@
       "thumbnail": "https://i.ytimg.com/vi/5HgnE0Pk0Do/mqdefault.jpg",
       "published_at": "2026-07-25T21:30:05Z",
       "category_id": "19",
-      "views": 2147830,
-      "likes": 227917,
-      "comments": 4985,
-      "age_hours": 21.5,
-      "views_per_hour": 100015,
-      "momentum": 6.177,
+      "views": 2461237,
+      "likes": 249145,
+      "comments": 5420,
+      "age_hours": 28.6,
+      "views_per_hour": 86095,
+      "momentum": 6.043,
       "url": "https://www.youtube.com/watch?v=5HgnE0Pk0Do",
       "region": "US",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "7xZ29F9-nAY",
+      "title": "PROMOTION MATCHES | RANK PUSH TO TOP 50 BEGINS! | BGMI LIVE | @LoLzZzGaming",
+      "channel": "LoLzZz Gaming",
+      "channel_id": "UCI1vyXBgX3bruwvChLMNxjQ",
+      "thumbnail": "https://i.ytimg.com/vi/7xZ29F9-nAY/mqdefault.jpg",
+      "published_at": "2026-07-26T23:22:37Z",
+      "category_id": "20",
+      "views": 730923,
+      "likes": 36830,
+      "comments": 18,
+      "age_hours": 2.7,
+      "views_per_hour": 269439,
+      "momentum": 5.979,
+      "url": "https://www.youtube.com/watch?v=7xZ29F9-nAY",
+      "region": "IN",
+      "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "0sZF6YzhrRU",
+      "title": "Fred again.. & LATIN MAFIA - under the fabric (Mexico City, 11th December 2025)",
+      "channel": "Fred again . .",
+      "channel_id": "UCXF6DMVLIVRr2OQAqyfEGeg",
+      "thumbnail": "https://i.ytimg.com/vi/0sZF6YzhrRU/mqdefault.jpg",
+      "published_at": "2026-07-26T20:00:06Z",
+      "category_id": "10",
+      "views": 131594,
+      "likes": 17550,
+      "comments": 1364,
+      "age_hours": 6.1,
+      "views_per_hour": 21618,
+      "momentum": 5.94,
+      "url": "https://www.youtube.com/watch?v=0sZF6YzhrRU",
+      "region": "GB",
       "category": "Other",
       "_detected_lang": "en"
     },
@@ -2809,34 +2688,15 @@
       "thumbnail": "https://i.ytimg.com/vi/oqjKVsjO7tw/mqdefault.jpg",
       "published_at": "2026-07-26T00:50:08Z",
       "category_id": "22",
-      "views": 673486,
-      "likes": 106477,
-      "comments": 2007,
-      "age_hours": 18.1,
-      "views_per_hour": 37124,
-      "momentum": 6.151,
+      "views": 1062641,
+      "likes": 137480,
+      "comments": 2388,
+      "age_hours": 25.3,
+      "views_per_hour": 42078,
+      "momentum": 5.924,
       "url": "https://www.youtube.com/watch?v=oqjKVsjO7tw",
       "region": "AU",
       "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "CbfqfJpZcfk",
-      "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
-      "channel": "MR RAJA PLAYZONE",
-      "channel_id": "UCuM98BwdxBtyId7GtMmIDvw",
-      "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
-      "published_at": "2026-07-26T18:19:12Z",
-      "category_id": "20",
-      "views": 1410930,
-      "likes": 0,
-      "comments": 0,
-      "age_hours": 1.0,
-      "views_per_hour": 1410930,
-      "momentum": 6.15,
-      "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
-      "region": "IN",
-      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -2847,51 +2707,13 @@
       "thumbnail": "https://i.ytimg.com/vi/n9vED3JsHZ0/mqdefault.jpg",
       "published_at": "2026-07-26T03:30:38Z",
       "category_id": "20",
-      "views": 1997386,
-      "likes": 134885,
-      "comments": 11388,
-      "age_hours": 15.5,
-      "views_per_hour": 129141,
-      "momentum": 6.093,
+      "views": 2158854,
+      "likes": 139465,
+      "comments": 11604,
+      "age_hours": 22.6,
+      "views_per_hour": 95613,
+      "momentum": 5.892,
       "url": "https://www.youtube.com/watch?v=n9vED3JsHZ0",
-      "region": "IN",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "T0O4LjaDX2U",
-      "title": "Avatar vai ter uma série nova! Mas... Err...",
-      "channel": "Marcus O Ceifeiro",
-      "channel_id": "UCN3MIUlSFkJSkLJnTJHcgaA",
-      "thumbnail": "https://i.ytimg.com/vi/T0O4LjaDX2U/mqdefault.jpg",
-      "published_at": "2026-07-26T15:06:18Z",
-      "category_id": "22",
-      "views": 7498,
-      "likes": 1654,
-      "comments": 299,
-      "age_hours": 3.9,
-      "views_per_hour": 1936,
-      "momentum": 6.048,
-      "url": "https://www.youtube.com/watch?v=T0O4LjaDX2U",
-      "region": "BR",
-      "category": "People & Blogs",
-      "_detected_lang": "pt"
-    },
-    {
-      "id": "z2NoND9GnAA",
-      "title": "THE LEADER IS BACK IN LILYVILLE 😱😡 | Minecraft",
-      "channel": "Anshu Bisht",
-      "channel_id": "UCPjaNv8GlIamrxCbqincG_g",
-      "thumbnail": "https://i.ytimg.com/vi/z2NoND9GnAA/mqdefault.jpg",
-      "published_at": "2026-07-26T10:50:48Z",
-      "category_id": "20",
-      "views": 552261,
-      "likes": 48311,
-      "comments": 4216,
-      "age_hours": 8.1,
-      "views_per_hour": 67923,
-      "momentum": 6.046,
-      "url": "https://www.youtube.com/watch?v=z2NoND9GnAA",
       "region": "IN",
       "category": "Gaming",
       "_detected_lang": "en"
@@ -2904,53 +2726,15 @@
       "thumbnail": "https://i.ytimg.com/vi/0IpqIp5AxHc/mqdefault.jpg",
       "published_at": "2026-07-20T12:02:28Z",
       "category_id": "17",
-      "views": 17157318,
-      "likes": 1348680,
-      "comments": 4485,
-      "age_hours": 150.9,
-      "views_per_hour": 113673,
-      "momentum": 5.864,
+      "views": 19901670,
+      "likes": 1498121,
+      "comments": 5073,
+      "age_hours": 158.0,
+      "views_per_hour": 125922,
+      "momentum": 5.881,
       "url": "https://www.youtube.com/watch?v=0IpqIp5AxHc",
       "region": "US",
       "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "5RKTWuooVQc",
-      "title": "GIRLSET \"CHAT\" ??? Choreography Practice Video",
-      "channel": "GIRLSET",
-      "channel_id": "UCSskmnvIhEy3nSZxxVKTeIg",
-      "thumbnail": "https://i.ytimg.com/vi/5RKTWuooVQc/mqdefault.jpg",
-      "published_at": "2026-07-26T14:00:16Z",
-      "category_id": "24",
-      "views": 25551,
-      "likes": 5725,
-      "comments": 337,
-      "age_hours": 5.0,
-      "views_per_hour": 5139,
-      "momentum": 5.863,
-      "url": "https://www.youtube.com/watch?v=5RKTWuooVQc",
-      "region": "GB",
-      "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "CWhIH_Uatzw",
-      "title": "HACKER OR WHAT | JONATHAN IS BACK!! | BGMI!",
-      "channel": "JONATHAN GAMING",
-      "channel_id": "UCNoiWmvkDUL0q-6ECxNFH0Q",
-      "thumbnail": "https://i.ytimg.com/vi/CWhIH_Uatzw/mqdefault.jpg",
-      "published_at": "2026-07-25T21:08:59Z",
-      "category_id": "20",
-      "views": 2390844,
-      "likes": 179812,
-      "comments": 582,
-      "age_hours": 21.8,
-      "views_per_hour": 109533,
-      "momentum": 5.81,
-      "url": "https://www.youtube.com/watch?v=CWhIH_Uatzw",
-      "region": "IN",
-      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -2961,35 +2745,54 @@
       "thumbnail": "https://i.ytimg.com/vi/riTQU-9KA2E/mqdefault.jpg",
       "published_at": "2026-07-24T09:35:09Z",
       "category_id": "24",
-      "views": 13598854,
-      "likes": 502565,
-      "comments": 2961,
-      "age_hours": 57.4,
-      "views_per_hour": 236953,
-      "momentum": 5.784,
+      "views": 14234621,
+      "likes": 519246,
+      "comments": 3028,
+      "age_hours": 64.5,
+      "views_per_hour": 220682,
+      "momentum": 5.745,
       "url": "https://www.youtube.com/watch?v=riTQU-9KA2E",
       "region": "US",
       "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
-      "id": "z6nbSm_0u5o",
-      "title": "31 🎂 - 1995 até aqui",
-      "channel": "Bomtalvão",
-      "channel_id": "UC6MbWmafmgFlcellrri8SCA",
-      "thumbnail": "https://i.ytimg.com/vi/z6nbSm_0u5o/mqdefault.jpg",
-      "published_at": "2026-07-26T03:01:02Z",
-      "category_id": "22",
-      "views": 973685,
-      "likes": 76369,
-      "comments": 4395,
-      "age_hours": 16.0,
-      "views_per_hour": 61005,
-      "momentum": 5.752,
-      "url": "https://www.youtube.com/watch?v=z6nbSm_0u5o",
+      "id": "O-x48HNbnLM",
+      "title": "Engenheiro de mísseis criou drone caçador de mosquitos!",
+      "channel": "Sev7n Games OFICIAL",
+      "channel_id": "UCvpGyfQIzrghmPdm7KUDFmg",
+      "thumbnail": "https://i.ytimg.com/vi/O-x48HNbnLM/mqdefault.jpg",
+      "published_at": "2026-07-26T15:00:11Z",
+      "category_id": "20",
+      "views": 145589,
+      "likes": 25345,
+      "comments": 671,
+      "age_hours": 11.1,
+      "views_per_hour": 13131,
+      "momentum": 5.742,
+      "url": "https://www.youtube.com/watch?v=O-x48HNbnLM",
       "region": "BR",
-      "category": "People & Blogs",
+      "category": "Gaming",
       "_detected_lang": "pt"
+    },
+    {
+      "id": "82QU1A63gJM",
+      "title": "Tom &Jerry 🥰sangeethkumar #shorts #tomandjerry",
+      "channel": "Sangeeth Kumar",
+      "channel_id": "UCdce_0JccaDtpuv5x9Gjdyw",
+      "thumbnail": "https://i.ytimg.com/vi/82QU1A63gJM/mqdefault.jpg",
+      "published_at": "2026-07-26T04:38:03Z",
+      "category_id": "22",
+      "views": 2882372,
+      "likes": 165294,
+      "comments": 1044,
+      "age_hours": 21.5,
+      "views_per_hour": 134341,
+      "momentum": 5.735,
+      "url": "https://www.youtube.com/watch?v=82QU1A63gJM",
+      "region": "IN",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
     },
     {
       "id": "o11AUF_06cU",
@@ -2999,12 +2802,12 @@
       "thumbnail": "https://i.ytimg.com/vi/o11AUF_06cU/mqdefault.jpg",
       "published_at": "2026-07-23T08:30:21Z",
       "category_id": "22",
-      "views": 4559885,
-      "likes": 466135,
-      "comments": 3366,
-      "age_hours": 82.5,
-      "views_per_hour": 55290,
-      "momentum": 5.747,
+      "views": 4581243,
+      "likes": 468021,
+      "comments": 3377,
+      "age_hours": 89.6,
+      "views_per_hour": 51139,
+      "momentum": 5.706,
       "url": "https://www.youtube.com/watch?v=o11AUF_06cU",
       "region": "IN",
       "category": "People & Blogs",
@@ -3018,91 +2821,34 @@
       "thumbnail": "https://i.ytimg.com/vi/8OQCvIhNb0U/mqdefault.jpg",
       "published_at": "2026-07-25T16:59:02Z",
       "category_id": "22",
-      "views": 3504531,
-      "likes": 189601,
-      "comments": 2966,
-      "age_hours": 26.0,
-      "views_per_hour": 134827,
-      "momentum": 5.728,
+      "views": 4425962,
+      "likes": 230869,
+      "comments": 3539,
+      "age_hours": 33.1,
+      "views_per_hour": 133694,
+      "momentum": 5.702,
       "url": "https://www.youtube.com/watch?v=8OQCvIhNb0U",
       "region": "GB",
       "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
-      "id": "3bEAuc9fDXA",
-      "title": "It’s honestly sad it’s gotten to this point @itsgoodbyetwenties #satire",
-      "channel": "The Plant Slant",
-      "channel_id": "UCEMj2h7pP4QWkoGnSmaiiYw",
-      "thumbnail": "https://i.ytimg.com/vi/3bEAuc9fDXA/mqdefault.jpg",
-      "published_at": "2026-07-25T03:24:12Z",
-      "category_id": "22",
-      "views": 2579843,
-      "likes": 226639,
-      "comments": 2900,
-      "age_hours": 39.6,
-      "views_per_hour": 65192,
-      "momentum": 5.714,
-      "url": "https://www.youtube.com/watch?v=3bEAuc9fDXA",
+      "id": "j6-9cLRRdwo",
+      "title": "This Problem Has Gone Too Far.",
+      "channel": "Kelly Hays",
+      "channel_id": "UCfMHF8GPio8NAeP0loK1VmA",
+      "thumbnail": "https://i.ytimg.com/vi/j6-9cLRRdwo/mqdefault.jpg",
+      "published_at": "2026-07-26T22:00:26Z",
+      "category_id": "24",
+      "views": 31337,
+      "likes": 5739,
+      "comments": 305,
+      "age_hours": 4.1,
+      "views_per_hour": 7678,
+      "momentum": 5.687,
+      "url": "https://www.youtube.com/watch?v=j6-9cLRRdwo",
       "region": "US",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "__E0AfYA9aE",
-      "title": "Her “finally the man of my dreams 🥹” 😂😂",
-      "channel": "Doggostv",
-      "channel_id": "UC7-tiRmOlrMu6k7rI82wb8w",
-      "thumbnail": "https://i.ytimg.com/vi/__E0AfYA9aE/mqdefault.jpg",
-      "published_at": "2026-07-20T20:07:09Z",
-      "category_id": "22",
-      "views": 9858606,
-      "likes": 788245,
-      "comments": 10211,
-      "age_hours": 142.9,
-      "views_per_hour": 69010,
-      "momentum": 5.663,
-      "url": "https://www.youtube.com/watch?v=__E0AfYA9aE",
-      "region": "US",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "fKiIS8wWEws",
-      "title": "I Made Purple Fire",
-      "channel": "MrGreenGuy",
-      "channel_id": "UCP2cNcC-2pqDRCFeFO4JLLw",
-      "thumbnail": "https://i.ytimg.com/vi/fKiIS8wWEws/mqdefault.jpg",
-      "published_at": "2026-07-22T15:47:37Z",
-      "category_id": "28",
-      "views": 5051182,
-      "likes": 488141,
-      "comments": 3838,
-      "age_hours": 99.2,
-      "views_per_hour": 50928,
-      "momentum": 5.652,
-      "url": "https://www.youtube.com/watch?v=fKiIS8wWEws",
-      "region": "US",
-      "category": "Science & Tech",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "rIpQNyjdFBQ",
-      "title": "The Consequences of Rent Increases。#tvshow",
-      "channel": "Voz Paula",
-      "channel_id": "UCqalSwEKzlkavkuK8BnWnog",
-      "thumbnail": "https://i.ytimg.com/vi/rIpQNyjdFBQ/mqdefault.jpg",
-      "published_at": "2026-07-24T10:09:20Z",
-      "category_id": "10",
-      "views": 3615407,
-      "likes": 311565,
-      "comments": 745,
-      "age_hours": 56.8,
-      "views_per_hour": 63628,
-      "momentum": 5.641,
-      "url": "https://www.youtube.com/watch?v=rIpQNyjdFBQ",
-      "region": "US",
-      "category": "Other",
+      "category": "Entertainment",
       "_detected_lang": "en"
     }
   ]
