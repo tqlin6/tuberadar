@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:12:51.211225+00:00",
+  "generated_at": "2026-07-27T19:14:51.138816+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,128 +40,24 @@
     }
   ],
   "stats": {
-    "total_videos": 444,
+    "total_videos": 442,
     "total_topics": 18,
     "total_themes": 8,
     "total_searches": 12,
     "by_category": {
-      "Other": 69,
-      "People & Blogs": 131,
-      "Entertainment": 98,
-      "Gaming": 81,
+      "Other": 70,
+      "Entertainment": 94,
+      "People & Blogs": 136,
+      "Gaming": 78,
       "Science & Tech": 24,
       "Comedy": 22,
-      "Education": 6,
-      "Howto & Style": 13
+      "Howto & Style": 13,
+      "Education": 5
     }
   },
   "emerging_themes": [
     {
-      "phrase": "spider man against",
-      "video_count": 30,
-      "channel_count": 30,
-      "total_channels_seen": 30,
-      "uploads_per_hour": 2.5,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "kSjhLRqQryY",
-          "title": "SPIDER MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE GTA MULTIVERSE",
-          "channel": "SandyxSpidy",
-          "channel_id": "UCMsAm2x_q5BYlkMZSf_E4NQ",
-          "subscribers": 1,
-          "thumbnail": "https://i.ytimg.com/vi/kSjhLRqQryY/mqdefault.jpg",
-          "published_at": "2026-07-27T14:10:55Z",
-          "url": "https://www.youtube.com/watch?v=kSjhLRqQryY"
-        },
-        {
-          "id": "uU_R20eAVFg",
-          "title": "SPIDER MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE  GTA MULTIVERSE",
-          "channel": "Superhero Racer GTA",
-          "channel_id": "UC1QtN5t7eZnTAEFYzTKFoCQ",
-          "subscribers": 12,
-          "thumbnail": "https://i.ytimg.com/vi/uU_R20eAVFg/mqdefault.jpg",
-          "published_at": "2026-07-27T14:00:38Z",
-          "url": "https://www.youtube.com/watch?v=uU_R20eAVFg"
-        },
-        {
-          "id": "S6O9frZSWQc",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-          "channel": "mattrrockk",
-          "channel_id": "UC-fEXM6F3RlZ_CuFwsBfqLQ",
-          "subscribers": 0,
-          "thumbnail": "https://i.ytimg.com/vi/S6O9frZSWQc/mqdefault.jpg",
-          "published_at": "2026-07-27T14:00:22Z",
-          "url": "https://www.youtube.com/watch?v=S6O9frZSWQc"
-        },
-        {
-          "id": "pqYDQy2EPvQ",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-          "channel": "GTA Light",
-          "channel_id": "UC_sHCh_EJVyAJlBydi4XW2g",
-          "subscribers": 2600,
-          "thumbnail": "https://i.ytimg.com/vi/pqYDQy2EPvQ/mqdefault.jpg",
-          "published_at": "2026-07-27T14:00:05Z",
-          "url": "https://www.youtube.com/watch?v=pqYDQy2EPvQ"
-        }
-      ],
-      "first_detected_at": "2026-07-27T14:12:51.211225+00:00",
-      "last_seen_at": "2026-07-27T14:12:51.211225+00:00"
-    },
-    {
-      "phrase": "man against tung",
-      "video_count": 30,
-      "channel_count": 30,
-      "total_channels_seen": 30,
-      "uploads_per_hour": 2.5,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "kSjhLRqQryY",
-          "title": "SPIDER MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE GTA MULTIVERSE",
-          "channel": "SandyxSpidy",
-          "channel_id": "UCMsAm2x_q5BYlkMZSf_E4NQ",
-          "subscribers": 1,
-          "thumbnail": "https://i.ytimg.com/vi/kSjhLRqQryY/mqdefault.jpg",
-          "published_at": "2026-07-27T14:10:55Z",
-          "url": "https://www.youtube.com/watch?v=kSjhLRqQryY"
-        },
-        {
-          "id": "uU_R20eAVFg",
-          "title": "SPIDER MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE  GTA MULTIVERSE",
-          "channel": "Superhero Racer GTA",
-          "channel_id": "UC1QtN5t7eZnTAEFYzTKFoCQ",
-          "subscribers": 12,
-          "thumbnail": "https://i.ytimg.com/vi/uU_R20eAVFg/mqdefault.jpg",
-          "published_at": "2026-07-27T14:00:38Z",
-          "url": "https://www.youtube.com/watch?v=uU_R20eAVFg"
-        },
-        {
-          "id": "S6O9frZSWQc",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-          "channel": "mattrrockk",
-          "channel_id": "UC-fEXM6F3RlZ_CuFwsBfqLQ",
-          "subscribers": 0,
-          "thumbnail": "https://i.ytimg.com/vi/S6O9frZSWQc/mqdefault.jpg",
-          "published_at": "2026-07-27T14:00:22Z",
-          "url": "https://www.youtube.com/watch?v=S6O9frZSWQc"
-        },
-        {
-          "id": "JRuealCphk0",
-          "title": "Detailed Guide to Animations in GTA V OMG Red G-Man vs Tung Tung Sahur ULTRA FACE SWITCH",
-          "channel": "Hulk Man 3d",
-          "channel_id": "UC_z6rFcFp5s-Ege_DrEmHmA",
-          "subscribers": 81,
-          "thumbnail": "https://i.ytimg.com/vi/JRuealCphk0/mqdefault.jpg",
-          "published_at": "2026-07-27T14:00:12Z",
-          "url": "https://www.youtube.com/watch?v=JRuealCphk0"
-        }
-      ],
-      "first_detected_at": "2026-07-27T14:12:51.211225+00:00",
-      "last_seen_at": "2026-07-27T14:12:51.211225+00:00"
-    },
-    {
-      "phrase": "against tung tung",
+      "phrase": "live gta5 gtav",
       "video_count": 30,
       "channel_count": 29,
       "total_channels_seen": 29,
@@ -169,155 +65,51 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "kSjhLRqQryY",
-          "title": "SPIDER MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE GTA MULTIVERSE",
-          "channel": "SandyxSpidy",
-          "channel_id": "UCMsAm2x_q5BYlkMZSf_E4NQ",
-          "subscribers": 1,
-          "thumbnail": "https://i.ytimg.com/vi/kSjhLRqQryY/mqdefault.jpg",
-          "published_at": "2026-07-27T14:10:55Z",
-          "url": "https://www.youtube.com/watch?v=kSjhLRqQryY"
+          "id": "QnscOIVeqgU",
+          "title": "#gta5 #gtav #gtaonline #gta #gaming #games #game",
+          "channel": "Romeo is Live",
+          "channel_id": "UC0vr2GVin8676UScp6tJoLA",
+          "subscribers": 32,
+          "thumbnail": "https://i.ytimg.com/vi/QnscOIVeqgU/mqdefault.jpg",
+          "published_at": "2026-07-27T19:11:23Z",
+          "url": "https://www.youtube.com/watch?v=QnscOIVeqgU"
         },
         {
-          "id": "AvbQbRaqqKo",
-          "title": "SPIDERMAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE Video",
-          "channel": "Choti Si Toon",
-          "channel_id": "UCshP6IXM6OzuVnKUb1NguRw",
-          "subscribers": 1,
-          "thumbnail": "https://i.ytimg.com/vi/AvbQbRaqqKo/mqdefault.jpg",
-          "published_at": "2026-07-27T14:10:21Z",
-          "url": "https://www.youtube.com/watch?v=AvbQbRaqqKo"
+          "id": "mfoTeGPLiqk",
+          "title": "#gta5 #gtav #gtaonline #gta #gaming #games #game",
+          "channel": "Romeo Live",
+          "channel_id": "UCyB6qxkyLYNlzILxwpHu6yA",
+          "subscribers": 14,
+          "thumbnail": "https://i.ytimg.com/vi/mfoTeGPLiqk/mqdefault.jpg",
+          "published_at": "2026-07-27T19:11:03Z",
+          "url": "https://www.youtube.com/watch?v=mfoTeGPLiqk"
         },
         {
-          "id": "uU_R20eAVFg",
-          "title": "SPIDER MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE  GTA MULTIVERSE",
-          "channel": "Superhero Racer GTA",
-          "channel_id": "UC1QtN5t7eZnTAEFYzTKFoCQ",
-          "subscribers": 12,
-          "thumbnail": "https://i.ytimg.com/vi/uU_R20eAVFg/mqdefault.jpg",
-          "published_at": "2026-07-27T14:00:38Z",
-          "url": "https://www.youtube.com/watch?v=uU_R20eAVFg"
+          "id": "HGdKhdv2ggo",
+          "title": "#gta5 #gtav #gtaonline #gta #gaming #games #game",
+          "channel": "Romeo Live",
+          "channel_id": "UC4E4OFYB2JdmZCLgadxQJrQ",
+          "subscribers": 13,
+          "thumbnail": "https://i.ytimg.com/vi/HGdKhdv2ggo/mqdefault.jpg",
+          "published_at": "2026-07-27T19:10:39Z",
+          "url": "https://www.youtube.com/watch?v=HGdKhdv2ggo"
         },
         {
-          "id": "2XJZ6r87GIk",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-          "channel": "UK Crime",
-          "channel_id": "UC-2OxfRXRVkNt9TOY0Rvklw",
-          "subscribers": 31,
-          "thumbnail": "https://i.ytimg.com/vi/2XJZ6r87GIk/mqdefault.jpg",
-          "published_at": "2026-07-27T14:00:33Z",
-          "url": "https://www.youtube.com/watch?v=2XJZ6r87GIk"
+          "id": "HrLl8YDnkF4",
+          "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
+          "channel": "MR RAJA PLAYZONE",
+          "channel_id": "UCuM98BwdxBtyId7GtMmIDvw",
+          "subscribers": 24100,
+          "thumbnail": "https://i.ytimg.com/vi/HrLl8YDnkF4/mqdefault.jpg",
+          "published_at": "2026-07-27T19:08:32Z",
+          "url": "https://www.youtube.com/watch?v=HrLl8YDnkF4"
         }
       ],
-      "first_detected_at": "2026-07-27T14:12:51.211225+00:00",
-      "last_seen_at": "2026-07-27T14:12:51.211225+00:00"
+      "first_detected_at": "2026-07-27T09:34:02.279434+00:00",
+      "last_seen_at": "2026-07-27T19:14:51.138816+00:00"
     },
     {
-      "phrase": "avengers doomsday",
-      "video_count": 29,
-      "channel_count": 29,
-      "total_channels_seen": 30,
-      "uploads_per_hour": 2.42,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "AnScCp15dhY",
-          "title": "What If Thor&#39;s Lightning Was Yellow In Avengers Doomsday #avengers #avengersdoomsday #thor",
-          "channel": "Team Maguire",
-          "channel_id": "UCU4IoTh4s4JyPv7uLWe03gw",
-          "subscribers": 397000,
-          "thumbnail": "https://i.ytimg.com/vi/AnScCp15dhY/mqdefault.jpg",
-          "published_at": "2026-07-27T14:09:37Z",
-          "url": "https://www.youtube.com/watch?v=AnScCp15dhY"
-        },
-        {
-          "id": "rvgDFcTCtXA",
-          "title": "MARVEL A TOUT CHANGÉ : Ghost Rider, Nouveau Trailer Avengers Doomsday, Black Panther 3",
-          "channel": "Argorok",
-          "channel_id": "UC9sfaY_9kIvVyT-CdtmciMA",
-          "subscribers": 111000,
-          "thumbnail": "https://i.ytimg.com/vi/rvgDFcTCtXA/mqdefault.jpg",
-          "published_at": "2026-07-27T14:00:16Z",
-          "url": "https://www.youtube.com/watch?v=rvgDFcTCtXA"
-        },
-        {
-          "id": "ZLKVIEL9PIk",
-          "title": "Loki to have multiple Variants in Avengers Doomsday",
-          "channel": "ComicBookCast2",
-          "channel_id": "UC20DNxT_UjT49mYOIocJAww",
-          "subscribers": 520000,
-          "thumbnail": "https://i.ytimg.com/vi/ZLKVIEL9PIk/mqdefault.jpg",
-          "published_at": "2026-07-27T13:45:27Z",
-          "url": "https://www.youtube.com/watch?v=ZLKVIEL9PIk"
-        },
-        {
-          "id": "HI6WW_dvRu4",
-          "title": "LEGO COOKED with the Avengers: Doomsday Sets! 🔥  #lego #marvel #avengersdoomsday",
-          "channel": "Brickology Productions",
-          "channel_id": "UCU3iDnhgT1yntCIrud5epjA",
-          "subscribers": 19500,
-          "thumbnail": "https://i.ytimg.com/vi/HI6WW_dvRu4/mqdefault.jpg",
-          "published_at": "2026-07-27T13:38:29Z",
-          "url": "https://www.youtube.com/watch?v=HI6WW_dvRu4"
-        }
-      ],
-      "first_detected_at": "2026-07-27T02:05:28.799217+00:00",
-      "last_seen_at": "2026-07-27T14:12:51.211225+00:00"
-    },
-    {
-      "phrase": "tung tung tung",
-      "video_count": 29,
-      "channel_count": 29,
-      "total_channels_seen": 30,
-      "uploads_per_hour": 2.42,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "DXef567puqM",
-          "title": "Tung tung sahur collab to barbie song",
-          "channel": "Daily fam fun",
-          "channel_id": "UC-9zns0J0p9vU2OULxs2Jiw",
-          "subscribers": 898000,
-          "thumbnail": "https://i.ytimg.com/vi/DXef567puqM/mqdefault.jpg",
-          "published_at": "2026-07-27T14:03:26Z",
-          "url": "https://www.youtube.com/watch?v=DXef567puqM"
-        },
-        {
-          "id": "6bM_wBwNeFk",
-          "title": "Tung Tung bundal ritan ayega 😱💥🔥 #freefire #gaming #viral #gta5 #shorts",
-          "channel": "SS Gamer",
-          "channel_id": "UCifxtwQAEIyt9xOLrDd0Bjg",
-          "subscribers": 663,
-          "thumbnail": "https://i.ytimg.com/vi/6bM_wBwNeFk/mqdefault.jpg",
-          "published_at": "2026-07-27T13:49:02Z",
-          "url": "https://www.youtube.com/watch?v=6bM_wBwNeFk"
-        },
-        {
-          "id": "XfsNHpPb6pM",
-          "title": "Tung Tung Friend Core 💀😂 #funny #viral #freefire",
-          "channel": "Arceus Gamer Ff",
-          "channel_id": "UCL-053CtJhk9WjuJ19dE1_A",
-          "subscribers": 742,
-          "thumbnail": "https://i.ytimg.com/vi/XfsNHpPb6pM/mqdefault.jpg",
-          "published_at": "2026-07-27T13:34:45Z",
-          "url": "https://www.youtube.com/watch?v=XfsNHpPb6pM"
-        },
-        {
-          "id": "PtSZir9Td3k",
-          "title": "free fire tung tung funny clips #trending #freefire #trendingshorts #garenafreefire #viralvideo",
-          "channel": "FL4SH_X9",
-          "channel_id": "UCNf43KOgjHfWRI3Pr13pNPA",
-          "subscribers": 327,
-          "thumbnail": "https://i.ytimg.com/vi/PtSZir9Td3k/mqdefault.jpg",
-          "published_at": "2026-07-27T13:31:09Z",
-          "url": "https://www.youtube.com/watch?v=PtSZir9Td3k"
-        }
-      ],
-      "first_detected_at": "2026-07-27T14:12:51.211225+00:00",
-      "last_seen_at": "2026-07-27T14:12:51.211225+00:00"
-    },
-    {
-      "phrase": "live gta5 gtav",
+      "phrase": "introducing vitawear smartband",
       "video_count": 30,
       "channel_count": 28,
       "total_channels_seen": 28,
@@ -325,51 +117,155 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "UKqqtKytir4",
-          "title": "🔴GTA V LIVE | LOS SANTOS CHAOS AND RACING🔥 #gaming #gtav #live #gta5",
-          "channel": "FALCON GAMING YT",
-          "channel_id": "UCNU1tpcHRc7nLElAiOWMmXQ",
-          "subscribers": 1000,
-          "thumbnail": "https://i.ytimg.com/vi/UKqqtKytir4/mqdefault.jpg",
-          "published_at": "2026-07-27T13:54:36Z",
-          "url": "https://www.youtube.com/watch?v=UKqqtKytir4"
+          "id": "H9pjiiDNuxU",
+          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearablegadget#shortsfeed#trending",
+          "channel": "FF ABIR 1M",
+          "channel_id": "UC9KxfnVQmEOCK9VV9i96PNg",
+          "subscribers": 855000,
+          "thumbnail": "https://i.ytimg.com/vi/H9pjiiDNuxU/mqdefault.jpg",
+          "published_at": "2026-07-27T18:39:01Z",
+          "url": "https://www.youtube.com/watch?v=H9pjiiDNuxU"
         },
         {
-          "id": "_dex4uUwZ1I",
-          "title": "GTA 5 LIVE 🔥Full Hindi Masti + Nonstop Action 🔥  #gta5 #gtav #gaming",
-          "channel": "Roamify Gamer 2.0",
-          "channel_id": "UCedrCBYnvdkiDGptWAWes6g",
-          "subscribers": 2640,
-          "thumbnail": "https://i.ytimg.com/vi/_dex4uUwZ1I/mqdefault.jpg",
-          "published_at": "2026-07-27T13:37:03Z",
-          "url": "https://www.youtube.com/watch?v=_dex4uUwZ1I"
+          "id": "oV1gewmcLiY",
+          "title": "introducing the vitawear smartband a next-generation wearable gadget#shortsfeed#trending",
+          "channel": "SUNNAH IS RIGHT ",
+          "channel_id": "UCEBwRJVMfublV_ikc3Uhaqg",
+          "subscribers": 4,
+          "thumbnail": "https://i.ytimg.com/vi/oV1gewmcLiY/mqdefault.jpg",
+          "published_at": "2026-07-27T18:04:28Z",
+          "url": "https://www.youtube.com/watch?v=oV1gewmcLiY"
         },
         {
-          "id": "AcOkcqoj7xs",
-          "title": "🔴 GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED 🤯 #gtalive #gtaonline",
-          "channel": "ClawSlash",
-          "channel_id": "UCNQhg4QwOqnjcSFuLJT0yQQ",
-          "subscribers": 2550,
-          "thumbnail": "https://i.ytimg.com/vi/AcOkcqoj7xs/mqdefault_live.jpg",
-          "published_at": "2026-07-27T13:35:35Z",
-          "url": "https://www.youtube.com/watch?v=AcOkcqoj7xs"
+          "id": "_03OuE0V2fQ",
+          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearablegadget#shortsfeed#trending",
+          "channel": "ZenZ 1M",
+          "channel_id": "UCwo00Yfh4Ar8loYOuq7LpgA",
+          "subscribers": 187000,
+          "thumbnail": "https://i.ytimg.com/vi/_03OuE0V2fQ/mqdefault.jpg",
+          "published_at": "2026-07-27T18:01:43Z",
+          "url": "https://www.youtube.com/watch?v=_03OuE0V2fQ"
         },
         {
-          "id": "E76pqL_Sk6o",
-          "title": "GTA 5 LIVE | GTRA 5 MODS GAMING |",
-          "channel": "Udit Gaming",
-          "channel_id": "UCR8cBRtAgOWHovG4E4bpMMg",
-          "subscribers": 5,
-          "thumbnail": "https://i.ytimg.com/vi/E76pqL_Sk6o/mqdefault.jpg",
-          "published_at": "2026-07-27T13:30:17Z",
-          "url": "https://www.youtube.com/watch?v=E76pqL_Sk6o"
+          "id": "T49ZfJyg3S8",
+          "title": "Introducing the &quot;VitaWear SmartBand,&quot; a next-generation wearablegadget#shortsfeed#trending",
+          "channel": "Nexora",
+          "channel_id": "UC-O80bVgzUXL3aX5EODweHQ",
+          "subscribers": 15700,
+          "thumbnail": "https://i.ytimg.com/vi/T49ZfJyg3S8/mqdefault.jpg",
+          "published_at": "2026-07-27T18:00:51Z",
+          "url": "https://www.youtube.com/watch?v=T49ZfJyg3S8"
         }
       ],
-      "first_detected_at": "2026-07-27T09:34:02.279434+00:00",
-      "last_seen_at": "2026-07-27T14:12:51.211225+00:00"
+      "first_detected_at": "2026-07-27T19:14:51.138816+00:00",
+      "last_seen_at": "2026-07-27T19:14:51.138816+00:00"
+    },
+    {
+      "phrase": "first time",
+      "video_count": 28,
+      "channel_count": 28,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.33,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "ulfZn6Lpmbg",
+          "title": "Finding Nemo Gave Me SO Much Anxiety! First Time Watching Since Childhood",
+          "channel": "BluTube",
+          "channel_id": "UCpWRxYY17XhaQcyaCDD1ILA",
+          "subscribers": 347000,
+          "thumbnail": "https://i.ytimg.com/vi/ulfZn6Lpmbg/mqdefault.jpg",
+          "published_at": "2026-07-27T19:00:01Z",
+          "url": "https://www.youtube.com/watch?v=ulfZn6Lpmbg"
+        },
+        {
+          "id": "7TxaiBt2514",
+          "title": "The Paradise Syndrome | First Time Watching Star Trek Reaction | Episode 58 TOS (S03E03)",
+          "channel": "Subspace Parlor",
+          "channel_id": "UCgZoYEQbNZ-bd-Hv4WcV89A",
+          "subscribers": 6340,
+          "thumbnail": "https://i.ytimg.com/vi/7TxaiBt2514/mqdefault.jpg",
+          "published_at": "2026-07-27T18:47:53Z",
+          "url": "https://www.youtube.com/watch?v=7TxaiBt2514"
+        },
+        {
+          "id": "qCFLCY_VuZc",
+          "title": "PLAYING THE BATTLE BRICKS CHAPTER 4 FOR THE FIRST TIME!!! | The Battle Bricks",
+          "channel": "Saltz",
+          "channel_id": "UCQaKRz_5xzjOxwqW1J0_j3w",
+          "subscribers": 20100,
+          "thumbnail": "https://i.ytimg.com/vi/qCFLCY_VuZc/mqdefault.jpg",
+          "published_at": "2026-07-27T18:43:00Z",
+          "url": "https://www.youtube.com/watch?v=qCFLCY_VuZc"
+        },
+        {
+          "id": "EtkgGZrSp9M",
+          "title": "Riding tackless for the first time 🤩 #horse #equestrian #tackless #dressage #youtubeshorts #xyzbca",
+          "channel": "Phoebe Scholtens",
+          "channel_id": "UCBCmK_KLJwb8WsSImV4Ldtw",
+          "subscribers": 151000,
+          "thumbnail": "https://i.ytimg.com/vi/EtkgGZrSp9M/mqdefault.jpg",
+          "published_at": "2026-07-27T18:41:00Z",
+          "url": "https://www.youtube.com/watch?v=EtkgGZrSp9M"
+        }
+      ],
+      "first_detected_at": "2026-07-27T19:14:51.138816+00:00",
+      "last_seen_at": "2026-07-27T19:14:51.138816+00:00"
     },
     {
       "phrase": "minecraft helden",
+      "video_count": 30,
+      "channel_count": 26,
+      "total_channels_seen": 26,
+      "uploads_per_hour": 2.17,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "iP8mNY7_u6o",
+          "title": "Minecraft PvP mit euch!",
+          "channel": "yukiime",
+          "channel_id": "UCEw98kgMlGFuvYcCLM4g4hQ",
+          "subscribers": 549,
+          "thumbnail": "https://i.ytimg.com/vi/iP8mNY7_u6o/mqdefault.jpg",
+          "published_at": "2026-07-27T18:39:41Z",
+          "url": "https://www.youtube.com/watch?v=iP8mNY7_u6o"
+        },
+        {
+          "id": "TvzxwqzOn3A",
+          "title": "alle Kills von minecraft helden 3",
+          "channel": "kaiskais-d9k",
+          "channel_id": "UC5Z8h-EkOyNrXO90e_E0OpQ",
+          "subscribers": 110,
+          "thumbnail": "https://i.ytimg.com/vi/TvzxwqzOn3A/mqdefault.jpg",
+          "published_at": "2026-07-27T18:32:59Z",
+          "url": "https://www.youtube.com/watch?v=TvzxwqzOn3A"
+        },
+        {
+          "id": "1-xzlLSEkGo",
+          "title": "🔴 Minecraft HELDEN INSEL PvP + Face Cam Infos! 🔴",
+          "channel": "Sakuro",
+          "channel_id": "UCe-hoIFZAL6SLaZWXnZLXDw",
+          "subscribers": 516,
+          "thumbnail": "https://i.ytimg.com/vi/1-xzlLSEkGo/mqdefault_live.jpg",
+          "published_at": "2026-07-27T18:31:03Z",
+          "url": "https://www.youtube.com/watch?v=1-xzlLSEkGo"
+        },
+        {
+          "id": "3qlyjwJw2Io",
+          "title": "Minecraft Helden 3",
+          "channel": "LagaYT",
+          "channel_id": "UCyIWMH-lQeTFKde2pL5f5CA",
+          "subscribers": 40,
+          "thumbnail": "https://i.ytimg.com/vi/3qlyjwJw2Io/mqdefault.jpg",
+          "published_at": "2026-07-27T18:21:27Z",
+          "url": "https://www.youtube.com/watch?v=3qlyjwJw2Io"
+        }
+      ],
+      "first_detected_at": "2026-07-27T14:12:51.211225+00:00",
+      "last_seen_at": "2026-07-27T19:14:51.138816+00:00"
+    },
+    {
+      "phrase": "doomsday trailer marvel's",
       "video_count": 27,
       "channel_count": 26,
       "total_channels_seen": 29,
@@ -377,48 +273,48 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "5KbHbnvNJJs",
-          "title": "Tridan zieht Danergy erstes Herz #minecraft #helden #tridan #danergy",
-          "channel": "Shivanillaedits ",
-          "channel_id": "UCVNDh6EykWs2D8q1uIDPGgA",
-          "subscribers": 5110,
-          "thumbnail": "https://i.ytimg.com/vi/5KbHbnvNJJs/mqdefault.jpg",
-          "published_at": "2026-07-27T14:00:38Z",
-          "url": "https://www.youtube.com/watch?v=5KbHbnvNJJs"
+          "id": "FZPcBFjHMH8",
+          "title": "Marvel SDCC 2026 Full Panel Breakdown | Comic Con 2026 | Doomsday New Trailer",
+          "channel": "Piyushartbox",
+          "channel_id": "UCkaVgDIAjVi4hztBT9OgVcQ",
+          "subscribers": 4540,
+          "thumbnail": "https://i.ytimg.com/vi/FZPcBFjHMH8/mqdefault.jpg",
+          "published_at": "2026-07-27T19:05:14Z",
+          "url": "https://www.youtube.com/watch?v=FZPcBFjHMH8"
         },
         {
-          "id": "Kxu2bZju93c",
-          "title": "Können wir Minecraft Helden 3 gewinnen ?",
-          "channel": "Schäferhund spielt",
-          "channel_id": "UC80aMqJGBOGZYPlcTwWZvFQ",
-          "subscribers": 94,
-          "thumbnail": "https://i.ytimg.com/vi/Kxu2bZju93c/mqdefault.jpg",
-          "published_at": "2026-07-27T14:00:36Z",
-          "url": "https://www.youtube.com/watch?v=Kxu2bZju93c"
+          "id": "d0G6Nc9oDEk",
+          "title": "Here Come The Doom! (Another Avengers: Doomsday Trailer Reaction!)",
+          "channel": "Emery 48",
+          "channel_id": "UCskMA0W6Ns4PNFWk-DOb50A",
+          "subscribers": 381,
+          "thumbnail": "https://i.ytimg.com/vi/d0G6Nc9oDEk/mqdefault.jpg",
+          "published_at": "2026-07-27T19:00:18Z",
+          "url": "https://www.youtube.com/watch?v=d0G6Nc9oDEk"
         },
         {
-          "id": "M_UbgeFebLI",
-          "title": "SO habe ich BASTIGHG in Minecraft geprankt…!💀😂",
-          "channel": "ZyproX",
-          "channel_id": "UCfWebHklGjJLdh4SgMVWkwg",
-          "subscribers": 145000,
-          "thumbnail": "https://i.ytimg.com/vi/M_UbgeFebLI/mqdefault.jpg",
-          "published_at": "2026-07-27T13:57:25Z",
-          "url": "https://www.youtube.com/watch?v=M_UbgeFebLI"
+          "id": "K_bE4v98Psc",
+          "title": "New Avengers Doomsday Trailer Showed Too Much..?!🤪 #shorts #movie #marvel",
+          "channel": "Tank Jones",
+          "channel_id": "UCKqRMaijj-u-rpaC0LD9fsg",
+          "subscribers": 2360,
+          "thumbnail": "https://i.ytimg.com/vi/K_bE4v98Psc/mqdefault.jpg",
+          "published_at": "2026-07-27T18:30:05Z",
+          "url": "https://www.youtube.com/watch?v=K_bE4v98Psc"
         },
         {
-          "id": "gg9R91P6W6E",
-          "title": "Ich habe Minecraft Helden dominiert!🏆",
-          "channel": "Kxpyfnbr!",
-          "channel_id": "UCqBJwUjiy7ltghMkmeS48hg",
-          "subscribers": 218,
-          "thumbnail": "https://i.ytimg.com/vi/gg9R91P6W6E/mqdefault.jpg",
-          "published_at": "2026-07-27T13:53:13Z",
-          "url": "https://www.youtube.com/watch?v=gg9R91P6W6E"
+          "id": "V_uBV-4eoJo",
+          "title": "MARVEL IS BACK!! Avengers Doomsday Trailer Reaction",
+          "channel": "Fire_21",
+          "channel_id": "UCKq5peGEkzrn9yP_nkBJlLA",
+          "subscribers": 22,
+          "thumbnail": "https://i.ytimg.com/vi/V_uBV-4eoJo/mqdefault.jpg",
+          "published_at": "2026-07-27T18:02:26Z",
+          "url": "https://www.youtube.com/watch?v=V_uBV-4eoJo"
         }
       ],
-      "first_detected_at": "2026-07-27T14:12:51.211225+00:00",
-      "last_seen_at": "2026-07-27T14:12:51.211225+00:00"
+      "first_detected_at": "2026-07-27T19:14:51.138816+00:00",
+      "last_seen_at": "2026-07-27T19:14:51.138816+00:00"
     },
     {
       "phrase": "gta5 gtav gaming",
@@ -429,283 +325,197 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "kcwtDXxFDMs",
-          "title": "GTA Thug life moment 💀#shorts #gta5 #gtastunts #drift",
-          "channel": "XVerse Gamer",
-          "channel_id": "UCm7LxdmdlLaBtztT6Rd0ROg",
-          "subscribers": 8200,
-          "thumbnail": "https://i.ytimg.com/vi/kcwtDXxFDMs/mqdefault.jpg",
-          "published_at": "2026-07-27T13:54:42Z",
-          "url": "https://www.youtube.com/watch?v=kcwtDXxFDMs"
+          "id": "_QhdYevqPxs",
+          "title": "GTA 5 Rich vs Poor Challenge 💰",
+          "channel": "gta 5 game play",
+          "channel_id": "UC0i00f8cHo9zN9T1vUo0HJg",
+          "subscribers": 0,
+          "thumbnail": "https://i.ytimg.com/vi/_QhdYevqPxs/mqdefault.jpg",
+          "published_at": "2026-07-27T19:10:18Z",
+          "url": "https://www.youtube.com/watch?v=_QhdYevqPxs"
         },
         {
-          "id": "vVSBlZwWdVE",
-          "title": "Unlucky Driver In GTA 5 #GTA5 #GTAV #Gaming #CarCrash #FunnyMoments #Shorts #EpicFails #LosSantos",
-          "channel": "Dev Ramani",
-          "channel_id": "UCN_DHWGbb_QvhQON0J4a3_w",
-          "subscribers": 4,
-          "thumbnail": "https://i.ytimg.com/vi/vVSBlZwWdVE/mqdefault.jpg",
-          "published_at": "2026-07-27T13:47:08Z",
-          "url": "https://www.youtube.com/watch?v=vVSBlZwWdVE"
+          "id": "CW7QqtRsGyo",
+          "title": "GTA 5 Epic Escape 😱 Police Chase Gone Wrong! #shorts",
+          "channel": "gta 5 game play",
+          "channel_id": "UC0i00f8cHo9zN9T1vUo0HJg",
+          "subscribers": 0,
+          "thumbnail": "https://i.ytimg.com/vi/CW7QqtRsGyo/mqdefault.jpg",
+          "published_at": "2026-07-27T19:10:10Z",
+          "url": "https://www.youtube.com/watch?v=CW7QqtRsGyo"
         },
         {
-          "id": "9CO-SK2fVkw",
-          "title": "Ep 13 - Wait for the Ending… 💀 GTA V #gta5",
-          "channel": "NazirX",
-          "channel_id": "UC8qPN05CxMWiPcDZ-EJCB4A",
-          "subscribers": 23100,
-          "thumbnail": "https://i.ytimg.com/vi/9CO-SK2fVkw/mqdefault.jpg",
-          "published_at": "2026-07-27T13:30:36Z",
-          "url": "https://www.youtube.com/watch?v=9CO-SK2fVkw"
+          "id": "tggczTPaVnk",
+          "title": "GTA 5 Most Insane Stunt Ever 🤯 #shorts #gta5 #gaming",
+          "channel": "gta 5 game play",
+          "channel_id": "UC0i00f8cHo9zN9T1vUo0HJg",
+          "subscribers": 0,
+          "thumbnail": "https://i.ytimg.com/vi/tggczTPaVnk/mqdefault.jpg",
+          "published_at": "2026-07-27T19:10:00Z",
+          "url": "https://www.youtube.com/watch?v=tggczTPaVnk"
         },
         {
-          "id": "wjeHvdyEJzI",
-          "title": "Nobody Expected a Tata Nano Police Car! 🚔 Franklin&#39;s License Check | GTA 5",
-          "channel": "RM GAMING MAX",
-          "channel_id": "UCiqZQrAg4bMTHSHVbhZOk2Q",
-          "subscribers": 9040,
-          "thumbnail": "https://i.ytimg.com/vi/wjeHvdyEJzI/mqdefault.jpg",
-          "published_at": "2026-07-27T13:30:30Z",
-          "url": "https://www.youtube.com/watch?v=wjeHvdyEJzI"
+          "id": "JypsEmTRiLQ",
+          "title": "تعديل أصغر سيارة 🔥GTA 5 #GTA5#GTAV#Gaming#جي_تي_اي#العاب#قراند #لولو#Creator #ContentCreator",
+          "channel": "ABDOU GAMING ma",
+          "channel_id": "UCxynQwjWIby5wLjoh_fWsgg",
+          "subscribers": 49,
+          "thumbnail": "https://i.ytimg.com/vi/JypsEmTRiLQ/mqdefault.jpg",
+          "published_at": "2026-07-27T18:44:15Z",
+          "url": "https://www.youtube.com/watch?v=JypsEmTRiLQ"
         }
       ],
       "first_detected_at": "2026-07-27T09:34:02.279434+00:00",
-      "last_seen_at": "2026-07-27T14:12:51.211225+00:00"
+      "last_seen_at": "2026-07-27T19:14:51.138816+00:00"
+    },
+    {
+      "phrase": "avengers doomsday",
+      "video_count": 25,
+      "channel_count": 25,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.08,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "mFfAC5MeeyQ",
+          "title": "Marvel announce 5 LEGO sets based on Avengers: Doomsday 👀",
+          "channel": "Christel Dee",
+          "channel_id": "UCJodzzfFhc3rGggkwHOzL9Q",
+          "subscribers": 17300,
+          "thumbnail": "https://i.ytimg.com/vi/mFfAC5MeeyQ/mqdefault.jpg",
+          "published_at": "2026-07-27T18:43:35Z",
+          "url": "https://www.youtube.com/watch?v=mFfAC5MeeyQ"
+        },
+        {
+          "id": "vOG2evjSQNc",
+          "title": "LEGO Avengers Doomsday minifigs are actually good what",
+          "channel": "MGF Customs",
+          "channel_id": "UC5gh-AsyJH61D8CzvobIRlQ",
+          "subscribers": 288000,
+          "thumbnail": "https://i.ytimg.com/vi/vOG2evjSQNc/mqdefault.jpg",
+          "published_at": "2026-07-27T18:26:12Z",
+          "url": "https://www.youtube.com/watch?v=vOG2evjSQNc"
+        },
+        {
+          "id": "DGnOYAGShg4",
+          "title": "Deadpool nos Vingadores Doomsday ?",
+          "channel": "Foco Otaku",
+          "channel_id": "UCy9YRqcxdYrF9u9Ip93W3XQ",
+          "subscribers": 77300,
+          "thumbnail": "https://i.ytimg.com/vi/DGnOYAGShg4/mqdefault.jpg",
+          "published_at": "2026-07-27T18:23:28Z",
+          "url": "https://www.youtube.com/watch?v=DGnOYAGShg4"
+        },
+        {
+          "id": "z6Nsi7yMIZE",
+          "title": "Estatua Del Doctor Doom Avengers Doomsday",
+          "channel": "Emiliux31",
+          "channel_id": "UCy2iNG6KUke17M54gDsuQ8Q",
+          "subscribers": 89200,
+          "thumbnail": "https://i.ytimg.com/vi/z6Nsi7yMIZE/mqdefault.jpg",
+          "published_at": "2026-07-27T18:16:47Z",
+          "url": "https://www.youtube.com/watch?v=z6Nsi7yMIZE"
+        }
+      ],
+      "first_detected_at": "2026-07-27T02:05:28.799217+00:00",
+      "last_seen_at": "2026-07-27T19:14:51.138816+00:00"
+    },
+    {
+      "phrase": "trailer theaters december",
+      "video_count": 23,
+      "channel_count": 23,
+      "total_channels_seen": 23,
+      "uploads_per_hour": 1.92,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "EZLUFUDxkAw",
+          "title": "Avengers  Doomsday   Official Trailer   In Theaters December 18",
+          "channel": "popwier media",
+          "channel_id": "UC8Wtw60mBspkwr3L0spyGeQ",
+          "subscribers": 15,
+          "thumbnail": "https://i.ytimg.com/vi/EZLUFUDxkAw/mqdefault.jpg",
+          "published_at": "2026-07-27T19:09:45Z",
+          "url": "https://www.youtube.com/watch?v=EZLUFUDxkAw"
+        },
+        {
+          "id": "uGcle-4I3cM",
+          "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+          "channel": "Spidy Bot",
+          "channel_id": "UCbgyriZm4NSto7FWkgyYTvA",
+          "subscribers": 21,
+          "thumbnail": "https://i.ytimg.com/vi/uGcle-4I3cM/mqdefault.jpg",
+          "published_at": "2026-07-27T17:42:36Z",
+          "url": "https://www.youtube.com/watch?v=uGcle-4I3cM"
+        },
+        {
+          "id": "O-I0nYIY1eo",
+          "title": "GEORGE OF THE JUNGLE (December 1997 Odeon Cinema Trailer Reel) -- Home Cinema",
+          "channel": "UK Cinema Retro Trailer Reels",
+          "channel_id": "UCKW2fC0iVue_YXgD3Ky7IlQ",
+          "subscribers": 4150,
+          "thumbnail": "https://i.ytimg.com/vi/O-I0nYIY1eo/mqdefault.jpg",
+          "published_at": "2026-07-27T17:00:11Z",
+          "url": "https://www.youtube.com/watch?v=O-I0nYIY1eo"
+        },
+        {
+          "id": "g37oGmhaqKM",
+          "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18.ninja h2r video #shorts #viral",
+          "channel": "bholu bhadoriya ",
+          "channel_id": "UCjWEOHOzTg6yy3k5otOArGQ",
+          "subscribers": 30,
+          "thumbnail": "https://i.ytimg.com/vi/g37oGmhaqKM/mqdefault.jpg",
+          "published_at": "2026-07-27T16:44:33Z",
+          "url": "https://www.youtube.com/watch?v=g37oGmhaqKM"
+        }
+      ],
+      "first_detected_at": "2026-07-27T19:14:51.138816+00:00",
+      "last_seen_at": "2026-07-27T19:14:51.138816+00:00"
     }
   ],
   "topics": [
     {
       "phrase": "gta live",
-      "video_count": 5,
-      "momentum": 33.42,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "Pn0dhmOLZY0",
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-          "channel": "Hear Is Live",
-          "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-          "views": 2260104,
-          "age_hours": 2.3
-        },
-        {
-          "id": "k_24BFeQ3zs",
-          "title": "GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED | Ep 68 #gtalive #gtaonline",
-          "channel": "LastGill",
-          "thumbnail": "https://i.ytimg.com/vi/k_24BFeQ3zs/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=k_24BFeQ3zs",
-          "views": 1089785,
-          "age_hours": 3.4
-        },
-        {
-          "id": "X9kX-tMFM74",
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-          "channel": "Hear Is Live",
-          "thumbnail": "https://i.ytimg.com/vi/X9kX-tMFM74/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=X9kX-tMFM74",
-          "views": 2257278,
-          "age_hours": 10.4
-        }
-      ]
-    },
-    {
-      "phrase": "gta live gta5",
-      "video_count": 3,
-      "momentum": 24.43,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "Pn0dhmOLZY0",
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-          "channel": "Hear Is Live",
-          "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-          "views": 2260104,
-          "age_hours": 2.3
-        },
-        {
-          "id": "X9kX-tMFM74",
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-          "channel": "Hear Is Live",
-          "thumbnail": "https://i.ytimg.com/vi/X9kX-tMFM74/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=X9kX-tMFM74",
-          "views": 2257278,
-          "age_hours": 10.4
-        },
-        {
-          "id": "alSyObE2IXU",
-          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-          "channel": "PAJI IS LIVE",
-          "thumbnail": "https://i.ytimg.com/vi/alSyObE2IXU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=alSyObE2IXU",
-          "views": 689868,
-          "age_hours": 9.1
-        }
-      ]
-    },
-    {
-      "phrase": "live gta5 gtav",
-      "video_count": 3,
-      "momentum": 24.43,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "Pn0dhmOLZY0",
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-          "channel": "Hear Is Live",
-          "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-          "views": 2260104,
-          "age_hours": 2.3
-        },
-        {
-          "id": "X9kX-tMFM74",
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-          "channel": "Hear Is Live",
-          "thumbnail": "https://i.ytimg.com/vi/X9kX-tMFM74/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=X9kX-tMFM74",
-          "views": 2257278,
-          "age_hours": 10.4
-        },
-        {
-          "id": "alSyObE2IXU",
-          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-          "channel": "PAJI IS LIVE",
-          "thumbnail": "https://i.ytimg.com/vi/alSyObE2IXU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=alSyObE2IXU",
-          "views": 689868,
-          "age_hours": 9.1
-        }
-      ]
-    },
-    {
-      "phrase": "gta5 gtav gaming",
-      "video_count": 3,
-      "momentum": 24.43,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "Pn0dhmOLZY0",
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-          "channel": "Hear Is Live",
-          "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-          "views": 2260104,
-          "age_hours": 2.3
-        },
-        {
-          "id": "X9kX-tMFM74",
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-          "channel": "Hear Is Live",
-          "thumbnail": "https://i.ytimg.com/vi/X9kX-tMFM74/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=X9kX-tMFM74",
-          "views": 2257278,
-          "age_hours": 10.4
-        },
-        {
-          "id": "alSyObE2IXU",
-          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-          "channel": "PAJI IS LIVE",
-          "thumbnail": "https://i.ytimg.com/vi/alSyObE2IXU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=alSyObE2IXU",
-          "views": 689868,
-          "age_hours": 9.1
-        }
-      ]
-    },
-    {
-      "phrase": "gta5",
       "video_count": 4,
-      "momentum": 21.2,
+      "momentum": 26.6,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
+          "id": "JSt_a0mw-Tk",
+          "title": "🔴 GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED 🤯 #gtalive #gtaonline",
+          "channel": "RAHUL FF",
+          "thumbnail": "https://i.ytimg.com/vi/JSt_a0mw-Tk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=JSt_a0mw-Tk",
+          "views": 3411024,
+          "age_hours": 5.8
+        },
+        {
           "id": "Pn0dhmOLZY0",
           "title": "GTA 5 LIVE #gta5 #gtav #gaming",
           "channel": "Hear Is Live",
           "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-          "views": 2260104,
-          "age_hours": 2.3
+          "views": 2261956,
+          "age_hours": 7.3
         },
         {
-          "id": "X9kX-tMFM74",
-          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-          "channel": "Hear Is Live",
-          "thumbnail": "https://i.ytimg.com/vi/X9kX-tMFM74/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=X9kX-tMFM74",
-          "views": 2257278,
-          "age_hours": 10.4
-        },
-        {
-          "id": "CbfqfJpZcfk",
-          "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
-          "channel": "MR RAJA PLAYZONE",
-          "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
-          "views": 1638802,
-          "age_hours": 19.9
-        }
-      ]
-    },
-    {
-      "phrase": "avengers doomsday",
-      "video_count": 3,
-      "momentum": 19.57,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "irVNGjRFZGk",
-          "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
-          "channel": "Marvel Entertainment",
-          "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-          "views": 51517871,
-          "age_hours": 169.2
-        },
-        {
-          "id": "HeFsNVSAdtw",
-          "title": "AVENGERS DOOMSDAY SDCC TRAILER BREAKDOWN! Hall H Footage Official Description!",
-          "channel": "New Rockstars",
-          "thumbnail": "https://i.ytimg.com/vi/HeFsNVSAdtw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=HeFsNVSAdtw",
-          "views": 460891,
-          "age_hours": 13.7
-        },
-        {
-          "id": "ovv5V6rDSxc",
-          "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
-          "channel": "TeaserCon",
-          "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
-          "views": 594534,
-          "age_hours": 25.0
+          "id": "DJRfD12x8Yk",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/DJRfD12x8Yk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DJRfD12x8Yk",
+          "views": 816611,
+          "age_hours": 6.6
         }
       ]
     },
     {
       "phrase": "minecraft helden",
-      "video_count": 3,
-      "momentum": 17.2,
+      "video_count": 4,
+      "momentum": 22.67,
       "regions": [
         "DE"
       ],
@@ -717,323 +527,176 @@
           "channel": "Paulberger",
           "thumbnail": "https://i.ytimg.com/vi/y1ooQxY86N8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=y1ooQxY86N8",
-          "views": 22878,
-          "age_hours": 2.6
+          "views": 80523,
+          "age_hours": 7.6
         },
         {
-          "id": "UNzdaE-NZyY",
-          "title": "Ich WERDE VERFOLGT und BEDROHT am 1.TAG von MINECRAFT HELDEN 3! (Neues Projekt)",
-          "channel": "AviveHD",
-          "thumbnail": "https://i.ytimg.com/vi/UNzdaE-NZyY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=UNzdaE-NZyY",
-          "views": 109089,
+          "id": "oGk-R1s9hDM",
+          "title": "ICRIMAX & TRIDAN😍DAS STÄRKSTE BÜNDNIS in MINECRAFT HELDEN 3!",
+          "channel": "TriDan",
+          "thumbnail": "https://i.ytimg.com/vi/oGk-R1s9hDM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oGk-R1s9hDM",
+          "views": 42201,
+          "age_hours": 8.7
+        },
+        {
+          "id": "O16964NJ6C8",
+          "title": "Würdest DU diesen STUHL ÜBERLEBEN...?! (Minecraft Helden 3)",
+          "channel": "Platin Extra",
+          "thumbnail": "https://i.ytimg.com/vi/O16964NJ6C8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=O16964NJ6C8",
+          "views": 36576,
+          "age_hours": 7.2
+        }
+      ]
+    },
+    {
+      "phrase": "minecraft",
+      "video_count": 4,
+      "momentum": 19.54,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "z2NoND9GnAA",
+          "title": "THE LEADER IS BACK IN LILYVILLE 😱😡 | Minecraft",
+          "channel": "Anshu Bisht",
+          "thumbnail": "https://i.ytimg.com/vi/z2NoND9GnAA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=z2NoND9GnAA",
+          "views": 969137,
+          "age_hours": 32.4
+        },
+        {
+          "id": "iNIBkYNmZr4",
+          "title": "Save FRIEND or GIRLFRIEND in Minecraft..",
+          "channel": "Carry Depie",
+          "thumbnail": "https://i.ytimg.com/vi/iNIBkYNmZr4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=iNIBkYNmZr4",
+          "views": 589459,
+          "age_hours": 8.1
+        },
+        {
+          "id": "b0R7MwVE9hE",
+          "title": "A SCARY ENTITY ENTER OUR HOUSE IN MINECRAFT..",
+          "channel": "Karry Kraft",
+          "thumbnail": "https://i.ytimg.com/vi/b0R7MwVE9hE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=b0R7MwVE9hE",
+          "views": 945942,
+          "age_hours": 34.5
+        }
+      ]
+    },
+    {
+      "phrase": "avengers doomsday",
+      "video_count": 3,
+      "momentum": 19.47,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "irVNGjRFZGk",
+          "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+          "channel": "Marvel Entertainment",
+          "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+          "views": 51790519,
+          "age_hours": 174.2
+        },
+        {
+          "id": "HeFsNVSAdtw",
+          "title": "AVENGERS DOOMSDAY SDCC TRAILER BREAKDOWN! Hall H Footage Official Description!",
+          "channel": "New Rockstars",
+          "thumbnail": "https://i.ytimg.com/vi/HeFsNVSAdtw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=HeFsNVSAdtw",
+          "views": 589273,
+          "age_hours": 18.7
+        },
+        {
+          "id": "ovv5V6rDSxc",
+          "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
+          "channel": "TeaserCon",
+          "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
+          "views": 717792,
+          "age_hours": 30.1
+        }
+      ]
+    },
+    {
+      "phrase": "iphone",
+      "video_count": 4,
+      "momentum": 18.01,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "o9GdNjsLNwI",
+          "title": "All iPhones Can Now Cost ₹10 LAKH! $10,000 For Single iPhone Due To RAM Shortage #shorts",
+          "channel": "FactTechz",
+          "thumbnail": "https://i.ytimg.com/vi/o9GdNjsLNwI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=o9GdNjsLNwI",
+          "views": 1467878,
+          "age_hours": 66.7
+        },
+        {
+          "id": "5QchHJ9KH90",
+          "title": "🍎Hard Metal 🫢Converter Kit for iPhone 17 Into 17Pro Max Look,metal backsheet, frame, this kit",
+          "channel": "Rj Mobile 01",
+          "thumbnail": "https://i.ytimg.com/vi/5QchHJ9KH90/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=5QchHJ9KH90",
+          "views": 404897,
+          "age_hours": 16.7
+        },
+        {
+          "id": "XAH0kTcqXI4",
+          "title": "I Bought Refurbished iPhone from Cashify !",
+          "channel": "Tech Burner",
+          "thumbnail": "https://i.ytimg.com/vi/XAH0kTcqXI4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=XAH0kTcqXI4",
+          "views": 749382,
+          "age_hours": 76.2
+        }
+      ]
+    },
+    {
+      "phrase": "introducing vitawear smartband",
+      "video_count": 2,
+      "momentum": 16.13,
+      "regions": [
+        "GB"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "HlYbSfPjEow",
+          "title": "introducing the vitawear smartband a next-generation wearablegadget#shortsfeed#trending",
+          "channel": "The Animal Bd",
+          "thumbnail": "https://i.ytimg.com/vi/HlYbSfPjEow/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=HlYbSfPjEow",
+          "views": 789597,
           "age_hours": 26.2
         },
         {
-          "id": "5aZJvZJrfxk",
-          "title": "Ich FINDE DIAMANTEN in Minecraft Helden 3!",
-          "channel": "Paulberger",
-          "thumbnail": "https://i.ytimg.com/vi/5aZJvZJrfxk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=5aZJvZJrfxk",
-          "views": 126733,
-          "age_hours": 28.2
-        }
-      ]
-    },
-    {
-      "phrase": "spider man against",
-      "video_count": 2,
-      "momentum": 16.25,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "EviEF2JJx8U",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-          "channel": "MARINARA",
-          "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-          "views": 1183998,
-          "age_hours": 23.2
-        },
-        {
-          "id": "YAl3IakyOWY",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-          "channel": "Mini Train",
-          "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-          "views": 953780,
-          "age_hours": 23.2
-        }
-      ]
-    },
-    {
-      "phrase": "man against tung",
-      "video_count": 2,
-      "momentum": 16.25,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "EviEF2JJx8U",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-          "channel": "MARINARA",
-          "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-          "views": 1183998,
-          "age_hours": 23.2
-        },
-        {
-          "id": "YAl3IakyOWY",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-          "channel": "Mini Train",
-          "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-          "views": 953780,
-          "age_hours": 23.2
-        }
-      ]
-    },
-    {
-      "phrase": "against tung tung",
-      "video_count": 2,
-      "momentum": 16.25,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "EviEF2JJx8U",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-          "channel": "MARINARA",
-          "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-          "views": 1183998,
-          "age_hours": 23.2
-        },
-        {
-          "id": "YAl3IakyOWY",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-          "channel": "Mini Train",
-          "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-          "views": 953780,
-          "age_hours": 23.2
-        }
-      ]
-    },
-    {
-      "phrase": "tung tung tung",
-      "video_count": 2,
-      "momentum": 16.25,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "EviEF2JJx8U",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-          "channel": "MARINARA",
-          "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-          "views": 1183998,
-          "age_hours": 23.2
-        },
-        {
-          "id": "YAl3IakyOWY",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-          "channel": "Mini Train",
-          "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-          "views": 953780,
-          "age_hours": 23.2
-        }
-      ]
-    },
-    {
-      "phrase": "tung tung sahur",
-      "video_count": 2,
-      "momentum": 16.25,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "EviEF2JJx8U",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-          "channel": "MARINARA",
-          "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-          "views": 1183998,
-          "age_hours": 23.2
-        },
-        {
-          "id": "YAl3IakyOWY",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-          "channel": "Mini Train",
-          "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-          "views": 953780,
-          "age_hours": 23.2
-        }
-      ]
-    },
-    {
-      "phrase": "tung sahur motorcycle",
-      "video_count": 2,
-      "momentum": 16.25,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "EviEF2JJx8U",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-          "channel": "MARINARA",
-          "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-          "views": 1183998,
-          "age_hours": 23.2
-        },
-        {
-          "id": "YAl3IakyOWY",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-          "channel": "Mini Train",
-          "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-          "views": 953780,
-          "age_hours": 23.2
-        }
-      ]
-    },
-    {
-      "phrase": "sahur motorcycle rainbow",
-      "video_count": 2,
-      "momentum": 16.25,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "EviEF2JJx8U",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-          "channel": "MARINARA",
-          "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-          "views": 1183998,
-          "age_hours": 23.2
-        },
-        {
-          "id": "YAl3IakyOWY",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-          "channel": "Mini Train",
-          "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-          "views": 953780,
-          "age_hours": 23.2
-        }
-      ]
-    },
-    {
-      "phrase": "motorcycle rainbow spiders",
-      "video_count": 2,
-      "momentum": 16.25,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "EviEF2JJx8U",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-          "channel": "MARINARA",
-          "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-          "views": 1183998,
-          "age_hours": 23.2
-        },
-        {
-          "id": "YAl3IakyOWY",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-          "channel": "Mini Train",
-          "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-          "views": 953780,
-          "age_hours": 23.2
-        }
-      ]
-    },
-    {
-      "phrase": "rainbow spiders bridge",
-      "video_count": 2,
-      "momentum": 16.25,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "EviEF2JJx8U",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-          "channel": "MARINARA",
-          "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-          "views": 1183998,
-          "age_hours": 23.2
-        },
-        {
-          "id": "YAl3IakyOWY",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-          "channel": "Mini Train",
-          "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-          "views": 953780,
-          "age_hours": 23.2
-        }
-      ]
-    },
-    {
-      "phrase": "spiders bridge gta",
-      "video_count": 2,
-      "momentum": 16.25,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "EviEF2JJx8U",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-          "channel": "MARINARA",
-          "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-          "views": 1183998,
-          "age_hours": 23.2
-        },
-        {
-          "id": "YAl3IakyOWY",
-          "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-          "channel": "Mini Train",
-          "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-          "views": 953780,
-          "age_hours": 23.2
+          "id": "KEG0yYB4vJk",
+          "title": "Introducing the \"VitaWear SmartBand, \" anext-generation wearablegadget#shortfeed #trending",
+          "channel": "English Vai",
+          "thumbnail": "https://i.ytimg.com/vi/KEG0yYB4vJk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KEG0yYB4vJk",
+          "views": 2070537,
+          "age_hours": 73.2
         }
       ]
     },
     {
       "phrase": "first",
       "video_count": 4,
-      "momentum": 16.17,
+      "momentum": 16.06,
       "regions": [
         "IN"
       ],
@@ -1045,8 +708,8 @@
           "channel": "Slayy Point",
           "thumbnail": "https://i.ytimg.com/vi/vsOON1IDPTo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=vsOON1IDPTo",
-          "views": 6967731,
-          "age_hours": 577.6
+          "views": 6986913,
+          "age_hours": 582.6
         },
         {
           "id": "NecrvFTX3Dk",
@@ -1054,8 +717,8 @@
           "channel": "Poonam P Bisht",
           "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
-          "views": 275807,
-          "age_hours": 31.7
+          "views": 297832,
+          "age_hours": 36.7
         },
         {
           "id": "IwX8xUuV7og",
@@ -1063,8 +726,336 @@
           "channel": "Engineering Facts",
           "thumbnail": "https://i.ytimg.com/vi/IwX8xUuV7og/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=IwX8xUuV7og",
-          "views": 247292,
-          "age_hours": 48.2
+          "views": 262543,
+          "age_hours": 53.2
+        }
+      ]
+    },
+    {
+      "phrase": "trailer theaters december",
+      "video_count": 2,
+      "momentum": 16.06,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "irVNGjRFZGk",
+          "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+          "channel": "Marvel Entertainment",
+          "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+          "views": 51790519,
+          "age_hours": 174.2
+        },
+        {
+          "id": "ovv5V6rDSxc",
+          "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
+          "channel": "TeaserCon",
+          "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
+          "views": 717792,
+          "age_hours": 30.1
+        }
+      ]
+    },
+    {
+      "phrase": "gta live gta5",
+      "video_count": 2,
+      "momentum": 15.94,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "Pn0dhmOLZY0",
+          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+          "channel": "Hear Is Live",
+          "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
+          "views": 2261956,
+          "age_hours": 7.3
+        },
+        {
+          "id": "DJRfD12x8Yk",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/DJRfD12x8Yk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DJRfD12x8Yk",
+          "views": 816611,
+          "age_hours": 6.6
+        }
+      ]
+    },
+    {
+      "phrase": "live gta5 gtav",
+      "video_count": 2,
+      "momentum": 15.94,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "Pn0dhmOLZY0",
+          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+          "channel": "Hear Is Live",
+          "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
+          "views": 2261956,
+          "age_hours": 7.3
+        },
+        {
+          "id": "DJRfD12x8Yk",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/DJRfD12x8Yk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DJRfD12x8Yk",
+          "views": 816611,
+          "age_hours": 6.6
+        }
+      ]
+    },
+    {
+      "phrase": "gta5 gtav gaming",
+      "video_count": 2,
+      "momentum": 15.94,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "Pn0dhmOLZY0",
+          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+          "channel": "Hear Is Live",
+          "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
+          "views": 2261956,
+          "age_hours": 7.3
+        },
+        {
+          "id": "DJRfD12x8Yk",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/DJRfD12x8Yk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DJRfD12x8Yk",
+          "views": 816611,
+          "age_hours": 6.6
+        }
+      ]
+    },
+    {
+      "phrase": "first time",
+      "video_count": 3,
+      "momentum": 14.95,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "vsOON1IDPTo",
+          "title": "Desis Go to LONDON for the First Time",
+          "channel": "Slayy Point",
+          "thumbnail": "https://i.ytimg.com/vi/vsOON1IDPTo/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=vsOON1IDPTo",
+          "views": 6986913,
+          "age_hours": 582.6
+        },
+        {
+          "id": "NecrvFTX3Dk",
+          "title": "First Time Making Ghewar for My In-Laws! 🥹❤️ | Will They Like It?",
+          "channel": "Poonam P Bisht",
+          "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
+          "views": 297832,
+          "age_hours": 36.7
+        },
+        {
+          "id": "BWJXkU8ZSD8",
+          "title": "Finally ayodhaya phuch gaye😍first time",
+          "channel": "Paras Thakral Vlogs",
+          "thumbnail": "https://i.ytimg.com/vi/BWJXkU8ZSD8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=BWJXkU8ZSD8",
+          "views": 94265,
+          "age_hours": 80.8
+        }
+      ]
+    },
+    {
+      "phrase": "doomsday trailer marvel's",
+      "video_count": 2,
+      "momentum": 14.07,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "-mp7wJA3vKM",
+          "title": "New Doomsday Trailer & Marvel's Insane Plans Revealed!",
+          "channel": "ComicVerse",
+          "thumbnail": "https://i.ytimg.com/vi/-mp7wJA3vKM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=-mp7wJA3vKM",
+          "views": 814559,
+          "age_hours": 37.7
+        },
+        {
+          "id": "1eOn_DvUZHA",
+          "title": "Marvel Ne Faad Di-Sabki ⋮ New Avengers Doomsday Trailer & Marvel's Future Revealed ⋮ Ghost Rider 🔥",
+          "channel": "PJ Explained",
+          "thumbnail": "https://i.ytimg.com/vi/1eOn_DvUZHA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1eOn_DvUZHA",
+          "views": 428428,
+          "age_hours": 36.1
+        }
+      ]
+    },
+    {
+      "phrase": "generation wearablegadget",
+      "video_count": 2,
+      "momentum": 13.44,
+      "regions": [
+        "GB"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "HlYbSfPjEow",
+          "title": "introducing the vitawear smartband a next-generation wearablegadget#shortsfeed#trending",
+          "channel": "The Animal Bd",
+          "thumbnail": "https://i.ytimg.com/vi/HlYbSfPjEow/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=HlYbSfPjEow",
+          "views": 789597,
+          "age_hours": 26.2
+        },
+        {
+          "id": "KEG0yYB4vJk",
+          "title": "Introducing the \"VitaWear SmartBand, \" anext-generation wearablegadget#shortfeed #trending",
+          "channel": "English Vai",
+          "thumbnail": "https://i.ytimg.com/vi/KEG0yYB4vJk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KEG0yYB4vJk",
+          "views": 2070537,
+          "age_hours": 73.2
+        }
+      ]
+    },
+    {
+      "phrase": "his brother",
+      "video_count": 2,
+      "momentum": 13.32,
+      "regions": [
+        "GB"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "Quojg49L6ls",
+          "title": "Little Yamal Always Copies His Brother 😂❤️",
+          "channel": "Ronox Aep",
+          "thumbnail": "https://i.ytimg.com/vi/Quojg49L6ls/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Quojg49L6ls",
+          "views": 8383726,
+          "age_hours": 51.1
+        },
+        {
+          "id": "3weBP58CnAY",
+          "title": "Tom Holland PRANKED his brother by putting him in a Spider-Man movie!",
+          "channel": "Superverse Central",
+          "thumbnail": "https://i.ytimg.com/vi/3weBP58CnAY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3weBP58CnAY",
+          "views": 4477028,
+          "age_hours": 167.7
+        }
+      ]
+    },
+    {
+      "phrase": "fun trending",
+      "video_count": 2,
+      "momentum": 13.0,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "k399LjCMSsA",
+          "title": "Movie ponum lave venum😅Kandippa twist irukku🤣Just for fun😅🤣 #trending #autokaaran #twist #comedy",
+          "channel": "Auto Kaaran ",
+          "thumbnail": "https://i.ytimg.com/vi/k399LjCMSsA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=k399LjCMSsA",
+          "views": 2858021,
+          "age_hours": 103.5
+        },
+        {
+          "id": "t-8vwd30gfQ",
+          "title": "எதுவா இருந்தாலும் என் பாஸ்-அ தான் கேக்கணும்🤣 #shorts #fun #trending",
+          "channel": "With Love Nagaraj Sangeetha",
+          "thumbnail": "https://i.ytimg.com/vi/t-8vwd30gfQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=t-8vwd30gfQ",
+          "views": 2417509,
+          "age_hours": 52.5
+        }
+      ]
+    },
+    {
+      "phrase": "spider man",
+      "video_count": 2,
+      "momentum": 12.64,
+      "regions": [
+        "GB"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "3weBP58CnAY",
+          "title": "Tom Holland PRANKED his brother by putting him in a Spider-Man movie!",
+          "channel": "Superverse Central",
+          "thumbnail": "https://i.ytimg.com/vi/3weBP58CnAY/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3weBP58CnAY",
+          "views": 4477028,
+          "age_hours": 167.7
+        },
+        {
+          "id": "Vstf1W5mA7c",
+          "title": "SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer \"Tombstone\" | Marvel Comics | Concept",
+          "channel": "TeaserCon",
+          "thumbnail": "https://i.ytimg.com/vi/Vstf1W5mA7c/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c",
+          "views": 332020,
+          "age_hours": 6.9
+        }
+      ]
+    },
+    {
+      "phrase": "youtubeshorts shorts",
+      "video_count": 2,
+      "momentum": 12.58,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "M33iVZztS9U",
+          "title": "OLHA QUE FOFO MANO!! #familia #cachorro #pets #youtubeshorts #shorts",
+          "channel": "Alien_zx",
+          "thumbnail": "https://i.ytimg.com/vi/M33iVZztS9U/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=M33iVZztS9U",
+          "views": 1874044,
+          "age_hours": 42.4
+        },
+        {
+          "id": "GS1BU1AWsCM",
+          "title": "Cadê minha filha 😱 #youtubeshorts #shorts",
+          "channel": "lidiane Leimann",
+          "thumbnail": "https://i.ytimg.com/vi/GS1BU1AWsCM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=GS1BU1AWsCM",
+          "views": 1954441,
+          "age_hours": 70.3
         }
       ]
     }
@@ -1072,521 +1063,154 @@
   "topics_by_region": {
     "BR": [
       {
-        "phrase": "slime hospital animais",
+        "phrase": "youtubeshorts shorts",
         "video_count": 2,
-        "momentum": 12.55,
+        "momentum": 12.58,
         "regions": [
           "BR"
         ],
         "lang": "pt",
         "example_videos": [
           {
-            "id": "KhPxZTDrkrU",
-            "title": "DESCOBRI NOVOS SEGREDOS OCULTOS DE SLIME NO HOSPITAL DE ANIMAIS COM ANOMALIAS",
-            "channel": "Pabllym GO!",
-            "thumbnail": "https://i.ytimg.com/vi/KhPxZTDrkrU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=KhPxZTDrkrU",
-            "views": 176697,
-            "age_hours": 24.7
+            "id": "M33iVZztS9U",
+            "title": "OLHA QUE FOFO MANO!! #familia #cachorro #pets #youtubeshorts #shorts",
+            "channel": "Alien_zx",
+            "thumbnail": "https://i.ytimg.com/vi/M33iVZztS9U/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=M33iVZztS9U",
+            "views": 1874044,
+            "age_hours": 42.4
           },
           {
-            "id": "GMGuk8NRkUw",
-            "title": "🫟 NOVA ANOMALIA SLIME NO HOSPITAL DE ANIMAIS NO ROBLOX! (ATUALIZAÇÃO)",
-            "channel": "PIZÃO",
-            "thumbnail": "https://i.ytimg.com/vi/GMGuk8NRkUw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GMGuk8NRkUw",
-            "views": 141712,
-            "age_hours": 23.2
+            "id": "GS1BU1AWsCM",
+            "title": "Cadê minha filha 😱 #youtubeshorts #shorts",
+            "channel": "lidiane Leimann",
+            "thumbnail": "https://i.ytimg.com/vi/GS1BU1AWsCM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=GS1BU1AWsCM",
+            "views": 1954441,
+            "age_hours": 70.3
           }
         ]
       }
     ],
-    "CA": [],
     "IN": [
       {
         "phrase": "gta live",
-        "video_count": 5,
-        "momentum": 33.42,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "Pn0dhmOLZY0",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-            "views": 2260104,
-            "age_hours": 2.3
-          },
-          {
-            "id": "k_24BFeQ3zs",
-            "title": "GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED | Ep 68 #gtalive #gtaonline",
-            "channel": "LastGill",
-            "thumbnail": "https://i.ytimg.com/vi/k_24BFeQ3zs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=k_24BFeQ3zs",
-            "views": 1089785,
-            "age_hours": 3.4
-          },
-          {
-            "id": "X9kX-tMFM74",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/X9kX-tMFM74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=X9kX-tMFM74",
-            "views": 2257278,
-            "age_hours": 10.4
-          }
-        ]
-      },
-      {
-        "phrase": "gta live gta5",
-        "video_count": 3,
-        "momentum": 24.43,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "Pn0dhmOLZY0",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-            "views": 2260104,
-            "age_hours": 2.3
-          },
-          {
-            "id": "X9kX-tMFM74",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/X9kX-tMFM74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=X9kX-tMFM74",
-            "views": 2257278,
-            "age_hours": 10.4
-          },
-          {
-            "id": "alSyObE2IXU",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/alSyObE2IXU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=alSyObE2IXU",
-            "views": 689868,
-            "age_hours": 9.1
-          }
-        ]
-      },
-      {
-        "phrase": "live gta5 gtav",
-        "video_count": 3,
-        "momentum": 24.43,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "Pn0dhmOLZY0",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-            "views": 2260104,
-            "age_hours": 2.3
-          },
-          {
-            "id": "X9kX-tMFM74",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/X9kX-tMFM74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=X9kX-tMFM74",
-            "views": 2257278,
-            "age_hours": 10.4
-          },
-          {
-            "id": "alSyObE2IXU",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/alSyObE2IXU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=alSyObE2IXU",
-            "views": 689868,
-            "age_hours": 9.1
-          }
-        ]
-      },
-      {
-        "phrase": "gta5 gtav gaming",
-        "video_count": 3,
-        "momentum": 24.43,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "Pn0dhmOLZY0",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-            "views": 2260104,
-            "age_hours": 2.3
-          },
-          {
-            "id": "X9kX-tMFM74",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/X9kX-tMFM74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=X9kX-tMFM74",
-            "views": 2257278,
-            "age_hours": 10.4
-          },
-          {
-            "id": "alSyObE2IXU",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/alSyObE2IXU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=alSyObE2IXU",
-            "views": 689868,
-            "age_hours": 9.1
-          }
-        ]
-      },
-      {
-        "phrase": "gta5",
         "video_count": 4,
-        "momentum": 21.2,
+        "momentum": 26.6,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
+          {
+            "id": "JSt_a0mw-Tk",
+            "title": "🔴 GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED 🤯 #gtalive #gtaonline",
+            "channel": "RAHUL FF",
+            "thumbnail": "https://i.ytimg.com/vi/JSt_a0mw-Tk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=JSt_a0mw-Tk",
+            "views": 3411024,
+            "age_hours": 5.8
+          },
           {
             "id": "Pn0dhmOLZY0",
             "title": "GTA 5 LIVE #gta5 #gtav #gaming",
             "channel": "Hear Is Live",
             "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-            "views": 2260104,
-            "age_hours": 2.3
+            "views": 2261956,
+            "age_hours": 7.3
           },
           {
-            "id": "X9kX-tMFM74",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/X9kX-tMFM74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=X9kX-tMFM74",
-            "views": 2257278,
-            "age_hours": 10.4
-          },
-          {
-            "id": "CbfqfJpZcfk",
-            "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
-            "channel": "MR RAJA PLAYZONE",
-            "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
-            "views": 1638802,
-            "age_hours": 19.9
+            "id": "DJRfD12x8Yk",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/DJRfD12x8Yk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DJRfD12x8Yk",
+            "views": 816611,
+            "age_hours": 6.6
           }
         ]
       },
       {
-        "phrase": "spider man against",
-        "video_count": 2,
-        "momentum": 16.25,
+        "phrase": "minecraft",
+        "video_count": 4,
+        "momentum": 19.54,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
+            "id": "z2NoND9GnAA",
+            "title": "THE LEADER IS BACK IN LILYVILLE 😱😡 | Minecraft",
+            "channel": "Anshu Bisht",
+            "thumbnail": "https://i.ytimg.com/vi/z2NoND9GnAA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=z2NoND9GnAA",
+            "views": 969137,
+            "age_hours": 32.4
           },
           {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
+            "id": "iNIBkYNmZr4",
+            "title": "Save FRIEND or GIRLFRIEND in Minecraft..",
+            "channel": "Carry Depie",
+            "thumbnail": "https://i.ytimg.com/vi/iNIBkYNmZr4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iNIBkYNmZr4",
+            "views": 589459,
+            "age_hours": 8.1
+          },
+          {
+            "id": "b0R7MwVE9hE",
+            "title": "A SCARY ENTITY ENTER OUR HOUSE IN MINECRAFT..",
+            "channel": "Karry Kraft",
+            "thumbnail": "https://i.ytimg.com/vi/b0R7MwVE9hE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=b0R7MwVE9hE",
+            "views": 945942,
+            "age_hours": 34.5
           }
         ]
       },
       {
-        "phrase": "man against tung",
-        "video_count": 2,
-        "momentum": 16.25,
+        "phrase": "iphone",
+        "video_count": 4,
+        "momentum": 18.01,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
+            "id": "o9GdNjsLNwI",
+            "title": "All iPhones Can Now Cost ₹10 LAKH! $10,000 For Single iPhone Due To RAM Shortage #shorts",
+            "channel": "FactTechz",
+            "thumbnail": "https://i.ytimg.com/vi/o9GdNjsLNwI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=o9GdNjsLNwI",
+            "views": 1467878,
+            "age_hours": 66.7
           },
           {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "against tung tung",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
+            "id": "5QchHJ9KH90",
+            "title": "🍎Hard Metal 🫢Converter Kit for iPhone 17 Into 17Pro Max Look,metal backsheet, frame, this kit",
+            "channel": "Rj Mobile 01",
+            "thumbnail": "https://i.ytimg.com/vi/5QchHJ9KH90/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5QchHJ9KH90",
+            "views": 404897,
+            "age_hours": 16.7
           },
           {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "tung tung tung",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "tung tung sahur",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "tung sahur motorcycle",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "sahur motorcycle rainbow",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "motorcycle rainbow spiders",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "rainbow spiders bridge",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "spiders bridge gta",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
+            "id": "XAH0kTcqXI4",
+            "title": "I Bought Refurbished iPhone from Cashify !",
+            "channel": "Tech Burner",
+            "thumbnail": "https://i.ytimg.com/vi/XAH0kTcqXI4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=XAH0kTcqXI4",
+            "views": 749382,
+            "age_hours": 76.2
           }
         ]
       },
       {
         "phrase": "first",
         "video_count": 4,
-        "momentum": 16.17,
+        "momentum": 16.06,
         "regions": [
           "IN"
         ],
@@ -1598,8 +1222,8 @@
             "channel": "Slayy Point",
             "thumbnail": "https://i.ytimg.com/vi/vsOON1IDPTo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=vsOON1IDPTo",
-            "views": 6967731,
-            "age_hours": 577.6
+            "views": 6986913,
+            "age_hours": 582.6
           },
           {
             "id": "NecrvFTX3Dk",
@@ -1607,8 +1231,8 @@
             "channel": "Poonam P Bisht",
             "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
-            "views": 275807,
-            "age_hours": 31.7
+            "views": 297832,
+            "age_hours": 36.7
           },
           {
             "id": "IwX8xUuV7og",
@@ -1616,15 +1240,102 @@
             "channel": "Engineering Facts",
             "thumbnail": "https://i.ytimg.com/vi/IwX8xUuV7og/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=IwX8xUuV7og",
-            "views": 247292,
-            "age_hours": 48.2
+            "views": 262543,
+            "age_hours": 53.2
+          }
+        ]
+      },
+      {
+        "phrase": "gta live gta5",
+        "video_count": 2,
+        "momentum": 15.94,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "Pn0dhmOLZY0",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Hear Is Live",
+            "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
+            "views": 2261956,
+            "age_hours": 7.3
+          },
+          {
+            "id": "DJRfD12x8Yk",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/DJRfD12x8Yk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DJRfD12x8Yk",
+            "views": 816611,
+            "age_hours": 6.6
+          }
+        ]
+      },
+      {
+        "phrase": "live gta5 gtav",
+        "video_count": 2,
+        "momentum": 15.94,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "Pn0dhmOLZY0",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Hear Is Live",
+            "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
+            "views": 2261956,
+            "age_hours": 7.3
+          },
+          {
+            "id": "DJRfD12x8Yk",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/DJRfD12x8Yk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DJRfD12x8Yk",
+            "views": 816611,
+            "age_hours": 6.6
+          }
+        ]
+      },
+      {
+        "phrase": "gta5 gtav gaming",
+        "video_count": 2,
+        "momentum": 15.94,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "Pn0dhmOLZY0",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Hear Is Live",
+            "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
+            "views": 2261956,
+            "age_hours": 7.3
+          },
+          {
+            "id": "DJRfD12x8Yk",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/DJRfD12x8Yk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DJRfD12x8Yk",
+            "views": 816611,
+            "age_hours": 6.6
           }
         ]
       },
       {
         "phrase": "first time",
         "video_count": 3,
-        "momentum": 15.05,
+        "momentum": 14.95,
         "regions": [
           "IN"
         ],
@@ -1636,8 +1347,8 @@
             "channel": "Slayy Point",
             "thumbnail": "https://i.ytimg.com/vi/vsOON1IDPTo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=vsOON1IDPTo",
-            "views": 6967731,
-            "age_hours": 577.6
+            "views": 6986913,
+            "age_hours": 582.6
           },
           {
             "id": "NecrvFTX3Dk",
@@ -1645,8 +1356,8 @@
             "channel": "Poonam P Bisht",
             "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
-            "views": 275807,
-            "age_hours": 31.7
+            "views": 297832,
+            "age_hours": 36.7
           },
           {
             "id": "BWJXkU8ZSD8",
@@ -1654,15 +1365,15 @@
             "channel": "Paras Thakral Vlogs",
             "thumbnail": "https://i.ytimg.com/vi/BWJXkU8ZSD8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BWJXkU8ZSD8",
-            "views": 93814,
-            "age_hours": 75.7
+            "views": 94265,
+            "age_hours": 80.8
           }
         ]
       },
       {
         "phrase": "doomsday trailer marvel's",
         "video_count": 2,
-        "momentum": 14.25,
+        "momentum": 14.07,
         "regions": [
           "IN"
         ],
@@ -1674,8 +1385,8 @@
             "channel": "ComicVerse",
             "thumbnail": "https://i.ytimg.com/vi/-mp7wJA3vKM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=-mp7wJA3vKM",
-            "views": 797355,
-            "age_hours": 32.6
+            "views": 814559,
+            "age_hours": 37.7
           },
           {
             "id": "1eOn_DvUZHA",
@@ -1683,8 +1394,137 @@
             "channel": "PJ Explained",
             "thumbnail": "https://i.ytimg.com/vi/1eOn_DvUZHA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1eOn_DvUZHA",
-            "views": 409422,
-            "age_hours": 31.1
+            "views": 428428,
+            "age_hours": 36.1
+          }
+        ]
+      },
+      {
+        "phrase": "fun trending",
+        "video_count": 2,
+        "momentum": 13.0,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "k399LjCMSsA",
+            "title": "Movie ponum lave venum😅Kandippa twist irukku🤣Just for fun😅🤣 #trending #autokaaran #twist #comedy",
+            "channel": "Auto Kaaran ",
+            "thumbnail": "https://i.ytimg.com/vi/k399LjCMSsA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=k399LjCMSsA",
+            "views": 2858021,
+            "age_hours": 103.5
+          },
+          {
+            "id": "t-8vwd30gfQ",
+            "title": "எதுவா இருந்தாலும் என் பாஸ்-அ தான் கேக்கணும்🤣 #shorts #fun #trending",
+            "channel": "With Love Nagaraj Sangeetha",
+            "thumbnail": "https://i.ytimg.com/vi/t-8vwd30gfQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=t-8vwd30gfQ",
+            "views": 2417509,
+            "age_hours": 52.5
+          }
+        ]
+      }
+    ],
+    "CA": [],
+    "AU": [],
+    "US": [
+      {
+        "phrase": "avengers doomsday",
+        "video_count": 3,
+        "momentum": 19.47,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "irVNGjRFZGk",
+            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+            "channel": "Marvel Entertainment",
+            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+            "views": 51790519,
+            "age_hours": 174.2
+          },
+          {
+            "id": "HeFsNVSAdtw",
+            "title": "AVENGERS DOOMSDAY SDCC TRAILER BREAKDOWN! Hall H Footage Official Description!",
+            "channel": "New Rockstars",
+            "thumbnail": "https://i.ytimg.com/vi/HeFsNVSAdtw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=HeFsNVSAdtw",
+            "views": 589273,
+            "age_hours": 18.7
+          },
+          {
+            "id": "ovv5V6rDSxc",
+            "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
+            "channel": "TeaserCon",
+            "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
+            "views": 717792,
+            "age_hours": 30.1
+          }
+        ]
+      },
+      {
+        "phrase": "trailer theaters december",
+        "video_count": 2,
+        "momentum": 16.06,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "irVNGjRFZGk",
+            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+            "channel": "Marvel Entertainment",
+            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+            "views": 51790519,
+            "age_hours": 174.2
+          },
+          {
+            "id": "ovv5V6rDSxc",
+            "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
+            "channel": "TeaserCon",
+            "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
+            "views": 717792,
+            "age_hours": 30.1
+          }
+        ]
+      },
+      {
+        "phrase": "life mexico",
+        "video_count": 2,
+        "momentum": 10.29,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "xxRJqsUdd7o",
+            "title": "Our Family Life in Mexico 🇲🇽 We are celebrating Abby’s 17th Birthday 🎂 🎉 Regalos, Sorpresas y Comida",
+            "channel": "Touch of light homestead in Mexico.",
+            "thumbnail": "https://i.ytimg.com/vi/xxRJqsUdd7o/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xxRJqsUdd7o",
+            "views": 28370,
+            "age_hours": 16.7
+          },
+          {
+            "id": "nCSaQ4HcXHM",
+            "title": "Our Life in Mexico ❤️🇲🇽❤️ Shopping in Puebla City!",
+            "channel": "laguerita70 (laguerita70)",
+            "thumbnail": "https://i.ytimg.com/vi/nCSaQ4HcXHM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=nCSaQ4HcXHM",
+            "views": 46361,
+            "age_hours": 19.2
           }
         ]
       }
@@ -1692,8 +1532,8 @@
     "DE": [
       {
         "phrase": "minecraft helden",
-        "video_count": 3,
-        "momentum": 17.2,
+        "video_count": 4,
+        "momentum": 22.67,
         "regions": [
           "DE"
         ],
@@ -1705,192 +1545,26 @@
             "channel": "Paulberger",
             "thumbnail": "https://i.ytimg.com/vi/y1ooQxY86N8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=y1ooQxY86N8",
-            "views": 22878,
-            "age_hours": 2.6
+            "views": 80523,
+            "age_hours": 7.6
           },
           {
-            "id": "UNzdaE-NZyY",
-            "title": "Ich WERDE VERFOLGT und BEDROHT am 1.TAG von MINECRAFT HELDEN 3! (Neues Projekt)",
-            "channel": "AviveHD",
-            "thumbnail": "https://i.ytimg.com/vi/UNzdaE-NZyY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UNzdaE-NZyY",
-            "views": 109089,
-            "age_hours": 26.2
+            "id": "oGk-R1s9hDM",
+            "title": "ICRIMAX & TRIDAN😍DAS STÄRKSTE BÜNDNIS in MINECRAFT HELDEN 3!",
+            "channel": "TriDan",
+            "thumbnail": "https://i.ytimg.com/vi/oGk-R1s9hDM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oGk-R1s9hDM",
+            "views": 42201,
+            "age_hours": 8.7
           },
           {
-            "id": "5aZJvZJrfxk",
-            "title": "Ich FINDE DIAMANTEN in Minecraft Helden 3!",
-            "channel": "Paulberger",
-            "thumbnail": "https://i.ytimg.com/vi/5aZJvZJrfxk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=5aZJvZJrfxk",
-            "views": 126733,
-            "age_hours": 28.2
-          }
-        ]
-      },
-      {
-        "phrase": "black ops",
-        "video_count": 3,
-        "momentum": 15.27,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "aIdri0nvyqQ",
-            "title": "BLACK OPS 2 bricht ALLE REKORDE!!",
-            "channel": "HapticRush",
-            "thumbnail": "https://i.ytimg.com/vi/aIdri0nvyqQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=aIdri0nvyqQ",
-            "views": 154151,
-            "age_hours": 29.2
-          },
-          {
-            "id": "VFqo2GCtToc",
-            "title": "😍🔥200€ WETTE & NOSTALGIE pur! - Black Ops 2 Zombies mit Monte & Repaz!",
-            "channel": "Trymacs",
-            "thumbnail": "https://i.ytimg.com/vi/VFqo2GCtToc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VFqo2GCtToc",
-            "views": 132688,
-            "age_hours": 29.0
-          },
-          {
-            "id": "eXFvVYwK1j4",
-            "title": "ALLTAG in COD 2.0?! 😂 SUCHEN & ZERSTÖREN mit OG-Zuschauern 😱 | Black Ops 2 | MontanaBlack Uncut",
-            "channel": "MontanaBlack Uncut",
-            "thumbnail": "https://i.ytimg.com/vi/eXFvVYwK1j4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=eXFvVYwK1j4",
-            "views": 73304,
-            "age_hours": 21.2
-          }
-        ]
-      }
-    ],
-    "AU": [],
-    "US": [
-      {
-        "phrase": "avengers doomsday",
-        "video_count": 3,
-        "momentum": 19.57,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "irVNGjRFZGk",
-            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
-            "channel": "Marvel Entertainment",
-            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-            "views": 51517871,
-            "age_hours": 169.2
-          },
-          {
-            "id": "HeFsNVSAdtw",
-            "title": "AVENGERS DOOMSDAY SDCC TRAILER BREAKDOWN! Hall H Footage Official Description!",
-            "channel": "New Rockstars",
-            "thumbnail": "https://i.ytimg.com/vi/HeFsNVSAdtw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=HeFsNVSAdtw",
-            "views": 460891,
-            "age_hours": 13.7
-          },
-          {
-            "id": "ovv5V6rDSxc",
-            "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
-            "channel": "TeaserCon",
-            "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
-            "views": 594534,
-            "age_hours": 25.0
-          }
-        ]
-      },
-      {
-        "phrase": "trailer theaters december",
-        "video_count": 2,
-        "momentum": 16.08,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "irVNGjRFZGk",
-            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
-            "channel": "Marvel Entertainment",
-            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-            "views": 51517871,
-            "age_hours": 169.2
-          },
-          {
-            "id": "ovv5V6rDSxc",
-            "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
-            "channel": "TeaserCon",
-            "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
-            "views": 594534,
-            "age_hours": 25.0
-          }
-        ]
-      },
-      {
-        "phrase": "kids had grow",
-        "video_count": 2,
-        "momentum": 15.66,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "bVbluSOnxzw",
-            "title": "Kids Had to Grow This Terminator Themselves",
-            "channel": "Denis Shmalts",
-            "thumbnail": "https://i.ytimg.com/vi/bVbluSOnxzw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=bVbluSOnxzw",
-            "views": 5467235,
-            "age_hours": 105.5
-          },
-          {
-            "id": "J3endzsqEE8",
-            "title": "Kids Had to Grow This TerminatorThemselves #shorts #shortvideo #tiktok #animation #fyp",
-            "channel": "RAVENIX FILMS",
-            "thumbnail": "https://i.ytimg.com/vi/J3endzsqEE8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=J3endzsqEE8",
-            "views": 4939721,
-            "age_hours": 96.6
-          }
-        ]
-      },
-      {
-        "phrase": "animal hospital",
-        "video_count": 2,
-        "momentum": 12.66,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "86OOvAHW424",
-            "title": "The SLIME INFECTION in Animal Hospital ANOMALY..",
-            "channel": "Tyler & Snowi",
-            "thumbnail": "https://i.ytimg.com/vi/86OOvAHW424/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=86OOvAHW424",
-            "views": 543002,
-            "age_hours": 14.2
-          },
-          {
-            "id": "72e_Y6OVBkE",
-            "title": "ANIMAL HOSPITAL HAS OFFICIALLY DESTROYED OUR FRIENDSHIP 😭💔",
-            "channel": "StinkyAsher",
-            "thumbnail": "https://i.ytimg.com/vi/72e_Y6OVBkE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=72e_Y6OVBkE",
-            "views": 288850,
-            "age_hours": 20.7
+            "id": "O16964NJ6C8",
+            "title": "Würdest DU diesen STUHL ÜBERLEBEN...?! (Minecraft Helden 3)",
+            "channel": "Platin Extra",
+            "thumbnail": "https://i.ytimg.com/vi/O16964NJ6C8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=O16964NJ6C8",
+            "views": 36576,
+            "age_hours": 7.2
           }
         ]
       }
@@ -1899,7 +1573,7 @@
       {
         "phrase": "introducing vitawear smartband",
         "video_count": 2,
-        "momentum": 16.16,
+        "momentum": 16.13,
         "regions": [
           "GB"
         ],
@@ -1911,8 +1585,8 @@
             "channel": "The Animal Bd",
             "thumbnail": "https://i.ytimg.com/vi/HlYbSfPjEow/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=HlYbSfPjEow",
-            "views": 481228,
-            "age_hours": 21.2
+            "views": 789597,
+            "age_hours": 26.2
           },
           {
             "id": "KEG0yYB4vJk",
@@ -1920,15 +1594,15 @@
             "channel": "English Vai",
             "thumbnail": "https://i.ytimg.com/vi/KEG0yYB4vJk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=KEG0yYB4vJk",
-            "views": 1916828,
-            "age_hours": 68.2
+            "views": 2070537,
+            "age_hours": 73.2
           }
         ]
       },
       {
         "phrase": "generation wearablegadget",
         "video_count": 2,
-        "momentum": 13.46,
+        "momentum": 13.44,
         "regions": [
           "GB"
         ],
@@ -1940,8 +1614,8 @@
             "channel": "The Animal Bd",
             "thumbnail": "https://i.ytimg.com/vi/HlYbSfPjEow/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=HlYbSfPjEow",
-            "views": 481228,
-            "age_hours": 21.2
+            "views": 789597,
+            "age_hours": 26.2
           },
           {
             "id": "KEG0yYB4vJk",
@@ -1949,15 +1623,15 @@
             "channel": "English Vai",
             "thumbnail": "https://i.ytimg.com/vi/KEG0yYB4vJk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=KEG0yYB4vJk",
-            "views": 1916828,
-            "age_hours": 68.2
+            "views": 2070537,
+            "age_hours": 73.2
           }
         ]
       },
       {
         "phrase": "his brother",
         "video_count": 2,
-        "momentum": 13.33,
+        "momentum": 13.32,
         "regions": [
           "GB"
         ],
@@ -1969,8 +1643,8 @@
             "channel": "Ronox Aep",
             "thumbnail": "https://i.ytimg.com/vi/Quojg49L6ls/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Quojg49L6ls",
-            "views": 7715091,
-            "age_hours": 46.1
+            "views": 8383726,
+            "age_hours": 51.1
           },
           {
             "id": "3weBP58CnAY",
@@ -1978,8 +1652,37 @@
             "channel": "Superverse Central",
             "thumbnail": "https://i.ytimg.com/vi/3weBP58CnAY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=3weBP58CnAY",
-            "views": 4387548,
-            "age_hours": 162.7
+            "views": 4477028,
+            "age_hours": 167.7
+          }
+        ]
+      },
+      {
+        "phrase": "spider man",
+        "video_count": 2,
+        "momentum": 12.64,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "3weBP58CnAY",
+            "title": "Tom Holland PRANKED his brother by putting him in a Spider-Man movie!",
+            "channel": "Superverse Central",
+            "thumbnail": "https://i.ytimg.com/vi/3weBP58CnAY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3weBP58CnAY",
+            "views": 4477028,
+            "age_hours": 167.7
+          },
+          {
+            "id": "Vstf1W5mA7c",
+            "title": "SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer \"Tombstone\" | Marvel Comics | Concept",
+            "channel": "TeaserCon",
+            "thumbnail": "https://i.ytimg.com/vi/Vstf1W5mA7c/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c",
+            "views": 332020,
+            "age_hours": 6.9
           }
         ]
       }
@@ -1987,236 +1690,46 @@
     "ALL": [
       {
         "phrase": "gta live",
-        "video_count": 5,
-        "momentum": 33.42,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "Pn0dhmOLZY0",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-            "views": 2260104,
-            "age_hours": 2.3
-          },
-          {
-            "id": "k_24BFeQ3zs",
-            "title": "GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED | Ep 68 #gtalive #gtaonline",
-            "channel": "LastGill",
-            "thumbnail": "https://i.ytimg.com/vi/k_24BFeQ3zs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=k_24BFeQ3zs",
-            "views": 1089785,
-            "age_hours": 3.4
-          },
-          {
-            "id": "X9kX-tMFM74",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/X9kX-tMFM74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=X9kX-tMFM74",
-            "views": 2257278,
-            "age_hours": 10.4
-          }
-        ]
-      },
-      {
-        "phrase": "gta live gta5",
-        "video_count": 3,
-        "momentum": 24.43,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "Pn0dhmOLZY0",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-            "views": 2260104,
-            "age_hours": 2.3
-          },
-          {
-            "id": "X9kX-tMFM74",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/X9kX-tMFM74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=X9kX-tMFM74",
-            "views": 2257278,
-            "age_hours": 10.4
-          },
-          {
-            "id": "alSyObE2IXU",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/alSyObE2IXU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=alSyObE2IXU",
-            "views": 689868,
-            "age_hours": 9.1
-          }
-        ]
-      },
-      {
-        "phrase": "live gta5 gtav",
-        "video_count": 3,
-        "momentum": 24.43,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "Pn0dhmOLZY0",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-            "views": 2260104,
-            "age_hours": 2.3
-          },
-          {
-            "id": "X9kX-tMFM74",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/X9kX-tMFM74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=X9kX-tMFM74",
-            "views": 2257278,
-            "age_hours": 10.4
-          },
-          {
-            "id": "alSyObE2IXU",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/alSyObE2IXU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=alSyObE2IXU",
-            "views": 689868,
-            "age_hours": 9.1
-          }
-        ]
-      },
-      {
-        "phrase": "gta5 gtav gaming",
-        "video_count": 3,
-        "momentum": 24.43,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "Pn0dhmOLZY0",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-            "views": 2260104,
-            "age_hours": 2.3
-          },
-          {
-            "id": "X9kX-tMFM74",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/X9kX-tMFM74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=X9kX-tMFM74",
-            "views": 2257278,
-            "age_hours": 10.4
-          },
-          {
-            "id": "alSyObE2IXU",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/alSyObE2IXU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=alSyObE2IXU",
-            "views": 689868,
-            "age_hours": 9.1
-          }
-        ]
-      },
-      {
-        "phrase": "gta5",
         "video_count": 4,
-        "momentum": 21.2,
+        "momentum": 26.6,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
+            "id": "JSt_a0mw-Tk",
+            "title": "🔴 GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED 🤯 #gtalive #gtaonline",
+            "channel": "RAHUL FF",
+            "thumbnail": "https://i.ytimg.com/vi/JSt_a0mw-Tk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=JSt_a0mw-Tk",
+            "views": 3411024,
+            "age_hours": 5.8
+          },
+          {
             "id": "Pn0dhmOLZY0",
             "title": "GTA 5 LIVE #gta5 #gtav #gaming",
             "channel": "Hear Is Live",
             "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-            "views": 2260104,
-            "age_hours": 2.3
+            "views": 2261956,
+            "age_hours": 7.3
           },
           {
-            "id": "X9kX-tMFM74",
-            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-            "channel": "Hear Is Live",
-            "thumbnail": "https://i.ytimg.com/vi/X9kX-tMFM74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=X9kX-tMFM74",
-            "views": 2257278,
-            "age_hours": 10.4
-          },
-          {
-            "id": "CbfqfJpZcfk",
-            "title": "GTA 5 LIVE | MRRAJAPLAY#shortslive #shortsfeed #gta5 #gtaonline",
-            "channel": "MR RAJA PLAYZONE",
-            "thumbnail": "https://i.ytimg.com/vi/CbfqfJpZcfk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=CbfqfJpZcfk",
-            "views": 1638802,
-            "age_hours": 19.9
-          }
-        ]
-      },
-      {
-        "phrase": "avengers doomsday",
-        "video_count": 3,
-        "momentum": 19.57,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "irVNGjRFZGk",
-            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
-            "channel": "Marvel Entertainment",
-            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
-            "views": 51517871,
-            "age_hours": 169.2
-          },
-          {
-            "id": "HeFsNVSAdtw",
-            "title": "AVENGERS DOOMSDAY SDCC TRAILER BREAKDOWN! Hall H Footage Official Description!",
-            "channel": "New Rockstars",
-            "thumbnail": "https://i.ytimg.com/vi/HeFsNVSAdtw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=HeFsNVSAdtw",
-            "views": 460891,
-            "age_hours": 13.7
-          },
-          {
-            "id": "ovv5V6rDSxc",
-            "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
-            "channel": "TeaserCon",
-            "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
-            "views": 594534,
-            "age_hours": 25.0
+            "id": "DJRfD12x8Yk",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/DJRfD12x8Yk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DJRfD12x8Yk",
+            "views": 816611,
+            "age_hours": 6.6
           }
         ]
       },
       {
         "phrase": "minecraft helden",
-        "video_count": 3,
-        "momentum": 17.2,
+        "video_count": 4,
+        "momentum": 22.67,
         "regions": [
           "DE"
         ],
@@ -2228,323 +1741,176 @@
             "channel": "Paulberger",
             "thumbnail": "https://i.ytimg.com/vi/y1ooQxY86N8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=y1ooQxY86N8",
-            "views": 22878,
-            "age_hours": 2.6
+            "views": 80523,
+            "age_hours": 7.6
           },
           {
-            "id": "UNzdaE-NZyY",
-            "title": "Ich WERDE VERFOLGT und BEDROHT am 1.TAG von MINECRAFT HELDEN 3! (Neues Projekt)",
-            "channel": "AviveHD",
-            "thumbnail": "https://i.ytimg.com/vi/UNzdaE-NZyY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UNzdaE-NZyY",
-            "views": 109089,
+            "id": "oGk-R1s9hDM",
+            "title": "ICRIMAX & TRIDAN😍DAS STÄRKSTE BÜNDNIS in MINECRAFT HELDEN 3!",
+            "channel": "TriDan",
+            "thumbnail": "https://i.ytimg.com/vi/oGk-R1s9hDM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oGk-R1s9hDM",
+            "views": 42201,
+            "age_hours": 8.7
+          },
+          {
+            "id": "O16964NJ6C8",
+            "title": "Würdest DU diesen STUHL ÜBERLEBEN...?! (Minecraft Helden 3)",
+            "channel": "Platin Extra",
+            "thumbnail": "https://i.ytimg.com/vi/O16964NJ6C8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=O16964NJ6C8",
+            "views": 36576,
+            "age_hours": 7.2
+          }
+        ]
+      },
+      {
+        "phrase": "minecraft",
+        "video_count": 4,
+        "momentum": 19.54,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "z2NoND9GnAA",
+            "title": "THE LEADER IS BACK IN LILYVILLE 😱😡 | Minecraft",
+            "channel": "Anshu Bisht",
+            "thumbnail": "https://i.ytimg.com/vi/z2NoND9GnAA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=z2NoND9GnAA",
+            "views": 969137,
+            "age_hours": 32.4
+          },
+          {
+            "id": "iNIBkYNmZr4",
+            "title": "Save FRIEND or GIRLFRIEND in Minecraft..",
+            "channel": "Carry Depie",
+            "thumbnail": "https://i.ytimg.com/vi/iNIBkYNmZr4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iNIBkYNmZr4",
+            "views": 589459,
+            "age_hours": 8.1
+          },
+          {
+            "id": "b0R7MwVE9hE",
+            "title": "A SCARY ENTITY ENTER OUR HOUSE IN MINECRAFT..",
+            "channel": "Karry Kraft",
+            "thumbnail": "https://i.ytimg.com/vi/b0R7MwVE9hE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=b0R7MwVE9hE",
+            "views": 945942,
+            "age_hours": 34.5
+          }
+        ]
+      },
+      {
+        "phrase": "avengers doomsday",
+        "video_count": 3,
+        "momentum": 19.47,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "irVNGjRFZGk",
+            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+            "channel": "Marvel Entertainment",
+            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+            "views": 51790519,
+            "age_hours": 174.2
+          },
+          {
+            "id": "HeFsNVSAdtw",
+            "title": "AVENGERS DOOMSDAY SDCC TRAILER BREAKDOWN! Hall H Footage Official Description!",
+            "channel": "New Rockstars",
+            "thumbnail": "https://i.ytimg.com/vi/HeFsNVSAdtw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=HeFsNVSAdtw",
+            "views": 589273,
+            "age_hours": 18.7
+          },
+          {
+            "id": "ovv5V6rDSxc",
+            "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
+            "channel": "TeaserCon",
+            "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
+            "views": 717792,
+            "age_hours": 30.1
+          }
+        ]
+      },
+      {
+        "phrase": "iphone",
+        "video_count": 4,
+        "momentum": 18.01,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "o9GdNjsLNwI",
+            "title": "All iPhones Can Now Cost ₹10 LAKH! $10,000 For Single iPhone Due To RAM Shortage #shorts",
+            "channel": "FactTechz",
+            "thumbnail": "https://i.ytimg.com/vi/o9GdNjsLNwI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=o9GdNjsLNwI",
+            "views": 1467878,
+            "age_hours": 66.7
+          },
+          {
+            "id": "5QchHJ9KH90",
+            "title": "🍎Hard Metal 🫢Converter Kit for iPhone 17 Into 17Pro Max Look,metal backsheet, frame, this kit",
+            "channel": "Rj Mobile 01",
+            "thumbnail": "https://i.ytimg.com/vi/5QchHJ9KH90/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5QchHJ9KH90",
+            "views": 404897,
+            "age_hours": 16.7
+          },
+          {
+            "id": "XAH0kTcqXI4",
+            "title": "I Bought Refurbished iPhone from Cashify !",
+            "channel": "Tech Burner",
+            "thumbnail": "https://i.ytimg.com/vi/XAH0kTcqXI4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=XAH0kTcqXI4",
+            "views": 749382,
+            "age_hours": 76.2
+          }
+        ]
+      },
+      {
+        "phrase": "introducing vitawear smartband",
+        "video_count": 2,
+        "momentum": 16.13,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "HlYbSfPjEow",
+            "title": "introducing the vitawear smartband a next-generation wearablegadget#shortsfeed#trending",
+            "channel": "The Animal Bd",
+            "thumbnail": "https://i.ytimg.com/vi/HlYbSfPjEow/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=HlYbSfPjEow",
+            "views": 789597,
             "age_hours": 26.2
           },
           {
-            "id": "5aZJvZJrfxk",
-            "title": "Ich FINDE DIAMANTEN in Minecraft Helden 3!",
-            "channel": "Paulberger",
-            "thumbnail": "https://i.ytimg.com/vi/5aZJvZJrfxk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=5aZJvZJrfxk",
-            "views": 126733,
-            "age_hours": 28.2
-          }
-        ]
-      },
-      {
-        "phrase": "spider man against",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "man against tung",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "against tung tung",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "tung tung tung",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "tung tung sahur",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "tung sahur motorcycle",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "sahur motorcycle rainbow",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "motorcycle rainbow spiders",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "rainbow spiders bridge",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
-          }
-        ]
-      },
-      {
-        "phrase": "spiders bridge gta",
-        "video_count": 2,
-        "momentum": 16.25,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EviEF2JJx8U",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE5",
-            "channel": "MARINARA",
-            "thumbnail": "https://i.ytimg.com/vi/EviEF2JJx8U/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EviEF2JJx8U",
-            "views": 1183998,
-            "age_hours": 23.2
-          },
-          {
-            "id": "YAl3IakyOWY",
-            "title": "SPIDER-MAN against TUNG TUNG TUNG SAHUR on Motorcycle in RAINBOW SPIDERS BRIDGE | GTA MULTIVERSE",
-            "channel": "Mini Train",
-            "thumbnail": "https://i.ytimg.com/vi/YAl3IakyOWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=YAl3IakyOWY",
-            "views": 953780,
-            "age_hours": 23.2
+            "id": "KEG0yYB4vJk",
+            "title": "Introducing the \"VitaWear SmartBand, \" anext-generation wearablegadget#shortfeed #trending",
+            "channel": "English Vai",
+            "thumbnail": "https://i.ytimg.com/vi/KEG0yYB4vJk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KEG0yYB4vJk",
+            "views": 2070537,
+            "age_hours": 73.2
           }
         ]
       },
       {
         "phrase": "first",
         "video_count": 4,
-        "momentum": 16.17,
+        "momentum": 16.06,
         "regions": [
           "IN"
         ],
@@ -2556,8 +1922,8 @@
             "channel": "Slayy Point",
             "thumbnail": "https://i.ytimg.com/vi/vsOON1IDPTo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=vsOON1IDPTo",
-            "views": 6967731,
-            "age_hours": 577.6
+            "views": 6986913,
+            "age_hours": 582.6
           },
           {
             "id": "NecrvFTX3Dk",
@@ -2565,8 +1931,8 @@
             "channel": "Poonam P Bisht",
             "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
-            "views": 275807,
-            "age_hours": 31.7
+            "views": 297832,
+            "age_hours": 36.7
           },
           {
             "id": "IwX8xUuV7og",
@@ -2574,8 +1940,336 @@
             "channel": "Engineering Facts",
             "thumbnail": "https://i.ytimg.com/vi/IwX8xUuV7og/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=IwX8xUuV7og",
-            "views": 247292,
-            "age_hours": 48.2
+            "views": 262543,
+            "age_hours": 53.2
+          }
+        ]
+      },
+      {
+        "phrase": "trailer theaters december",
+        "video_count": 2,
+        "momentum": 16.06,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "irVNGjRFZGk",
+            "title": "Avengers: Doomsday | Official Trailer | In Theaters December 18",
+            "channel": "Marvel Entertainment",
+            "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+            "views": 51790519,
+            "age_hours": 174.2
+          },
+          {
+            "id": "ovv5V6rDSxc",
+            "title": "Avengers: Doomsday (2026) | New Trailer | In Theaters December 18 | Marvel Comics | Concept",
+            "channel": "TeaserCon",
+            "thumbnail": "https://i.ytimg.com/vi/ovv5V6rDSxc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ovv5V6rDSxc",
+            "views": 717792,
+            "age_hours": 30.1
+          }
+        ]
+      },
+      {
+        "phrase": "gta live gta5",
+        "video_count": 2,
+        "momentum": 15.94,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "Pn0dhmOLZY0",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Hear Is Live",
+            "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
+            "views": 2261956,
+            "age_hours": 7.3
+          },
+          {
+            "id": "DJRfD12x8Yk",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/DJRfD12x8Yk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DJRfD12x8Yk",
+            "views": 816611,
+            "age_hours": 6.6
+          }
+        ]
+      },
+      {
+        "phrase": "live gta5 gtav",
+        "video_count": 2,
+        "momentum": 15.94,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "Pn0dhmOLZY0",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Hear Is Live",
+            "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
+            "views": 2261956,
+            "age_hours": 7.3
+          },
+          {
+            "id": "DJRfD12x8Yk",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/DJRfD12x8Yk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DJRfD12x8Yk",
+            "views": 816611,
+            "age_hours": 6.6
+          }
+        ]
+      },
+      {
+        "phrase": "gta5 gtav gaming",
+        "video_count": 2,
+        "momentum": 15.94,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "Pn0dhmOLZY0",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Hear Is Live",
+            "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
+            "views": 2261956,
+            "age_hours": 7.3
+          },
+          {
+            "id": "DJRfD12x8Yk",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/DJRfD12x8Yk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DJRfD12x8Yk",
+            "views": 816611,
+            "age_hours": 6.6
+          }
+        ]
+      },
+      {
+        "phrase": "first time",
+        "video_count": 3,
+        "momentum": 14.95,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "vsOON1IDPTo",
+            "title": "Desis Go to LONDON for the First Time",
+            "channel": "Slayy Point",
+            "thumbnail": "https://i.ytimg.com/vi/vsOON1IDPTo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=vsOON1IDPTo",
+            "views": 6986913,
+            "age_hours": 582.6
+          },
+          {
+            "id": "NecrvFTX3Dk",
+            "title": "First Time Making Ghewar for My In-Laws! 🥹❤️ | Will They Like It?",
+            "channel": "Poonam P Bisht",
+            "thumbnail": "https://i.ytimg.com/vi/NecrvFTX3Dk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=NecrvFTX3Dk",
+            "views": 297832,
+            "age_hours": 36.7
+          },
+          {
+            "id": "BWJXkU8ZSD8",
+            "title": "Finally ayodhaya phuch gaye😍first time",
+            "channel": "Paras Thakral Vlogs",
+            "thumbnail": "https://i.ytimg.com/vi/BWJXkU8ZSD8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BWJXkU8ZSD8",
+            "views": 94265,
+            "age_hours": 80.8
+          }
+        ]
+      },
+      {
+        "phrase": "doomsday trailer marvel's",
+        "video_count": 2,
+        "momentum": 14.07,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "-mp7wJA3vKM",
+            "title": "New Doomsday Trailer & Marvel's Insane Plans Revealed!",
+            "channel": "ComicVerse",
+            "thumbnail": "https://i.ytimg.com/vi/-mp7wJA3vKM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-mp7wJA3vKM",
+            "views": 814559,
+            "age_hours": 37.7
+          },
+          {
+            "id": "1eOn_DvUZHA",
+            "title": "Marvel Ne Faad Di-Sabki ⋮ New Avengers Doomsday Trailer & Marvel's Future Revealed ⋮ Ghost Rider 🔥",
+            "channel": "PJ Explained",
+            "thumbnail": "https://i.ytimg.com/vi/1eOn_DvUZHA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1eOn_DvUZHA",
+            "views": 428428,
+            "age_hours": 36.1
+          }
+        ]
+      },
+      {
+        "phrase": "generation wearablegadget",
+        "video_count": 2,
+        "momentum": 13.44,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "HlYbSfPjEow",
+            "title": "introducing the vitawear smartband a next-generation wearablegadget#shortsfeed#trending",
+            "channel": "The Animal Bd",
+            "thumbnail": "https://i.ytimg.com/vi/HlYbSfPjEow/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=HlYbSfPjEow",
+            "views": 789597,
+            "age_hours": 26.2
+          },
+          {
+            "id": "KEG0yYB4vJk",
+            "title": "Introducing the \"VitaWear SmartBand, \" anext-generation wearablegadget#shortfeed #trending",
+            "channel": "English Vai",
+            "thumbnail": "https://i.ytimg.com/vi/KEG0yYB4vJk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KEG0yYB4vJk",
+            "views": 2070537,
+            "age_hours": 73.2
+          }
+        ]
+      },
+      {
+        "phrase": "his brother",
+        "video_count": 2,
+        "momentum": 13.32,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "Quojg49L6ls",
+            "title": "Little Yamal Always Copies His Brother 😂❤️",
+            "channel": "Ronox Aep",
+            "thumbnail": "https://i.ytimg.com/vi/Quojg49L6ls/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Quojg49L6ls",
+            "views": 8383726,
+            "age_hours": 51.1
+          },
+          {
+            "id": "3weBP58CnAY",
+            "title": "Tom Holland PRANKED his brother by putting him in a Spider-Man movie!",
+            "channel": "Superverse Central",
+            "thumbnail": "https://i.ytimg.com/vi/3weBP58CnAY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3weBP58CnAY",
+            "views": 4477028,
+            "age_hours": 167.7
+          }
+        ]
+      },
+      {
+        "phrase": "fun trending",
+        "video_count": 2,
+        "momentum": 13.0,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "k399LjCMSsA",
+            "title": "Movie ponum lave venum😅Kandippa twist irukku🤣Just for fun😅🤣 #trending #autokaaran #twist #comedy",
+            "channel": "Auto Kaaran ",
+            "thumbnail": "https://i.ytimg.com/vi/k399LjCMSsA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=k399LjCMSsA",
+            "views": 2858021,
+            "age_hours": 103.5
+          },
+          {
+            "id": "t-8vwd30gfQ",
+            "title": "எதுவா இருந்தாலும் என் பாஸ்-அ தான் கேக்கணும்🤣 #shorts #fun #trending",
+            "channel": "With Love Nagaraj Sangeetha",
+            "thumbnail": "https://i.ytimg.com/vi/t-8vwd30gfQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=t-8vwd30gfQ",
+            "views": 2417509,
+            "age_hours": 52.5
+          }
+        ]
+      },
+      {
+        "phrase": "spider man",
+        "video_count": 2,
+        "momentum": 12.64,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "3weBP58CnAY",
+            "title": "Tom Holland PRANKED his brother by putting him in a Spider-Man movie!",
+            "channel": "Superverse Central",
+            "thumbnail": "https://i.ytimg.com/vi/3weBP58CnAY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3weBP58CnAY",
+            "views": 4477028,
+            "age_hours": 167.7
+          },
+          {
+            "id": "Vstf1W5mA7c",
+            "title": "SPIDER-MAN: BRAND NEW DAY (2026) | Special Trailer \"Tombstone\" | Marvel Comics | Concept",
+            "channel": "TeaserCon",
+            "thumbnail": "https://i.ytimg.com/vi/Vstf1W5mA7c/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Vstf1W5mA7c",
+            "views": 332020,
+            "age_hours": 6.9
+          }
+        ]
+      },
+      {
+        "phrase": "youtubeshorts shorts",
+        "video_count": 2,
+        "momentum": 12.58,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "M33iVZztS9U",
+            "title": "OLHA QUE FOFO MANO!! #familia #cachorro #pets #youtubeshorts #shorts",
+            "channel": "Alien_zx",
+            "thumbnail": "https://i.ytimg.com/vi/M33iVZztS9U/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=M33iVZztS9U",
+            "views": 1874044,
+            "age_hours": 42.4
+          },
+          {
+            "id": "GS1BU1AWsCM",
+            "title": "Cadê minha filha 😱 #youtubeshorts #shorts",
+            "channel": "lidiane Leimann",
+            "thumbnail": "https://i.ytimg.com/vi/GS1BU1AWsCM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=GS1BU1AWsCM",
+            "views": 1954441,
+            "age_hours": 70.3
           }
         ]
       }
@@ -2583,87 +2277,87 @@
   },
   "trending_searches": [
     {
-      "phrase": "why do birds suddenly appear",
-      "prefix": "why do",
-      "rank": 1,
-      "first_seen_at": "2026-07-27T14:12:51.214028+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why does he call you darling",
-      "prefix": "why does",
-      "rank": 1,
-      "first_seen_at": "2026-07-27T14:12:51.214028+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what happened to virgil",
-      "prefix": "what happened",
-      "rank": 1,
-      "first_seen_at": "2026-07-27T14:12:51.214028+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "topper guild",
-      "prefix": "top",
-      "rank": 1,
-      "first_seen_at": "2026-07-27T14:12:51.214028+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "is it a crime mariah the scientist",
-      "prefix": "is it",
-      "rank": 1,
-      "first_seen_at": "2026-07-27T14:12:51.214028+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "should i stay or should i go",
-      "prefix": "should i",
-      "rank": 1,
-      "first_seen_at": "2026-07-27T14:12:51.214028+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how to draw",
+      "phrase": "how to tie a tie",
       "prefix": "how to",
-      "rank": 2,
-      "first_seen_at": "2026-07-27T14:12:51.214028+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-07-27T19:14:51.141915+00:00",
       "is_new": true
     },
     {
-      "phrase": "why is my bus driver playing mitski",
+      "phrase": "how do i say goodbye dean lewis",
+      "prefix": "how do",
+      "rank": 1,
+      "first_seen_at": "2026-07-27T19:14:51.141915+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how does it feel d'angelo",
+      "prefix": "how does",
+      "rank": 1,
+      "first_seen_at": "2026-07-27T19:14:51.141915+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why is it spicy",
       "prefix": "why is",
-      "rank": 2,
-      "first_seen_at": "2026-07-27T14:12:51.214028+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-07-27T19:14:51.141915+00:00",
       "is_new": true
     },
     {
-      "phrase": "why don't we",
-      "prefix": "why do",
-      "rank": 2,
-      "first_seen_at": "2026-07-27T14:12:51.214028+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what is love",
+      "phrase": "what is this diddy blud doing on the calculator",
       "prefix": "what is",
-      "rank": 2,
-      "first_seen_at": "2026-07-27T14:12:51.214028+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-07-27T19:14:51.141915+00:00",
       "is_new": true
     },
     {
-      "phrase": "what are you doing",
+      "phrase": "what are you listening to chris stapleton",
       "prefix": "what are",
-      "rank": 2,
-      "first_seen_at": "2026-07-27T14:12:51.214028+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-07-27T19:14:51.141915+00:00",
       "is_new": true
     },
     {
-      "phrase": "what happened to nolan wells",
-      "prefix": "what happened",
+      "phrase": "best build 2k26",
+      "prefix": "best",
+      "rank": 1,
+      "first_seen_at": "2026-07-27T19:14:51.141915+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "worst way riley green",
+      "prefix": "worst",
+      "rank": 1,
+      "first_seen_at": "2026-07-27T19:14:51.141915+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "can you stand the rain new edition",
+      "prefix": "can you",
+      "rank": 1,
+      "first_seen_at": "2026-07-27T19:14:51.141915+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how does it feel",
+      "prefix": "how does",
       "rank": 2,
-      "first_seen_at": "2026-07-27T14:12:51.214028+00:00",
+      "first_seen_at": "2026-07-27T19:14:51.141915+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why does it hurt so bad whitney houston",
+      "prefix": "why does",
+      "rank": 2,
+      "first_seen_at": "2026-07-27T19:14:51.141915+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "besties",
+      "prefix": "best",
+      "rank": 2,
+      "first_seen_at": "2026-07-27T19:14:51.141915+00:00",
       "is_new": true
     }
   ],
@@ -2676,34 +2370,53 @@
       "thumbnail": "https://i.ytimg.com/vi/LGl3EBWq1WU/mqdefault.jpg",
       "published_at": "2026-07-27T07:58:27Z",
       "category_id": "29",
-      "views": 1806471,
-      "likes": 621798,
-      "comments": 528897,
-      "age_hours": 6.2,
-      "views_per_hour": 289553,
-      "momentum": 25.212,
+      "views": 2335485,
+      "likes": 649105,
+      "comments": 553076,
+      "age_hours": 11.3,
+      "views_per_hour": 207187,
+      "momentum": 20.861,
       "url": "https://www.youtube.com/watch?v=LGl3EBWq1WU",
       "region": "BR",
       "category": "Other",
       "_detected_lang": "pt"
     },
     {
-      "id": "6yvxHpIO5NY",
-      "title": "BTS (방탄소년단) 'NORMAL (Korean Ver.)' Lyric Video",
-      "channel": "BANGTANTV",
-      "channel_id": "UCLkAepWjdylmXSltofFvsYQ",
-      "thumbnail": "https://i.ytimg.com/vi/6yvxHpIO5NY/mqdefault.jpg",
-      "published_at": "2026-07-26T15:00:01Z",
+      "id": "AevjWsReCtM",
+      "title": "Anitta, KBrum - Sal Grosso (Official Music Video)",
+      "channel": "Anitta",
+      "channel_id": "UCqjjyPUghDSSKFBABM_CXMw",
+      "thumbnail": "https://i.ytimg.com/vi/AevjWsReCtM/mqdefault.jpg",
+      "published_at": "2026-07-27T14:31:46Z",
       "category_id": "10",
-      "views": 923441,
-      "likes": 190161,
-      "comments": 8775,
-      "age_hours": 23.2,
-      "views_per_hour": 39784,
-      "momentum": 6.931,
-      "url": "https://www.youtube.com/watch?v=6yvxHpIO5NY",
-      "region": "CA",
+      "views": 49152,
+      "likes": 12610,
+      "comments": 1426,
+      "age_hours": 4.7,
+      "views_per_hour": 10420,
+      "momentum": 7.245,
+      "url": "https://www.youtube.com/watch?v=AevjWsReCtM",
+      "region": "BR",
       "category": "Other",
+      "_detected_lang": "pt"
+    },
+    {
+      "id": "PW65jCdBizc",
+      "title": "A SIX PRECISA DE AJUDA! Little Nightmares - Parte 1",
+      "channel": "Felipe Neto Joga",
+      "channel_id": "UCIzdh7oty8jCnXUj3eUj2WQ",
+      "thumbnail": "https://i.ytimg.com/vi/PW65jCdBizc/mqdefault.jpg",
+      "published_at": "2026-07-27T13:00:34Z",
+      "category_id": "24",
+      "views": 125278,
+      "likes": 23012,
+      "comments": 1948,
+      "age_hours": 6.2,
+      "views_per_hour": 20087,
+      "momentum": 6.553,
+      "url": "https://www.youtube.com/watch?v=PW65jCdBizc",
+      "region": "BR",
+      "category": "Entertainment",
       "_detected_lang": "pt"
     },
     {
@@ -2714,35 +2427,54 @@
       "thumbnail": "https://i.ytimg.com/vi/3Hk9vDkxGP8/mqdefault.jpg",
       "published_at": "2026-07-26T04:30:10Z",
       "category_id": "22",
-      "views": 3018402,
-      "likes": 498686,
-      "comments": 3972,
-      "age_hours": 33.7,
-      "views_per_hour": 89541,
-      "momentum": 6.653,
+      "views": 3460718,
+      "likes": 531190,
+      "comments": 4274,
+      "age_hours": 38.7,
+      "views_per_hour": 89325,
+      "momentum": 6.532,
       "url": "https://www.youtube.com/watch?v=3Hk9vDkxGP8",
       "region": "IN",
       "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
-      "id": "w0piZCnpxZo",
-      "title": "Tokio Hotel - Without You (Official Music Video)",
-      "channel": "Tokio Hotel",
-      "channel_id": "UCEGVZ50kxeQrgbZ9CBTPXcg",
-      "thumbnail": "https://i.ytimg.com/vi/w0piZCnpxZo/mqdefault.jpg",
-      "published_at": "2026-07-26T17:00:06Z",
+      "id": "2sVW5Do7C4c",
+      "title": "OBEDEÇA ÀS ORDENS DESSE CAVALO BIZARRO DO MINECRAFT, SE NÃO...",
+      "channel": "Jazzghost",
+      "channel_id": "UCIXguhHCl8eDTkXpEuiGPUA",
+      "thumbnail": "https://i.ytimg.com/vi/2sVW5Do7C4c/mqdefault.jpg",
+      "published_at": "2026-07-27T15:00:21Z",
+      "category_id": "20",
+      "views": 679298,
+      "likes": 61843,
+      "comments": 4737,
+      "age_hours": 4.2,
+      "views_per_hour": 160192,
+      "momentum": 6.515,
+      "url": "https://www.youtube.com/watch?v=2sVW5Do7C4c",
+      "region": "BR",
+      "category": "Gaming",
+      "_detected_lang": "pt"
+    },
+    {
+      "id": "M5Z8UMrXDIg",
+      "title": "Elissa - Leebat Al Ayam​ (Official Music Video) / اليسا - لعبة الأيام",
+      "channel": "Elissa",
+      "channel_id": "UCwVXB9hCnLiarr3pZLmnr2w",
+      "thumbnail": "https://i.ytimg.com/vi/M5Z8UMrXDIg/mqdefault.jpg",
+      "published_at": "2026-07-27T15:00:06Z",
       "category_id": "10",
-      "views": 88930,
-      "likes": 11914,
-      "comments": 4915,
-      "age_hours": 21.2,
-      "views_per_hour": 4193,
-      "momentum": 6.595,
-      "url": "https://www.youtube.com/watch?v=w0piZCnpxZo",
-      "region": "DE",
+      "views": 59432,
+      "likes": 7766,
+      "comments": 1769,
+      "age_hours": 4.2,
+      "views_per_hour": 14005,
+      "momentum": 6.464,
+      "url": "https://www.youtube.com/watch?v=M5Z8UMrXDIg",
+      "region": "CA",
       "category": "Other",
-      "_detected_lang": "de"
+      "_detected_lang": "es"
     },
     {
       "id": "_IT83Y_HcAw",
@@ -2752,12 +2484,12 @@
       "thumbnail": "https://i.ytimg.com/vi/_IT83Y_HcAw/mqdefault.jpg",
       "published_at": "2026-07-24T04:00:05Z",
       "category_id": "10",
-      "views": 10152276,
-      "likes": 1006508,
-      "comments": 64648,
-      "age_hours": 82.2,
-      "views_per_hour": 123491,
-      "momentum": 6.425,
+      "views": 10515849,
+      "likes": 1015225,
+      "comments": 65003,
+      "age_hours": 87.2,
+      "views_per_hour": 120534,
+      "momentum": 6.376,
       "url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
       "region": "AU",
       "category": "Other",
@@ -2771,52 +2503,33 @@
       "thumbnail": "https://i.ytimg.com/vi/_Pk6xfju3l0/mqdefault.jpg",
       "published_at": "2026-07-26T11:00:03Z",
       "category_id": "10",
-      "views": 3330657,
-      "likes": 294202,
-      "comments": 25029,
-      "age_hours": 27.2,
-      "views_per_hour": 122406,
-      "momentum": 6.369,
+      "views": 3680161,
+      "likes": 309462,
+      "comments": 25602,
+      "age_hours": 32.2,
+      "views_per_hour": 114136,
+      "momentum": 6.26,
       "url": "https://www.youtube.com/watch?v=_Pk6xfju3l0",
       "region": "US",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "1dZ-Z7kYsE0",
-      "title": "[Official Trailer] เงาใต้พระจันทร์ Moonshadow",
-      "channel": "GMMTV OFFICIAL​​",
-      "channel_id": "UC8BzJM6_VbZTdiNLD4R1jxQ",
-      "thumbnail": "https://i.ytimg.com/vi/1dZ-Z7kYsE0/mqdefault.jpg",
-      "published_at": "2026-07-27T09:00:04Z",
-      "category_id": "24",
-      "views": 131373,
-      "likes": 22926,
-      "comments": 1287,
-      "age_hours": 5.2,
-      "views_per_hour": 25209,
-      "momentum": 6.369,
-      "url": "https://www.youtube.com/watch?v=1dZ-Z7kYsE0",
-      "region": "DE",
-      "category": "Entertainment",
-      "_detected_lang": "de"
-    },
-    {
-      "id": "ynkhNRpQ9Xc",
-      "title": "1000 Players Build END Civilization in Hardcore Minecraft",
-      "channel": "Spoke",
-      "channel_id": "UCk2uxbWi5py_iJXaEsh2YRA",
-      "thumbnail": "https://i.ytimg.com/vi/ynkhNRpQ9Xc/mqdefault.jpg",
-      "published_at": "2026-07-26T17:53:18Z",
+      "id": "XuovA-AdDP8",
+      "title": "Welcome to K.H.A.O.S | TV Royale",
+      "channel": "Clash Royale",
+      "channel_id": "UC_F8DoJf9MZogEOU51TpTbQ",
+      "thumbnail": "https://i.ytimg.com/vi/XuovA-AdDP8/mqdefault.jpg",
+      "published_at": "2026-07-27T14:55:31Z",
       "category_id": "20",
-      "views": 2071818,
-      "likes": 125379,
-      "comments": 30595,
-      "age_hours": 20.3,
-      "views_per_hour": 101948,
-      "momentum": 6.354,
-      "url": "https://www.youtube.com/watch?v=ynkhNRpQ9Xc",
-      "region": "US",
+      "views": 484653,
+      "likes": 42050,
+      "comments": 2978,
+      "age_hours": 4.3,
+      "views_per_hour": 112191,
+      "momentum": 6.237,
+      "url": "https://www.youtube.com/watch?v=XuovA-AdDP8",
+      "region": "CA",
       "category": "Gaming",
       "_detected_lang": "en"
     },
@@ -2828,15 +2541,91 @@
       "thumbnail": "https://i.ytimg.com/vi/irVNGjRFZGk/mqdefault.jpg",
       "published_at": "2026-07-20T13:00:20Z",
       "category_id": "24",
-      "views": 51517871,
-      "likes": 2431578,
-      "comments": 185909,
-      "age_hours": 169.2,
-      "views_per_hour": 304470,
-      "momentum": 6.199,
+      "views": 51790519,
+      "likes": 2435372,
+      "comments": 186071,
+      "age_hours": 174.2,
+      "views_per_hour": 297238,
+      "momentum": 6.184,
       "url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
       "region": "US",
       "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "ynkhNRpQ9Xc",
+      "title": "1000 Players Build END Civilization in Hardcore Minecraft",
+      "channel": "Spoke",
+      "channel_id": "UCk2uxbWi5py_iJXaEsh2YRA",
+      "thumbnail": "https://i.ytimg.com/vi/ynkhNRpQ9Xc/mqdefault.jpg",
+      "published_at": "2026-07-26T17:53:18Z",
+      "category_id": "20",
+      "views": 2477618,
+      "likes": 133913,
+      "comments": 32138,
+      "age_hours": 25.4,
+      "views_per_hour": 97713,
+      "momentum": 6.177,
+      "url": "https://www.youtube.com/watch?v=ynkhNRpQ9Xc",
+      "region": "US",
+      "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "w0piZCnpxZo",
+      "title": "Tokio Hotel - Without You (Official Music Video)",
+      "channel": "Tokio Hotel",
+      "channel_id": "UCEGVZ50kxeQrgbZ9CBTPXcg",
+      "thumbnail": "https://i.ytimg.com/vi/w0piZCnpxZo/mqdefault.jpg",
+      "published_at": "2026-07-26T17:00:06Z",
+      "category_id": "10",
+      "views": 106646,
+      "likes": 12788,
+      "comments": 4990,
+      "age_hours": 26.2,
+      "views_per_hour": 4064,
+      "momentum": 6.163,
+      "url": "https://www.youtube.com/watch?v=w0piZCnpxZo",
+      "region": "DE",
+      "category": "Other",
+      "_detected_lang": "de"
+    },
+    {
+      "id": "fq-s8WPK2nk",
+      "title": "World’s Largest Feastables S’more",
+      "channel": "MrBeast 2",
+      "channel_id": "UC4-79UOlP48-QNGgCko5p2g",
+      "thumbnail": "https://i.ytimg.com/vi/fq-s8WPK2nk/mqdefault.jpg",
+      "published_at": "2026-07-26T16:00:17Z",
+      "category_id": "22",
+      "views": 11682208,
+      "likes": 483225,
+      "comments": 3197,
+      "age_hours": 27.2,
+      "views_per_hour": 428852,
+      "momentum": 6.114,
+      "url": "https://www.youtube.com/watch?v=fq-s8WPK2nk",
+      "region": "CA",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "SX6k2mS2PCU",
+      "title": "EVERYONE QUIT ROBLOX",
+      "channel": "KreekCraft",
+      "channel_id": "UCxsk7hqE_CwZWGEJEkGanbA",
+      "thumbnail": "https://i.ytimg.com/vi/SX6k2mS2PCU/mqdefault.jpg",
+      "published_at": "2026-07-27T16:00:32Z",
+      "category_id": "20",
+      "views": 223755,
+      "likes": 13300,
+      "comments": 3180,
+      "age_hours": 3.2,
+      "views_per_hour": 69152,
+      "momentum": 6.103,
+      "url": "https://www.youtube.com/watch?v=SX6k2mS2PCU",
+      "region": "US",
+      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -2847,35 +2636,35 @@
       "thumbnail": "https://i.ytimg.com/vi/5gN72wntuig/mqdefault.jpg",
       "published_at": "2026-07-26T17:09:16Z",
       "category_id": "2",
-      "views": 3643598,
-      "likes": 234266,
-      "comments": 10871,
-      "age_hours": 21.1,
-      "views_per_hour": 173036,
-      "momentum": 6.068,
+      "views": 4153881,
+      "likes": 258351,
+      "comments": 11697,
+      "age_hours": 26.1,
+      "views_per_hour": 159210,
+      "momentum": 5.996,
       "url": "https://www.youtube.com/watch?v=5gN72wntuig",
       "region": "GB",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "Pn0dhmOLZY0",
-      "title": "GTA 5 LIVE #gta5 #gtav #gaming",
-      "channel": "Hear Is Live",
-      "channel_id": "UCuVUKYdrxPMO80uehUN17PA",
-      "thumbnail": "https://i.ytimg.com/vi/Pn0dhmOLZY0/mqdefault.jpg",
-      "published_at": "2026-07-27T11:56:03Z",
+      "id": "-z_vXzNymZU",
+      "title": "A CADA KILL UMA ARMA DIFERENTE COM O LAMINE YAMAL NO SOLO VS SQUAD!! FREE FIRE",
+      "channel": "FREITAS",
+      "channel_id": "UCVse66mti9GN2SWF2eh_SCg",
+      "thumbnail": "https://i.ytimg.com/vi/-z_vXzNymZU/mqdefault.jpg",
+      "published_at": "2026-07-27T15:00:28Z",
       "category_id": "20",
-      "views": 2260104,
-      "likes": 4872,
-      "comments": 0,
-      "age_hours": 2.3,
-      "views_per_hour": 992185,
-      "momentum": 6.022,
-      "url": "https://www.youtube.com/watch?v=Pn0dhmOLZY0",
-      "region": "IN",
+      "views": 57555,
+      "likes": 11431,
+      "comments": 232,
+      "age_hours": 4.2,
+      "views_per_hour": 13579,
+      "momentum": 5.941,
+      "url": "https://www.youtube.com/watch?v=-z_vXzNymZU",
+      "region": "BR",
       "category": "Gaming",
-      "_detected_lang": "en"
+      "_detected_lang": "pt"
     },
     {
       "id": "2XJYQ335cqE",
@@ -2885,34 +2674,15 @@
       "thumbnail": "https://i.ytimg.com/vi/2XJYQ335cqE/mqdefault.jpg",
       "published_at": "2026-07-24T21:46:08Z",
       "category_id": "24",
-      "views": 2586136,
-      "likes": 317330,
-      "comments": 12397,
-      "age_hours": 64.4,
-      "views_per_hour": 40131,
-      "momentum": 5.954,
+      "views": 2954661,
+      "likes": 342944,
+      "comments": 13241,
+      "age_hours": 69.5,
+      "views_per_hour": 42528,
+      "momentum": 5.911,
       "url": "https://www.youtube.com/watch?v=2XJYQ335cqE",
       "region": "US",
       "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "5HgnE0Pk0Do",
-      "title": "Storing The Entire Internet On One Hard Drive 😱",
-      "channel": "Zack D. Films",
-      "channel_id": "UCvz84_Q0BbvZThy75mbd-Dg",
-      "thumbnail": "https://i.ytimg.com/vi/5HgnE0Pk0Do/mqdefault.jpg",
-      "published_at": "2026-07-25T21:30:05Z",
-      "category_id": "19",
-      "views": 2645824,
-      "likes": 268670,
-      "comments": 5707,
-      "age_hours": 40.7,
-      "views_per_hour": 64993,
-      "momentum": 5.894,
-      "url": "https://www.youtube.com/watch?v=5HgnE0Pk0Do",
-      "region": "US",
-      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -2923,129 +2693,53 @@
       "thumbnail": "https://i.ytimg.com/vi/0IpqIp5AxHc/mqdefault.jpg",
       "published_at": "2026-07-20T12:02:28Z",
       "category_id": "17",
-      "views": 22360677,
-      "likes": 1602986,
-      "comments": 5458,
-      "age_hours": 170.2,
-      "views_per_hour": 131402,
-      "momentum": 5.865,
+      "views": 22630184,
+      "likes": 1622604,
+      "comments": 5523,
+      "age_hours": 175.2,
+      "views_per_hour": 129165,
+      "momentum": 5.857,
       "url": "https://www.youtube.com/watch?v=0IpqIp5AxHc",
       "region": "US",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "jKWSu8Y6dHA",
-      "title": "Kendrick a Meanie (Diss)",
-      "channel": "Drake - Topic",
-      "channel_id": "UCU6cE7pdJPc6DU2jSrKEsdQ",
-      "thumbnail": "https://i.ytimg.com/vi/jKWSu8Y6dHA/mqdefault.jpg",
-      "published_at": "2026-07-27T08:00:54Z",
-      "category_id": "10",
-      "views": 96481,
-      "likes": 9177,
-      "comments": 1776,
-      "age_hours": 6.2,
-      "views_per_hour": 15571,
-      "momentum": 5.762,
-      "url": "https://www.youtube.com/watch?v=jKWSu8Y6dHA",
-      "region": "GB",
-      "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "oqjKVsjO7tw",
-      "title": "Fun facts about Australia ￼",
-      "channel": "Bridey Drake",
-      "channel_id": "UChrA9LSeVcLRQiMkcvdFhMQ",
-      "thumbnail": "https://i.ytimg.com/vi/oqjKVsjO7tw/mqdefault.jpg",
-      "published_at": "2026-07-26T00:50:08Z",
-      "category_id": "22",
-      "views": 1387275,
-      "likes": 164312,
-      "comments": 2807,
-      "age_hours": 37.4,
-      "views_per_hour": 37116,
-      "momentum": 5.744,
-      "url": "https://www.youtube.com/watch?v=oqjKVsjO7tw",
-      "region": "AU",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "pjuluvda0NU",
-      "title": "How Actors Made Shopping Carts Popular 😮",
+      "id": "5HgnE0Pk0Do",
+      "title": "Storing The Entire Internet On One Hard Drive 😱",
       "channel": "Zack D. Films",
       "channel_id": "UCvz84_Q0BbvZThy75mbd-Dg",
-      "thumbnail": "https://i.ytimg.com/vi/pjuluvda0NU/mqdefault.jpg",
-      "published_at": "2026-07-25T17:30:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/5HgnE0Pk0Do/mqdefault.jpg",
+      "published_at": "2026-07-25T21:30:05Z",
       "category_id": "19",
-      "views": 4554521,
-      "likes": 327309,
-      "comments": 1295,
-      "age_hours": 44.7,
-      "views_per_hour": 101878,
-      "momentum": 5.742,
-      "url": "https://www.youtube.com/watch?v=pjuluvda0NU",
-      "region": "CA",
+      "views": 2730461,
+      "likes": 277243,
+      "comments": 5849,
+      "age_hours": 45.7,
+      "views_per_hour": 59691,
+      "momentum": 5.848,
+      "url": "https://www.youtube.com/watch?v=5HgnE0Pk0Do",
+      "region": "US",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "NAX-FHiXrOg",
-      "title": "Hermitcraft 11: Episode 23 - Creative Process",
-      "channel": "Mumbo Jumbo",
-      "channel_id": "UChFur_NwVSbUozOcF_F2kMg",
-      "thumbnail": "https://i.ytimg.com/vi/NAX-FHiXrOg/mqdefault.jpg",
-      "published_at": "2026-07-26T19:00:24Z",
+      "id": "JSt_a0mw-Tk",
+      "title": "🔴 GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED 🤯 #gtalive #gtaonline",
+      "channel": "RAHUL FF",
+      "channel_id": "UCHSmwhBf_70g33SwcW9Sb-w",
+      "thumbnail": "https://i.ytimg.com/vi/JSt_a0mw-Tk/mqdefault.jpg",
+      "published_at": "2026-07-27T13:27:04Z",
       "category_id": "20",
-      "views": 461031,
-      "likes": 51404,
-      "comments": 3780,
-      "age_hours": 19.2,
-      "views_per_hour": 24007,
-      "momentum": 5.716,
-      "url": "https://www.youtube.com/watch?v=NAX-FHiXrOg",
-      "region": "US",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "n9vED3JsHZ0",
-      "title": "I SAVED THE WHOLE CITY FROM FLOOD!",
-      "channel": "Techno Gamerz",
-      "channel_id": "UCX8pnu3DYUnx8qy8V_c6oHg",
-      "thumbnail": "https://i.ytimg.com/vi/n9vED3JsHZ0/mqdefault.jpg",
-      "published_at": "2026-07-26T03:30:38Z",
-      "category_id": "20",
-      "views": 2700740,
-      "likes": 160285,
-      "comments": 12903,
-      "age_hours": 34.7,
-      "views_per_hour": 77828,
-      "momentum": 5.705,
-      "url": "https://www.youtube.com/watch?v=n9vED3JsHZ0",
+      "views": 3411024,
+      "likes": 18742,
+      "comments": 1,
+      "age_hours": 5.8,
+      "views_per_hour": 588653,
+      "momentum": 5.833,
+      "url": "https://www.youtube.com/watch?v=JSt_a0mw-Tk",
       "region": "IN",
       "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "riTQU-9KA2E",
-      "title": "Making Smores 😋😋",
-      "channel": "Speed McQueen",
-      "channel_id": "UCNFT_eq_QCApMEwCACHto9Q",
-      "thumbnail": "https://i.ytimg.com/vi/riTQU-9KA2E/mqdefault.jpg",
-      "published_at": "2026-07-24T09:35:09Z",
-      "category_id": "24",
-      "views": 15000399,
-      "likes": 545124,
-      "comments": 3121,
-      "age_hours": 76.6,
-      "views_per_hour": 195764,
-      "momentum": 5.687,
-      "url": "https://www.youtube.com/watch?v=riTQU-9KA2E",
-      "region": "US",
-      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -3056,73 +2750,73 @@
       "thumbnail": "https://i.ytimg.com/vi/GD0tqRdxFjk/mqdefault.jpg",
       "published_at": "2026-07-25T21:02:40Z",
       "category_id": "28",
-      "views": 4259718,
-      "likes": 275302,
-      "comments": 936,
-      "age_hours": 41.2,
-      "views_per_hour": 103475,
-      "momentum": 5.674,
+      "views": 5682150,
+      "likes": 361756,
+      "comments": 1185,
+      "age_hours": 46.2,
+      "views_per_hour": 122990,
+      "momentum": 5.749,
       "url": "https://www.youtube.com/watch?v=GD0tqRdxFjk",
       "region": "US",
       "category": "Science & Tech",
       "_detected_lang": "en"
     },
     {
-      "id": "iARNlZHvCpU",
-      "title": "His Son will Remember this Forever! (via: thebrianong/TT) #shorts #trending #viral #family #love",
-      "channel": "Shiba Diva",
-      "channel_id": "UCZoMKuilYBOyDq8qRdrPs2g",
-      "thumbnail": "https://i.ytimg.com/vi/iARNlZHvCpU/mqdefault.jpg",
-      "published_at": "2026-07-20T14:03:00Z",
+      "id": "1dZ-Z7kYsE0",
+      "title": "[Official Trailer] เงาใต้พระจันทร์ Moonshadow",
+      "channel": "GMMTV OFFICIAL​​",
+      "channel_id": "UC8BzJM6_VbZTdiNLD4R1jxQ",
+      "thumbnail": "https://i.ytimg.com/vi/1dZ-Z7kYsE0/mqdefault.jpg",
+      "published_at": "2026-07-27T09:00:04Z",
       "category_id": "24",
-      "views": 10047471,
-      "likes": 860265,
-      "comments": 9203,
-      "age_hours": 168.2,
-      "views_per_hour": 59749,
-      "momentum": 5.638,
-      "url": "https://www.youtube.com/watch?v=iARNlZHvCpU",
-      "region": "CA",
+      "views": 271059,
+      "likes": 32101,
+      "comments": 1632,
+      "age_hours": 10.2,
+      "views_per_hour": 26458,
+      "momentum": 5.736,
+      "url": "https://www.youtube.com/watch?v=1dZ-Z7kYsE0",
+      "region": "DE",
       "category": "Entertainment",
-      "_detected_lang": "en"
+      "_detected_lang": "de"
     },
     {
-      "id": "074yD8xSO4o",
-      "title": "The IPhone 18 isn’t coming out this year.. #carterpcs #tech #iphone18 #apple",
-      "channel": "CarterPCs",
-      "channel_id": "UCi7wDE2ZTiR5QYYrUY5WhtA",
-      "thumbnail": "https://i.ytimg.com/vi/074yD8xSO4o/mqdefault.jpg",
-      "published_at": "2026-07-27T05:36:58Z",
-      "category_id": "22",
-      "views": 399425,
-      "likes": 37347,
-      "comments": 576,
-      "age_hours": 8.6,
-      "views_per_hour": 46467,
-      "momentum": 5.607,
-      "url": "https://www.youtube.com/watch?v=074yD8xSO4o",
-      "region": "AU",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "__E0AfYA9aE",
-      "title": "Her “finally the man of my dreams 🥹” 😂😂",
-      "channel": "Doggostv",
-      "channel_id": "UC7-tiRmOlrMu6k7rI82wb8w",
-      "thumbnail": "https://i.ytimg.com/vi/__E0AfYA9aE/mqdefault.jpg",
-      "published_at": "2026-07-20T20:07:09Z",
-      "category_id": "22",
-      "views": 10050738,
-      "likes": 799225,
-      "comments": 10402,
-      "age_hours": 162.1,
-      "views_per_hour": 62006,
-      "momentum": 5.604,
-      "url": "https://www.youtube.com/watch?v=__E0AfYA9aE",
+      "id": "pjuluvda0NU",
+      "title": "How Actors Made Shopping Carts Popular 😮",
+      "channel": "Zack D. Films",
+      "channel_id": "UCvz84_Q0BbvZThy75mbd-Dg",
+      "thumbnail": "https://i.ytimg.com/vi/pjuluvda0NU/mqdefault.jpg",
+      "published_at": "2026-07-25T17:30:21Z",
+      "category_id": "19",
+      "views": 5065273,
+      "likes": 352009,
+      "comments": 1348,
+      "age_hours": 49.7,
+      "views_per_hour": 101837,
+      "momentum": 5.717,
+      "url": "https://www.youtube.com/watch?v=pjuluvda0NU",
       "region": "US",
-      "category": "People & Blogs",
+      "category": "Other",
       "_detected_lang": "en"
+    },
+    {
+      "id": "0aouMKpnLS8",
+      "title": "I know him well",
+      "channel": "Uyen Ninh",
+      "channel_id": "UC-uNVV92llYIMC5-ZUF0Q4w",
+      "thumbnail": "https://i.ytimg.com/vi/0aouMKpnLS8/mqdefault.jpg",
+      "published_at": "2026-07-26T10:20:26Z",
+      "category_id": "24",
+      "views": 1687730,
+      "likes": 168999,
+      "comments": 1193,
+      "age_hours": 32.9,
+      "views_per_hour": 51290,
+      "momentum": 5.687,
+      "url": "https://www.youtube.com/watch?v=0aouMKpnLS8",
+      "region": "DE",
+      "category": "Entertainment",
+      "_detected_lang": "de"
     }
   ]
 }
