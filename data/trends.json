@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T06:24:38.479219+00:00",
+  "generated_at": "2026-08-16T12:20:43.066526+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,76 +40,180 @@
     }
   ],
   "stats": {
-    "total_videos": 453,
+    "total_videos": 444,
     "total_topics": 18,
-    "total_themes": 6,
+    "total_themes": 8,
     "total_searches": 12,
     "by_category": {
-      "Entertainment": 112,
-      "Gaming": 84,
-      "Other": 64,
-      "People & Blogs": 133,
+      "Entertainment": 111,
+      "Gaming": 82,
+      "Other": 62,
+      "People & Blogs": 129,
       "Education": 5,
-      "Comedy": 15,
-      "Howto & Style": 16,
+      "Comedy": 16,
+      "Howto & Style": 15,
       "Science & Tech": 24
     }
   },
   "emerging_themes": [
     {
       "phrase": "low budget rakshabandhan",
-      "video_count": 28,
-      "channel_count": 28,
+      "video_count": 30,
+      "channel_count": 30,
       "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "_3eKI4OeJaM",
+          "title": "| Low Budget Rakshabandhan part-21 😂🤣| #rakshabandhan #comedy #relatable #festival #youtubeshorts",
+          "channel": "Vishal koli n06",
+          "channel_id": "UCG4nCpl333tIWp0MJW04W6A",
+          "subscribers": 9950,
+          "thumbnail": "https://i.ytimg.com/vi/_3eKI4OeJaM/mqdefault.jpg",
+          "published_at": "2026-08-16T12:15:10Z",
+          "url": "https://www.youtube.com/watch?v=_3eKI4OeJaM"
+        },
+        {
+          "id": "EzOpzg1ov9I",
+          "title": "Low budget Rakhi scene be like... 🙈#comedy #trending #rakshabandhan #shorts",
+          "channel": "4 star viral team ",
+          "channel_id": "UCPArXD6qIv96q_O3mpu3g4g",
+          "subscribers": 39,
+          "thumbnail": "https://i.ytimg.com/vi/EzOpzg1ov9I/mqdefault.jpg",
+          "published_at": "2026-08-16T12:15:05Z",
+          "url": "https://www.youtube.com/watch?v=EzOpzg1ov9I"
+        },
+        {
+          "id": "rNPtp1LU9r0",
+          "title": "Low Budget Raksha Bandhan 😂 #shorts",
+          "channel": "Sourav Daily Comedy",
+          "channel_id": "UC31piNk_cd_x3P1Mu0KMwcQ",
+          "subscribers": 34,
+          "thumbnail": "https://i.ytimg.com/vi/rNPtp1LU9r0/mqdefault.jpg",
+          "published_at": "2026-08-16T11:33:42Z",
+          "url": "https://www.youtube.com/watch?v=rNPtp1LU9r0"
+        },
+        {
+          "id": "mlPW5_gCrZY",
+          "title": "🎀 Raksha Bandhan Special ❤️😍 प्यारी-प्यारी Rakhi सिर्फ ₹85 में!#youtubeshorts#viral#meesho#trending",
+          "channel": "ekadashi13APN ",
+          "channel_id": "UCsHpNvuTGs_WhdL2LOpZzuQ",
+          "subscribers": 3680,
+          "thumbnail": "https://i.ytimg.com/vi/mlPW5_gCrZY/mqdefault.jpg",
+          "published_at": "2026-08-16T11:30:07Z",
+          "url": "https://www.youtube.com/watch?v=mlPW5_gCrZY"
+        }
+      ],
+      "first_detected_at": "2026-08-14T07:11:27.784291+00:00",
+      "last_seen_at": "2026-08-16T12:20:43.066526+00:00"
+    },
+    {
+      "phrase": "gta5 gtav gaming",
+      "video_count": 30,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "LYht5j0FSy0",
+          "title": "🔥 “I Risked Everything to Steal This Car…”😱🏍️|GTA 5| #shorts #gta #gta5",
+          "channel": "Ank",
+          "channel_id": "UCJYzFEAziriiE3lNlNIo4sQ",
+          "subscribers": 6,
+          "thumbnail": "https://i.ytimg.com/vi/LYht5j0FSy0/mqdefault.jpg",
+          "published_at": "2026-08-16T12:13:57Z",
+          "url": "https://www.youtube.com/watch?v=LYht5j0FSy0"
+        },
+        {
+          "id": "zpG1UGclmpk",
+          "title": "BRAND NEW HEIST LAUNCHED IN GTA 5 !😱🔥 #karplayzz #gta5 #shorts",
+          "channel": "KarPlayzz",
+          "channel_id": "UCRjuweNd7mz4lsjUidqKukQ",
+          "subscribers": 249,
+          "thumbnail": "https://i.ytimg.com/vi/zpG1UGclmpk/mqdefault.jpg",
+          "published_at": "2026-08-16T12:00:11Z",
+          "url": "https://www.youtube.com/watch?v=zpG1UGclmpk"
+        },
+        {
+          "id": "_c4_KubPCs0",
+          "title": "#GTA5 #GTAV #gta5gameplay",
+          "channel": "YORIO PLAYS BD",
+          "channel_id": "UCiQarT6qSrTWakVvbbvUqfA",
+          "subscribers": 1190,
+          "thumbnail": "https://i.ytimg.com/vi/_c4_KubPCs0/mqdefault.jpg",
+          "published_at": "2026-08-16T11:54:53Z",
+          "url": "https://www.youtube.com/watch?v=_c4_KubPCs0"
+        },
+        {
+          "id": "fevpDbQ_TKc",
+          "title": "❄️ Michael’s Family Went CAMPING in Snow! 🏕️ #GTA5 #Shorts",
+          "channel": "ZorixYT",
+          "channel_id": "UCFWeJB68Dpv-HIEAQSUduBg",
+          "subscribers": 5680,
+          "thumbnail": "https://i.ytimg.com/vi/fevpDbQ_TKc/mqdefault.jpg",
+          "published_at": "2026-08-16T11:49:22Z",
+          "url": "https://www.youtube.com/watch?v=fevpDbQ_TKc"
+        }
+      ],
+      "first_detected_at": "2026-08-16T12:20:43.066526+00:00",
+      "last_seen_at": "2026-08-16T12:20:43.066526+00:00"
+    },
+    {
+      "phrase": "minecraft helden",
+      "video_count": 29,
+      "channel_count": 28,
+      "total_channels_seen": 29,
       "uploads_per_hour": 2.33,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "jMfpWcBKx8g",
-          "title": "Low Budget Rakshabandhan 🤣Part 2 #priyalkukreja #shorts",
-          "channel": "balram kumar.dabang",
-          "channel_id": "UCUbm7eEoS69RVOi2ziJQSLA",
-          "subscribers": 21400,
-          "thumbnail": "https://i.ytimg.com/vi/jMfpWcBKx8g/mqdefault.jpg",
-          "published_at": "2026-08-16T06:17:34Z",
-          "url": "https://www.youtube.com/watch?v=jMfpWcBKx8g"
+          "id": "hzwG0YafTSQ",
+          "title": "Amir befreit Lukas #avive #amir #minecraft #minecrafthelden3 #mchelden3 #helden",
+          "channel": "Lams🤧🧊",
+          "channel_id": "UClPNcdGachU0drxv1BoTpIA",
+          "subscribers": 1500,
+          "thumbnail": "https://i.ytimg.com/vi/hzwG0YafTSQ/mqdefault.jpg",
+          "published_at": "2026-08-16T12:16:21Z",
+          "url": "https://www.youtube.com/watch?v=hzwG0YafTSQ"
         },
         {
-          "id": "W4biGbFffYA",
-          "title": "Low Budget Rakshabhandhan 😂😂 ( Part-2) Copy || #funny #comedy #tiktokvideo #ytshorts #rakshabandhan",
-          "channel": "Rohit Jakhar",
-          "channel_id": "UCaVTWw0IyQeXGlNLysfjwAg",
-          "subscribers": 7850,
-          "thumbnail": "https://i.ytimg.com/vi/W4biGbFffYA/mqdefault.jpg",
-          "published_at": "2026-08-16T06:17:17Z",
-          "url": "https://www.youtube.com/watch?v=W4biGbFffYA"
+          "id": "RypuZt3X7K0",
+          "title": "AviveHD Disstrack (Minecraft Helden Song)",
+          "channel": "Ilias Riffi",
+          "channel_id": "UC2r91WkYgcdHwBaVXIWy2yg",
+          "subscribers": 26,
+          "thumbnail": "https://i.ytimg.com/vi/RypuZt3X7K0/mqdefault.jpg",
+          "published_at": "2026-08-16T12:13:21Z",
+          "url": "https://www.youtube.com/watch?v=RypuZt3X7K0"
         },
         {
-          "id": "4L1AoNgDdL4",
-          "title": "LOW BUDGET RAKSHA BANDHAN 😂🤣..",
-          "channel": "GANG_OF_CHHIRARI_07 ",
-          "channel_id": "UCWuY4UySDFcOfOolmrVEu4A",
-          "subscribers": 4,
-          "thumbnail": "https://i.ytimg.com/vi/4L1AoNgDdL4/mqdefault.jpg",
-          "published_at": "2026-08-16T05:45:05Z",
-          "url": "https://www.youtube.com/watch?v=4L1AoNgDdL4"
+          "id": "YEfuz7L096M",
+          "title": "Die 5 stärksten Minecraft Helden 3 Spieler",
+          "channel": "Fillow ",
+          "channel_id": "UCidEkwp3xD49W3j0eiMvnAA",
+          "subscribers": 10,
+          "thumbnail": "https://i.ytimg.com/vi/YEfuz7L096M/mqdefault.jpg",
+          "published_at": "2026-08-16T12:11:00Z",
+          "url": "https://www.youtube.com/watch?v=YEfuz7L096M"
         },
         {
-          "id": "t0rseBPyCF8",
-          "title": "Low Budget बहनों का रक्षाबंधन😂 #ytshorts #low #budget #comedy #yt #rakshabandhan #youtuber",
-          "channel": "Rajni dancer ",
-          "channel_id": "UCpYDUqG606jLW-QqDypIFlA",
-          "subscribers": 15900,
-          "thumbnail": "https://i.ytimg.com/vi/t0rseBPyCF8/mqdefault.jpg",
-          "published_at": "2026-08-16T05:35:29Z",
-          "url": "https://www.youtube.com/watch?v=t0rseBPyCF8"
+          "id": "_4sDR33V3A4",
+          "title": "ICH TÖTE den NÄCHSTEN YOUTUBER in MINECRAFT SUPERHELDEN 3! (MEISTE KILLS)",
+          "channel": "EnsAr",
+          "channel_id": "UCAzc9em7kMFikeFWjLtXtIg",
+          "subscribers": 505,
+          "thumbnail": "https://i.ytimg.com/vi/_4sDR33V3A4/mqdefault.jpg",
+          "published_at": "2026-08-16T12:10:03Z",
+          "url": "https://www.youtube.com/watch?v=_4sDR33V3A4"
         }
       ],
-      "first_detected_at": "2026-08-14T07:11:27.784291+00:00",
-      "last_seen_at": "2026-08-16T06:24:38.479219+00:00"
+      "first_detected_at": "2026-08-16T06:24:38.479219+00:00",
+      "last_seen_at": "2026-08-16T12:20:43.066526+00:00"
     },
     {
-      "phrase": "grand finals watchparty",
+      "phrase": "priyalkukreja shorts ytshorts",
       "video_count": 30,
       "channel_count": 27,
       "total_channels_seen": 27,
@@ -117,263 +221,263 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "3SZ4fTWBb-I",
-          "title": "PMWC at EWC GRAND FINALS - WATCHPARTY LIVE FROM PARIS",
-          "channel": "SARDARxlive ",
-          "channel_id": "UCS7A-5wiwc5rR-G68xiz0_g",
-          "subscribers": 642,
-          "thumbnail": "https://i.ytimg.com/vi/3SZ4fTWBb-I/mqdefault.jpg",
-          "published_at": "2026-08-16T05:55:56Z",
-          "url": "https://www.youtube.com/watch?v=3SZ4fTWBb-I"
+          "id": "dXHPk1EHyBQ",
+          "title": "Prank Kia Dushyant ke sath 😂 #priyalkukreja #funny #ytshorts #shorts",
+          "channel": "Atif Reaction",
+          "channel_id": "UCsrCCP-i1XhsJn-xXi_DBIA",
+          "subscribers": 517,
+          "thumbnail": "https://i.ytimg.com/vi/dXHPk1EHyBQ/mqdefault.jpg",
+          "published_at": "2026-08-16T12:18:28Z",
+          "url": "https://www.youtube.com/watch?v=dXHPk1EHyBQ"
         },
         {
-          "id": "_qRlSVpeiks",
-          "title": "EWC / PMWC GRAND FINALS DAY 3 LIVE 🏆 | WATCH PARTY | ZULFIQAR GAMING⁠",
-          "channel": "ZULFIQAR GAMING",
-          "channel_id": "UCIEVrspU_-OGFZpCI63J5SA",
-          "subscribers": 103,
-          "thumbnail": "https://i.ytimg.com/vi/_qRlSVpeiks/mqdefault_live.jpg",
-          "published_at": "2026-08-16T05:41:22Z",
-          "url": "https://www.youtube.com/watch?v=_qRlSVpeiks"
+          "id": "gIZvG23hTCI",
+          "title": "Happy Independence Day 🇮🇳♥️ #priyalkukreja #shorts #ytshorts",
+          "channel": "Sanjeev Kumar Vlogs",
+          "channel_id": "UCFCKxf9iF3To7P-H1hmgmCg",
+          "subscribers": 26300,
+          "thumbnail": "https://i.ytimg.com/vi/gIZvG23hTCI/mqdefault.jpg",
+          "published_at": "2026-08-16T12:14:35Z",
+          "url": "https://www.youtube.com/watch?v=gIZvG23hTCI"
         },
         {
-          "id": "vRRuieVIojc",
-          "title": "PMWC at EWC GRAND FINALS - WATCHPARTY LIVE FROM PARIS",
-          "channel": "PRASH the YT Star  ",
-          "channel_id": "UCvP8Yr9iI3Sq3WB_xAKPRvQ",
-          "subscribers": 994,
-          "thumbnail": "https://i.ytimg.com/vi/vRRuieVIojc/mqdefault.jpg",
-          "published_at": "2026-08-16T05:38:03Z",
-          "url": "https://www.youtube.com/watch?v=vRRuieVIojc"
+          "id": "_IVXSyTDmvM",
+          "title": "Siblings ki Z ++ Security🤣#priyalkukreja #shorts #ytshorts",
+          "channel": "nitish987edx",
+          "channel_id": "UCokxBhY0bny0pGiS02AiyRg",
+          "subscribers": 4350,
+          "thumbnail": "https://i.ytimg.com/vi/_IVXSyTDmvM/mqdefault.jpg",
+          "published_at": "2026-08-16T12:12:52Z",
+          "url": "https://www.youtube.com/watch?v=_IVXSyTDmvM"
         },
         {
-          "id": "_fFfZ-2fUK8",
-          "title": "PMWC Grand Finals LIVE Watch Party 🔥 | PUBG Mobile World Cup @uneverage 🇮🇳 | day- 732 |🇮🇳",
-          "channel": "UNEVERAGE plays ",
-          "channel_id": "UCfOLl9dYJcJxVOPPT27T9cA",
-          "subscribers": 642,
-          "thumbnail": "https://i.ytimg.com/vi/_fFfZ-2fUK8/mqdefault.jpg",
-          "published_at": "2026-08-16T05:37:20Z",
-          "url": "https://www.youtube.com/watch?v=_fFfZ-2fUK8"
+          "id": "dZo233uSNeQ",
+          "title": "Siblings ki Z ++ Security🤣#priyalkukreja #shorts #ytshorts",
+          "channel": "official edx nk",
+          "channel_id": "UCKI2GOHuZNKzzC_-sW8YV-Q",
+          "subscribers": 4510,
+          "thumbnail": "https://i.ytimg.com/vi/dZo233uSNeQ/mqdefault.jpg",
+          "published_at": "2026-08-16T12:08:53Z",
+          "url": "https://www.youtube.com/watch?v=dZo233uSNeQ"
         }
       ],
-      "first_detected_at": "2026-08-16T00:45:58.960568+00:00",
-      "last_seen_at": "2026-08-16T06:24:38.479219+00:00"
+      "first_detected_at": "2026-08-16T12:20:43.066526+00:00",
+      "last_seen_at": "2026-08-16T12:20:43.066526+00:00"
+    },
+    {
+      "phrase": "live gta5 gtav",
+      "video_count": 29,
+      "channel_count": 27,
+      "total_channels_seen": 28,
+      "uploads_per_hour": 2.25,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "C2hKsMos7fg",
+          "title": "🔴LIVE: GTA 5 BLACK SUPERMAN MOD is INSANE 😱   #GTA5 #GTAV #GTA5Live EP-0056",
+          "channel": "Devasted Live",
+          "channel_id": "UCGWut8Cf3IOjUlFIVLy2PpA",
+          "subscribers": 7320,
+          "thumbnail": "https://i.ytimg.com/vi/C2hKsMos7fg/mqdefault_live.jpg",
+          "published_at": "2026-08-16T12:04:51Z",
+          "url": "https://www.youtube.com/watch?v=C2hKsMos7fg"
+        },
+        {
+          "id": "CeA70J_tvOg",
+          "title": "This GTA 5 Car Looks ABSOLUTELY INSANE 😳",
+          "channel": "DaYLeSs Gta",
+          "channel_id": "UCvU4OZf2GDb4M5up0qSYUiA",
+          "subscribers": 34,
+          "thumbnail": "https://i.ytimg.com/vi/CeA70J_tvOg/mqdefault.jpg",
+          "published_at": "2026-08-16T12:02:25Z",
+          "url": "https://www.youtube.com/watch?v=CeA70J_tvOg"
+        },
+        {
+          "id": "Nm2rVm_pAU0",
+          "title": "GTA 5 LIVE #gta5 #gtav #gaming #gta5live #gameplay",
+          "channel": "Gaming Boy Haris",
+          "channel_id": "UCjxG8hFcOou7ihF6N-Y8MXg",
+          "subscribers": 36,
+          "thumbnail": "https://i.ytimg.com/vi/Nm2rVm_pAU0/mqdefault_live.jpg",
+          "published_at": "2026-08-16T11:55:15Z",
+          "url": "https://www.youtube.com/watch?v=Nm2rVm_pAU0"
+        },
+        {
+          "id": "at4t4t5l4Go",
+          "title": "🔴  GTA 5 LIVE 😱#gta5 #gtav  | GTA V Mods #gta5  #gtav #gaming  #gtalive #gtaonline #vishaalop",
+          "channel": "VISHAALOP",
+          "channel_id": "UCBzEZPxF5vx9qAauFRzmI3g",
+          "subscribers": 212,
+          "thumbnail": "https://i.ytimg.com/vi/at4t4t5l4Go/mqdefault.jpg",
+          "published_at": "2026-08-16T11:44:29Z",
+          "url": "https://www.youtube.com/watch?v=at4t4t5l4Go"
+        }
+      ],
+      "first_detected_at": "2026-08-16T12:20:43.066526+00:00",
+      "last_seen_at": "2026-08-16T12:20:43.066526+00:00"
     },
     {
       "phrase": "rakshabandhan priyalkukreja shorts",
-      "video_count": 28,
-      "channel_count": 25,
+      "video_count": 30,
+      "channel_count": 26,
       "total_channels_seen": 26,
-      "uploads_per_hour": 2.08,
+      "uploads_per_hour": 2.17,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "jMfpWcBKx8g",
-          "title": "Low Budget Rakshabandhan 🤣Part 2 #priyalkukreja #shorts",
-          "channel": "balram kumar.dabang",
-          "channel_id": "UCUbm7eEoS69RVOi2ziJQSLA",
-          "subscribers": 21400,
-          "thumbnail": "https://i.ytimg.com/vi/jMfpWcBKx8g/mqdefault.jpg",
-          "published_at": "2026-08-16T06:17:34Z",
-          "url": "https://www.youtube.com/watch?v=jMfpWcBKx8g"
-        },
-        {
-          "id": "kWQScYPDxN4",
+          "id": "EV0frPJY7j4",
           "title": "Online Rakshabandhan 🤣 #priyalkukreja #shorts #ytshorts",
           "channel": "Sanjeev Kumar Vlogs",
           "channel_id": "UCFCKxf9iF3To7P-H1hmgmCg",
-          "subscribers": 26200,
-          "thumbnail": "https://i.ytimg.com/vi/kWQScYPDxN4/mqdefault.jpg",
-          "published_at": "2026-08-16T06:14:38Z",
-          "url": "https://www.youtube.com/watch?v=kWQScYPDxN4"
+          "subscribers": 26300,
+          "thumbnail": "https://i.ytimg.com/vi/EV0frPJY7j4/mqdefault.jpg",
+          "published_at": "2026-08-16T11:14:02Z",
+          "url": "https://www.youtube.com/watch?v=EV0frPJY7j4"
         },
         {
-          "id": "voAATklJGDY",
-          "title": "rakshabandhan🤑😂#dushyantkukreja#priyalkukreja#shorts#viral#trending#viralvideo#popular#youtubeshorts",
-          "channel": "SACHIN PANDIT DHAKPURI",
-          "channel_id": "UCLnN8YJrVlTYWI2XlpBGnww",
-          "subscribers": 2720,
-          "thumbnail": "https://i.ytimg.com/vi/voAATklJGDY/mqdefault.jpg",
-          "published_at": "2026-08-16T06:00:01Z",
-          "url": "https://www.youtube.com/watch?v=voAATklJGDY"
+          "id": "VufpG3k0AEw",
+          "title": "70 lakh ki Rakhi oh 🥰 #priyalkukreja #shorts #ytshorts",
+          "channel": "Jatin Aggarwal ",
+          "channel_id": "UCpgKwiiqvhnnpiETcKA5A-g",
+          "subscribers": 3640,
+          "thumbnail": "https://i.ytimg.com/vi/VufpG3k0AEw/mqdefault.jpg",
+          "published_at": "2026-08-16T10:32:01Z",
+          "url": "https://www.youtube.com/watch?v=VufpG3k0AEw"
         },
         {
-          "id": "NebdQUydoOQ",
-          "title": "#RakshaBandhan #Rakhi #FunnyVideo #priyalkukreja #shorts",
-          "channel": "Reaction By sintu chauhan ",
-          "channel_id": "UCi-agVtyyeQGCyC3Pyob0GQ",
-          "subscribers": 3310,
-          "thumbnail": "https://i.ytimg.com/vi/NebdQUydoOQ/mqdefault.jpg",
-          "published_at": "2026-08-16T05:32:28Z",
-          "url": "https://www.youtube.com/watch?v=NebdQUydoOQ"
+          "id": "8u17hFVEonM",
+          "title": "Low Budget Rakshabandhan😂 part 2#priyalkukreja #short",
+          "channel": "sweety choudhary ",
+          "channel_id": "UC5WhPorOEQS0FrH0pyGDVdw",
+          "subscribers": 1850,
+          "thumbnail": "https://i.ytimg.com/vi/8u17hFVEonM/mqdefault.jpg",
+          "published_at": "2026-08-16T10:30:19Z",
+          "url": "https://www.youtube.com/watch?v=8u17hFVEonM"
+        },
+        {
+          "id": "zvFAUu_YfjI",
+          "title": "Rakshabandhan Special 🤣♥️ #priyalkukreja #shorts #ytshorts #funny",
+          "channel": "Creative Doodles",
+          "channel_id": "UCmpmFYuIK1t9H7xTqPoOcbQ",
+          "subscribers": 4490,
+          "thumbnail": "https://i.ytimg.com/vi/zvFAUu_YfjI/mqdefault.jpg",
+          "published_at": "2026-08-16T09:37:14Z",
+          "url": "https://www.youtube.com/watch?v=zvFAUu_YfjI"
         }
       ],
       "first_detected_at": "2026-08-13T12:49:12.450697+00:00",
-      "last_seen_at": "2026-08-16T06:24:38.479219+00:00"
+      "last_seen_at": "2026-08-16T12:20:43.066526+00:00"
     },
     {
-      "phrase": "minecraft helden",
-      "video_count": 16,
-      "channel_count": 15,
-      "total_channels_seen": 15,
-      "uploads_per_hour": 1.25,
+      "phrase": "grand finals watchparty",
+      "video_count": 29,
+      "channel_count": 24,
+      "total_channels_seen": 25,
+      "uploads_per_hour": 2.0,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "oOkVNxZ4ppM",
-          "title": "Max killt Luca minecraft Helden 3",
-          "channel": "    ClipFury",
-          "channel_id": "UC-Xc4s0yx-PWTLY8DDolJdw",
-          "subscribers": 161,
-          "thumbnail": "https://i.ytimg.com/vi/oOkVNxZ4ppM/mqdefault.jpg",
-          "published_at": "2026-08-16T06:15:51Z",
-          "url": "https://www.youtube.com/watch?v=oOkVNxZ4ppM"
+          "id": "MewXxe8--Aw",
+          "title": "PMWC at EWC GRAND FINALS -WATCHPARTY LIVE FROM PARIS",
+          "channel": "Rohit pandit ",
+          "channel_id": "UCfVp2PkgTAXJ3IBb7FA3D8w",
+          "subscribers": 80,
+          "thumbnail": "https://i.ytimg.com/vi/MewXxe8--Aw/mqdefault_live.jpg",
+          "published_at": "2026-08-16T12:05:58Z",
+          "url": "https://www.youtube.com/watch?v=MewXxe8--Aw"
         },
         {
-          "id": "HZAnXD4Rx2M",
-          "title": "Helden 3 Duelfight @Harotte @ojichristosTV #minecraft #helden #gaming #clips #german",
-          "channel": "Minecraft Helden 3",
-          "channel_id": "UCldgt_qsj66Zjsy3yn510hQ",
-          "subscribers": 78,
-          "thumbnail": "https://i.ytimg.com/vi/HZAnXD4Rx2M/mqdefault.jpg",
-          "published_at": "2026-08-16T06:04:03Z",
-          "url": "https://www.youtube.com/watch?v=HZAnXD4Rx2M"
+          "id": "RwjMKuRDRz8",
+          "title": "PMWC WATCHPARTY Grand Finals Last Day 🎮",
+          "channel": "DarkGyanGamer",
+          "channel_id": "UC9oicIAL0sMEt1mqBzIHR9A",
+          "subscribers": 128,
+          "thumbnail": "https://i.ytimg.com/vi/RwjMKuRDRz8/mqdefault.jpg",
+          "published_at": "2026-08-16T11:52:54Z",
+          "url": "https://www.youtube.com/watch?v=RwjMKuRDRz8"
         },
         {
-          "id": "yFgeu9lJGgo",
-          "title": "Helden 3 Herzkill @AviveHD @zQZack #minecraft #helden #gaming #clips",
-          "channel": "Minecraft Helden 3",
-          "channel_id": "UCldgt_qsj66Zjsy3yn510hQ",
-          "subscribers": 78,
-          "thumbnail": "https://i.ytimg.com/vi/yFgeu9lJGgo/mqdefault.jpg",
-          "published_at": "2026-08-16T06:00:54Z",
-          "url": "https://www.youtube.com/watch?v=yFgeu9lJGgo"
+          "id": "R5O8xuZFigs",
+          "title": "PMWC at EWC GRAND FINALS - WATCHPARTY LIVE FROM PARIS",
+          "channel": "Banti Gaming",
+          "channel_id": "UCONO8P0SGAXC4yB4plXM2oA",
+          "subscribers": 170,
+          "thumbnail": "https://i.ytimg.com/vi/R5O8xuZFigs/mqdefault_live.jpg",
+          "published_at": "2026-08-16T11:45:54Z",
+          "url": "https://www.youtube.com/watch?v=R5O8xuZFigs"
         },
         {
-          "id": "lW-18ee3IMA",
-          "title": "#minecrafthelden #minecraft @RyanColeYT @platin2 @TriDanReal @zQZack @platin6 @xzitachi",
-          "channel": "L3ONJG",
-          "channel_id": "UCu7fwIGl8QxkjQGXuOcPriA",
-          "subscribers": 248,
-          "thumbnail": "https://i.ytimg.com/vi/lW-18ee3IMA/mqdefault.jpg",
-          "published_at": "2026-08-16T06:00:16Z",
-          "url": "https://www.youtube.com/watch?v=lW-18ee3IMA"
-        }
-      ],
-      "first_detected_at": "2026-08-16T06:24:38.479219+00:00",
-      "last_seen_at": "2026-08-16T06:24:38.479219+00:00"
-    },
-    {
-      "phrase": "lifehack comedy funny",
-      "video_count": 14,
-      "channel_count": 13,
-      "total_channels_seen": 13,
-      "uploads_per_hour": 1.08,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "S1S9fHtMd2g",
-          "title": "#Comedy#LifeHacks#Music#Gaming#Satisfying",
-          "channel": "Heels Rush USA",
-          "channel_id": "UCI9GUbFnD4X-qb3tNuJlOZg",
-          "subscribers": 0,
-          "thumbnail": "https://i.ytimg.com/vi/S1S9fHtMd2g/mqdefault.jpg",
-          "published_at": "2026-08-16T04:01:33Z",
-          "url": "https://www.youtube.com/watch?v=S1S9fHtMd2g"
-        },
-        {
-          "id": "mWLpYsOndos",
-          "title": "99% log ye life hack nahi jaante 👀🤣YEH KAISE? 😂❓” LifeHack #FunnyReels #ComedyReels  #FunnyVideo",
-          "channel": "​@19s TV_ fun",
-          "channel_id": "UCckYt3MNFlSqmYEmV4aRggQ",
-          "subscribers": 31,
-          "thumbnail": "https://i.ytimg.com/vi/mWLpYsOndos/mqdefault.jpg",
-          "published_at": "2026-08-16T03:55:52Z",
-          "url": "https://www.youtube.com/watch?v=mWLpYsOndos"
-        },
-        {
-          "id": "HscDI4kXdj4",
-          "title": "&quot;Now I can change my t-shirt wherever I want.&quot; 😉😂😜 A life hack.#relatable​ #comedy​ #funny​ #shorts​",
-          "channel": "SHORT. YT .11",
-          "channel_id": "UCe72L3fzOvj8F2xqWJz2OSQ",
-          "subscribers": 2450,
-          "thumbnail": "https://i.ytimg.com/vi/HscDI4kXdj4/mqdefault.jpg",
-          "published_at": "2026-08-16T03:30:36Z",
-          "url": "https://www.youtube.com/watch?v=HscDI4kXdj4"
-        },
-        {
-          "id": "ZGGlV18sgKg",
-          "title": "worst life hacks ever 😂 #shorts #funny #dontlaught #comedy",
-          "channel": "kindbahi ",
-          "channel_id": "UCQki7Xdsgg6MO2x-gQn1E8A",
-          "subscribers": 289,
-          "thumbnail": "https://i.ytimg.com/vi/ZGGlV18sgKg/mqdefault.jpg",
-          "published_at": "2026-08-16T03:30:04Z",
-          "url": "https://www.youtube.com/watch?v=ZGGlV18sgKg"
+          "id": "jHtMDCW3euI",
+          "title": "PMWC at EWC GRAND FINALS - WATCHPARTY",
+          "channel": "SHEEK GAMING",
+          "channel_id": "UCkju3XWemmndq3OL7Q4lrsQ",
+          "subscribers": 204000,
+          "thumbnail": "https://i.ytimg.com/vi/jHtMDCW3euI/mqdefault_live.jpg",
+          "published_at": "2026-08-16T11:41:07Z",
+          "url": "https://www.youtube.com/watch?v=jHtMDCW3euI"
         }
       ],
       "first_detected_at": "2026-08-16T00:45:58.960568+00:00",
-      "last_seen_at": "2026-08-16T06:24:38.479219+00:00"
+      "last_seen_at": "2026-08-16T12:20:43.066526+00:00"
     },
     {
       "phrase": "budget rakshabandhan priyalkukreja",
-      "video_count": 8,
-      "channel_count": 8,
-      "total_channels_seen": 9,
-      "uploads_per_hour": 0.67,
+      "video_count": 13,
+      "channel_count": 12,
+      "total_channels_seen": 13,
+      "uploads_per_hour": 1.0,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "jMfpWcBKx8g",
-          "title": "Low Budget Rakshabandhan 🤣Part 2 #priyalkukreja #shorts",
-          "channel": "balram kumar.dabang",
-          "channel_id": "UCUbm7eEoS69RVOi2ziJQSLA",
-          "subscribers": 21400,
-          "thumbnail": "https://i.ytimg.com/vi/jMfpWcBKx8g/mqdefault.jpg",
-          "published_at": "2026-08-16T06:17:34Z",
-          "url": "https://www.youtube.com/watch?v=jMfpWcBKx8g"
+          "id": "8u17hFVEonM",
+          "title": "Low Budget Rakshabandhan😂 part 2#priyalkukreja #short",
+          "channel": "sweety choudhary ",
+          "channel_id": "UC5WhPorOEQS0FrH0pyGDVdw",
+          "subscribers": 1850,
+          "thumbnail": "https://i.ytimg.com/vi/8u17hFVEonM/mqdefault.jpg",
+          "published_at": "2026-08-16T10:30:19Z",
+          "url": "https://www.youtube.com/watch?v=8u17hFVEonM"
         },
         {
-          "id": "XDPAOK_TTQo",
-          "title": "Low budget Rakshabdhan 🤣#shorts #priyalkukreja #rakshabandhan",
-          "channel": "RF Explore",
-          "channel_id": "UC44WQcG-TpdqBv3pUNKE9nA",
-          "subscribers": 2970,
-          "thumbnail": "https://i.ytimg.com/vi/XDPAOK_TTQo/mqdefault.jpg",
-          "published_at": "2026-08-16T05:32:11Z",
-          "url": "https://www.youtube.com/watch?v=XDPAOK_TTQo"
+          "id": "nhWnxSuvqss",
+          "title": "Low Budget Rakshabandhan#priyalkukreja #shorts#ytshorts",
+          "channel": "Shivay641",
+          "channel_id": "UCOWl0JO6jOBqf_woNKkboHQ",
+          "subscribers": 21000,
+          "thumbnail": "https://i.ytimg.com/vi/nhWnxSuvqss/mqdefault.jpg",
+          "published_at": "2026-08-16T09:04:43Z",
+          "url": "https://www.youtube.com/watch?v=nhWnxSuvqss"
         },
         {
-          "id": "5Jz7fws2H5c",
-          "title": "Low Budget Rakshabandhan 😂Part 2#priyalkukreja #shorts",
-          "channel": "Sima Sharma",
-          "channel_id": "UCBfGAKl16ZaOOdpBsLLcvag",
-          "subscribers": 8870,
-          "thumbnail": "https://i.ytimg.com/vi/5Jz7fws2H5c/mqdefault.jpg",
-          "published_at": "2026-08-16T04:30:34Z",
-          "url": "https://www.youtube.com/watch?v=5Jz7fws2H5c"
+          "id": "TpKiyj3smSk",
+          "title": "Low budget Raksha Bandhan # #priyalkukreja #dushyantkukreja #ytshorts",
+          "channel": "Romi Rishi ka safar",
+          "channel_id": "UCPfU8nDPyxhSyHHNARuOEWA",
+          "subscribers": 11100,
+          "thumbnail": "https://i.ytimg.com/vi/TpKiyj3smSk/mqdefault.jpg",
+          "published_at": "2026-08-16T07:01:20Z",
+          "url": "https://www.youtube.com/watch?v=TpKiyj3smSk"
         },
         {
-          "id": "x15AAIJk2Q4",
-          "title": "Low Budget Rakshabandhan 🤣 Part 2 #priyalkukreja #shorts",
-          "channel": "Sayyed Ali",
-          "channel_id": "UCPP57b5kN-s11c278GJz2zg",
-          "subscribers": 1580,
-          "thumbnail": "https://i.ytimg.com/vi/x15AAIJk2Q4/mqdefault.jpg",
-          "published_at": "2026-08-16T04:20:26Z",
-          "url": "https://www.youtube.com/watch?v=x15AAIJk2Q4"
+          "id": "AniK4L_UCZg",
+          "title": "Low Budget Rakshabandhan 😂 Part 2 #priyalkukreja #shorts",
+          "channel": "Rk Shorts Life ",
+          "channel_id": "UCD2CJoRo1WNd7COO4oMw9Jg",
+          "subscribers": 2740,
+          "thumbnail": "https://i.ytimg.com/vi/AniK4L_UCZg/mqdefault.jpg",
+          "published_at": "2026-08-16T06:47:36Z",
+          "url": "https://www.youtube.com/watch?v=AniK4L_UCZg"
         }
       ],
       "first_detected_at": "2026-08-16T06:24:38.479219+00:00",
-      "last_seen_at": "2026-08-16T06:24:38.479219+00:00"
+      "last_seen_at": "2026-08-16T12:20:43.066526+00:00"
     }
   ],
   "topics": [
     {
       "phrase": "rakshabandhan",
       "video_count": 5,
-      "momentum": 25.41,
+      "momentum": 25.47,
       "regions": [
         "IN"
       ],
@@ -385,8 +489,8 @@
           "channel": "Priyal Kukreja",
           "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-          "views": 12061370,
-          "age_hours": 63.8
+          "views": 14387771,
+          "age_hours": 69.8
         },
         {
           "id": "rPqPiurLrvg",
@@ -394,8 +498,8 @@
           "channel": "Priyal Kukreja",
           "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-          "views": 47389197,
-          "age_hours": 257.9
+          "views": 48265659,
+          "age_hours": 263.8
         },
         {
           "id": "T08fV8ql1gU",
@@ -403,15 +507,15 @@
           "channel": "Dushyant kukreja",
           "thumbnail": "https://i.ytimg.com/vi/T08fV8ql1gU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=T08fV8ql1gU",
-          "views": 5014614,
-          "age_hours": 63.9
+          "views": 5694248,
+          "age_hours": 69.8
         }
       ]
     },
     {
       "phrase": "independence",
       "video_count": 5,
-      "momentum": 24.82,
+      "momentum": 24.86,
       "regions": [
         "IN"
       ],
@@ -423,17 +527,8 @@
           "channel": "Hetal DIY Queen",
           "thumbnail": "https://i.ytimg.com/vi/Hkq4WKJbyxw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Hkq4WKJbyxw",
-          "views": 4575277,
-          "age_hours": 38.9
-        },
-        {
-          "id": "nuHip--1roA",
-          "title": "Happy 80th Independence Day🇮🇳🫡 #shorts #love #independenceday",
-          "channel": "With Love Nagaraj Sangeetha",
-          "thumbnail": "https://i.ytimg.com/vi/nuHip--1roA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nuHip--1roA",
-          "views": 1540828,
-          "age_hours": 17.0
+          "views": 4964148,
+          "age_hours": 44.8
         },
         {
           "id": "FCxQp9XCkfg",
@@ -441,15 +536,24 @@
           "channel": "jaanvi patel",
           "thumbnail": "https://i.ytimg.com/vi/FCxQp9XCkfg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=FCxQp9XCkfg",
-          "views": 1780323,
-          "age_hours": 17.9
+          "views": 3364841,
+          "age_hours": 23.8
+        },
+        {
+          "id": "nuHip--1roA",
+          "title": "Happy 80th Independence Day🇮🇳🫡 #shorts #love #independenceday",
+          "channel": "With Love Nagaraj Sangeetha",
+          "thumbnail": "https://i.ytimg.com/vi/nuHip--1roA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=nuHip--1roA",
+          "views": 2144418,
+          "age_hours": 23.0
         }
       ]
     },
     {
       "phrase": "low budget rakshabandhan",
       "video_count": 3,
-      "momentum": 23.66,
+      "momentum": 23.74,
       "regions": [
         "IN"
       ],
@@ -461,8 +565,8 @@
           "channel": "Priyal Kukreja",
           "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-          "views": 12061370,
-          "age_hours": 63.8
+          "views": 14387771,
+          "age_hours": 69.8
         },
         {
           "id": "rPqPiurLrvg",
@@ -470,8 +574,8 @@
           "channel": "Priyal Kukreja",
           "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-          "views": 47389197,
-          "age_hours": 257.9
+          "views": 48265659,
+          "age_hours": 263.8
         },
         {
           "id": "T08fV8ql1gU",
@@ -479,15 +583,15 @@
           "channel": "Dushyant kukreja",
           "thumbnail": "https://i.ytimg.com/vi/T08fV8ql1gU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=T08fV8ql1gU",
-          "views": 5014614,
-          "age_hours": 63.9
+          "views": 5694248,
+          "age_hours": 69.8
         }
       ]
     },
     {
       "phrase": "rakshabandhan priyalkukreja shorts",
       "video_count": 3,
-      "momentum": 23.41,
+      "momentum": 23.49,
       "regions": [
         "IN"
       ],
@@ -499,8 +603,8 @@
           "channel": "Priyal Kukreja",
           "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-          "views": 12061370,
-          "age_hours": 63.8
+          "views": 14387771,
+          "age_hours": 69.8
         },
         {
           "id": "rPqPiurLrvg",
@@ -508,8 +612,8 @@
           "channel": "Priyal Kukreja",
           "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-          "views": 47389197,
-          "age_hours": 257.9
+          "views": 48265659,
+          "age_hours": 263.8
         },
         {
           "id": "aBAcYi6W0zw",
@@ -517,15 +621,15 @@
           "channel": "Priyal Kukreja",
           "thumbnail": "https://i.ytimg.com/vi/aBAcYi6W0zw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=aBAcYi6W0zw",
-          "views": 6261079,
-          "age_hours": 89.4
+          "views": 6892099,
+          "age_hours": 95.3
         }
       ]
     },
     {
       "phrase": "pmwc",
       "video_count": 4,
-      "momentum": 21.99,
+      "momentum": 21.18,
       "regions": [
         "IN"
       ],
@@ -537,8 +641,8 @@
           "channel": "Snax Gaming",
           "thumbnail": "https://i.ytimg.com/vi/X58t82y5bz4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=X58t82y5bz4",
-          "views": 6731052,
-          "age_hours": 6.2
+          "views": 6789156,
+          "age_hours": 12.1
         },
         {
           "id": "dyCiBem2p80",
@@ -546,8 +650,8 @@
           "channel": "LoLzZz Gaming",
           "thumbnail": "https://i.ytimg.com/vi/dyCiBem2p80/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=dyCiBem2p80",
-          "views": 1600933,
-          "age_hours": 8.7
+          "views": 1615792,
+          "age_hours": 14.7
         },
         {
           "id": "2yTCadbJcG4",
@@ -555,37 +659,37 @@
           "channel": "PUBG MOBILE Esports",
           "thumbnail": "https://i.ytimg.com/vi/2yTCadbJcG4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=2yTCadbJcG4",
-          "views": 1406743,
-          "age_hours": 11.6
+          "views": 1422191,
+          "age_hours": 17.6
         }
       ]
     },
     {
       "phrase": "independenceday",
       "video_count": 4,
-      "momentum": 20.82,
+      "momentum": 20.9,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "nuHip--1roA",
-          "title": "Happy 80th Independence Day🇮🇳🫡 #shorts #love #independenceday",
-          "channel": "With Love Nagaraj Sangeetha",
-          "thumbnail": "https://i.ytimg.com/vi/nuHip--1roA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=nuHip--1roA",
-          "views": 1540828,
-          "age_hours": 17.0
-        },
-        {
           "id": "FCxQp9XCkfg",
           "title": "Independence Day 🇮🇳par mile laddu 🤤 || Jaanvi Patel #schoollife #independenceday #funny",
           "channel": "jaanvi patel",
           "thumbnail": "https://i.ytimg.com/vi/FCxQp9XCkfg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=FCxQp9XCkfg",
-          "views": 1780323,
-          "age_hours": 17.9
+          "views": 3364841,
+          "age_hours": 23.8
+        },
+        {
+          "id": "nuHip--1roA",
+          "title": "Happy 80th Independence Day🇮🇳🫡 #shorts #love #independenceday",
+          "channel": "With Love Nagaraj Sangeetha",
+          "thumbnail": "https://i.ytimg.com/vi/nuHip--1roA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=nuHip--1roA",
+          "views": 2144418,
+          "age_hours": 23.0
         },
         {
           "id": "biAwnd3qcvA",
@@ -593,53 +697,15 @@
           "channel": "Filmy Surraj",
           "thumbnail": "https://i.ytimg.com/vi/biAwnd3qcvA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=biAwnd3qcvA",
-          "views": 12474436,
-          "age_hours": 164.7
-        }
-      ]
-    },
-    {
-      "phrase": "pmwc ewc",
-      "video_count": 3,
-      "momentum": 20.45,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "X58t82y5bz4",
-          "title": "PMWC at EWC GRAND FINALS - WATCHPARTY LIVE FROM PARIS",
-          "channel": "Snax Gaming",
-          "thumbnail": "https://i.ytimg.com/vi/X58t82y5bz4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=X58t82y5bz4",
-          "views": 6731052,
-          "age_hours": 6.2
-        },
-        {
-          "id": "2yTCadbJcG4",
-          "title": "[EN] PMWC at EWC 26 Finals D2 | PUBG MOBILE WORLD CUP at 2026 ESPORTS WORLD CUP",
-          "channel": "PUBG MOBILE Esports",
-          "thumbnail": "https://i.ytimg.com/vi/2yTCadbJcG4/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2yTCadbJcG4",
-          "views": 1406743,
-          "age_hours": 11.6
-        },
-        {
-          "id": "iAynAx7qJ7k",
-          "title": "[IND] PMWC at EWC 26 - दिन 1 - फाइनल्स",
-          "channel": "EWC India",
-          "thumbnail": "https://i.ytimg.com/vi/iAynAx7qJ7k/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=iAynAx7qJ7k",
-          "views": 915686,
-          "age_hours": 37.5
+          "views": 12927625,
+          "age_hours": 170.7
         }
       ]
     },
     {
       "phrase": "budget",
       "video_count": 4,
-      "momentum": 19.82,
+      "momentum": 19.86,
       "regions": [
         "IN"
       ],
@@ -651,8 +717,8 @@
           "channel": "Priyal Kukreja",
           "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-          "views": 12061370,
-          "age_hours": 63.8
+          "views": 14387771,
+          "age_hours": 69.8
         },
         {
           "id": "rPqPiurLrvg",
@@ -660,8 +726,8 @@
           "channel": "Priyal Kukreja",
           "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-          "views": 47389197,
-          "age_hours": 257.9
+          "views": 48265659,
+          "age_hours": 263.8
         },
         {
           "id": "T08fV8ql1gU",
@@ -669,15 +735,53 @@
           "channel": "Dushyant kukreja",
           "thumbnail": "https://i.ytimg.com/vi/T08fV8ql1gU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=T08fV8ql1gU",
-          "views": 5014614,
-          "age_hours": 63.9
+          "views": 5694248,
+          "age_hours": 69.8
+        }
+      ]
+    },
+    {
+      "phrase": "pmwc ewc",
+      "video_count": 3,
+      "momentum": 19.73,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "X58t82y5bz4",
+          "title": "PMWC at EWC GRAND FINALS - WATCHPARTY LIVE FROM PARIS",
+          "channel": "Snax Gaming",
+          "thumbnail": "https://i.ytimg.com/vi/X58t82y5bz4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=X58t82y5bz4",
+          "views": 6789156,
+          "age_hours": 12.1
+        },
+        {
+          "id": "2yTCadbJcG4",
+          "title": "[EN] PMWC at EWC 26 Finals D2 | PUBG MOBILE WORLD CUP at 2026 ESPORTS WORLD CUP",
+          "channel": "PUBG MOBILE Esports",
+          "thumbnail": "https://i.ytimg.com/vi/2yTCadbJcG4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=2yTCadbJcG4",
+          "views": 1422191,
+          "age_hours": 17.6
+        },
+        {
+          "id": "iAynAx7qJ7k",
+          "title": "[IND] PMWC at EWC 26 - दिन 1 - फाइनल्स",
+          "channel": "EWC India",
+          "thumbnail": "https://i.ytimg.com/vi/iAynAx7qJ7k/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=iAynAx7qJ7k",
+          "views": 916949,
+          "age_hours": 43.5
         }
       ]
     },
     {
       "phrase": "vingadores",
       "video_count": 4,
-      "momentum": 19.73,
+      "momentum": 19.15,
       "regions": [
         "BR"
       ],
@@ -689,8 +793,8 @@
           "channel": "Ei Nerd",
           "thumbnail": "https://i.ytimg.com/vi/UINPvvAAT7M/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=UINPvvAAT7M",
-          "views": 387182,
-          "age_hours": 12.4
+          "views": 414786,
+          "age_hours": 18.3
         },
         {
           "id": "E1dW377oqXw",
@@ -698,8 +802,8 @@
           "channel": "ingresso.com",
           "thumbnail": "https://i.ytimg.com/vi/E1dW377oqXw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=E1dW377oqXw",
-          "views": 672432,
-          "age_hours": 18.6
+          "views": 700808,
+          "age_hours": 24.5
         },
         {
           "id": "oM6F24pDRWY",
@@ -707,15 +811,15 @@
           "channel": "Nerd Land",
           "thumbnail": "https://i.ytimg.com/vi/oM6F24pDRWY/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=oM6F24pDRWY",
-          "views": 144739,
-          "age_hours": 16.2
+          "views": 152225,
+          "age_hours": 22.2
         }
       ]
     },
     {
       "phrase": "humor",
       "video_count": 4,
-      "momentum": 18.75,
+      "momentum": 18.61,
       "regions": [
         "BR"
       ],
@@ -727,17 +831,8 @@
           "channel": "Postei Brasil ",
           "thumbnail": "https://i.ytimg.com/vi/k2DV-7fnO5U/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=k2DV-7fnO5U",
-          "views": 4346836,
-          "age_hours": 130.6
-        },
-        {
-          "id": "twCs1gHZMLM",
-          "title": "filha curiosa 😂 #humor #viral #comedia",
-          "channel": "sammy e rafael",
-          "thumbnail": "https://i.ytimg.com/vi/twCs1gHZMLM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=twCs1gHZMLM",
-          "views": 1008659,
-          "age_hours": 32.4
+          "views": 4352637,
+          "age_hours": 136.6
         },
         {
           "id": "eteowr1lx74",
@@ -745,15 +840,24 @@
           "channel": "A ruiva da roça / Fabio Castro",
           "thumbnail": "https://i.ytimg.com/vi/eteowr1lx74/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=eteowr1lx74",
-          "views": 1998913,
-          "age_hours": 57.4
+          "views": 2029243,
+          "age_hours": 63.3
+        },
+        {
+          "id": "twCs1gHZMLM",
+          "title": "filha curiosa 😂 #humor #viral #comedia",
+          "channel": "sammy e rafael",
+          "thumbnail": "https://i.ytimg.com/vi/twCs1gHZMLM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=twCs1gHZMLM",
+          "views": 1028516,
+          "age_hours": 38.3
         }
       ]
     },
     {
       "phrase": "grand finals watchparty",
       "video_count": 2,
-      "momentum": 18.35,
+      "momentum": 17.5,
       "regions": [
         "IN"
       ],
@@ -765,8 +869,8 @@
           "channel": "Snax Gaming",
           "thumbnail": "https://i.ytimg.com/vi/X58t82y5bz4/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=X58t82y5bz4",
-          "views": 6731052,
-          "age_hours": 6.2
+          "views": 6789156,
+          "age_hours": 12.1
         },
         {
           "id": "dyCiBem2p80",
@@ -774,15 +878,91 @@
           "channel": "LoLzZz Gaming",
           "thumbnail": "https://i.ytimg.com/vi/dyCiBem2p80/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=dyCiBem2p80",
-          "views": 1600933,
-          "age_hours": 8.7
+          "views": 1615792,
+          "age_hours": 14.7
+        }
+      ]
+    },
+    {
+      "phrase": "helden",
+      "video_count": 4,
+      "momentum": 17.33,
+      "regions": [
+        "DE"
+      ],
+      "lang": "de",
+      "example_videos": [
+        {
+          "id": "WXiSxzInzvw",
+          "title": "ICH FINDE GEHEIME OP BASE von YOUTUBER🤑(MINECRAFT HELDEN 3)",
+          "channel": "TriDan",
+          "thumbnail": "https://i.ytimg.com/vi/WXiSxzInzvw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=WXiSxzInzvw",
+          "views": 37373,
+          "age_hours": 4.3
+        },
+        {
+          "id": "QnZ4b2VL7iA",
+          "title": "Ich FINDE 2 NEUE GEHEIME BASEN der PAULBERGER MAFIA (HELDEN 3)",
+          "channel": "LiveLuc",
+          "thumbnail": "https://i.ytimg.com/vi/QnZ4b2VL7iA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=QnZ4b2VL7iA",
+          "views": 23052,
+          "age_hours": 5.3
+        },
+        {
+          "id": "WGrcnGVJEc8",
+          "title": "Ich BAUE den ULTIMATIVEN GEHEIM-BUNKER in Minecraft Helden 3!",
+          "channel": "iCrimax",
+          "thumbnail": "https://i.ytimg.com/vi/WGrcnGVJEc8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=WGrcnGVJEc8",
+          "views": 212181,
+          "age_hours": 29.3
+        }
+      ]
+    },
+    {
+      "phrase": "minecraft",
+      "video_count": 4,
+      "momentum": 16.52,
+      "regions": [
+        "DE"
+      ],
+      "lang": "de",
+      "example_videos": [
+        {
+          "id": "WXiSxzInzvw",
+          "title": "ICH FINDE GEHEIME OP BASE von YOUTUBER🤑(MINECRAFT HELDEN 3)",
+          "channel": "TriDan",
+          "thumbnail": "https://i.ytimg.com/vi/WXiSxzInzvw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=WXiSxzInzvw",
+          "views": 37373,
+          "age_hours": 4.3
+        },
+        {
+          "id": "WGrcnGVJEc8",
+          "title": "Ich BAUE den ULTIMATIVEN GEHEIM-BUNKER in Minecraft Helden 3!",
+          "channel": "iCrimax",
+          "thumbnail": "https://i.ytimg.com/vi/WGrcnGVJEc8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=WGrcnGVJEc8",
+          "views": 212181,
+          "age_hours": 29.3
+        },
+        {
+          "id": "6rNe_DEBTfU",
+          "title": "Ich muss Avive befreien ... Minecraft Helden 3",
+          "channel": "Craftmir",
+          "thumbnail": "https://i.ytimg.com/vi/6rNe_DEBTfU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6rNe_DEBTfU",
+          "views": 62195,
+          "age_hours": 27.3
         }
       ]
     },
     {
       "phrase": "iphone",
       "video_count": 4,
-      "momentum": 16.47,
+      "momentum": 16.35,
       "regions": [
         "BR"
       ],
@@ -794,8 +974,8 @@
           "channel": "Izabela Anholett",
           "thumbnail": "https://i.ytimg.com/vi/uI-qstDty4Y/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=uI-qstDty4Y",
-          "views": 954905,
-          "age_hours": 211.7
+          "views": 958924,
+          "age_hours": 217.6
         },
         {
           "id": "6cN8EzTHJtk",
@@ -803,8 +983,8 @@
           "channel": "RC ASSISTEC ",
           "thumbnail": "https://i.ytimg.com/vi/6cN8EzTHJtk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=6cN8EzTHJtk",
-          "views": 853301,
-          "age_hours": 101.8
+          "views": 856879,
+          "age_hours": 107.8
         },
         {
           "id": "2KWf5AWhXak",
@@ -812,102 +992,15 @@
           "channel": "Perety games",
           "thumbnail": "https://i.ytimg.com/vi/2KWf5AWhXak/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=2KWf5AWhXak",
-          "views": 479410,
-          "age_hours": 50.4
-        }
-      ]
-    },
-    {
-      "phrase": "youtubeshorts cringe lifehack",
-      "video_count": 2,
-      "momentum": 16.35,
-      "regions": [
-        "GB"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "NuGHQy7f1mg",
-          "title": "He found a musical road... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/NuGHQy7f1mg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=NuGHQy7f1mg",
-          "views": 2697010,
-          "age_hours": 35.6
-        },
-        {
-          "id": "MgbjE6lbqSY",
-          "title": "Things to do when bored... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/MgbjE6lbqSY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=MgbjE6lbqSY",
-          "views": 2830342,
-          "age_hours": 60.3
-        }
-      ]
-    },
-    {
-      "phrase": "cringe lifehack comedy",
-      "video_count": 2,
-      "momentum": 16.35,
-      "regions": [
-        "GB"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "NuGHQy7f1mg",
-          "title": "He found a musical road... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/NuGHQy7f1mg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=NuGHQy7f1mg",
-          "views": 2697010,
-          "age_hours": 35.6
-        },
-        {
-          "id": "MgbjE6lbqSY",
-          "title": "Things to do when bored... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/MgbjE6lbqSY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=MgbjE6lbqSY",
-          "views": 2830342,
-          "age_hours": 60.3
-        }
-      ]
-    },
-    {
-      "phrase": "lifehack comedy funny",
-      "video_count": 2,
-      "momentum": 16.35,
-      "regions": [
-        "GB"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "NuGHQy7f1mg",
-          "title": "He found a musical road... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/NuGHQy7f1mg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=NuGHQy7f1mg",
-          "views": 2697010,
-          "age_hours": 35.6
-        },
-        {
-          "id": "MgbjE6lbqSY",
-          "title": "Things to do when bored... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/MgbjE6lbqSY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=MgbjE6lbqSY",
-          "views": 2830342,
-          "age_hours": 60.3
+          "views": 487016,
+          "age_hours": 56.3
         }
       ]
     },
     {
       "phrase": "budget rakshabandhan priyalkukreja",
       "video_count": 2,
-      "momentum": 16.15,
+      "momentum": 16.2,
       "regions": [
         "IN"
       ],
@@ -919,8 +1012,8 @@
           "channel": "Priyal Kukreja",
           "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-          "views": 12061370,
-          "age_hours": 63.8
+          "views": 14387771,
+          "age_hours": 69.8
         },
         {
           "id": "rPqPiurLrvg",
@@ -928,37 +1021,37 @@
           "channel": "Priyal Kukreja",
           "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-          "views": 47389197,
-          "age_hours": 257.9
+          "views": 48265659,
+          "age_hours": 263.8
         }
       ]
     },
     {
       "phrase": "minecraft helden",
       "video_count": 3,
-      "momentum": 15.34,
+      "momentum": 16.05,
       "regions": [
         "DE"
       ],
       "lang": "de",
       "example_videos": [
         {
+          "id": "WXiSxzInzvw",
+          "title": "ICH FINDE GEHEIME OP BASE von YOUTUBER🤑(MINECRAFT HELDEN 3)",
+          "channel": "TriDan",
+          "thumbnail": "https://i.ytimg.com/vi/WXiSxzInzvw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=WXiSxzInzvw",
+          "views": 37373,
+          "age_hours": 4.3
+        },
+        {
           "id": "WGrcnGVJEc8",
           "title": "Ich BAUE den ULTIMATIVEN GEHEIM-BUNKER in Minecraft Helden 3!",
           "channel": "iCrimax",
           "thumbnail": "https://i.ytimg.com/vi/WGrcnGVJEc8/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=WGrcnGVJEc8",
-          "views": 193501,
-          "age_hours": 23.4
-        },
-        {
-          "id": "V4Mq3AhFwWQ",
-          "title": "ICH werde aus MINECRAFT HELDEN 3 GEBANNT🚫DAS WARS...?",
-          "channel": "TriDan",
-          "thumbnail": "https://i.ytimg.com/vi/V4Mq3AhFwWQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=V4Mq3AhFwWQ",
-          "views": 104499,
-          "age_hours": 21.9
+          "views": 212181,
+          "age_hours": 29.3
         },
         {
           "id": "6rNe_DEBTfU",
@@ -966,15 +1059,15 @@
           "channel": "Craftmir",
           "thumbnail": "https://i.ytimg.com/vi/6rNe_DEBTfU/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=6rNe_DEBTfU",
-          "views": 55776,
-          "age_hours": 21.4
+          "views": 62195,
+          "age_hours": 27.3
         }
       ]
     },
     {
       "phrase": "priyalkukreja shorts ytshorts",
       "video_count": 2,
-      "momentum": 15.33,
+      "momentum": 15.35,
       "regions": [
         "IN"
       ],
@@ -986,8 +1079,8 @@
           "channel": "Priyal Kukreja",
           "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-          "views": 47389197,
-          "age_hours": 257.9
+          "views": 48265659,
+          "age_hours": 263.8
         },
         {
           "id": "aBAcYi6W0zw",
@@ -995,8 +1088,37 @@
           "channel": "Priyal Kukreja",
           "thumbnail": "https://i.ytimg.com/vi/aBAcYi6W0zw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=aBAcYi6W0zw",
-          "views": 6261079,
-          "age_hours": 89.4
+          "views": 6892099,
+          "age_hours": 95.3
+        }
+      ]
+    },
+    {
+      "phrase": "gta live gta5",
+      "video_count": 2,
+      "momentum": 15.22,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "xZO1-fJkD-4",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/xZO1-fJkD-4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=xZO1-fJkD-4",
+          "views": 962256,
+          "age_hours": 8.6
+        },
+        {
+          "id": "xBjQFw6nCHw",
+          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+          "channel": "Hear Is Live",
+          "thumbnail": "https://i.ytimg.com/vi/xBjQFw6nCHw/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=xBjQFw6nCHw",
+          "views": 559433,
+          "age_hours": 5.3
         }
       ]
     }
@@ -1006,7 +1128,7 @@
       {
         "phrase": "avengers doomsday",
         "video_count": 2,
-        "momentum": 15.02,
+        "momentum": 14.66,
         "regions": [
           "US"
         ],
@@ -1018,8 +1140,8 @@
             "channel": "Marvel Entertainment",
             "thumbnail": "https://i.ytimg.com/vi/X1aFkAkFASk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=X1aFkAkFASk",
-            "views": 22761708,
-            "age_hours": 26.3
+            "views": 23885883,
+            "age_hours": 32.2
           },
           {
             "id": "t2I_6p1TwfM",
@@ -1027,37 +1149,8 @@
             "channel": "New Rockstars",
             "thumbnail": "https://i.ytimg.com/vi/t2I_6p1TwfM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=t2I_6p1TwfM",
-            "views": 337579,
-            "age_hours": 5.8
-          }
-        ]
-      },
-      {
-        "phrase": "video oficial",
-        "video_count": 2,
-        "momentum": 14.89,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "_NlOIjOByUg",
-            "title": "LIL NAAY - PERRA (VIDEO OFICIAL)",
-            "channel": "Lil Naay",
-            "thumbnail": "https://i.ytimg.com/vi/_NlOIjOByUg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=_NlOIjOByUg",
-            "views": 216373,
-            "age_hours": 5.7
-          },
-          {
-            "id": "TXPQ2wDRSNM",
-            "title": "Bulin 47 X Afriken An - Leo Leo Remix (Video Oficial)",
-            "channel": "Bulin 47 Oficial",
-            "thumbnail": "https://i.ytimg.com/vi/TXPQ2wDRSNM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=TXPQ2wDRSNM",
-            "views": 1759871,
-            "age_hours": 38.4
+            "views": 631926,
+            "age_hours": 11.7
           }
         ]
       },
@@ -1076,8 +1169,8 @@
             "channel": "HARDWARE EN",
             "thumbnail": "https://i.ytimg.com/vi/Thh2i5SJAUw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Thh2i5SJAUw",
-            "views": 10398520,
-            "age_hours": 235.0
+            "views": 10466516,
+            "age_hours": 241.0
           },
           {
             "id": "GhqZIHQ8N4Y",
@@ -1085,8 +1178,8 @@
             "channel": "SignalRGB",
             "thumbnail": "https://i.ytimg.com/vi/GhqZIHQ8N4Y/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=GhqZIHQ8N4Y",
-            "views": 1344457,
-            "age_hours": 105.5
+            "views": 1462251,
+            "age_hours": 111.4
           }
         ]
       },
@@ -1105,8 +1198,8 @@
             "channel": "HARDWARE EN",
             "thumbnail": "https://i.ytimg.com/vi/Thh2i5SJAUw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Thh2i5SJAUw",
-            "views": 10398520,
-            "age_hours": 235.0
+            "views": 10466516,
+            "age_hours": 241.0
           },
           {
             "id": "GhqZIHQ8N4Y",
@@ -1114,15 +1207,44 @@
             "channel": "SignalRGB",
             "thumbnail": "https://i.ytimg.com/vi/GhqZIHQ8N4Y/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=GhqZIHQ8N4Y",
-            "views": 1344457,
-            "age_hours": 105.5
+            "views": 1462251,
+            "age_hours": 111.4
+          }
+        ]
+      },
+      {
+        "phrase": "video oficial",
+        "video_count": 2,
+        "momentum": 14.04,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "_NlOIjOByUg",
+            "title": "LIL NAAY - PERRA (VIDEO OFICIAL)",
+            "channel": "Lil Naay",
+            "thumbnail": "https://i.ytimg.com/vi/_NlOIjOByUg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=_NlOIjOByUg",
+            "views": 306644,
+            "age_hours": 11.7
+          },
+          {
+            "id": "TXPQ2wDRSNM",
+            "title": "Bulin 47 X Afriken An - Leo Leo Remix (Video Oficial)",
+            "channel": "Bulin 47 Oficial",
+            "thumbnail": "https://i.ytimg.com/vi/TXPQ2wDRSNM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=TXPQ2wDRSNM",
+            "views": 1864988,
+            "age_hours": 44.4
           }
         ]
       },
       {
         "phrase": "kingdom hearts",
         "video_count": 2,
-        "momentum": 13.53,
+        "momentum": 13.07,
         "regions": [
           "US"
         ],
@@ -1134,8 +1256,8 @@
             "channel": "IGN",
             "thumbnail": "https://i.ytimg.com/vi/5qm6_DoM1Pc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=5qm6_DoM1Pc",
-            "views": 419586,
-            "age_hours": 6.4
+            "views": 582502,
+            "age_hours": 12.3
           },
           {
             "id": "54eFEhlnIjg",
@@ -1143,15 +1265,15 @@
             "channel": "Pixar",
             "thumbnail": "https://i.ytimg.com/vi/54eFEhlnIjg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=54eFEhlnIjg",
-            "views": 1417502,
-            "age_hours": 27.5
+            "views": 1449921,
+            "age_hours": 33.4
           }
         ]
       },
       {
         "phrase": "spider man",
         "video_count": 2,
-        "momentum": 12.56,
+        "momentum": 12.54,
         "regions": [
           "US"
         ],
@@ -1163,8 +1285,8 @@
             "channel": "Merrick Hanna",
             "thumbnail": "https://i.ytimg.com/vi/pyQ0Mvjspu0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=pyQ0Mvjspu0",
-            "views": 6599164,
-            "age_hours": 100.3
+            "views": 7163913,
+            "age_hours": 106.2
           },
           {
             "id": "P1FwVPylNnQ",
@@ -1172,15 +1294,15 @@
             "channel": "Dawg eddits",
             "thumbnail": "https://i.ytimg.com/vi/P1FwVPylNnQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=P1FwVPylNnQ",
-            "views": 5858069,
-            "age_hours": 87.6
+            "views": 5936726,
+            "age_hours": 93.6
           }
         ]
       },
       {
         "phrase": "live event",
         "video_count": 2,
-        "momentum": 12.39,
+        "momentum": 11.95,
         "regions": [
           "US"
         ],
@@ -1192,8 +1314,8 @@
             "channel": "Typical Gamer",
             "thumbnail": "https://i.ytimg.com/vi/2w5Sx9j2lSA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=2w5Sx9j2lSA",
-            "views": 868858,
-            "age_hours": 7.9
+            "views": 876956,
+            "age_hours": 13.8
           },
           {
             "id": "RY_2qm0Ihkk",
@@ -1201,8 +1323,8 @@
             "channel": "TG Plays",
             "thumbnail": "https://i.ytimg.com/vi/RY_2qm0Ihkk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=RY_2qm0Ihkk",
-            "views": 256223,
-            "age_hours": 8.5
+            "views": 374866,
+            "age_hours": 14.4
           }
         ]
       }
@@ -1211,7 +1333,7 @@
       {
         "phrase": "rakshabandhan",
         "video_count": 5,
-        "momentum": 25.41,
+        "momentum": 25.47,
         "regions": [
           "IN"
         ],
@@ -1223,8 +1345,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-            "views": 12061370,
-            "age_hours": 63.8
+            "views": 14387771,
+            "age_hours": 69.8
           },
           {
             "id": "rPqPiurLrvg",
@@ -1232,8 +1354,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-            "views": 47389197,
-            "age_hours": 257.9
+            "views": 48265659,
+            "age_hours": 263.8
           },
           {
             "id": "T08fV8ql1gU",
@@ -1241,15 +1363,15 @@
             "channel": "Dushyant kukreja",
             "thumbnail": "https://i.ytimg.com/vi/T08fV8ql1gU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=T08fV8ql1gU",
-            "views": 5014614,
-            "age_hours": 63.9
+            "views": 5694248,
+            "age_hours": 69.8
           }
         ]
       },
       {
         "phrase": "independence",
         "video_count": 5,
-        "momentum": 24.82,
+        "momentum": 24.86,
         "regions": [
           "IN"
         ],
@@ -1261,17 +1383,8 @@
             "channel": "Hetal DIY Queen",
             "thumbnail": "https://i.ytimg.com/vi/Hkq4WKJbyxw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Hkq4WKJbyxw",
-            "views": 4575277,
-            "age_hours": 38.9
-          },
-          {
-            "id": "nuHip--1roA",
-            "title": "Happy 80th Independence Day🇮🇳🫡 #shorts #love #independenceday",
-            "channel": "With Love Nagaraj Sangeetha",
-            "thumbnail": "https://i.ytimg.com/vi/nuHip--1roA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nuHip--1roA",
-            "views": 1540828,
-            "age_hours": 17.0
+            "views": 4964148,
+            "age_hours": 44.8
           },
           {
             "id": "FCxQp9XCkfg",
@@ -1279,15 +1392,24 @@
             "channel": "jaanvi patel",
             "thumbnail": "https://i.ytimg.com/vi/FCxQp9XCkfg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=FCxQp9XCkfg",
-            "views": 1780323,
-            "age_hours": 17.9
+            "views": 3364841,
+            "age_hours": 23.8
+          },
+          {
+            "id": "nuHip--1roA",
+            "title": "Happy 80th Independence Day🇮🇳🫡 #shorts #love #independenceday",
+            "channel": "With Love Nagaraj Sangeetha",
+            "thumbnail": "https://i.ytimg.com/vi/nuHip--1roA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=nuHip--1roA",
+            "views": 2144418,
+            "age_hours": 23.0
           }
         ]
       },
       {
         "phrase": "low budget rakshabandhan",
         "video_count": 3,
-        "momentum": 23.66,
+        "momentum": 23.74,
         "regions": [
           "IN"
         ],
@@ -1299,8 +1421,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-            "views": 12061370,
-            "age_hours": 63.8
+            "views": 14387771,
+            "age_hours": 69.8
           },
           {
             "id": "rPqPiurLrvg",
@@ -1308,8 +1430,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-            "views": 47389197,
-            "age_hours": 257.9
+            "views": 48265659,
+            "age_hours": 263.8
           },
           {
             "id": "T08fV8ql1gU",
@@ -1317,15 +1439,15 @@
             "channel": "Dushyant kukreja",
             "thumbnail": "https://i.ytimg.com/vi/T08fV8ql1gU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=T08fV8ql1gU",
-            "views": 5014614,
-            "age_hours": 63.9
+            "views": 5694248,
+            "age_hours": 69.8
           }
         ]
       },
       {
         "phrase": "rakshabandhan priyalkukreja shorts",
         "video_count": 3,
-        "momentum": 23.41,
+        "momentum": 23.49,
         "regions": [
           "IN"
         ],
@@ -1337,8 +1459,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-            "views": 12061370,
-            "age_hours": 63.8
+            "views": 14387771,
+            "age_hours": 69.8
           },
           {
             "id": "rPqPiurLrvg",
@@ -1346,8 +1468,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-            "views": 47389197,
-            "age_hours": 257.9
+            "views": 48265659,
+            "age_hours": 263.8
           },
           {
             "id": "aBAcYi6W0zw",
@@ -1355,15 +1477,15 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/aBAcYi6W0zw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=aBAcYi6W0zw",
-            "views": 6261079,
-            "age_hours": 89.4
+            "views": 6892099,
+            "age_hours": 95.3
           }
         ]
       },
       {
         "phrase": "pmwc",
         "video_count": 4,
-        "momentum": 21.99,
+        "momentum": 21.18,
         "regions": [
           "IN"
         ],
@@ -1375,8 +1497,8 @@
             "channel": "Snax Gaming",
             "thumbnail": "https://i.ytimg.com/vi/X58t82y5bz4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=X58t82y5bz4",
-            "views": 6731052,
-            "age_hours": 6.2
+            "views": 6789156,
+            "age_hours": 12.1
           },
           {
             "id": "dyCiBem2p80",
@@ -1384,8 +1506,8 @@
             "channel": "LoLzZz Gaming",
             "thumbnail": "https://i.ytimg.com/vi/dyCiBem2p80/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dyCiBem2p80",
-            "views": 1600933,
-            "age_hours": 8.7
+            "views": 1615792,
+            "age_hours": 14.7
           },
           {
             "id": "2yTCadbJcG4",
@@ -1393,37 +1515,37 @@
             "channel": "PUBG MOBILE Esports",
             "thumbnail": "https://i.ytimg.com/vi/2yTCadbJcG4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=2yTCadbJcG4",
-            "views": 1406743,
-            "age_hours": 11.6
+            "views": 1422191,
+            "age_hours": 17.6
           }
         ]
       },
       {
         "phrase": "independenceday",
         "video_count": 4,
-        "momentum": 20.82,
+        "momentum": 20.9,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "nuHip--1roA",
-            "title": "Happy 80th Independence Day🇮🇳🫡 #shorts #love #independenceday",
-            "channel": "With Love Nagaraj Sangeetha",
-            "thumbnail": "https://i.ytimg.com/vi/nuHip--1roA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nuHip--1roA",
-            "views": 1540828,
-            "age_hours": 17.0
-          },
-          {
             "id": "FCxQp9XCkfg",
             "title": "Independence Day 🇮🇳par mile laddu 🤤 || Jaanvi Patel #schoollife #independenceday #funny",
             "channel": "jaanvi patel",
             "thumbnail": "https://i.ytimg.com/vi/FCxQp9XCkfg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=FCxQp9XCkfg",
-            "views": 1780323,
-            "age_hours": 17.9
+            "views": 3364841,
+            "age_hours": 23.8
+          },
+          {
+            "id": "nuHip--1roA",
+            "title": "Happy 80th Independence Day🇮🇳🫡 #shorts #love #independenceday",
+            "channel": "With Love Nagaraj Sangeetha",
+            "thumbnail": "https://i.ytimg.com/vi/nuHip--1roA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=nuHip--1roA",
+            "views": 2144418,
+            "age_hours": 23.0
           },
           {
             "id": "biAwnd3qcvA",
@@ -1431,53 +1553,15 @@
             "channel": "Filmy Surraj",
             "thumbnail": "https://i.ytimg.com/vi/biAwnd3qcvA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=biAwnd3qcvA",
-            "views": 12474436,
-            "age_hours": 164.7
-          }
-        ]
-      },
-      {
-        "phrase": "pmwc ewc",
-        "video_count": 3,
-        "momentum": 20.45,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "X58t82y5bz4",
-            "title": "PMWC at EWC GRAND FINALS - WATCHPARTY LIVE FROM PARIS",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/X58t82y5bz4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=X58t82y5bz4",
-            "views": 6731052,
-            "age_hours": 6.2
-          },
-          {
-            "id": "2yTCadbJcG4",
-            "title": "[EN] PMWC at EWC 26 Finals D2 | PUBG MOBILE WORLD CUP at 2026 ESPORTS WORLD CUP",
-            "channel": "PUBG MOBILE Esports",
-            "thumbnail": "https://i.ytimg.com/vi/2yTCadbJcG4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2yTCadbJcG4",
-            "views": 1406743,
-            "age_hours": 11.6
-          },
-          {
-            "id": "iAynAx7qJ7k",
-            "title": "[IND] PMWC at EWC 26 - दिन 1 - फाइनल्स",
-            "channel": "EWC India",
-            "thumbnail": "https://i.ytimg.com/vi/iAynAx7qJ7k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=iAynAx7qJ7k",
-            "views": 915686,
-            "age_hours": 37.5
+            "views": 12927625,
+            "age_hours": 170.7
           }
         ]
       },
       {
         "phrase": "budget",
         "video_count": 4,
-        "momentum": 19.82,
+        "momentum": 19.86,
         "regions": [
           "IN"
         ],
@@ -1489,8 +1573,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-            "views": 12061370,
-            "age_hours": 63.8
+            "views": 14387771,
+            "age_hours": 69.8
           },
           {
             "id": "rPqPiurLrvg",
@@ -1498,8 +1582,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-            "views": 47389197,
-            "age_hours": 257.9
+            "views": 48265659,
+            "age_hours": 263.8
           },
           {
             "id": "T08fV8ql1gU",
@@ -1507,15 +1591,15 @@
             "channel": "Dushyant kukreja",
             "thumbnail": "https://i.ytimg.com/vi/T08fV8ql1gU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=T08fV8ql1gU",
-            "views": 5014614,
-            "age_hours": 63.9
+            "views": 5694248,
+            "age_hours": 69.8
           }
         ]
       },
       {
-        "phrase": "grand finals watchparty",
-        "video_count": 2,
-        "momentum": 18.35,
+        "phrase": "pmwc ewc",
+        "video_count": 3,
+        "momentum": 19.73,
         "regions": [
           "IN"
         ],
@@ -1527,8 +1611,46 @@
             "channel": "Snax Gaming",
             "thumbnail": "https://i.ytimg.com/vi/X58t82y5bz4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=X58t82y5bz4",
-            "views": 6731052,
-            "age_hours": 6.2
+            "views": 6789156,
+            "age_hours": 12.1
+          },
+          {
+            "id": "2yTCadbJcG4",
+            "title": "[EN] PMWC at EWC 26 Finals D2 | PUBG MOBILE WORLD CUP at 2026 ESPORTS WORLD CUP",
+            "channel": "PUBG MOBILE Esports",
+            "thumbnail": "https://i.ytimg.com/vi/2yTCadbJcG4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=2yTCadbJcG4",
+            "views": 1422191,
+            "age_hours": 17.6
+          },
+          {
+            "id": "iAynAx7qJ7k",
+            "title": "[IND] PMWC at EWC 26 - दिन 1 - फाइनल्स",
+            "channel": "EWC India",
+            "thumbnail": "https://i.ytimg.com/vi/iAynAx7qJ7k/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iAynAx7qJ7k",
+            "views": 916949,
+            "age_hours": 43.5
+          }
+        ]
+      },
+      {
+        "phrase": "grand finals watchparty",
+        "video_count": 2,
+        "momentum": 17.5,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "X58t82y5bz4",
+            "title": "PMWC at EWC GRAND FINALS - WATCHPARTY LIVE FROM PARIS",
+            "channel": "Snax Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/X58t82y5bz4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=X58t82y5bz4",
+            "views": 6789156,
+            "age_hours": 12.1
           },
           {
             "id": "dyCiBem2p80",
@@ -1536,15 +1658,15 @@
             "channel": "LoLzZz Gaming",
             "thumbnail": "https://i.ytimg.com/vi/dyCiBem2p80/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dyCiBem2p80",
-            "views": 1600933,
-            "age_hours": 8.7
+            "views": 1615792,
+            "age_hours": 14.7
           }
         ]
       },
       {
         "phrase": "budget rakshabandhan priyalkukreja",
         "video_count": 2,
-        "momentum": 16.15,
+        "momentum": 16.2,
         "regions": [
           "IN"
         ],
@@ -1556,8 +1678,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-            "views": 12061370,
-            "age_hours": 63.8
+            "views": 14387771,
+            "age_hours": 69.8
           },
           {
             "id": "rPqPiurLrvg",
@@ -1565,15 +1687,15 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-            "views": 47389197,
-            "age_hours": 257.9
+            "views": 48265659,
+            "age_hours": 263.8
           }
         ]
       },
       {
         "phrase": "priyalkukreja shorts ytshorts",
         "video_count": 2,
-        "momentum": 15.33,
+        "momentum": 15.35,
         "regions": [
           "IN"
         ],
@@ -1585,8 +1707,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-            "views": 47389197,
-            "age_hours": 257.9
+            "views": 48265659,
+            "age_hours": 263.8
           },
           {
             "id": "aBAcYi6W0zw",
@@ -1594,15 +1716,102 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/aBAcYi6W0zw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=aBAcYi6W0zw",
-            "views": 6261079,
-            "age_hours": 89.4
+            "views": 6892099,
+            "age_hours": 95.3
+          }
+        ]
+      },
+      {
+        "phrase": "gta live gta5",
+        "video_count": 2,
+        "momentum": 15.22,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "xZO1-fJkD-4",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/xZO1-fJkD-4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xZO1-fJkD-4",
+            "views": 962256,
+            "age_hours": 8.6
+          },
+          {
+            "id": "xBjQFw6nCHw",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Hear Is Live",
+            "thumbnail": "https://i.ytimg.com/vi/xBjQFw6nCHw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xBjQFw6nCHw",
+            "views": 559433,
+            "age_hours": 5.3
+          }
+        ]
+      },
+      {
+        "phrase": "live gta5 gtav",
+        "video_count": 2,
+        "momentum": 15.22,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "xZO1-fJkD-4",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/xZO1-fJkD-4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xZO1-fJkD-4",
+            "views": 962256,
+            "age_hours": 8.6
+          },
+          {
+            "id": "xBjQFw6nCHw",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Hear Is Live",
+            "thumbnail": "https://i.ytimg.com/vi/xBjQFw6nCHw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xBjQFw6nCHw",
+            "views": 559433,
+            "age_hours": 5.3
+          }
+        ]
+      },
+      {
+        "phrase": "gta5 gtav gaming",
+        "video_count": 2,
+        "momentum": 15.22,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "xZO1-fJkD-4",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/xZO1-fJkD-4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xZO1-fJkD-4",
+            "views": 962256,
+            "age_hours": 8.6
+          },
+          {
+            "id": "xBjQFw6nCHw",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Hear Is Live",
+            "thumbnail": "https://i.ytimg.com/vi/xBjQFw6nCHw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xBjQFw6nCHw",
+            "views": 559433,
+            "age_hours": 5.3
           }
         ]
       },
       {
         "phrase": "avengers doomsday",
         "video_count": 2,
-        "momentum": 12.85,
+        "momentum": 12.55,
         "regions": [
           "IN"
         ],
@@ -1614,8 +1823,8 @@
             "channel": "ComicVerse",
             "thumbnail": "https://i.ytimg.com/vi/D7rqGuPYET0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=D7rqGuPYET0",
-            "views": 926554,
-            "age_hours": 20.9
+            "views": 1073239,
+            "age_hours": 26.9
           },
           {
             "id": "BACPg56lBXw",
@@ -1623,15 +1832,15 @@
             "channel": "Mokka Commentry",
             "thumbnail": "https://i.ytimg.com/vi/BACPg56lBXw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BACPg56lBXw",
-            "views": 251641,
-            "age_hours": 21.2
+            "views": 282813,
+            "age_hours": 27.1
           }
         ]
       },
       {
         "phrase": "trailer breakdown",
         "video_count": 2,
-        "momentum": 12.85,
+        "momentum": 12.55,
         "regions": [
           "IN"
         ],
@@ -1643,8 +1852,8 @@
             "channel": "ComicVerse",
             "thumbnail": "https://i.ytimg.com/vi/D7rqGuPYET0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=D7rqGuPYET0",
-            "views": 926554,
-            "age_hours": 20.9
+            "views": 1073239,
+            "age_hours": 26.9
           },
           {
             "id": "BACPg56lBXw",
@@ -1652,37 +1861,8 @@
             "channel": "Mokka Commentry",
             "thumbnail": "https://i.ytimg.com/vi/BACPg56lBXw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BACPg56lBXw",
-            "views": 251641,
-            "age_hours": 21.2
-          }
-        ]
-      },
-      {
-        "phrase": "desh bhakti song",
-        "video_count": 2,
-        "momentum": 12.39,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "DsShPh5g-3k",
-            "title": "जन गण मन Jana Gana Mana - National Anthem | Desh Bhakti Song | Rashtriya Geet | Adhinayaka Jaya Hai",
-            "channel": "Nova Spiritual India",
-            "thumbnail": "https://i.ytimg.com/vi/DsShPh5g-3k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=DsShPh5g-3k",
-            "views": 589182,
-            "age_hours": 28.4
-          },
-          {
-            "id": "iwQoosOb3oY",
-            "title": "Pawan Singh सुपरहिट देश भक्त्ति सॉंग    कश्मीर जिगर का टुकड़ा    New Latest Desh Bhakti Song",
-            "channel": "Pawan Singh Evergreen Songs",
-            "thumbnail": "https://i.ytimg.com/vi/iwQoosOb3oY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=iwQoosOb3oY",
-            "views": 294111,
-            "age_hours": 42.9
+            "views": 282813,
+            "age_hours": 27.1
           }
         ]
       }
@@ -1691,7 +1871,7 @@
       {
         "phrase": "vingadores",
         "video_count": 4,
-        "momentum": 19.73,
+        "momentum": 19.15,
         "regions": [
           "BR"
         ],
@@ -1703,8 +1883,8 @@
             "channel": "Ei Nerd",
             "thumbnail": "https://i.ytimg.com/vi/UINPvvAAT7M/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=UINPvvAAT7M",
-            "views": 387182,
-            "age_hours": 12.4
+            "views": 414786,
+            "age_hours": 18.3
           },
           {
             "id": "E1dW377oqXw",
@@ -1712,8 +1892,8 @@
             "channel": "ingresso.com",
             "thumbnail": "https://i.ytimg.com/vi/E1dW377oqXw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=E1dW377oqXw",
-            "views": 672432,
-            "age_hours": 18.6
+            "views": 700808,
+            "age_hours": 24.5
           },
           {
             "id": "oM6F24pDRWY",
@@ -1721,15 +1901,15 @@
             "channel": "Nerd Land",
             "thumbnail": "https://i.ytimg.com/vi/oM6F24pDRWY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=oM6F24pDRWY",
-            "views": 144739,
-            "age_hours": 16.2
+            "views": 152225,
+            "age_hours": 22.2
           }
         ]
       },
       {
         "phrase": "humor",
         "video_count": 4,
-        "momentum": 18.75,
+        "momentum": 18.61,
         "regions": [
           "BR"
         ],
@@ -1741,17 +1921,8 @@
             "channel": "Postei Brasil ",
             "thumbnail": "https://i.ytimg.com/vi/k2DV-7fnO5U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=k2DV-7fnO5U",
-            "views": 4346836,
-            "age_hours": 130.6
-          },
-          {
-            "id": "twCs1gHZMLM",
-            "title": "filha curiosa 😂 #humor #viral #comedia",
-            "channel": "sammy e rafael",
-            "thumbnail": "https://i.ytimg.com/vi/twCs1gHZMLM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=twCs1gHZMLM",
-            "views": 1008659,
-            "age_hours": 32.4
+            "views": 4352637,
+            "age_hours": 136.6
           },
           {
             "id": "eteowr1lx74",
@@ -1759,15 +1930,24 @@
             "channel": "A ruiva da roça / Fabio Castro",
             "thumbnail": "https://i.ytimg.com/vi/eteowr1lx74/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eteowr1lx74",
-            "views": 1998913,
-            "age_hours": 57.4
+            "views": 2029243,
+            "age_hours": 63.3
+          },
+          {
+            "id": "twCs1gHZMLM",
+            "title": "filha curiosa 😂 #humor #viral #comedia",
+            "channel": "sammy e rafael",
+            "thumbnail": "https://i.ytimg.com/vi/twCs1gHZMLM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=twCs1gHZMLM",
+            "views": 1028516,
+            "age_hours": 38.3
           }
         ]
       },
       {
         "phrase": "iphone",
         "video_count": 4,
-        "momentum": 16.47,
+        "momentum": 16.35,
         "regions": [
           "BR"
         ],
@@ -1779,8 +1959,8 @@
             "channel": "Izabela Anholett",
             "thumbnail": "https://i.ytimg.com/vi/uI-qstDty4Y/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=uI-qstDty4Y",
-            "views": 954905,
-            "age_hours": 211.7
+            "views": 958924,
+            "age_hours": 217.6
           },
           {
             "id": "6cN8EzTHJtk",
@@ -1788,8 +1968,8 @@
             "channel": "RC ASSISTEC ",
             "thumbnail": "https://i.ytimg.com/vi/6cN8EzTHJtk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6cN8EzTHJtk",
-            "views": 853301,
-            "age_hours": 101.8
+            "views": 856879,
+            "age_hours": 107.8
           },
           {
             "id": "2KWf5AWhXak",
@@ -1797,15 +1977,15 @@
             "channel": "Perety games",
             "thumbnail": "https://i.ytimg.com/vi/2KWf5AWhXak/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=2KWf5AWhXak",
-            "views": 479410,
-            "age_hours": 50.4
+            "views": 487016,
+            "age_hours": 56.3
           }
         ]
       },
       {
         "phrase": "vingadores doutor destino",
         "video_count": 2,
-        "momentum": 14.36,
+        "momentum": 14.01,
         "regions": [
           "BR"
         ],
@@ -1817,8 +1997,8 @@
             "channel": "ingresso.com",
             "thumbnail": "https://i.ytimg.com/vi/E1dW377oqXw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=E1dW377oqXw",
-            "views": 672432,
-            "age_hours": 18.6
+            "views": 700808,
+            "age_hours": 24.5
           },
           {
             "id": "LsT-C-MnO48",
@@ -1826,15 +2006,15 @@
             "channel": "ONE Media Brasil",
             "thumbnail": "https://i.ytimg.com/vi/LsT-C-MnO48/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=LsT-C-MnO48",
-            "views": 141389,
-            "age_hours": 25.5
+            "views": 143142,
+            "age_hours": 31.4
           }
         ]
       },
       {
         "phrase": "doutor destino trailer",
         "video_count": 2,
-        "momentum": 14.36,
+        "momentum": 14.01,
         "regions": [
           "BR"
         ],
@@ -1846,8 +2026,8 @@
             "channel": "ingresso.com",
             "thumbnail": "https://i.ytimg.com/vi/E1dW377oqXw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=E1dW377oqXw",
-            "views": 672432,
-            "age_hours": 18.6
+            "views": 700808,
+            "age_hours": 24.5
           },
           {
             "id": "LsT-C-MnO48",
@@ -1855,15 +2035,15 @@
             "channel": "ONE Media Brasil",
             "thumbnail": "https://i.ytimg.com/vi/LsT-C-MnO48/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=LsT-C-MnO48",
-            "views": 141389,
-            "age_hours": 25.5
+            "views": 143142,
+            "age_hours": 31.4
           }
         ]
       },
       {
         "phrase": "destino trailer dublado",
         "video_count": 2,
-        "momentum": 14.36,
+        "momentum": 14.01,
         "regions": [
           "BR"
         ],
@@ -1875,8 +2055,8 @@
             "channel": "ingresso.com",
             "thumbnail": "https://i.ytimg.com/vi/E1dW377oqXw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=E1dW377oqXw",
-            "views": 672432,
-            "age_hours": 18.6
+            "views": 700808,
+            "age_hours": 24.5
           },
           {
             "id": "LsT-C-MnO48",
@@ -1884,15 +2064,15 @@
             "channel": "ONE Media Brasil",
             "thumbnail": "https://i.ytimg.com/vi/LsT-C-MnO48/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=LsT-C-MnO48",
-            "views": 141389,
-            "age_hours": 25.5
+            "views": 143142,
+            "age_hours": 31.4
           }
         ]
       },
       {
         "phrase": "trailer dublado oficial",
         "video_count": 2,
-        "momentum": 14.36,
+        "momentum": 14.01,
         "regions": [
           "BR"
         ],
@@ -1904,8 +2084,8 @@
             "channel": "ingresso.com",
             "thumbnail": "https://i.ytimg.com/vi/E1dW377oqXw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=E1dW377oqXw",
-            "views": 672432,
-            "age_hours": 18.6
+            "views": 700808,
+            "age_hours": 24.5
           },
           {
             "id": "LsT-C-MnO48",
@@ -1913,44 +2093,15 @@
             "channel": "ONE Media Brasil",
             "thumbnail": "https://i.ytimg.com/vi/LsT-C-MnO48/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=LsT-C-MnO48",
-            "views": 141389,
-            "age_hours": 25.5
-          }
-        ]
-      },
-      {
-        "phrase": "vingadores doomsday",
-        "video_count": 2,
-        "momentum": 12.69,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "UINPvvAAT7M",
-            "title": "TRAILER - VINGADORES: DOOMSDAY [React]",
-            "channel": "Ei Nerd",
-            "thumbnail": "https://i.ytimg.com/vi/UINPvvAAT7M/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UINPvvAAT7M",
-            "views": 387182,
-            "age_hours": 12.4
-          },
-          {
-            "id": "oM6F24pDRWY",
-            "title": "EXPLICADO! VINGADORES DOOMSDAY TRAILER 2 OFICIAL (DETALHES + REFERÊNCIAS + EASTER EGGS)",
-            "channel": "Nerd Land",
-            "thumbnail": "https://i.ytimg.com/vi/oM6F24pDRWY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oM6F24pDRWY",
-            "views": 144739,
-            "age_hours": 16.2
+            "views": 143142,
+            "age_hours": 31.4
           }
         ]
       },
       {
         "phrase": "humor engraçado",
         "video_count": 2,
-        "momentum": 12.41,
+        "momentum": 12.33,
         "regions": [
           "BR"
         ],
@@ -1962,8 +2113,8 @@
             "channel": "Postei Brasil ",
             "thumbnail": "https://i.ytimg.com/vi/k2DV-7fnO5U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=k2DV-7fnO5U",
-            "views": 4346836,
-            "age_hours": 130.6
+            "views": 4352637,
+            "age_hours": 136.6
           },
           {
             "id": "eteowr1lx74",
@@ -1971,15 +2122,44 @@
             "channel": "A ruiva da roça / Fabio Castro",
             "thumbnail": "https://i.ytimg.com/vi/eteowr1lx74/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eteowr1lx74",
-            "views": 1998913,
-            "age_hours": 57.4
+            "views": 2029243,
+            "age_hours": 63.3
+          }
+        ]
+      },
+      {
+        "phrase": "vingadores doomsday",
+        "video_count": 2,
+        "momentum": 12.26,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "UINPvvAAT7M",
+            "title": "TRAILER - VINGADORES: DOOMSDAY [React]",
+            "channel": "Ei Nerd",
+            "thumbnail": "https://i.ytimg.com/vi/UINPvvAAT7M/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UINPvvAAT7M",
+            "views": 414786,
+            "age_hours": 18.3
+          },
+          {
+            "id": "oM6F24pDRWY",
+            "title": "EXPLICADO! VINGADORES DOOMSDAY TRAILER 2 OFICIAL (DETALHES + REFERÊNCIAS + EASTER EGGS)",
+            "channel": "Nerd Land",
+            "thumbnail": "https://i.ytimg.com/vi/oM6F24pDRWY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=oM6F24pDRWY",
+            "views": 152225,
+            "age_hours": 22.2
           }
         ]
       },
       {
         "phrase": "hospital animais",
         "video_count": 2,
-        "momentum": 11.46,
+        "momentum": 11.27,
         "regions": [
           "BR"
         ],
@@ -1991,8 +2171,8 @@
             "channel": "Bruttus",
             "thumbnail": "https://i.ytimg.com/vi/xEZwXdlMcGU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=xEZwXdlMcGU",
-            "views": 2985998,
-            "age_hours": 105.3
+            "views": 3003285,
+            "age_hours": 111.3
           },
           {
             "id": "U4PuNpXUvnM",
@@ -2000,15 +2180,15 @@
             "channel": "Pabllym GO!",
             "thumbnail": "https://i.ytimg.com/vi/U4PuNpXUvnM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=U4PuNpXUvnM",
-            "views": 142159,
-            "age_hours": 16.5
+            "views": 144259,
+            "age_hours": 22.5
           }
         ]
       },
       {
         "phrase": "vida real",
         "video_count": 2,
-        "momentum": 10.82,
+        "momentum": 10.62,
         "regions": [
           "BR"
         ],
@@ -2020,8 +2200,8 @@
             "channel": "Jazzghost",
             "thumbnail": "https://i.ytimg.com/vi/ke_y4SVbZD4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ke_y4SVbZD4",
-            "views": 1049102,
-            "age_hours": 15.4
+            "views": 1099051,
+            "age_hours": 21.3
           },
           {
             "id": "GorJtCqX5uc",
@@ -2029,15 +2209,15 @@
             "channel": "Bia Galvão - mãe da Mia e Olívia",
             "thumbnail": "https://i.ytimg.com/vi/GorJtCqX5uc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=GorJtCqX5uc",
-            "views": 370341,
-            "age_hours": 318.0
+            "views": 371190,
+            "age_hours": 323.9
           }
         ]
       },
       {
         "phrase": "vlog viagem",
         "video_count": 2,
-        "momentum": 8.45,
+        "momentum": 8.34,
         "regions": [
           "BR"
         ],
@@ -2049,8 +2229,8 @@
             "channel": "Fernanda Cordiolli",
             "thumbnail": "https://i.ytimg.com/vi/2ne2DD3JvYY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=2ne2DD3JvYY",
-            "views": 31542,
-            "age_hours": 39.4
+            "views": 31840,
+            "age_hours": 45.3
           },
           {
             "id": "sqFY5lulF_8",
@@ -2058,15 +2238,15 @@
             "channel": "Nicole Prazeres",
             "thumbnail": "https://i.ytimg.com/vi/sqFY5lulF_8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=sqFY5lulF_8",
-            "views": 34225,
-            "age_hours": 113.4
+            "views": 34371,
+            "age_hours": 119.3
           }
         ]
       },
       {
         "phrase": "rey vaqueiro",
         "video_count": 2,
-        "momentum": 8.36,
+        "momentum": 8.12,
         "regions": [
           "BR"
         ],
@@ -2078,8 +2258,8 @@
             "channel": "ATIVIDADE FUNK",
             "thumbnail": "https://i.ytimg.com/vi/0Ffb6E1Z9Dg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=0Ffb6E1Z9Dg",
-            "views": 36641,
-            "age_hours": 15.3
+            "views": 40932,
+            "age_hours": 21.2
           },
           {
             "id": "PC70dKlehBs",
@@ -2087,8 +2267,8 @@
             "channel": "Resumo Hits by Resumo Produtora",
             "thumbnail": "https://i.ytimg.com/vi/PC70dKlehBs/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=PC70dKlehBs",
-            "views": 27945,
-            "age_hours": 17.4
+            "views": 29694,
+            "age_hours": 23.3
           }
         ]
       }
@@ -2097,7 +2277,7 @@
       {
         "phrase": "bro did",
         "video_count": 2,
-        "momentum": 12.29,
+        "momentum": 12.23,
         "regions": [
           "CA"
         ],
@@ -2109,8 +2289,8 @@
             "channel": "Ong Squad",
             "thumbnail": "https://i.ytimg.com/vi/NvtG5sOi3wo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=NvtG5sOi3wo",
-            "views": 4769464,
-            "age_hours": 75.6
+            "views": 4964008,
+            "age_hours": 81.5
           },
           {
             "id": "L1M1NCr-IZE",
@@ -2118,8 +2298,8 @@
             "channel": "Strikespy",
             "thumbnail": "https://i.ytimg.com/vi/L1M1NCr-IZE/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=L1M1NCr-IZE",
-            "views": 1664960,
-            "age_hours": 62.9
+            "views": 1729398,
+            "age_hours": 68.8
           }
         ]
       }
@@ -2128,7 +2308,7 @@
       {
         "phrase": "i built",
         "video_count": 2,
-        "momentum": 13.9,
+        "momentum": 13.85,
         "regions": [
           "AU"
         ],
@@ -2140,8 +2320,8 @@
             "channel": "Parrot",
             "thumbnail": "https://i.ytimg.com/vi/1EgS0othQe4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=1EgS0othQe4",
-            "views": 5665570,
-            "age_hours": 89.4
+            "views": 5773629,
+            "age_hours": 95.3
           },
           {
             "id": "GD0tqRdxFjk",
@@ -2149,157 +2329,77 @@
             "channel": "Chris Builds",
             "thumbnail": "https://i.ytimg.com/vi/GD0tqRdxFjk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=GD0tqRdxFjk",
-            "views": 30924695,
-            "age_hours": 513.4
-          }
-        ]
-      }
-    ],
-    "GB": [
-      {
-        "phrase": "youtubeshorts cringe lifehack",
-        "video_count": 2,
-        "momentum": 16.35,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "NuGHQy7f1mg",
-            "title": "He found a musical road... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/NuGHQy7f1mg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NuGHQy7f1mg",
-            "views": 2697010,
-            "age_hours": 35.6
-          },
-          {
-            "id": "MgbjE6lbqSY",
-            "title": "Things to do when bored... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/MgbjE6lbqSY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MgbjE6lbqSY",
-            "views": 2830342,
-            "age_hours": 60.3
-          }
-        ]
-      },
-      {
-        "phrase": "cringe lifehack comedy",
-        "video_count": 2,
-        "momentum": 16.35,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "NuGHQy7f1mg",
-            "title": "He found a musical road... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/NuGHQy7f1mg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NuGHQy7f1mg",
-            "views": 2697010,
-            "age_hours": 35.6
-          },
-          {
-            "id": "MgbjE6lbqSY",
-            "title": "Things to do when bored... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/MgbjE6lbqSY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MgbjE6lbqSY",
-            "views": 2830342,
-            "age_hours": 60.3
-          }
-        ]
-      },
-      {
-        "phrase": "lifehack comedy funny",
-        "video_count": 2,
-        "momentum": 16.35,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "NuGHQy7f1mg",
-            "title": "He found a musical road... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/NuGHQy7f1mg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NuGHQy7f1mg",
-            "views": 2697010,
-            "age_hours": 35.6
-          },
-          {
-            "id": "MgbjE6lbqSY",
-            "title": "Things to do when bored... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/MgbjE6lbqSY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MgbjE6lbqSY",
-            "views": 2830342,
-            "age_hours": 60.3
-          }
-        ]
-      },
-      {
-        "phrase": "google pixel",
-        "video_count": 2,
-        "momentum": 12.12,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "o4SSoURPODY",
-            "title": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
-            "channel": "Marques Brownlee",
-            "thumbnail": "https://i.ytimg.com/vi/o4SSoURPODY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=o4SSoURPODY",
-            "views": 2822837,
-            "age_hours": 88.4
-          },
-          {
-            "id": "oaaOwLnuyPU",
-            "title": "Google Pixel 11 Hands on - The Phone Crisis Begins.",
-            "channel": "Mrwhosetheboss",
-            "thumbnail": "https://i.ytimg.com/vi/oaaOwLnuyPU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=oaaOwLnuyPU",
-            "views": 2766249,
-            "age_hours": 88.4
+            "views": 31001986,
+            "age_hours": 519.3
           }
         ]
       }
     ],
     "DE": [
       {
-        "phrase": "minecraft helden",
-        "video_count": 3,
-        "momentum": 15.34,
+        "phrase": "helden",
+        "video_count": 4,
+        "momentum": 17.33,
         "regions": [
           "DE"
         ],
         "lang": "de",
         "example_videos": [
           {
+            "id": "WXiSxzInzvw",
+            "title": "ICH FINDE GEHEIME OP BASE von YOUTUBER🤑(MINECRAFT HELDEN 3)",
+            "channel": "TriDan",
+            "thumbnail": "https://i.ytimg.com/vi/WXiSxzInzvw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WXiSxzInzvw",
+            "views": 37373,
+            "age_hours": 4.3
+          },
+          {
+            "id": "QnZ4b2VL7iA",
+            "title": "Ich FINDE 2 NEUE GEHEIME BASEN der PAULBERGER MAFIA (HELDEN 3)",
+            "channel": "LiveLuc",
+            "thumbnail": "https://i.ytimg.com/vi/QnZ4b2VL7iA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=QnZ4b2VL7iA",
+            "views": 23052,
+            "age_hours": 5.3
+          },
+          {
             "id": "WGrcnGVJEc8",
             "title": "Ich BAUE den ULTIMATIVEN GEHEIM-BUNKER in Minecraft Helden 3!",
             "channel": "iCrimax",
             "thumbnail": "https://i.ytimg.com/vi/WGrcnGVJEc8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=WGrcnGVJEc8",
-            "views": 193501,
-            "age_hours": 23.4
+            "views": 212181,
+            "age_hours": 29.3
+          }
+        ]
+      },
+      {
+        "phrase": "minecraft",
+        "video_count": 4,
+        "momentum": 16.52,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "WXiSxzInzvw",
+            "title": "ICH FINDE GEHEIME OP BASE von YOUTUBER🤑(MINECRAFT HELDEN 3)",
+            "channel": "TriDan",
+            "thumbnail": "https://i.ytimg.com/vi/WXiSxzInzvw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WXiSxzInzvw",
+            "views": 37373,
+            "age_hours": 4.3
           },
           {
-            "id": "V4Mq3AhFwWQ",
-            "title": "ICH werde aus MINECRAFT HELDEN 3 GEBANNT🚫DAS WARS...?",
-            "channel": "TriDan",
-            "thumbnail": "https://i.ytimg.com/vi/V4Mq3AhFwWQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=V4Mq3AhFwWQ",
-            "views": 104499,
-            "age_hours": 21.9
+            "id": "WGrcnGVJEc8",
+            "title": "Ich BAUE den ULTIMATIVEN GEHEIM-BUNKER in Minecraft Helden 3!",
+            "channel": "iCrimax",
+            "thumbnail": "https://i.ytimg.com/vi/WGrcnGVJEc8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WGrcnGVJEc8",
+            "views": 212181,
+            "age_hours": 29.3
           },
           {
             "id": "6rNe_DEBTfU",
@@ -2307,15 +2407,53 @@
             "channel": "Craftmir",
             "thumbnail": "https://i.ytimg.com/vi/6rNe_DEBTfU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6rNe_DEBTfU",
-            "views": 55776,
-            "age_hours": 21.4
+            "views": 62195,
+            "age_hours": 27.3
+          }
+        ]
+      },
+      {
+        "phrase": "minecraft helden",
+        "video_count": 3,
+        "momentum": 16.05,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "WXiSxzInzvw",
+            "title": "ICH FINDE GEHEIME OP BASE von YOUTUBER🤑(MINECRAFT HELDEN 3)",
+            "channel": "TriDan",
+            "thumbnail": "https://i.ytimg.com/vi/WXiSxzInzvw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WXiSxzInzvw",
+            "views": 37373,
+            "age_hours": 4.3
+          },
+          {
+            "id": "WGrcnGVJEc8",
+            "title": "Ich BAUE den ULTIMATIVEN GEHEIM-BUNKER in Minecraft Helden 3!",
+            "channel": "iCrimax",
+            "thumbnail": "https://i.ytimg.com/vi/WGrcnGVJEc8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WGrcnGVJEc8",
+            "views": 212181,
+            "age_hours": 29.3
+          },
+          {
+            "id": "6rNe_DEBTfU",
+            "title": "Ich muss Avive befreien ... Minecraft Helden 3",
+            "channel": "Craftmir",
+            "thumbnail": "https://i.ytimg.com/vi/6rNe_DEBTfU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6rNe_DEBTfU",
+            "views": 62195,
+            "age_hours": 27.3
           }
         ]
       },
       {
         "phrase": "warum",
         "video_count": 4,
-        "momentum": 14.85,
+        "momentum": 14.99,
         "regions": [
           "DE"
         ],
@@ -2327,8 +2465,8 @@
             "channel": "PietSmiet",
             "thumbnail": "https://i.ytimg.com/vi/IKfZBl3yZsM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=IKfZBl3yZsM",
-            "views": 75626,
-            "age_hours": 16.3
+            "views": 92830,
+            "age_hours": 22.3
           },
           {
             "id": "NDABoIfeTqw",
@@ -2336,8 +2474,8 @@
             "channel": "Wie also",
             "thumbnail": "https://i.ytimg.com/vi/NDABoIfeTqw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=NDABoIfeTqw",
-            "views": 867059,
-            "age_hours": 157.9
+            "views": 881581,
+            "age_hours": 163.8
           },
           {
             "id": "rYla6a2lgsQ",
@@ -2345,15 +2483,15 @@
             "channel": "Freddy",
             "thumbnail": "https://i.ytimg.com/vi/rYla6a2lgsQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rYla6a2lgsQ",
-            "views": 23013,
-            "age_hours": 11.4
+            "views": 63825,
+            "age_hours": 17.3
           }
         ]
       },
       {
         "phrase": "trailer german deutsch",
         "video_count": 2,
-        "momentum": 12.64,
+        "momentum": 12.49,
         "regions": [
           "DE"
         ],
@@ -2365,8 +2503,8 @@
             "channel": "KinoCheck",
             "thumbnail": "https://i.ytimg.com/vi/0JFgoGV1UdI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=0JFgoGV1UdI",
-            "views": 367094,
-            "age_hours": 21.1
+            "views": 420925,
+            "age_hours": 27.1
           },
           {
             "id": "XPI8_aalDmk",
@@ -2374,15 +2512,15 @@
             "channel": "KinoCheck Heimkino",
             "thumbnail": "https://i.ytimg.com/vi/XPI8_aalDmk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=XPI8_aalDmk",
-            "views": 52325,
-            "age_hours": 20.8
+            "views": 67793,
+            "age_hours": 26.7
           }
         ]
       },
       {
         "phrase": "german deutsch marvel",
         "video_count": 2,
-        "momentum": 12.64,
+        "momentum": 12.49,
         "regions": [
           "DE"
         ],
@@ -2394,8 +2532,8 @@
             "channel": "KinoCheck",
             "thumbnail": "https://i.ytimg.com/vi/0JFgoGV1UdI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=0JFgoGV1UdI",
-            "views": 367094,
-            "age_hours": 21.1
+            "views": 420925,
+            "age_hours": 27.1
           },
           {
             "id": "XPI8_aalDmk",
@@ -2403,15 +2541,44 @@
             "channel": "KinoCheck Heimkino",
             "thumbnail": "https://i.ytimg.com/vi/XPI8_aalDmk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=XPI8_aalDmk",
-            "views": 52325,
-            "age_hours": 20.8
+            "views": 67793,
+            "age_hours": 26.7
+          }
+        ]
+      },
+      {
+        "phrase": "finde geheime",
+        "video_count": 2,
+        "momentum": 11.64,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "WXiSxzInzvw",
+            "title": "ICH FINDE GEHEIME OP BASE von YOUTUBER🤑(MINECRAFT HELDEN 3)",
+            "channel": "TriDan",
+            "thumbnail": "https://i.ytimg.com/vi/WXiSxzInzvw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WXiSxzInzvw",
+            "views": 37373,
+            "age_hours": 4.3
+          },
+          {
+            "id": "QnZ4b2VL7iA",
+            "title": "Ich FINDE 2 NEUE GEHEIME BASEN der PAULBERGER MAFIA (HELDEN 3)",
+            "channel": "LiveLuc",
+            "thumbnail": "https://i.ytimg.com/vi/QnZ4b2VL7iA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=QnZ4b2VL7iA",
+            "views": 23052,
+            "age_hours": 5.3
           }
         ]
       },
       {
         "phrase": "avengers doomsday",
         "video_count": 2,
-        "momentum": 11.14,
+        "momentum": 10.93,
         "regions": [
           "DE"
         ],
@@ -2423,8 +2590,8 @@
             "channel": "KinoCheck",
             "thumbnail": "https://i.ytimg.com/vi/0JFgoGV1UdI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=0JFgoGV1UdI",
-            "views": 367094,
-            "age_hours": 21.1
+            "views": 420925,
+            "age_hours": 27.1
           },
           {
             "id": "W-LcxKNw_7k",
@@ -2432,17 +2599,18 @@
             "channel": "BelYves",
             "thumbnail": "https://i.ytimg.com/vi/W-LcxKNw_7k/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=W-LcxKNw_7k",
-            "views": 66274,
-            "age_hours": 19.1
+            "views": 72938,
+            "age_hours": 25.0
           }
         ]
       }
     ],
+    "GB": [],
     "ALL": [
       {
         "phrase": "rakshabandhan",
         "video_count": 5,
-        "momentum": 25.41,
+        "momentum": 25.47,
         "regions": [
           "IN"
         ],
@@ -2454,8 +2622,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-            "views": 12061370,
-            "age_hours": 63.8
+            "views": 14387771,
+            "age_hours": 69.8
           },
           {
             "id": "rPqPiurLrvg",
@@ -2463,8 +2631,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-            "views": 47389197,
-            "age_hours": 257.9
+            "views": 48265659,
+            "age_hours": 263.8
           },
           {
             "id": "T08fV8ql1gU",
@@ -2472,15 +2640,15 @@
             "channel": "Dushyant kukreja",
             "thumbnail": "https://i.ytimg.com/vi/T08fV8ql1gU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=T08fV8ql1gU",
-            "views": 5014614,
-            "age_hours": 63.9
+            "views": 5694248,
+            "age_hours": 69.8
           }
         ]
       },
       {
         "phrase": "independence",
         "video_count": 5,
-        "momentum": 24.82,
+        "momentum": 24.86,
         "regions": [
           "IN"
         ],
@@ -2492,17 +2660,8 @@
             "channel": "Hetal DIY Queen",
             "thumbnail": "https://i.ytimg.com/vi/Hkq4WKJbyxw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Hkq4WKJbyxw",
-            "views": 4575277,
-            "age_hours": 38.9
-          },
-          {
-            "id": "nuHip--1roA",
-            "title": "Happy 80th Independence Day🇮🇳🫡 #shorts #love #independenceday",
-            "channel": "With Love Nagaraj Sangeetha",
-            "thumbnail": "https://i.ytimg.com/vi/nuHip--1roA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nuHip--1roA",
-            "views": 1540828,
-            "age_hours": 17.0
+            "views": 4964148,
+            "age_hours": 44.8
           },
           {
             "id": "FCxQp9XCkfg",
@@ -2510,15 +2669,24 @@
             "channel": "jaanvi patel",
             "thumbnail": "https://i.ytimg.com/vi/FCxQp9XCkfg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=FCxQp9XCkfg",
-            "views": 1780323,
-            "age_hours": 17.9
+            "views": 3364841,
+            "age_hours": 23.8
+          },
+          {
+            "id": "nuHip--1roA",
+            "title": "Happy 80th Independence Day🇮🇳🫡 #shorts #love #independenceday",
+            "channel": "With Love Nagaraj Sangeetha",
+            "thumbnail": "https://i.ytimg.com/vi/nuHip--1roA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=nuHip--1roA",
+            "views": 2144418,
+            "age_hours": 23.0
           }
         ]
       },
       {
         "phrase": "low budget rakshabandhan",
         "video_count": 3,
-        "momentum": 23.66,
+        "momentum": 23.74,
         "regions": [
           "IN"
         ],
@@ -2530,8 +2698,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-            "views": 12061370,
-            "age_hours": 63.8
+            "views": 14387771,
+            "age_hours": 69.8
           },
           {
             "id": "rPqPiurLrvg",
@@ -2539,8 +2707,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-            "views": 47389197,
-            "age_hours": 257.9
+            "views": 48265659,
+            "age_hours": 263.8
           },
           {
             "id": "T08fV8ql1gU",
@@ -2548,15 +2716,15 @@
             "channel": "Dushyant kukreja",
             "thumbnail": "https://i.ytimg.com/vi/T08fV8ql1gU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=T08fV8ql1gU",
-            "views": 5014614,
-            "age_hours": 63.9
+            "views": 5694248,
+            "age_hours": 69.8
           }
         ]
       },
       {
         "phrase": "rakshabandhan priyalkukreja shorts",
         "video_count": 3,
-        "momentum": 23.41,
+        "momentum": 23.49,
         "regions": [
           "IN"
         ],
@@ -2568,8 +2736,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-            "views": 12061370,
-            "age_hours": 63.8
+            "views": 14387771,
+            "age_hours": 69.8
           },
           {
             "id": "rPqPiurLrvg",
@@ -2577,8 +2745,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-            "views": 47389197,
-            "age_hours": 257.9
+            "views": 48265659,
+            "age_hours": 263.8
           },
           {
             "id": "aBAcYi6W0zw",
@@ -2586,15 +2754,15 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/aBAcYi6W0zw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=aBAcYi6W0zw",
-            "views": 6261079,
-            "age_hours": 89.4
+            "views": 6892099,
+            "age_hours": 95.3
           }
         ]
       },
       {
         "phrase": "pmwc",
         "video_count": 4,
-        "momentum": 21.99,
+        "momentum": 21.18,
         "regions": [
           "IN"
         ],
@@ -2606,8 +2774,8 @@
             "channel": "Snax Gaming",
             "thumbnail": "https://i.ytimg.com/vi/X58t82y5bz4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=X58t82y5bz4",
-            "views": 6731052,
-            "age_hours": 6.2
+            "views": 6789156,
+            "age_hours": 12.1
           },
           {
             "id": "dyCiBem2p80",
@@ -2615,8 +2783,8 @@
             "channel": "LoLzZz Gaming",
             "thumbnail": "https://i.ytimg.com/vi/dyCiBem2p80/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dyCiBem2p80",
-            "views": 1600933,
-            "age_hours": 8.7
+            "views": 1615792,
+            "age_hours": 14.7
           },
           {
             "id": "2yTCadbJcG4",
@@ -2624,37 +2792,37 @@
             "channel": "PUBG MOBILE Esports",
             "thumbnail": "https://i.ytimg.com/vi/2yTCadbJcG4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=2yTCadbJcG4",
-            "views": 1406743,
-            "age_hours": 11.6
+            "views": 1422191,
+            "age_hours": 17.6
           }
         ]
       },
       {
         "phrase": "independenceday",
         "video_count": 4,
-        "momentum": 20.82,
+        "momentum": 20.9,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "nuHip--1roA",
-            "title": "Happy 80th Independence Day🇮🇳🫡 #shorts #love #independenceday",
-            "channel": "With Love Nagaraj Sangeetha",
-            "thumbnail": "https://i.ytimg.com/vi/nuHip--1roA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=nuHip--1roA",
-            "views": 1540828,
-            "age_hours": 17.0
-          },
-          {
             "id": "FCxQp9XCkfg",
             "title": "Independence Day 🇮🇳par mile laddu 🤤 || Jaanvi Patel #schoollife #independenceday #funny",
             "channel": "jaanvi patel",
             "thumbnail": "https://i.ytimg.com/vi/FCxQp9XCkfg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=FCxQp9XCkfg",
-            "views": 1780323,
-            "age_hours": 17.9
+            "views": 3364841,
+            "age_hours": 23.8
+          },
+          {
+            "id": "nuHip--1roA",
+            "title": "Happy 80th Independence Day🇮🇳🫡 #shorts #love #independenceday",
+            "channel": "With Love Nagaraj Sangeetha",
+            "thumbnail": "https://i.ytimg.com/vi/nuHip--1roA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=nuHip--1roA",
+            "views": 2144418,
+            "age_hours": 23.0
           },
           {
             "id": "biAwnd3qcvA",
@@ -2662,53 +2830,15 @@
             "channel": "Filmy Surraj",
             "thumbnail": "https://i.ytimg.com/vi/biAwnd3qcvA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=biAwnd3qcvA",
-            "views": 12474436,
-            "age_hours": 164.7
-          }
-        ]
-      },
-      {
-        "phrase": "pmwc ewc",
-        "video_count": 3,
-        "momentum": 20.45,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "X58t82y5bz4",
-            "title": "PMWC at EWC GRAND FINALS - WATCHPARTY LIVE FROM PARIS",
-            "channel": "Snax Gaming",
-            "thumbnail": "https://i.ytimg.com/vi/X58t82y5bz4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=X58t82y5bz4",
-            "views": 6731052,
-            "age_hours": 6.2
-          },
-          {
-            "id": "2yTCadbJcG4",
-            "title": "[EN] PMWC at EWC 26 Finals D2 | PUBG MOBILE WORLD CUP at 2026 ESPORTS WORLD CUP",
-            "channel": "PUBG MOBILE Esports",
-            "thumbnail": "https://i.ytimg.com/vi/2yTCadbJcG4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=2yTCadbJcG4",
-            "views": 1406743,
-            "age_hours": 11.6
-          },
-          {
-            "id": "iAynAx7qJ7k",
-            "title": "[IND] PMWC at EWC 26 - दिन 1 - फाइनल्स",
-            "channel": "EWC India",
-            "thumbnail": "https://i.ytimg.com/vi/iAynAx7qJ7k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=iAynAx7qJ7k",
-            "views": 915686,
-            "age_hours": 37.5
+            "views": 12927625,
+            "age_hours": 170.7
           }
         ]
       },
       {
         "phrase": "budget",
         "video_count": 4,
-        "momentum": 19.82,
+        "momentum": 19.86,
         "regions": [
           "IN"
         ],
@@ -2720,8 +2850,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-            "views": 12061370,
-            "age_hours": 63.8
+            "views": 14387771,
+            "age_hours": 69.8
           },
           {
             "id": "rPqPiurLrvg",
@@ -2729,8 +2859,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-            "views": 47389197,
-            "age_hours": 257.9
+            "views": 48265659,
+            "age_hours": 263.8
           },
           {
             "id": "T08fV8ql1gU",
@@ -2738,15 +2868,53 @@
             "channel": "Dushyant kukreja",
             "thumbnail": "https://i.ytimg.com/vi/T08fV8ql1gU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=T08fV8ql1gU",
-            "views": 5014614,
-            "age_hours": 63.9
+            "views": 5694248,
+            "age_hours": 69.8
+          }
+        ]
+      },
+      {
+        "phrase": "pmwc ewc",
+        "video_count": 3,
+        "momentum": 19.73,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "X58t82y5bz4",
+            "title": "PMWC at EWC GRAND FINALS - WATCHPARTY LIVE FROM PARIS",
+            "channel": "Snax Gaming",
+            "thumbnail": "https://i.ytimg.com/vi/X58t82y5bz4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=X58t82y5bz4",
+            "views": 6789156,
+            "age_hours": 12.1
+          },
+          {
+            "id": "2yTCadbJcG4",
+            "title": "[EN] PMWC at EWC 26 Finals D2 | PUBG MOBILE WORLD CUP at 2026 ESPORTS WORLD CUP",
+            "channel": "PUBG MOBILE Esports",
+            "thumbnail": "https://i.ytimg.com/vi/2yTCadbJcG4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=2yTCadbJcG4",
+            "views": 1422191,
+            "age_hours": 17.6
+          },
+          {
+            "id": "iAynAx7qJ7k",
+            "title": "[IND] PMWC at EWC 26 - दिन 1 - फाइनल्स",
+            "channel": "EWC India",
+            "thumbnail": "https://i.ytimg.com/vi/iAynAx7qJ7k/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=iAynAx7qJ7k",
+            "views": 916949,
+            "age_hours": 43.5
           }
         ]
       },
       {
         "phrase": "vingadores",
         "video_count": 4,
-        "momentum": 19.73,
+        "momentum": 19.15,
         "regions": [
           "BR"
         ],
@@ -2758,8 +2926,8 @@
             "channel": "Ei Nerd",
             "thumbnail": "https://i.ytimg.com/vi/UINPvvAAT7M/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=UINPvvAAT7M",
-            "views": 387182,
-            "age_hours": 12.4
+            "views": 414786,
+            "age_hours": 18.3
           },
           {
             "id": "E1dW377oqXw",
@@ -2767,8 +2935,8 @@
             "channel": "ingresso.com",
             "thumbnail": "https://i.ytimg.com/vi/E1dW377oqXw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=E1dW377oqXw",
-            "views": 672432,
-            "age_hours": 18.6
+            "views": 700808,
+            "age_hours": 24.5
           },
           {
             "id": "oM6F24pDRWY",
@@ -2776,15 +2944,15 @@
             "channel": "Nerd Land",
             "thumbnail": "https://i.ytimg.com/vi/oM6F24pDRWY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=oM6F24pDRWY",
-            "views": 144739,
-            "age_hours": 16.2
+            "views": 152225,
+            "age_hours": 22.2
           }
         ]
       },
       {
         "phrase": "humor",
         "video_count": 4,
-        "momentum": 18.75,
+        "momentum": 18.61,
         "regions": [
           "BR"
         ],
@@ -2796,17 +2964,8 @@
             "channel": "Postei Brasil ",
             "thumbnail": "https://i.ytimg.com/vi/k2DV-7fnO5U/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=k2DV-7fnO5U",
-            "views": 4346836,
-            "age_hours": 130.6
-          },
-          {
-            "id": "twCs1gHZMLM",
-            "title": "filha curiosa 😂 #humor #viral #comedia",
-            "channel": "sammy e rafael",
-            "thumbnail": "https://i.ytimg.com/vi/twCs1gHZMLM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=twCs1gHZMLM",
-            "views": 1008659,
-            "age_hours": 32.4
+            "views": 4352637,
+            "age_hours": 136.6
           },
           {
             "id": "eteowr1lx74",
@@ -2814,15 +2973,24 @@
             "channel": "A ruiva da roça / Fabio Castro",
             "thumbnail": "https://i.ytimg.com/vi/eteowr1lx74/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=eteowr1lx74",
-            "views": 1998913,
-            "age_hours": 57.4
+            "views": 2029243,
+            "age_hours": 63.3
+          },
+          {
+            "id": "twCs1gHZMLM",
+            "title": "filha curiosa 😂 #humor #viral #comedia",
+            "channel": "sammy e rafael",
+            "thumbnail": "https://i.ytimg.com/vi/twCs1gHZMLM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=twCs1gHZMLM",
+            "views": 1028516,
+            "age_hours": 38.3
           }
         ]
       },
       {
         "phrase": "grand finals watchparty",
         "video_count": 2,
-        "momentum": 18.35,
+        "momentum": 17.5,
         "regions": [
           "IN"
         ],
@@ -2834,8 +3002,8 @@
             "channel": "Snax Gaming",
             "thumbnail": "https://i.ytimg.com/vi/X58t82y5bz4/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=X58t82y5bz4",
-            "views": 6731052,
-            "age_hours": 6.2
+            "views": 6789156,
+            "age_hours": 12.1
           },
           {
             "id": "dyCiBem2p80",
@@ -2843,15 +3011,91 @@
             "channel": "LoLzZz Gaming",
             "thumbnail": "https://i.ytimg.com/vi/dyCiBem2p80/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=dyCiBem2p80",
-            "views": 1600933,
-            "age_hours": 8.7
+            "views": 1615792,
+            "age_hours": 14.7
+          }
+        ]
+      },
+      {
+        "phrase": "helden",
+        "video_count": 4,
+        "momentum": 17.33,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "WXiSxzInzvw",
+            "title": "ICH FINDE GEHEIME OP BASE von YOUTUBER🤑(MINECRAFT HELDEN 3)",
+            "channel": "TriDan",
+            "thumbnail": "https://i.ytimg.com/vi/WXiSxzInzvw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WXiSxzInzvw",
+            "views": 37373,
+            "age_hours": 4.3
+          },
+          {
+            "id": "QnZ4b2VL7iA",
+            "title": "Ich FINDE 2 NEUE GEHEIME BASEN der PAULBERGER MAFIA (HELDEN 3)",
+            "channel": "LiveLuc",
+            "thumbnail": "https://i.ytimg.com/vi/QnZ4b2VL7iA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=QnZ4b2VL7iA",
+            "views": 23052,
+            "age_hours": 5.3
+          },
+          {
+            "id": "WGrcnGVJEc8",
+            "title": "Ich BAUE den ULTIMATIVEN GEHEIM-BUNKER in Minecraft Helden 3!",
+            "channel": "iCrimax",
+            "thumbnail": "https://i.ytimg.com/vi/WGrcnGVJEc8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WGrcnGVJEc8",
+            "views": 212181,
+            "age_hours": 29.3
+          }
+        ]
+      },
+      {
+        "phrase": "minecraft",
+        "video_count": 4,
+        "momentum": 16.52,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "WXiSxzInzvw",
+            "title": "ICH FINDE GEHEIME OP BASE von YOUTUBER🤑(MINECRAFT HELDEN 3)",
+            "channel": "TriDan",
+            "thumbnail": "https://i.ytimg.com/vi/WXiSxzInzvw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WXiSxzInzvw",
+            "views": 37373,
+            "age_hours": 4.3
+          },
+          {
+            "id": "WGrcnGVJEc8",
+            "title": "Ich BAUE den ULTIMATIVEN GEHEIM-BUNKER in Minecraft Helden 3!",
+            "channel": "iCrimax",
+            "thumbnail": "https://i.ytimg.com/vi/WGrcnGVJEc8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WGrcnGVJEc8",
+            "views": 212181,
+            "age_hours": 29.3
+          },
+          {
+            "id": "6rNe_DEBTfU",
+            "title": "Ich muss Avive befreien ... Minecraft Helden 3",
+            "channel": "Craftmir",
+            "thumbnail": "https://i.ytimg.com/vi/6rNe_DEBTfU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=6rNe_DEBTfU",
+            "views": 62195,
+            "age_hours": 27.3
           }
         ]
       },
       {
         "phrase": "iphone",
         "video_count": 4,
-        "momentum": 16.47,
+        "momentum": 16.35,
         "regions": [
           "BR"
         ],
@@ -2863,8 +3107,8 @@
             "channel": "Izabela Anholett",
             "thumbnail": "https://i.ytimg.com/vi/uI-qstDty4Y/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=uI-qstDty4Y",
-            "views": 954905,
-            "age_hours": 211.7
+            "views": 958924,
+            "age_hours": 217.6
           },
           {
             "id": "6cN8EzTHJtk",
@@ -2872,8 +3116,8 @@
             "channel": "RC ASSISTEC ",
             "thumbnail": "https://i.ytimg.com/vi/6cN8EzTHJtk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6cN8EzTHJtk",
-            "views": 853301,
-            "age_hours": 101.8
+            "views": 856879,
+            "age_hours": 107.8
           },
           {
             "id": "2KWf5AWhXak",
@@ -2881,102 +3125,15 @@
             "channel": "Perety games",
             "thumbnail": "https://i.ytimg.com/vi/2KWf5AWhXak/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=2KWf5AWhXak",
-            "views": 479410,
-            "age_hours": 50.4
-          }
-        ]
-      },
-      {
-        "phrase": "youtubeshorts cringe lifehack",
-        "video_count": 2,
-        "momentum": 16.35,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "NuGHQy7f1mg",
-            "title": "He found a musical road... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/NuGHQy7f1mg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NuGHQy7f1mg",
-            "views": 2697010,
-            "age_hours": 35.6
-          },
-          {
-            "id": "MgbjE6lbqSY",
-            "title": "Things to do when bored... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/MgbjE6lbqSY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MgbjE6lbqSY",
-            "views": 2830342,
-            "age_hours": 60.3
-          }
-        ]
-      },
-      {
-        "phrase": "cringe lifehack comedy",
-        "video_count": 2,
-        "momentum": 16.35,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "NuGHQy7f1mg",
-            "title": "He found a musical road... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/NuGHQy7f1mg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NuGHQy7f1mg",
-            "views": 2697010,
-            "age_hours": 35.6
-          },
-          {
-            "id": "MgbjE6lbqSY",
-            "title": "Things to do when bored... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/MgbjE6lbqSY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MgbjE6lbqSY",
-            "views": 2830342,
-            "age_hours": 60.3
-          }
-        ]
-      },
-      {
-        "phrase": "lifehack comedy funny",
-        "video_count": 2,
-        "momentum": 16.35,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "NuGHQy7f1mg",
-            "title": "He found a musical road... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/NuGHQy7f1mg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NuGHQy7f1mg",
-            "views": 2697010,
-            "age_hours": 35.6
-          },
-          {
-            "id": "MgbjE6lbqSY",
-            "title": "Things to do when bored... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/MgbjE6lbqSY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=MgbjE6lbqSY",
-            "views": 2830342,
-            "age_hours": 60.3
+            "views": 487016,
+            "age_hours": 56.3
           }
         ]
       },
       {
         "phrase": "budget rakshabandhan priyalkukreja",
         "video_count": 2,
-        "momentum": 16.15,
+        "momentum": 16.2,
         "regions": [
           "IN"
         ],
@@ -2988,8 +3145,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/lAOUIRScmw8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lAOUIRScmw8",
-            "views": 12061370,
-            "age_hours": 63.8
+            "views": 14387771,
+            "age_hours": 69.8
           },
           {
             "id": "rPqPiurLrvg",
@@ -2997,37 +3154,37 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-            "views": 47389197,
-            "age_hours": 257.9
+            "views": 48265659,
+            "age_hours": 263.8
           }
         ]
       },
       {
         "phrase": "minecraft helden",
         "video_count": 3,
-        "momentum": 15.34,
+        "momentum": 16.05,
         "regions": [
           "DE"
         ],
         "lang": "de",
         "example_videos": [
           {
+            "id": "WXiSxzInzvw",
+            "title": "ICH FINDE GEHEIME OP BASE von YOUTUBER🤑(MINECRAFT HELDEN 3)",
+            "channel": "TriDan",
+            "thumbnail": "https://i.ytimg.com/vi/WXiSxzInzvw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WXiSxzInzvw",
+            "views": 37373,
+            "age_hours": 4.3
+          },
+          {
             "id": "WGrcnGVJEc8",
             "title": "Ich BAUE den ULTIMATIVEN GEHEIM-BUNKER in Minecraft Helden 3!",
             "channel": "iCrimax",
             "thumbnail": "https://i.ytimg.com/vi/WGrcnGVJEc8/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=WGrcnGVJEc8",
-            "views": 193501,
-            "age_hours": 23.4
-          },
-          {
-            "id": "V4Mq3AhFwWQ",
-            "title": "ICH werde aus MINECRAFT HELDEN 3 GEBANNT🚫DAS WARS...?",
-            "channel": "TriDan",
-            "thumbnail": "https://i.ytimg.com/vi/V4Mq3AhFwWQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=V4Mq3AhFwWQ",
-            "views": 104499,
-            "age_hours": 21.9
+            "views": 212181,
+            "age_hours": 29.3
           },
           {
             "id": "6rNe_DEBTfU",
@@ -3035,15 +3192,15 @@
             "channel": "Craftmir",
             "thumbnail": "https://i.ytimg.com/vi/6rNe_DEBTfU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=6rNe_DEBTfU",
-            "views": 55776,
-            "age_hours": 21.4
+            "views": 62195,
+            "age_hours": 27.3
           }
         ]
       },
       {
         "phrase": "priyalkukreja shorts ytshorts",
         "video_count": 2,
-        "momentum": 15.33,
+        "momentum": 15.35,
         "regions": [
           "IN"
         ],
@@ -3055,8 +3212,8 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/rPqPiurLrvg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=rPqPiurLrvg",
-            "views": 47389197,
-            "age_hours": 257.9
+            "views": 48265659,
+            "age_hours": 263.8
           },
           {
             "id": "aBAcYi6W0zw",
@@ -3064,8 +3221,37 @@
             "channel": "Priyal Kukreja",
             "thumbnail": "https://i.ytimg.com/vi/aBAcYi6W0zw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=aBAcYi6W0zw",
-            "views": 6261079,
-            "age_hours": 89.4
+            "views": 6892099,
+            "age_hours": 95.3
+          }
+        ]
+      },
+      {
+        "phrase": "gta live gta5",
+        "video_count": 2,
+        "momentum": 15.22,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "xZO1-fJkD-4",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/xZO1-fJkD-4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xZO1-fJkD-4",
+            "views": 962256,
+            "age_hours": 8.6
+          },
+          {
+            "id": "xBjQFw6nCHw",
+            "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+            "channel": "Hear Is Live",
+            "thumbnail": "https://i.ytimg.com/vi/xBjQFw6nCHw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=xBjQFw6nCHw",
+            "views": 559433,
+            "age_hours": 5.3
           }
         ]
       }
@@ -3073,87 +3259,87 @@
   },
   "trending_searches": [
     {
-      "phrase": "how to tie a tie",
-      "prefix": "how to",
+      "phrase": "why do birds suddenly appear",
+      "prefix": "why do",
       "rank": 1,
-      "first_seen_at": "2026-08-16T06:24:38.483943+00:00",
+      "first_seen_at": "2026-08-16T12:20:43.068664+00:00",
       "is_new": true
     },
     {
-      "phrase": "how do i say goodbye dean lewis",
-      "prefix": "how do",
-      "rank": 1,
-      "first_seen_at": "2026-08-16T06:24:38.483943+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how does it feel d'angelo",
-      "prefix": "how does",
-      "rank": 1,
-      "first_seen_at": "2026-08-16T06:24:38.483943+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why is it spicy",
-      "prefix": "why is",
-      "rank": 1,
-      "first_seen_at": "2026-08-16T06:24:38.483943+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what is this diddy blud doing on the calculator",
-      "prefix": "what is",
-      "rank": 1,
-      "first_seen_at": "2026-08-16T06:24:38.483943+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what are you listening to chris stapleton",
-      "prefix": "what are",
-      "rank": 1,
-      "first_seen_at": "2026-08-16T06:24:38.483943+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "worst way riley green",
-      "prefix": "worst",
-      "rank": 1,
-      "first_seen_at": "2026-08-16T06:24:38.483943+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "topper guild",
-      "prefix": "top",
-      "rank": 1,
-      "first_seen_at": "2026-08-16T06:24:38.483943+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how does it feel",
-      "prefix": "how does",
-      "rank": 2,
-      "first_seen_at": "2026-08-16T06:24:38.483943+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why is my bus driver playing mitski",
-      "prefix": "why is",
-      "rank": 2,
-      "first_seen_at": "2026-08-16T06:24:38.483943+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why does it hurt to love you",
+      "phrase": "why does he call you darling",
       "prefix": "why does",
-      "rank": 2,
-      "first_seen_at": "2026-08-16T06:24:38.483943+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-08-16T12:20:43.068664+00:00",
       "is_new": true
     },
     {
-      "phrase": "what happened to that boy",
+      "phrase": "what happened to virgil",
       "prefix": "what happened",
+      "rank": 1,
+      "first_seen_at": "2026-08-16T12:20:43.068664+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "best build 2k26",
+      "prefix": "best",
+      "rank": 1,
+      "first_seen_at": "2026-08-16T12:20:43.068664+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "is it a crime mariah the scientist",
+      "prefix": "is it",
+      "rank": 1,
+      "first_seen_at": "2026-08-16T12:20:43.068664+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "should i stay or should i go",
+      "prefix": "should i",
+      "rank": 1,
+      "first_seen_at": "2026-08-16T12:20:43.068664+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "can you stand the rain new edition",
+      "prefix": "can you",
+      "rank": 1,
+      "first_seen_at": "2026-08-16T12:20:43.068664+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how to draw",
+      "prefix": "how to",
       "rank": 2,
-      "first_seen_at": "2026-08-16T06:24:38.483943+00:00",
+      "first_seen_at": "2026-08-16T12:20:43.068664+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why don't we fall in love",
+      "prefix": "why do",
+      "rank": 2,
+      "first_seen_at": "2026-08-16T12:20:43.068664+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what is love",
+      "prefix": "what is",
+      "rank": 2,
+      "first_seen_at": "2026-08-16T12:20:43.068664+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what are you doing",
+      "prefix": "what are",
+      "rank": 2,
+      "first_seen_at": "2026-08-16T12:20:43.068664+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "best day ever",
+      "prefix": "best",
+      "rank": 2,
+      "first_seen_at": "2026-08-16T12:20:43.068664+00:00",
       "is_new": true
     }
   ],
@@ -3166,12 +3352,12 @@
       "thumbnail": "https://i.ytimg.com/vi/X1aFkAkFASk/mqdefault.jpg",
       "published_at": "2026-08-15T04:06:21Z",
       "category_id": "24",
-      "views": 22761708,
-      "likes": 1143249,
-      "comments": 50764,
-      "age_hours": 26.3,
-      "views_per_hour": 865393,
-      "momentum": 6.666,
+      "views": 23885883,
+      "likes": 1163172,
+      "comments": 51684,
+      "age_hours": 32.2,
+      "views_per_hour": 740961,
+      "momentum": 6.568,
       "url": "https://www.youtube.com/watch?v=X1aFkAkFASk",
       "region": "US",
       "category": "Entertainment",
@@ -3185,34 +3371,15 @@
       "thumbnail": "https://i.ytimg.com/vi/X58t82y5bz4/mqdefault.jpg",
       "published_at": "2026-08-16T00:14:50Z",
       "category_id": "20",
-      "views": 6731052,
-      "likes": 310523,
-      "comments": 300,
-      "age_hours": 6.2,
-      "views_per_hour": 1092371,
-      "momentum": 6.598,
+      "views": 6789156,
+      "likes": 307328,
+      "comments": 323,
+      "age_hours": 12.1,
+      "views_per_hour": 561261,
+      "momentum": 6.272,
       "url": "https://www.youtube.com/watch?v=X58t82y5bz4",
       "region": "IN",
       "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "_NlOIjOByUg",
-      "title": "LIL NAAY - PERRA (VIDEO OFICIAL)",
-      "channel": "Lil Naay",
-      "channel_id": "UCYeamd07qoXU1JePbBtFBfA",
-      "thumbnail": "https://i.ytimg.com/vi/_NlOIjOByUg/mqdefault.jpg",
-      "published_at": "2026-08-16T00:40:06Z",
-      "category_id": "10",
-      "views": 216373,
-      "likes": 34606,
-      "comments": 1959,
-      "age_hours": 5.7,
-      "views_per_hour": 37698,
-      "momentum": 6.455,
-      "url": "https://www.youtube.com/watch?v=_NlOIjOByUg",
-      "region": "US",
-      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -3223,16 +3390,35 @@
       "thumbnail": "https://i.ytimg.com/vi/hlKN_Jhd2eQ/mqdefault.jpg",
       "published_at": "2026-08-14T15:00:09Z",
       "category_id": "24",
-      "views": 11182477,
-      "likes": 885074,
-      "comments": 1050,
-      "age_hours": 39.4,
-      "views_per_hour": 283766,
-      "momentum": 6.321,
+      "views": 11399615,
+      "likes": 903825,
+      "comments": 1077,
+      "age_hours": 45.3,
+      "views_per_hour": 251415,
+      "momentum": 6.262,
       "url": "https://www.youtube.com/watch?v=hlKN_Jhd2eQ",
       "region": "BR",
       "category": "Entertainment",
       "_detected_lang": "pt"
+    },
+    {
+      "id": "-Iia-mB-mXU",
+      "title": "Shankar Shankar l Official 4k Full Video l Udit Untalentedguy l Kabir Prasad Baibhav Prusty",
+      "channel": "BABU BHAI PRODUCTION",
+      "channel_id": "UCZrZQ8EkxRWE4BIlRv9VDVQ",
+      "thumbnail": "https://i.ytimg.com/vi/-Iia-mB-mXU/mqdefault.jpg",
+      "published_at": "2026-08-16T03:43:26Z",
+      "category_id": "24",
+      "views": 145996,
+      "likes": 26323,
+      "comments": 1701,
+      "age_hours": 8.6,
+      "views_per_hour": 16938,
+      "momentum": 6.247,
+      "url": "https://www.youtube.com/watch?v=-Iia-mB-mXU",
+      "region": "IN",
+      "category": "Entertainment",
+      "_detected_lang": "en"
     },
     {
       "id": "gVE2t-LRK-s",
@@ -3242,32 +3428,13 @@
       "thumbnail": "https://i.ytimg.com/vi/gVE2t-LRK-s/mqdefault.jpg",
       "published_at": "2026-08-15T16:00:01Z",
       "category_id": "20",
-      "views": 7952192,
-      "likes": 279713,
-      "comments": 22880,
-      "age_hours": 14.4,
-      "views_per_hour": 551940,
-      "momentum": 6.311,
+      "views": 11252691,
+      "likes": 352723,
+      "comments": 27949,
+      "age_hours": 20.3,
+      "views_per_hour": 553178,
+      "momentum": 6.246,
       "url": "https://www.youtube.com/watch?v=gVE2t-LRK-s",
-      "region": "US",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "Gp7XG8Oys3I",
-      "title": "Five Nights at Freddy's: WORLD",
-      "channel": "Markiplier",
-      "channel_id": "UC7_YxT-KID8kRbqZo7MyscQ",
-      "thumbnail": "https://i.ytimg.com/vi/Gp7XG8Oys3I/mqdefault.jpg",
-      "published_at": "2026-08-16T04:40:39Z",
-      "category_id": "20",
-      "views": 560690,
-      "likes": 30862,
-      "comments": 343,
-      "age_hours": 1.7,
-      "views_per_hour": 324008,
-      "momentum": 6.151,
-      "url": "https://www.youtube.com/watch?v=Gp7XG8Oys3I",
       "region": "US",
       "category": "Gaming",
       "_detected_lang": "en"
@@ -3280,34 +3447,15 @@
       "thumbnail": "https://i.ytimg.com/vi/-KUPXrRQ93w/mqdefault.jpg",
       "published_at": "2026-08-15T11:00:26Z",
       "category_id": "20",
-      "views": 3549815,
-      "likes": 257907,
-      "comments": 7042,
-      "age_hours": 19.4,
-      "views_per_hour": 182967,
-      "momentum": 6.131,
+      "views": 4086585,
+      "likes": 293393,
+      "comments": 7573,
+      "age_hours": 25.3,
+      "views_per_hour": 161297,
+      "momentum": 6.052,
       "url": "https://www.youtube.com/watch?v=-KUPXrRQ93w",
       "region": "CA",
       "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "33PoxEBWtNg",
-      "title": "How To Cut A Cake Into 32 Slices 🤔",
-      "channel": "Zack D. Films",
-      "channel_id": "UCvz84_Q0BbvZThy75mbd-Dg",
-      "thumbnail": "https://i.ytimg.com/vi/33PoxEBWtNg/mqdefault.jpg",
-      "published_at": "2026-08-14T17:30:10Z",
-      "category_id": "19",
-      "views": 4434449,
-      "likes": 393153,
-      "comments": 5170,
-      "age_hours": 36.9,
-      "views_per_hour": 120156,
-      "momentum": 6.04,
-      "url": "https://www.youtube.com/watch?v=33PoxEBWtNg",
-      "region": "CA",
-      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -3318,15 +3466,53 @@
       "thumbnail": "https://i.ytimg.com/vi/Af6i6ChAVTw/mqdefault.jpg",
       "published_at": "2026-08-08T16:00:01Z",
       "category_id": "24",
-      "views": 77585884,
-      "likes": 1843831,
-      "comments": 146077,
-      "age_hours": 182.4,
-      "views_per_hour": 425343,
-      "momentum": 6.002,
+      "views": 78245327,
+      "likes": 1853828,
+      "comments": 146979,
+      "age_hours": 188.3,
+      "views_per_hour": 415441,
+      "momentum": 5.99,
       "url": "https://www.youtube.com/watch?v=Af6i6ChAVTw",
-      "region": "US",
+      "region": "CA",
       "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "33PoxEBWtNg",
+      "title": "How To Cut A Cake Into 32 Slices 🤔",
+      "channel": "Zack D. Films",
+      "channel_id": "UCvz84_Q0BbvZThy75mbd-Dg",
+      "thumbnail": "https://i.ytimg.com/vi/33PoxEBWtNg/mqdefault.jpg",
+      "published_at": "2026-08-14T17:30:10Z",
+      "category_id": "19",
+      "views": 4662814,
+      "likes": 408862,
+      "comments": 5318,
+      "age_hours": 42.8,
+      "views_per_hour": 108842,
+      "momentum": 5.978,
+      "url": "https://www.youtube.com/watch?v=33PoxEBWtNg",
+      "region": "CA",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "_NlOIjOByUg",
+      "title": "LIL NAAY - PERRA (VIDEO OFICIAL)",
+      "channel": "Lil Naay",
+      "channel_id": "UCYeamd07qoXU1JePbBtFBfA",
+      "thumbnail": "https://i.ytimg.com/vi/_NlOIjOByUg/mqdefault.jpg",
+      "published_at": "2026-08-16T00:40:06Z",
+      "category_id": "10",
+      "views": 306644,
+      "likes": 39321,
+      "comments": 2089,
+      "age_hours": 11.7,
+      "views_per_hour": 26268,
+      "momentum": 5.854,
+      "url": "https://www.youtube.com/watch?v=_NlOIjOByUg",
+      "region": "US",
+      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -3337,12 +3523,12 @@
       "thumbnail": "https://i.ytimg.com/vi/1EgS0othQe4/mqdefault.jpg",
       "published_at": "2026-08-12T13:00:04Z",
       "category_id": "20",
-      "views": 5665570,
-      "likes": 245494,
-      "comments": 67042,
-      "age_hours": 89.4,
-      "views_per_hour": 63368,
-      "momentum": 5.786,
+      "views": 5773629,
+      "likes": 247166,
+      "comments": 67306,
+      "age_hours": 95.3,
+      "views_per_hour": 60557,
+      "momentum": 5.749,
       "url": "https://www.youtube.com/watch?v=1EgS0othQe4",
       "region": "AU",
       "category": "Gaming",
@@ -3356,15 +3542,34 @@
       "thumbnail": "https://i.ytimg.com/vi/qfms_SxSg1U/mqdefault.jpg",
       "published_at": "2026-08-14T20:03:41Z",
       "category_id": "22",
-      "views": 1158946,
-      "likes": 88954,
-      "comments": 14003,
-      "age_hours": 34.3,
-      "views_per_hour": 33741,
-      "momentum": 5.77,
+      "views": 1174640,
+      "likes": 91639,
+      "comments": 14404,
+      "age_hours": 40.3,
+      "views_per_hour": 29160,
+      "momentum": 5.709,
       "url": "https://www.youtube.com/watch?v=qfms_SxSg1U",
       "region": "BR",
       "category": "People & Blogs",
+      "_detected_lang": "pt"
+    },
+    {
+      "id": "4LuUXN2V1ZI",
+      "title": "ele vai dar a Volta ao Mundo a Pé",
+      "channel": "Investiga, Pinhel! ",
+      "channel_id": "UCHw2aRSCveHIIxNinU2ZHpQ",
+      "thumbnail": "https://i.ytimg.com/vi/4LuUXN2V1ZI/mqdefault.jpg",
+      "published_at": "2026-08-13T14:50:23Z",
+      "category_id": "27",
+      "views": 2558177,
+      "likes": 306461,
+      "comments": 2481,
+      "age_hours": 69.5,
+      "views_per_hour": 36806,
+      "momentum": 5.704,
+      "url": "https://www.youtube.com/watch?v=4LuUXN2V1ZI",
+      "region": "BR",
+      "category": "Education",
       "_detected_lang": "pt"
     },
     {
@@ -3375,73 +3580,35 @@
       "thumbnail": "https://i.ytimg.com/vi/pSOJGKs-OvY/mqdefault.jpg",
       "published_at": "2026-08-15T05:30:36Z",
       "category_id": "22",
-      "views": 2961461,
-      "likes": 189234,
-      "comments": 2458,
-      "age_hours": 24.9,
-      "views_per_hour": 118938,
-      "momentum": 5.766,
+      "views": 3281493,
+      "likes": 204640,
+      "comments": 2841,
+      "age_hours": 30.8,
+      "views_per_hour": 106425,
+      "momentum": 5.698,
       "url": "https://www.youtube.com/watch?v=pSOJGKs-OvY",
       "region": "IN",
       "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
-      "id": "CNXs_EITnIk",
-      "title": "The Hardest Granny Escape Together Challenge Ever! 💀 #granny",
-      "channel": "MysticMind",
-      "channel_id": "UC9j6N5vlIU8l3ZF5A8rlsSg",
-      "thumbnail": "https://i.ytimg.com/vi/CNXs_EITnIk/mqdefault.jpg",
-      "published_at": "2026-08-16T03:18:23Z",
-      "category_id": "20",
-      "views": 1590989,
-      "likes": 7496,
-      "comments": 0,
-      "age_hours": 3.1,
-      "views_per_hour": 512769,
-      "momentum": 5.764,
-      "url": "https://www.youtube.com/watch?v=CNXs_EITnIk",
-      "region": "IN",
-      "category": "Gaming",
+      "id": "indtUA__wZc",
+      "title": "BEHIND THE SCENES OF MAJOR DISASTER MOVIE 🎥🍿 #movie #behindthescenes #shorts",
+      "channel": "CultureDesk",
+      "channel_id": "UCnKEqjTo3nAjKD8JzDbSorA",
+      "thumbnail": "https://i.ytimg.com/vi/indtUA__wZc/mqdefault.jpg",
+      "published_at": "2026-08-11T21:12:05Z",
+      "category_id": "23",
+      "views": 20934088,
+      "likes": 786704,
+      "comments": 3125,
+      "age_hours": 111.1,
+      "views_per_hour": 188353,
+      "momentum": 5.679,
+      "url": "https://www.youtube.com/watch?v=indtUA__wZc",
+      "region": "DE",
+      "category": "Comedy",
       "_detected_lang": "en"
-    },
-    {
-      "id": "qe-_lQ1jQJI",
-      "title": "The Ben - Inshallah (Official Music Video)",
-      "channel": "The Ben",
-      "channel_id": "UCuXbUa0FhcNp1dQI8nNho7Q",
-      "thumbnail": "https://i.ytimg.com/vi/qe-_lQ1jQJI/mqdefault.jpg",
-      "published_at": "2026-08-15T12:00:06Z",
-      "category_id": "10",
-      "views": 304149,
-      "likes": 32590,
-      "comments": 4615,
-      "age_hours": 18.4,
-      "views_per_hour": 16524,
-      "momentum": 5.762,
-      "url": "https://www.youtube.com/watch?v=qe-_lQ1jQJI",
-      "region": "CA",
-      "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "4LuUXN2V1ZI",
-      "title": "ele vai dar a Volta ao Mundo a Pé",
-      "channel": "Investiga, Pinhel! ",
-      "channel_id": "UCHw2aRSCveHIIxNinU2ZHpQ",
-      "thumbnail": "https://i.ytimg.com/vi/4LuUXN2V1ZI/mqdefault.jpg",
-      "published_at": "2026-08-13T14:50:23Z",
-      "category_id": "27",
-      "views": 2530509,
-      "likes": 302735,
-      "comments": 2443,
-      "age_hours": 63.6,
-      "views_per_hour": 39807,
-      "momentum": 5.745,
-      "url": "https://www.youtube.com/watch?v=4LuUXN2V1ZI",
-      "region": "BR",
-      "category": "Education",
-      "_detected_lang": "pt"
     },
     {
       "id": "jFph1d2WR3s",
@@ -3451,53 +3618,15 @@
       "thumbnail": "https://i.ytimg.com/vi/jFph1d2WR3s/mqdefault.jpg",
       "published_at": "2026-08-12T21:35:18Z",
       "category_id": "22",
-      "views": 7603361,
-      "likes": 455254,
-      "comments": 18381,
-      "age_hours": 80.8,
-      "views_per_hour": 94078,
-      "momentum": 5.689,
+      "views": 8078427,
+      "likes": 473248,
+      "comments": 19463,
+      "age_hours": 86.8,
+      "views_per_hour": 93119,
+      "momentum": 5.671,
       "url": "https://www.youtube.com/watch?v=jFph1d2WR3s",
       "region": "US",
       "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "FboTyBsFZQs",
-      "title": "Anuel AA | Donde Hubo Fuego Cenizas Quedan (Video Oficial)",
-      "channel": "Anuel AA",
-      "channel_id": "UCRI7hheejBbWS6etTNwMT0g",
-      "thumbnail": "https://i.ytimg.com/vi/FboTyBsFZQs/mqdefault.jpg",
-      "published_at": "2026-08-14T22:44:06Z",
-      "category_id": "10",
-      "views": 3645390,
-      "likes": 175759,
-      "comments": 9389,
-      "age_hours": 31.7,
-      "views_per_hour": 115095,
-      "momentum": 5.679,
-      "url": "https://www.youtube.com/watch?v=FboTyBsFZQs",
-      "region": "US",
-      "category": "Other",
-      "_detected_lang": "es"
-    },
-    {
-      "id": "BkYekSPynVo",
-      "title": "I Exposed Minecraft's \"Strongest\" Player",
-      "channel": "FlameFrags",
-      "channel_id": "UCvYPobTo42NM36X7VC4dLhA",
-      "thumbnail": "https://i.ytimg.com/vi/BkYekSPynVo/mqdefault.jpg",
-      "published_at": "2026-08-14T13:00:40Z",
-      "category_id": "20",
-      "views": 2466491,
-      "likes": 111752,
-      "comments": 24198,
-      "age_hours": 41.4,
-      "views_per_hour": 59580,
-      "momentum": 5.676,
-      "url": "https://www.youtube.com/watch?v=BkYekSPynVo",
-      "region": "AU",
-      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -3508,12 +3637,12 @@
       "thumbnail": "https://i.ytimg.com/vi/WAl31hQge1U/mqdefault.jpg",
       "published_at": "2026-08-13T09:09:48Z",
       "category_id": "1",
-      "views": 7590409,
-      "likes": 455659,
-      "comments": 4357,
-      "age_hours": 69.2,
-      "views_per_hour": 109617,
-      "momentum": 5.674,
+      "views": 8237860,
+      "likes": 486937,
+      "comments": 4661,
+      "age_hours": 75.2,
+      "views_per_hour": 109577,
+      "momentum": 5.664,
       "url": "https://www.youtube.com/watch?v=WAl31hQge1U",
       "region": "US",
       "category": "Other",
@@ -3527,12 +3656,12 @@
       "thumbnail": "https://i.ytimg.com/vi/sJawxq5tNKQ/mqdefault.jpg",
       "published_at": "2026-08-05T07:17:18Z",
       "category_id": "17",
-      "views": 56017956,
-      "likes": 1687605,
-      "comments": 6507,
-      "age_hours": 263.1,
-      "views_per_hour": 212898,
-      "momentum": 5.655,
+      "views": 56899729,
+      "likes": 1720065,
+      "comments": 6598,
+      "age_hours": 269.1,
+      "views_per_hour": 211480,
+      "momentum": 5.653,
       "url": "https://www.youtube.com/watch?v=sJawxq5tNKQ",
       "region": "IN",
       "category": "Other",
@@ -3546,54 +3675,54 @@
       "thumbnail": "https://i.ytimg.com/vi/zPkyOTgTuEg/mqdefault.jpg",
       "published_at": "2026-08-09T22:43:51Z",
       "category_id": "24",
-      "views": 7748161,
-      "likes": 729117,
-      "comments": 9730,
-      "age_hours": 151.7,
-      "views_per_hour": 51083,
-      "momentum": 5.654,
+      "views": 7865438,
+      "likes": 740203,
+      "comments": 9863,
+      "age_hours": 157.6,
+      "views_per_hour": 49904,
+      "momentum": 5.641,
       "url": "https://www.youtube.com/watch?v=zPkyOTgTuEg",
       "region": "US",
       "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
-      "id": "30RrRqQeUYg",
-      "title": "THE LONG HORSE: O CRIATURA QUE INVADIU O SEU MUNDO",
-      "channel": "Eu Hipe",
-      "channel_id": "UCOQmBVfATKImz1du_L4jIeg",
-      "thumbnail": "https://i.ytimg.com/vi/30RrRqQeUYg/mqdefault.jpg",
-      "published_at": "2026-08-15T21:00:28Z",
-      "category_id": "24",
-      "views": 190226,
-      "likes": 23496,
-      "comments": 1240,
-      "age_hours": 9.4,
-      "views_per_hour": 20233,
-      "momentum": 5.651,
-      "url": "https://www.youtube.com/watch?v=30RrRqQeUYg",
-      "region": "BR",
-      "category": "Entertainment",
-      "_detected_lang": "pt"
-    },
-    {
-      "id": "dyCiBem2p80",
-      "title": "PMWC GRAND FINALS WATCHPARTY DAY-2 | EWC 2026  | @LoLzZzGaming",
-      "channel": "LoLzZz Gaming",
-      "channel_id": "UCI1vyXBgX3bruwvChLMNxjQ",
-      "thumbnail": "https://i.ytimg.com/vi/dyCiBem2p80/mqdefault.jpg",
-      "published_at": "2026-08-15T21:40:17Z",
+      "id": "BkYekSPynVo",
+      "title": "I Exposed Minecraft's \"Strongest\" Player",
+      "channel": "FlameFrags",
+      "channel_id": "UCvYPobTo42NM36X7VC4dLhA",
+      "thumbnail": "https://i.ytimg.com/vi/BkYekSPynVo/mqdefault.jpg",
+      "published_at": "2026-08-14T13:00:40Z",
       "category_id": "20",
-      "views": 1600933,
-      "likes": 56380,
-      "comments": 15,
-      "age_hours": 8.7,
-      "views_per_hour": 183221,
-      "momentum": 5.634,
-      "url": "https://www.youtube.com/watch?v=dyCiBem2p80",
-      "region": "IN",
+      "views": 2562933,
+      "likes": 113842,
+      "comments": 24410,
+      "age_hours": 47.3,
+      "views_per_hour": 54148,
+      "momentum": 5.605,
+      "url": "https://www.youtube.com/watch?v=BkYekSPynVo",
+      "region": "AU",
       "category": "Gaming",
       "_detected_lang": "en"
+    },
+    {
+      "id": "FboTyBsFZQs",
+      "title": "Anuel AA | Donde Hubo Fuego Cenizas Quedan (Video Oficial)",
+      "channel": "Anuel AA",
+      "channel_id": "UCRI7hheejBbWS6etTNwMT0g",
+      "thumbnail": "https://i.ytimg.com/vi/FboTyBsFZQs/mqdefault.jpg",
+      "published_at": "2026-08-14T22:44:06Z",
+      "category_id": "10",
+      "views": 3778634,
+      "likes": 178215,
+      "comments": 9513,
+      "age_hours": 37.6,
+      "views_per_hour": 100476,
+      "momentum": 5.6,
+      "url": "https://www.youtube.com/watch?v=FboTyBsFZQs",
+      "region": "US",
+      "category": "Other",
+      "_detected_lang": "es"
     },
     {
       "id": "-yF1LcoBxts",
@@ -3603,16 +3732,73 @@
       "thumbnail": "https://i.ytimg.com/vi/-yF1LcoBxts/mqdefault.jpg",
       "published_at": "2026-08-13T16:15:19Z",
       "category_id": "22",
-      "views": 3758560,
-      "likes": 312767,
-      "comments": 3180,
-      "age_hours": 62.2,
-      "views_per_hour": 60471,
-      "momentum": 5.618,
+      "views": 3793323,
+      "likes": 316749,
+      "comments": 3224,
+      "age_hours": 68.1,
+      "views_per_hour": 55711,
+      "momentum": 5.579,
       "url": "https://www.youtube.com/watch?v=-yF1LcoBxts",
       "region": "BR",
       "category": "People & Blogs",
       "_detected_lang": "pt"
+    },
+    {
+      "id": "DgFemuNxBrk",
+      "title": "KATSEYE - That Way (Official Lyric Video)",
+      "channel": "KATSEYE",
+      "channel_id": "UCA61H4fWOMHikLcUFKyQUog",
+      "thumbnail": "https://i.ytimg.com/vi/DgFemuNxBrk/mqdefault.jpg",
+      "published_at": "2026-08-14T04:00:18Z",
+      "category_id": "10",
+      "views": 2522439,
+      "likes": 150617,
+      "comments": 18436,
+      "age_hours": 56.3,
+      "views_per_hour": 44773,
+      "momentum": 5.546,
+      "url": "https://www.youtube.com/watch?v=DgFemuNxBrk",
+      "region": "CA",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "qe-_lQ1jQJI",
+      "title": "The Ben - Inshallah (Official Music Video)",
+      "channel": "The Ben",
+      "channel_id": "UCuXbUa0FhcNp1dQI8nNho7Q",
+      "thumbnail": "https://i.ytimg.com/vi/qe-_lQ1jQJI/mqdefault.jpg",
+      "published_at": "2026-08-15T12:00:06Z",
+      "category_id": "10",
+      "views": 387094,
+      "likes": 36745,
+      "comments": 5024,
+      "age_hours": 24.3,
+      "views_per_hour": 15903,
+      "momentum": 5.544,
+      "url": "https://www.youtube.com/watch?v=qe-_lQ1jQJI",
+      "region": "CA",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "AEuTfSrqnW0",
+      "title": "he didn’t even sit down 😭 #couple #couplegoals",
+      "channel": "hyoga.x",
+      "channel_id": "UC2RnpTR1h4qs0a6-lqJfPhQ",
+      "thumbnail": "https://i.ytimg.com/vi/AEuTfSrqnW0/mqdefault.jpg",
+      "published_at": "2026-08-14T16:50:09Z",
+      "category_id": "24",
+      "views": 5233377,
+      "likes": 228241,
+      "comments": 1315,
+      "age_hours": 43.5,
+      "views_per_hour": 120288,
+      "momentum": 5.536,
+      "url": "https://www.youtube.com/watch?v=AEuTfSrqnW0",
+      "region": "CA",
+      "category": "Entertainment",
+      "_detected_lang": "en"
     }
   ]
 }
