@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T10:27:31.739443+00:00",
+  "generated_at": "2026-09-09T15:37:19.531128+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,24 +40,180 @@
     }
   ],
   "stats": {
-    "total_videos": 431,
+    "total_videos": 432,
     "total_topics": 18,
     "total_themes": 8,
     "total_searches": 12,
     "by_category": {
-      "Other": 55,
-      "Gaming": 80,
-      "Entertainment": 101,
-      "Comedy": 16,
-      "People & Blogs": 133,
-      "Science & Tech": 22,
+      "Entertainment": 100,
+      "Other": 57,
+      "Comedy": 17,
+      "People & Blogs": 135,
+      "Gaming": 79,
+      "Science & Tech": 20,
       "Education": 6,
       "Howto & Style": 18
     }
   },
   "emerging_themes": [
     {
+      "phrase": "zelda 40th anniversary",
+      "video_count": 30,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "2OxO7zkyntQ",
+          "title": "Zelda 40th Anniversary.. 🥹 #zelda #vtuber #vtuberclips #vtubershorts #shorts #thelegendofzelda",
+          "channel": "The ChoZen One",
+          "channel_id": "UC5aOs8evzaBieb_2QnAHhAg",
+          "subscribers": 1080,
+          "thumbnail": "https://i.ytimg.com/vi/2OxO7zkyntQ/mqdefault.jpg",
+          "published_at": "2026-09-09T15:33:11Z",
+          "url": "https://www.youtube.com/watch?v=2OxO7zkyntQ"
+        },
+        {
+          "id": "PFPFMFa2XPA",
+          "title": "Toughts Of The Legend Of Zelda 40th Anniversary Direct",
+          "channel": "LoKoKaBoosTeR",
+          "channel_id": "UCFxhYtC_c-Ums3uY-KYrX_w",
+          "subscribers": 245,
+          "thumbnail": "https://i.ytimg.com/vi/PFPFMFa2XPA/mqdefault.jpg",
+          "published_at": "2026-09-09T15:31:51Z",
+          "url": "https://www.youtube.com/watch?v=PFPFMFa2XPA"
+        },
+        {
+          "id": "0YloKzLS7gI",
+          "title": "Sugar&#39;s &quot;The Legend of Zelda 40th Anniversary Direct&quot; LIVE REACTION",
+          "channel": "SugarBearVT",
+          "channel_id": "UCzhMKzO7XZeCMXT9PwooQuw",
+          "subscribers": 336,
+          "thumbnail": "https://i.ytimg.com/vi/0YloKzLS7gI/mqdefault.jpg",
+          "published_at": "2026-09-09T15:30:24Z",
+          "url": "https://www.youtube.com/watch?v=0YloKzLS7gI"
+        },
+        {
+          "id": "KqamnS7u2ZU",
+          "title": "The Legend of Zelda 40th Anniversary Watchalong &amp; Zelda Direct Reaction - Direct Recap Show 9.8.2026",
+          "channel": "Nintendo Pow Block Podcast",
+          "channel_id": "UCykqWUDyki35rbWzF5T0Dug",
+          "subscribers": 1500,
+          "thumbnail": "https://i.ytimg.com/vi/KqamnS7u2ZU/mqdefault_live.jpg",
+          "published_at": "2026-09-09T15:29:30Z",
+          "url": "https://www.youtube.com/watch?v=KqamnS7u2ZU"
+        }
+      ],
+      "first_detected_at": "2026-09-08T20:31:17.701192+00:00",
+      "last_seen_at": "2026-09-09T15:37:19.531128+00:00"
+    },
+    {
       "phrase": "legend zelda",
+      "video_count": 29,
+      "channel_count": 29,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "-B1aH8Z6WTc",
+          "title": "ALIENS in The Legend Of Zelda??",
+          "channel": "Majin Horror",
+          "channel_id": "UCqGUkfEA3Is04e_lygZFb7A",
+          "subscribers": 14,
+          "thumbnail": "https://i.ytimg.com/vi/-B1aH8Z6WTc/mqdefault.jpg",
+          "published_at": "2026-09-09T15:27:55Z",
+          "url": "https://www.youtube.com/watch?v=-B1aH8Z6WTc"
+        },
+        {
+          "id": "I6kzzmUaRQA",
+          "title": "THE NEW ZELDA: OCARINA OF TIME LOOKS OFF..?  #moistcritikal #penguinz0  #ocarinaoftime",
+          "channel": "Cr1tikally Online",
+          "channel_id": "UCgbEaGBmesDuAy-gdS8eZHg",
+          "subscribers": 9160,
+          "thumbnail": "https://i.ytimg.com/vi/I6kzzmUaRQA/mqdefault.jpg",
+          "published_at": "2026-09-09T15:06:36Z",
+          "url": "https://www.youtube.com/watch?v=I6kzzmUaRQA"
+        },
+        {
+          "id": "ldzoYWZaRag",
+          "title": "😆 A Nintendo dublando jogo e a Rockstar não, o mundo tá ao contrário!",
+          "channel": "Big Blox",
+          "channel_id": "UC0SBxtWM5if1u4W0PBOAzmQ",
+          "subscribers": 217000,
+          "thumbnail": "https://i.ytimg.com/vi/ldzoYWZaRag/mqdefault.jpg",
+          "published_at": "2026-09-09T15:00:38Z",
+          "url": "https://www.youtube.com/watch?v=ldzoYWZaRag"
+        },
+        {
+          "id": "V7pjO311tYU",
+          "title": "What does a Dazzlefruit do? — The Legend of Zelda: Tears of The Kingdom BLIND PLAYTHROUGH (152)",
+          "channel": "lil indigestion",
+          "channel_id": "UC0tAsa0oScv8hw60j-ro47Q",
+          "subscribers": 36000,
+          "thumbnail": "https://i.ytimg.com/vi/V7pjO311tYU/mqdefault.jpg",
+          "published_at": "2026-09-09T15:00:23Z",
+          "url": "https://www.youtube.com/watch?v=V7pjO311tYU"
+        }
+      ],
+      "first_detected_at": "2026-09-08T20:31:17.701192+00:00",
+      "last_seen_at": "2026-09-09T15:37:19.531128+00:00"
+    },
+    {
+      "phrase": "ocarina time",
+      "video_count": 29,
+      "channel_count": 29,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.42,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "I6kzzmUaRQA",
+          "title": "THE NEW ZELDA: OCARINA OF TIME LOOKS OFF..?  #moistcritikal #penguinz0  #ocarinaoftime",
+          "channel": "Cr1tikally Online",
+          "channel_id": "UCgbEaGBmesDuAy-gdS8eZHg",
+          "subscribers": 9160,
+          "thumbnail": "https://i.ytimg.com/vi/I6kzzmUaRQA/mqdefault.jpg",
+          "published_at": "2026-09-09T15:06:36Z",
+          "url": "https://www.youtube.com/watch?v=I6kzzmUaRQA"
+        },
+        {
+          "id": "nXclmS_O6Do",
+          "title": "Why Ocarina of Time Is My Favorite Game",
+          "channel": "skratsx",
+          "channel_id": "UCXK_s7qmft-0MtR6pDtcPwQ",
+          "subscribers": 395,
+          "thumbnail": "https://i.ytimg.com/vi/nXclmS_O6Do/mqdefault.jpg",
+          "published_at": "2026-09-09T15:05:02Z",
+          "url": "https://www.youtube.com/watch?v=nXclmS_O6Do"
+        },
+        {
+          "id": "-MhcB2lSmCM",
+          "title": "Vous trouvez ça beau ? | Zelda Ocarina of Time Remake",
+          "channel": "oninekumo",
+          "channel_id": "UCBlOUOon4-2t7J_jV3R6UmQ",
+          "subscribers": 904,
+          "thumbnail": "https://i.ytimg.com/vi/-MhcB2lSmCM/mqdefault.jpg",
+          "published_at": "2026-09-09T15:00:31Z",
+          "url": "https://www.youtube.com/watch?v=-MhcB2lSmCM"
+        },
+        {
+          "id": "MyklkKC5m1w",
+          "title": "Ocarina of Time Remake - Its Happening #zelda #gaming #shorts",
+          "channel": "Adamer And Kael",
+          "channel_id": "UCIhQQMaF7XRUaRoA_m9TBag",
+          "subscribers": 73200,
+          "thumbnail": "https://i.ytimg.com/vi/MyklkKC5m1w/mqdefault.jpg",
+          "published_at": "2026-09-09T15:00:19Z",
+          "url": "https://www.youtube.com/watch?v=MyklkKC5m1w"
+        }
+      ],
+      "first_detected_at": "2026-09-09T10:27:31.739443+00:00",
+      "last_seen_at": "2026-09-09T15:37:19.531128+00:00"
+    },
+    {
+      "phrase": "40th anniversary direct",
       "video_count": 30,
       "channel_count": 28,
       "total_channels_seen": 28,
@@ -65,51 +221,51 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "DuvqPt5feGc",
-          "title": "استعراض أول Gameplay للنسخة الجديدة من The Legend of Zelda Ocarina of Time Remake",
-          "channel": "Smashi Gaming",
-          "channel_id": "UCVqPAEABaO3LdX78m8pkjew",
-          "subscribers": 6670,
-          "thumbnail": "https://i.ytimg.com/vi/DuvqPt5feGc/mqdefault.jpg",
-          "published_at": "2026-09-09T10:25:34Z",
-          "url": "https://www.youtube.com/watch?v=DuvqPt5feGc"
+          "id": "PFPFMFa2XPA",
+          "title": "Toughts Of The Legend Of Zelda 40th Anniversary Direct",
+          "channel": "LoKoKaBoosTeR",
+          "channel_id": "UCFxhYtC_c-Ums3uY-KYrX_w",
+          "subscribers": 245,
+          "thumbnail": "https://i.ytimg.com/vi/PFPFMFa2XPA/mqdefault.jpg",
+          "published_at": "2026-09-09T15:31:51Z",
+          "url": "https://www.youtube.com/watch?v=PFPFMFa2XPA"
         },
         {
-          "id": "ZIGo0ZExbrw",
-          "title": "Nintendo revealed the first gameplay footage for The Legend of Zelda: Ocarina of Time remake during",
-          "channel": "The Respawn",
-          "channel_id": "UCqygaV0tqBVDBBverQrv74g",
-          "subscribers": 95500,
-          "thumbnail": "https://i.ytimg.com/vi/ZIGo0ZExbrw/mqdefault.jpg",
-          "published_at": "2026-09-09T09:39:08Z",
-          "url": "https://www.youtube.com/watch?v=ZIGo0ZExbrw"
+          "id": "0YloKzLS7gI",
+          "title": "Sugar&#39;s &quot;The Legend of Zelda 40th Anniversary Direct&quot; LIVE REACTION",
+          "channel": "SugarBearVT",
+          "channel_id": "UCzhMKzO7XZeCMXT9PwooQuw",
+          "subscribers": 336,
+          "thumbnail": "https://i.ytimg.com/vi/0YloKzLS7gI/mqdefault.jpg",
+          "published_at": "2026-09-09T15:30:24Z",
+          "url": "https://www.youtube.com/watch?v=0YloKzLS7gI"
         },
         {
-          "id": "QXYZA8gq6Mg",
-          "title": "Cosplay Japan Expo 2025 - Waluigi - Mario Bros - Link - The Legend of Zelda",
-          "channel": "TVHLAND",
-          "channel_id": "UCG1c2W9EwoHLzi2B-YlxtKw",
-          "subscribers": 22900,
-          "thumbnail": "https://i.ytimg.com/vi/QXYZA8gq6Mg/mqdefault.jpg",
-          "published_at": "2026-09-09T09:30:02Z",
-          "url": "https://www.youtube.com/watch?v=QXYZA8gq6Mg"
+          "id": "fCiAe6GdkjE",
+          "title": "Nerdy Thoughts On (Ep.2): Legend of Zelda 40th Anniversary Direct/Ocarina of Time Remake Reaction",
+          "channel": "The Nerdy Hippies",
+          "channel_id": "UClM0FpLFEkW-mnqf0lg20hw",
+          "subscribers": 85,
+          "thumbnail": "https://i.ytimg.com/vi/fCiAe6GdkjE/mqdefault.jpg",
+          "published_at": "2026-09-09T15:20:59Z",
+          "url": "https://www.youtube.com/watch?v=fCiAe6GdkjE"
         },
         {
-          "id": "RCyR1NTBMf0",
-          "title": "ПК ГЕЙМЕРЫ ОСТАЛИСЬ БЕЗ ИГРЫ - The legend of Zelda",
-          "channel": "FLÄMZY",
-          "channel_id": "UCeqN_WQf8-eImTahTIZVVOQ",
-          "subscribers": 30,
-          "thumbnail": "https://i.ytimg.com/vi/RCyR1NTBMf0/mqdefault.jpg",
-          "published_at": "2026-09-09T09:24:55Z",
-          "url": "https://www.youtube.com/watch?v=RCyR1NTBMf0"
+          "id": "MLFkIrXbpYA",
+          "title": "Now THIS Is Modern Zelda! | Legend of Zelda 40th Anniversary Direct Reaction",
+          "channel": "Jin Zenith",
+          "channel_id": "UCoDlw5dj3nCJR4S08ekCqsw",
+          "subscribers": 50,
+          "thumbnail": "https://i.ytimg.com/vi/MLFkIrXbpYA/mqdefault.jpg",
+          "published_at": "2026-09-09T15:00:39Z",
+          "url": "https://www.youtube.com/watch?v=MLFkIrXbpYA"
         }
       ],
       "first_detected_at": "2026-09-08T20:31:17.701192+00:00",
-      "last_seen_at": "2026-09-09T10:27:31.739443+00:00"
+      "last_seen_at": "2026-09-09T15:37:19.531128+00:00"
     },
     {
-      "phrase": "real end twist",
+      "phrase": "iphone pro",
       "video_count": 28,
       "channel_count": 28,
       "total_channels_seen": 30,
@@ -117,259 +273,103 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "uIeX92qt2TU",
-          "title": "Real End for Twist 🍓#trendingshorts #vairalvideo #ytshorts #love #fyp",
-          "channel": "Aqsa life style ",
-          "channel_id": "UCSzrQ7z8HTE2rRt8iM4XuLg",
-          "subscribers": 318,
-          "thumbnail": "https://i.ytimg.com/vi/uIeX92qt2TU/mqdefault.jpg",
-          "published_at": "2026-09-09T10:26:35Z",
-          "url": "https://www.youtube.com/watch?v=uIeX92qt2TU"
+          "id": "6uQCYLdYoA8",
+          "title": "Iphone 17 Pro Max 24x zoom Power🔥🙀 #shorts #travel #fyp #viral #foryou #iphone #17promax",
+          "channel": "SA Arif Explore",
+          "channel_id": "UCThFlKxTrAtNAjE2ARlmo8Q",
+          "subscribers": 105,
+          "thumbnail": "https://i.ytimg.com/vi/6uQCYLdYoA8/mqdefault.jpg",
+          "published_at": "2026-09-09T15:00:10Z",
+          "url": "https://www.youtube.com/watch?v=6uQCYLdYoA8"
         },
         {
-          "id": "IU-_HGTbD5I",
-          "title": "🥶Ada paavi🤪real end twist🥰 #funny #comedy#Shorts# trending# entertainment😁(SG official)🤣fun",
-          "channel": "SG Official Shorts1",
-          "channel_id": "UChBEM1Hdwz9_jYgQ14VPYSQ",
-          "subscribers": 88900,
-          "thumbnail": "https://i.ytimg.com/vi/IU-_HGTbD5I/mqdefault.jpg",
-          "published_at": "2026-09-09T10:16:09Z",
-          "url": "https://www.youtube.com/watch?v=IU-_HGTbD5I"
+          "id": "u-fu1gfC1QQ",
+          "title": "iphone 16 pro max unboxing",
+          "channel": "starting boys 88",
+          "channel_id": "UCKXGCIHZnk1Dewr5Tht_2hg",
+          "subscribers": 101,
+          "thumbnail": "https://i.ytimg.com/vi/u-fu1gfC1QQ/mqdefault.jpg",
+          "published_at": "2026-09-09T14:58:18Z",
+          "url": "https://www.youtube.com/watch?v=u-fu1gfC1QQ"
         },
         {
-          "id": "DAs2rb9j-m0",
-          "title": "Real Twist In End 😂💕#shorts #anaya #anayavideo #shortsfeed",
-          "channel": "Kid Video ",
-          "channel_id": "UC1Tf0WsYx_rjOSG0AKWWevg",
-          "subscribers": 19600,
-          "thumbnail": "https://i.ytimg.com/vi/DAs2rb9j-m0/mqdefault.jpg",
-          "published_at": "2026-09-09T10:00:36Z",
-          "url": "https://www.youtube.com/watch?v=DAs2rb9j-m0"
+          "id": "3MqLD06dSqo",
+          "title": "iPhone 18 Pro Max vs Samsung s27 ultra",
+          "channel": "ATS 3.0 TECH",
+          "channel_id": "UC7IkqStyoykzvH4BYUIk-xA",
+          "subscribers": 1580,
+          "thumbnail": "https://i.ytimg.com/vi/3MqLD06dSqo/mqdefault.jpg",
+          "published_at": "2026-09-09T14:57:40Z",
+          "url": "https://www.youtube.com/watch?v=3MqLD06dSqo"
         },
         {
-          "id": "5J09XN5vogs",
-          "title": "😡Adi Paavi 🤣P-81😂 Real end twist 😂 #shorts #viral #comedy #reels #trending #funnyvedio #ytshorts",
-          "channel": "Raja with Bhuvana",
-          "channel_id": "UC5idsobBDrM_VUi1Ch1i__w",
-          "subscribers": 43000,
-          "thumbnail": "https://i.ytimg.com/vi/5J09XN5vogs/mqdefault.jpg",
-          "published_at": "2026-09-09T10:00:27Z",
-          "url": "https://www.youtube.com/watch?v=5J09XN5vogs"
+          "id": "qHKIKf41qx8",
+          "title": "İphone 18 PRO MAX&#39;in 4 Farklı modeli olacak👌",
+          "channel": "RN Donanım",
+          "channel_id": "UCPAemCrFbyhxhY1ZmpARGLA",
+          "subscribers": 211000,
+          "thumbnail": "https://i.ytimg.com/vi/qHKIKf41qx8/mqdefault.jpg",
+          "published_at": "2026-09-09T14:57:17Z",
+          "url": "https://www.youtube.com/watch?v=qHKIKf41qx8"
         }
       ],
-      "first_detected_at": "2026-09-05T19:44:26.693138+00:00",
-      "last_seen_at": "2026-09-09T10:27:31.739443+00:00"
+      "first_detected_at": "2026-09-09T02:17:56.914496+00:00",
+      "last_seen_at": "2026-09-09T15:37:19.531128+00:00"
     },
     {
-      "phrase": "ocarina time",
+      "phrase": "minecraft helden",
       "video_count": 28,
-      "channel_count": 27,
-      "total_channels_seen": 29,
-      "uploads_per_hour": 2.25,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "cOSI8wtwvdQ",
-          "title": "9 changements sur le Remake d&#39;Ocarina of Time sur Switch 2 #jeuxvideo #zelda",
-          "channel": "ToTheTops",
-          "channel_id": "UCzbwXkXbtT0q-hh1HUiAnYw",
-          "subscribers": 3640,
-          "thumbnail": "https://i.ytimg.com/vi/cOSI8wtwvdQ/mqdefault.jpg",
-          "published_at": "2026-09-09T10:03:29Z",
-          "url": "https://www.youtube.com/watch?v=cOSI8wtwvdQ"
-        },
-        {
-          "id": "BOOHpOnRQoM",
-          "title": "Zelda Ocarina of Time Remake – DAS ist neu! (Release + Gameplay)",
-          "channel": "nophilterde",
-          "channel_id": "UC6F_vVKOe7B_XD6GUqLr6Eg",
-          "subscribers": 443,
-          "thumbnail": "https://i.ytimg.com/vi/BOOHpOnRQoM/mqdefault.jpg",
-          "published_at": "2026-09-09T10:00:27Z",
-          "url": "https://www.youtube.com/watch?v=BOOHpOnRQoM"
-        },
-        {
-          "id": "8Ny0dDG0TwM",
-          "title": "Ocarina of time: Le pire link ?",
-          "channel": "misterLeu",
-          "channel_id": "UCw5CLutoMm5kRkTEnFKGzHg",
-          "subscribers": 139,
-          "thumbnail": "https://i.ytimg.com/vi/8Ny0dDG0TwM/mqdefault.jpg",
-          "published_at": "2026-09-09T09:47:15Z",
-          "url": "https://www.youtube.com/watch?v=8Ny0dDG0TwM"
-        },
-        {
-          "id": "VyMKHCMxhnA",
-          "title": "New Ocarina Of Time looks great!",
-          "channel": "MrSteJ",
-          "channel_id": "UCMUW8QxzCI-3INN_-3P9RJw",
-          "subscribers": 18600,
-          "thumbnail": "https://i.ytimg.com/vi/VyMKHCMxhnA/mqdefault.jpg",
-          "published_at": "2026-09-09T09:43:56Z",
-          "url": "https://www.youtube.com/watch?v=VyMKHCMxhnA"
-        }
-      ],
-      "first_detected_at": "2026-09-09T10:27:31.739443+00:00",
-      "last_seen_at": "2026-09-09T10:27:31.739443+00:00"
-    },
-    {
-      "phrase": "roube ovo",
-      "video_count": 30,
       "channel_count": 26,
-      "total_channels_seen": 26,
+      "total_channels_seen": 28,
       "uploads_per_hour": 2.17,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "a5WrNnHHzvw",
-          "title": "ROUBE um ovo#de VÍDEO de#",
-          "channel": "BOSS ",
-          "channel_id": "UCkOXpHTIuzcYjgLG9TCiMlQ",
-          "subscribers": 228,
-          "thumbnail": "https://i.ytimg.com/vi/a5WrNnHHzvw/mqdefault.jpg",
-          "published_at": "2026-09-09T10:22:31Z",
-          "url": "https://www.youtube.com/watch?v=a5WrNnHHzvw"
+          "id": "zzJSWVUKY7I",
+          "title": "Avive killt Ojicristos | mc Helden 3 #minecraft #helden #avive #ojicristos",
+          "channel": "Shivanillaedits ",
+          "channel_id": "UCVNDh6EykWs2D8q1uIDPGgA",
+          "subscribers": 5880,
+          "thumbnail": "https://i.ytimg.com/vi/zzJSWVUKY7I/mqdefault.jpg",
+          "published_at": "2026-09-09T15:30:14Z",
+          "url": "https://www.youtube.com/watch?v=zzJSWVUKY7I"
         },
         {
-          "id": "GyT3hhv5mZU",
-          "title": "TIPO DE JOGADORES EM ROUBE UM OVO #roblox #stealanegg #robloxshorts",
-          "channel": "Otaku React",
-          "channel_id": "UCs_JdHAqYp78E8NkRUNgs5A",
-          "subscribers": 18200,
-          "thumbnail": "https://i.ytimg.com/vi/GyT3hhv5mZU/mqdefault.jpg",
-          "published_at": "2026-09-09T09:45:31Z",
-          "url": "https://www.youtube.com/watch?v=GyT3hhv5mZU"
+          "id": "jf6bmxTzmaU",
+          "title": "🔴Helden-Insel🔴Minecraft Battle Royale🔴Live🔴IP:heldeninsel.net🔴",
+          "channel": "Melonenkopf",
+          "channel_id": "UCpg7B2-1Pi120YS8zYjb6oQ",
+          "subscribers": 157,
+          "thumbnail": "https://i.ytimg.com/vi/jf6bmxTzmaU/mqdefault_live.jpg",
+          "published_at": "2026-09-09T15:21:37Z",
+          "url": "https://www.youtube.com/watch?v=jf6bmxTzmaU"
         },
         {
-          "id": "w1bfJho0-1I",
-          "title": "JOGANDO ROUBE UM OVO ROBLOX AO VIVO ! #roblox",
-          "channel": "PeuRush",
-          "channel_id": "UCmXmb9PNhSkW2ErYHbB8I2Q",
-          "subscribers": 9490,
-          "thumbnail": "https://i.ytimg.com/vi/w1bfJho0-1I/mqdefault.jpg",
-          "published_at": "2026-09-09T09:42:07Z",
-          "url": "https://www.youtube.com/watch?v=w1bfJho0-1I"
+          "id": "EhcMcN_x10c",
+          "title": "❗️LIVE | Helden Insel🔴Minecraft BattleRoyale🔴IP:heldeninsel.net🔴",
+          "channel": "Elimexx",
+          "channel_id": "UCgU-cV4l_I22uR5fpt4faHw",
+          "subscribers": 600,
+          "thumbnail": "https://i.ytimg.com/vi/EhcMcN_x10c/mqdefault_live.jpg",
+          "published_at": "2026-09-09T15:15:46Z",
+          "url": "https://www.youtube.com/watch?v=EhcMcN_x10c"
         },
         {
-          "id": "lp42YbCDCb4",
-          "title": "peguei o maior ovo do roube um ovo 🍀😱 #roblox # #stealabrainrot #roubeumovo #stealanegg",
-          "channel": "TDR_sagazx7",
-          "channel_id": "UCbM3hJaNObZEZai-z7NQTUQ",
-          "subscribers": 2150,
-          "thumbnail": "https://i.ytimg.com/vi/lp42YbCDCb4/mqdefault.jpg",
-          "published_at": "2026-09-09T09:35:16Z",
-          "url": "https://www.youtube.com/watch?v=lp42YbCDCb4"
+          "id": "WeRi194TxxQ",
+          "title": "Platin zieht nächstes Herz mit einer Falle in Minecraft Helden 3",
+          "channel": "jechtsik",
+          "channel_id": "UCPPEmOxGJYmSEdL4C-GGpNA",
+          "subscribers": 126,
+          "thumbnail": "https://i.ytimg.com/vi/WeRi194TxxQ/mqdefault.jpg",
+          "published_at": "2026-09-09T15:06:47Z",
+          "url": "https://www.youtube.com/watch?v=WeRi194TxxQ"
         }
       ],
-      "first_detected_at": "2026-09-08T02:14:21.477683+00:00",
-      "last_seen_at": "2026-09-09T10:27:31.739443+00:00"
+      "first_detected_at": "2026-09-09T15:37:19.531128+00:00",
+      "last_seen_at": "2026-09-09T15:37:19.531128+00:00"
     },
     {
-      "phrase": "zelda 40th anniversary",
-      "video_count": 30,
-      "channel_count": 26,
-      "total_channels_seen": 26,
-      "uploads_per_hour": 2.17,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "PfLzcC5N7ks",
-          "title": "Ocarina Of Time Looks Crazy!! - The Legend of Zelda 40th Anniversary Direct Reaction 😱 ⚔️",
-          "channel": "Alchares",
-          "channel_id": "UCOgv-gCbeNegEO0OXnnn7Qg",
-          "subscribers": 1070,
-          "thumbnail": "https://i.ytimg.com/vi/PfLzcC5N7ks/mqdefault.jpg",
-          "published_at": "2026-09-09T10:00:15Z",
-          "url": "https://www.youtube.com/watch?v=PfLzcC5N7ks"
-        },
-        {
-          "id": "AI-NTSVLoMg",
-          "title": "Un Annuncio SOTTOVALUTATO nello Zelda Direct 40th",
-          "channel": "Giostix",
-          "channel_id": "UCmHCDi97P_LVXLXZP8tVn1w",
-          "subscribers": 3800,
-          "thumbnail": "https://i.ytimg.com/vi/AI-NTSVLoMg/mqdefault.jpg",
-          "published_at": "2026-09-09T10:00:05Z",
-          "url": "https://www.youtube.com/watch?v=AI-NTSVLoMg"
-        },
-        {
-          "id": "zr7tTuQK2DI",
-          "title": "Nintendo&#39;s Zelda 40TH Anniversary Direct Reaction",
-          "channel": "BowlingBombchu",
-          "channel_id": "UCQKa51IMgtnKLU0b2ZZ8LLQ",
-          "subscribers": 24,
-          "thumbnail": "https://i.ytimg.com/vi/zr7tTuQK2DI/mqdefault.jpg",
-          "published_at": "2026-09-09T08:52:13Z",
-          "url": "https://www.youtube.com/watch?v=zr7tTuQK2DI"
-        },
-        {
-          "id": "Nn0tQqLP-so",
-          "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026 and Nintendo Direct 9.9.2026 - Ninten | NEWS-MO",
-          "channel": "News Monster",
-          "channel_id": "UC4UC7z16EtqtI-TJzeGZKjQ",
-          "subscribers": 14,
-          "thumbnail": "https://i.ytimg.com/vi/Nn0tQqLP-so/mqdefault.jpg",
-          "published_at": "2026-09-09T08:40:27Z",
-          "url": "https://www.youtube.com/watch?v=Nn0tQqLP-so"
-        }
-      ],
-      "first_detected_at": "2026-09-08T20:31:17.701192+00:00",
-      "last_seen_at": "2026-09-09T10:27:31.739443+00:00"
-    },
-    {
-      "phrase": "40th anniversary direct",
-      "video_count": 30,
-      "channel_count": 26,
-      "total_channels_seen": 26,
-      "uploads_per_hour": 2.17,
-      "window_hours": 12,
-      "example_videos": [
-        {
-          "id": "PIc6nRO6XnM",
-          "title": "The Zelda 40th Anniversary Direct Was… Strange",
-          "channel": "The Moo",
-          "channel_id": "UCitLJy0dHbAODB4ae6zRUnQ",
-          "subscribers": 575,
-          "thumbnail": "https://i.ytimg.com/vi/PIc6nRO6XnM/mqdefault.jpg",
-          "published_at": "2026-09-09T10:22:17Z",
-          "url": "https://www.youtube.com/watch?v=PIc6nRO6XnM"
-        },
-        {
-          "id": "PfLzcC5N7ks",
-          "title": "Ocarina Of Time Looks Crazy!! - The Legend of Zelda 40th Anniversary Direct Reaction 😱 ⚔️",
-          "channel": "Alchares",
-          "channel_id": "UCOgv-gCbeNegEO0OXnnn7Qg",
-          "subscribers": 1070,
-          "thumbnail": "https://i.ytimg.com/vi/PfLzcC5N7ks/mqdefault.jpg",
-          "published_at": "2026-09-09T10:00:15Z",
-          "url": "https://www.youtube.com/watch?v=PfLzcC5N7ks"
-        },
-        {
-          "id": "AI-NTSVLoMg",
-          "title": "Un Annuncio SOTTOVALUTATO nello Zelda Direct 40th",
-          "channel": "Giostix",
-          "channel_id": "UCmHCDi97P_LVXLXZP8tVn1w",
-          "subscribers": 3800,
-          "thumbnail": "https://i.ytimg.com/vi/AI-NTSVLoMg/mqdefault.jpg",
-          "published_at": "2026-09-09T10:00:05Z",
-          "url": "https://www.youtube.com/watch?v=AI-NTSVLoMg"
-        },
-        {
-          "id": "Bi2XNPkJFOc",
-          "title": "Legend of Zelda 40th Anniversary Direct 9.8.2026 - Nintendo Switch 2 - Thunder Pals Live Reaction",
-          "channel": "Thunder Pals",
-          "channel_id": "UCtUjAqVCvWLSrcAc85egJ7Q",
-          "subscribers": 2050,
-          "thumbnail": "https://i.ytimg.com/vi/Bi2XNPkJFOc/mqdefault.jpg",
-          "published_at": "2026-09-09T09:49:54Z",
-          "url": "https://www.youtube.com/watch?v=Bi2XNPkJFOc"
-        }
-      ],
-      "first_detected_at": "2026-09-08T20:31:17.701192+00:00",
-      "last_seen_at": "2026-09-09T10:27:31.739443+00:00"
-    },
-    {
-      "phrase": "tom jerry",
+      "phrase": "real end twist",
       "video_count": 27,
       "channel_count": 26,
       "total_channels_seen": 29,
@@ -377,107 +377,145 @@
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "LLzUptFOrxk",
-          "title": "NEW VLOG FT. TOM AND JERRY 😂 #blogger #vlogs #mrbeast #triggeredinsaan #fukrainsaan #bome",
-          "channel": "Ai home",
-          "channel_id": "UC5UAaOYLc0hrOiL0f2hFJUQ",
-          "subscribers": 11,
-          "thumbnail": "https://i.ytimg.com/vi/LLzUptFOrxk/mqdefault.jpg",
-          "published_at": "2026-09-09T10:22:43Z",
-          "url": "https://www.youtube.com/watch?v=LLzUptFOrxk"
+          "id": "R5CEMEQYWTA",
+          "title": "Tom Jerry, Real End Twist Must Watch #shorts #tastyindia #funny #tasteofindia #alooparatha #bhaat",
+          "channel": "Comedy Reaction 7.0",
+          "channel_id": "UC4qcAe-HUCIGVf0cm6p2ibA",
+          "subscribers": 80,
+          "thumbnail": "https://i.ytimg.com/vi/R5CEMEQYWTA/mqdefault.jpg",
+          "published_at": "2026-09-09T15:24:00Z",
+          "url": "https://www.youtube.com/watch?v=R5CEMEQYWTA"
         },
         {
-          "id": "VPazsbIR5bs",
-          "title": "#tomjerry #cartoon #funnycartoon #kidsvideo #kidslearning",
-          "channel": "Kidzzz Rhymes English ",
-          "channel_id": "UCjX2eMgMZ0y2NRcPQyofRjw",
-          "subscribers": 2,
-          "thumbnail": "https://i.ytimg.com/vi/VPazsbIR5bs/mqdefault.jpg",
-          "published_at": "2026-09-09T10:22:35Z",
-          "url": "https://www.youtube.com/watch?v=VPazsbIR5bs"
+          "id": "wro5Q35GcgY",
+          "title": "Real end twist😂comedy#husbandwife#funny#ytshorts#couplecomedy#shorts#love",
+          "channel": "Ricky15",
+          "channel_id": "UCGsepozez-ZJCzFKYk9T_Bw",
+          "subscribers": 476,
+          "thumbnail": "https://i.ytimg.com/vi/wro5Q35GcgY/mqdefault.jpg",
+          "published_at": "2026-09-09T15:05:04Z",
+          "url": "https://www.youtube.com/watch?v=wro5Q35GcgY"
         },
         {
-          "id": "BzLSsHk9wG4",
-          "title": "កំប្លែងបាក់ស្រឡាញ់! ពេល Tom ត្រូវឃ្មុំទិច និងលេងសើចជាមួយ Jerry លើត្រាក់ទ័ #funnycartoon 🤣🐝🚜",
-          "channel": "Vannhing373animals",
-          "channel_id": "UCeMaf0WRVRQ3yf-GKzcLbMg",
-          "subscribers": 1210,
-          "thumbnail": "https://i.ytimg.com/vi/BzLSsHk9wG4/mqdefault.jpg",
-          "published_at": "2026-09-09T10:15:01Z",
-          "url": "https://www.youtube.com/watch?v=BzLSsHk9wG4"
+          "id": "OLUUm6QiK-A",
+          "title": "😡Ada paavi🤬😅 real end twist 😂 #shorts #youtube #comedy #couple #foryou #trending",
+          "channel": "ramlalapatel",
+          "channel_id": "UC-6D6xXDMtkjkOKVFEkJvxg",
+          "subscribers": 1560,
+          "thumbnail": "https://i.ytimg.com/vi/OLUUm6QiK-A/mqdefault.jpg",
+          "published_at": "2026-09-09T15:02:51Z",
+          "url": "https://www.youtube.com/watch?v=OLUUm6QiK-A"
         },
         {
-          "id": "dP9XgDxq2oQ",
-          "title": "End miss mat Karan 😱 Tom and jerry 🥰 #shorts",
-          "channel": "Hikvj Gijh",
-          "channel_id": "UCVwlW75QNlLCMBz7ndC4iOQ",
-          "subscribers": 877,
-          "thumbnail": "https://i.ytimg.com/vi/dP9XgDxq2oQ/mqdefault.jpg",
-          "published_at": "2026-09-09T10:10:11Z",
-          "url": "https://www.youtube.com/watch?v=dP9XgDxq2oQ"
+          "id": "wfuAXzN83Ys",
+          "title": "Tom and jerry real end twist #shorts #viral",
+          "channel": "nsk world",
+          "channel_id": "UC7rzHafG7xZeYRfHv_k5P8Q",
+          "subscribers": 26600,
+          "thumbnail": "https://i.ytimg.com/vi/wfuAXzN83Ys/mqdefault.jpg",
+          "published_at": "2026-09-09T14:41:16Z",
+          "url": "https://www.youtube.com/watch?v=wfuAXzN83Ys"
         }
       ],
-      "first_detected_at": "2026-09-06T09:57:31.341385+00:00",
-      "last_seen_at": "2026-09-09T10:27:31.739443+00:00"
+      "first_detected_at": "2026-09-05T19:44:26.693138+00:00",
+      "last_seen_at": "2026-09-09T15:37:19.531128+00:00"
     },
     {
-      "phrase": "iphone pro",
-      "video_count": 26,
-      "channel_count": 22,
-      "total_channels_seen": 25,
-      "uploads_per_hour": 1.83,
+      "phrase": "tom jerry",
+      "video_count": 24,
+      "channel_count": 24,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.0,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "NdJM3CIlBRg",
-          "title": "iPhone 16 Pro Back Glass Replacement 🔥 | Toota Hua Back Glass Kaise Change Kiya? #shorts",
-          "channel": "zorba mobile",
-          "channel_id": "UCAzJMthlM32Ojlk1MLEATFQ",
-          "subscribers": 90500,
-          "thumbnail": "https://i.ytimg.com/vi/NdJM3CIlBRg/mqdefault.jpg",
-          "published_at": "2026-09-09T10:00:09Z",
-          "url": "https://www.youtube.com/watch?v=NdJM3CIlBRg"
+          "id": "wKPPKTjE848",
+          "title": "tom and jerry New episode#music #cartoons#tom and jerry",
+          "channel": "By Mirkamolov cartoons",
+          "channel_id": "UCJ1QjKfFg_jx2Zhx_7M89Ng",
+          "subscribers": 130,
+          "thumbnail": "https://i.ytimg.com/vi/wKPPKTjE848/mqdefault.jpg",
+          "published_at": "2026-09-09T15:24:15Z",
+          "url": "https://www.youtube.com/watch?v=wKPPKTjE848"
         },
         {
-          "id": "zzjaEmDCie8",
-          "title": "iPhone 18 Pro Max Dark Cherry 📱🫶#noads #tiktok #usa",
-          "channel": "Danh Global",
-          "channel_id": "UCj6npYNtkwX8zNZ0qRxbibA",
-          "subscribers": 186000,
-          "thumbnail": "https://i.ytimg.com/vi/zzjaEmDCie8/mqdefault.jpg",
-          "published_at": "2026-09-09T10:00:05Z",
-          "url": "https://www.youtube.com/watch?v=zzjaEmDCie8"
+          "id": "FK3X5-h_7GE",
+          "title": "Tom and jerry 😂😂🤪 #shorts #trending #trendingshorts #ytshorts #shortsfeed",
+          "channel": "Priyanka Ravi",
+          "channel_id": "UC7v5E_UcXLebr3q1EA6zr4w",
+          "subscribers": 16400,
+          "thumbnail": "https://i.ytimg.com/vi/FK3X5-h_7GE/mqdefault.jpg",
+          "published_at": "2026-09-09T15:10:36Z",
+          "url": "https://www.youtube.com/watch?v=FK3X5-h_7GE"
         },
         {
-          "id": "f6kyUsoiMFQ",
-          "title": "iPhone 17 Pro Max vs Honor Magic 9 Pro Max #shorts",
-          "channel": "Technical Goal seek",
-          "channel_id": "UCIB2SBVptWqB2R4FXdJC6TA",
-          "subscribers": 2150,
-          "thumbnail": "https://i.ytimg.com/vi/f6kyUsoiMFQ/mqdefault.jpg",
-          "published_at": "2026-09-09T09:45:07Z",
-          "url": "https://www.youtube.com/watch?v=f6kyUsoiMFQ"
+          "id": "I-_KzI7sKog",
+          "title": "Ich Habe Tom &amp; Jerry In ERSTAUNLICHE LEGO Zaubertricks Verwandelt! | BEAR Bricks German",
+          "channel": "BEAR Bricks German",
+          "channel_id": "UCmzhTBB0Nj2HoELtDN4nUkw",
+          "subscribers": 3120,
+          "thumbnail": "https://i.ytimg.com/vi/I-_KzI7sKog/mqdefault.jpg",
+          "published_at": "2026-09-09T15:05:57Z",
+          "url": "https://www.youtube.com/watch?v=I-_KzI7sKog"
         },
         {
-          "id": "Lmbzkn4bjsQ",
-          "title": "iPhone Duo và iPhone 18 Pro Max là 2 mẫu iPhone MỚI sẽ được Apple ra mắt vào 00:00 ngày 9/9 hôm nay",
-          "channel": "Hoàng Minh Hiếu",
-          "channel_id": "UCTDF6K-QWy_PPmdvyAprmFg",
-          "subscribers": 12900,
-          "thumbnail": "https://i.ytimg.com/vi/Lmbzkn4bjsQ/mqdefault.jpg",
-          "published_at": "2026-09-09T09:30:45Z",
-          "url": "https://www.youtube.com/watch?v=Lmbzkn4bjsQ"
+          "id": "wfuAXzN83Ys",
+          "title": "Tom and jerry real end twist #shorts #viral",
+          "channel": "nsk world",
+          "channel_id": "UC7rzHafG7xZeYRfHv_k5P8Q",
+          "subscribers": 26600,
+          "thumbnail": "https://i.ytimg.com/vi/wfuAXzN83Ys/mqdefault.jpg",
+          "published_at": "2026-09-09T14:41:16Z",
+          "url": "https://www.youtube.com/watch?v=wfuAXzN83Ys"
         }
       ],
-      "first_detected_at": "2026-09-09T02:17:56.914496+00:00",
-      "last_seen_at": "2026-09-09T10:27:31.739443+00:00"
+      "first_detected_at": "2026-09-06T09:57:31.341385+00:00",
+      "last_seen_at": "2026-09-09T15:37:19.531128+00:00"
     }
   ],
   "topics": [
     {
+      "phrase": "minecraft",
+      "video_count": 5,
+      "momentum": 23.98,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "YxHAkIoPy90",
+          "title": "Carry and Doorbin Joined Military Army in Minecraft..",
+          "channel": "Karry Kraft",
+          "thumbnail": "https://i.ytimg.com/vi/YxHAkIoPy90/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YxHAkIoPy90",
+          "views": 514116,
+          "age_hours": 7.9
+        },
+        {
+          "id": "Y-YWYIsOs18",
+          "title": "Minecraft But You Can Mine 1 TRILLION Blocks!",
+          "channel": "ProBoiz 95",
+          "thumbnail": "https://i.ytimg.com/vi/Y-YWYIsOs18/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Y-YWYIsOs18",
+          "views": 2653515,
+          "age_hours": 48.7
+        },
+        {
+          "id": "692mluo7YW8",
+          "title": "Poor Boys vs Rich Girls Chunk in Minecraft..",
+          "channel": "Carry Depie",
+          "thumbnail": "https://i.ytimg.com/vi/692mluo7YW8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=692mluo7YW8",
+          "views": 1232885,
+          "age_hours": 27.5
+        }
+      ]
+    },
+    {
       "phrase": "back",
       "video_count": 5,
-      "momentum": 20.96,
+      "momentum": 20.83,
       "regions": [
         "GB"
       ],
@@ -489,8 +527,8 @@
           "channel": "Sofi Manassyan",
           "thumbnail": "https://i.ytimg.com/vi/EQJVCoaOX5s/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=EQJVCoaOX5s",
-          "views": 14289051,
-          "age_hours": 132.1
+          "views": 14441986,
+          "age_hours": 137.2
         },
         {
           "id": "A1nI-2tdhmI",
@@ -498,24 +536,24 @@
           "channel": "Yahya Alhihi",
           "thumbnail": "https://i.ytimg.com/vi/A1nI-2tdhmI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=A1nI-2tdhmI",
-          "views": 3560265,
-          "age_hours": 115.4
+          "views": 3592630,
+          "age_hours": 120.6
         },
         {
-          "id": "BK1CpKw5aQI",
-          "title": "BACK IN THE PREMIER LEAGUE! (FIFA 17 The Journey #3)",
-          "channel": "Danny Aarons",
-          "thumbnail": "https://i.ytimg.com/vi/BK1CpKw5aQI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=BK1CpKw5aQI",
-          "views": 77327,
-          "age_hours": 19.9
+          "id": "ksfCcUka2-E",
+          "title": "COME BACK TO WORK WITH ME AFTER BABY NUMBER 2 | VLOG | AD | MOLLYMAE",
+          "channel": "MollyMae",
+          "thumbnail": "https://i.ytimg.com/vi/ksfCcUka2-E/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ksfCcUka2-E",
+          "views": 1064359,
+          "age_hours": 237.0
         }
       ]
     },
     {
       "phrase": "zelda",
       "video_count": 4,
-      "momentum": 20.3,
+      "momentum": 19.95,
       "regions": [
         "US"
       ],
@@ -527,8 +565,8 @@
           "channel": "Nintendo of America",
           "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
-          "views": 6214680,
-          "age_hours": 17.1
+          "views": 6424879,
+          "age_hours": 22.3
         },
         {
           "id": "ZwycnPCK0pA",
@@ -536,8 +574,8 @@
           "channel": "GameSpot",
           "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-          "views": 1049828,
-          "age_hours": 19.7
+          "views": 1137873,
+          "age_hours": 24.8
         },
         {
           "id": "yQG89Mv_J5o",
@@ -545,15 +583,15 @@
           "channel": "Austin John Plays",
           "thumbnail": "https://i.ytimg.com/vi/yQG89Mv_J5o/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=yQG89Mv_J5o",
-          "views": 504325,
-          "age_hours": 18.4
+          "views": 528627,
+          "age_hours": 23.6
         }
       ]
     },
     {
       "phrase": "tom jerry",
       "video_count": 3,
-      "momentum": 19.76,
+      "momentum": 19.72,
       "regions": [
         "IN"
       ],
@@ -565,17 +603,8 @@
           "channel": "KL BRO Biju Rithvik",
           "thumbnail": "https://i.ytimg.com/vi/TV9hHv2zQhI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=TV9hHv2zQhI",
-          "views": 18097553,
-          "age_hours": 98.6
-        },
-        {
-          "id": "Ukk-OaUTpNI",
-          "title": "Tom🍓Jerry,Real End Twist😄Must Watch #shorts",
-          "channel": "vlog 4u",
-          "thumbnail": "https://i.ytimg.com/vi/Ukk-OaUTpNI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Ukk-OaUTpNI",
-          "views": 9347954,
-          "age_hours": 74.5
+          "views": 18954584,
+          "age_hours": 103.7
         },
         {
           "id": "yljQBs-pnkY",
@@ -583,37 +612,84 @@
           "channel": "Krishna Avyu",
           "thumbnail": "https://i.ytimg.com/vi/yljQBs-pnkY/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=yljQBs-pnkY",
-          "views": 12700480,
-          "age_hours": 100.2
+          "views": 13036911,
+          "age_hours": 105.4
+        },
+        {
+          "id": "Ukk-OaUTpNI",
+          "title": "Tom🍓Jerry,Real End Twist😄Must Watch #shorts",
+          "channel": "vlog 4u",
+          "thumbnail": "https://i.ytimg.com/vi/Ukk-OaUTpNI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Ukk-OaUTpNI",
+          "views": 9477420,
+          "age_hours": 79.6
+        }
+      ]
+    },
+    {
+      "phrase": "minecraft helden",
+      "video_count": 3,
+      "momentum": 19.31,
+      "regions": [
+        "DE"
+      ],
+      "lang": "de",
+      "example_videos": [
+        {
+          "id": "Qz3tnJBVaak",
+          "title": "Ich KILL TRIDAN und NIMM MIR SEIN HERZ! (Minecraft Helden 3)",
+          "channel": "AviveHD",
+          "thumbnail": "https://i.ytimg.com/vi/Qz3tnJBVaak/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Qz3tnJBVaak",
+          "views": 32368,
+          "age_hours": 4.1
+        },
+        {
+          "id": "cqmRVlKIma4",
+          "title": "ich VERLIERE mein 2. HERZ & WERDE GEBANNT? (MINECRAFT HELDEN 3)",
+          "channel": "TriDan",
+          "thumbnail": "https://i.ytimg.com/vi/cqmRVlKIma4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cqmRVlKIma4",
+          "views": 36035,
+          "age_hours": 4.1
+        },
+        {
+          "id": "EnReaa4DTSI",
+          "title": "ICH RETTE TRIDAN in Minecraft Helden 3! (Geheimer Plan)",
+          "channel": "iCrimax",
+          "thumbnail": "https://i.ytimg.com/vi/EnReaa4DTSI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=EnReaa4DTSI",
+          "views": 48163,
+          "age_hours": 4.1
         }
       ]
     },
     {
       "phrase": "time",
       "video_count": 4,
-      "momentum": 19.49,
+      "momentum": 19.29,
       "regions": [
         "US"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "ZwycnPCK0pA",
-          "title": "The Legend of Zelda: Ocarina of Time First Gameplay Look Trailer",
-          "channel": "GameSpot",
-          "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-          "views": 1049828,
-          "age_hours": 19.7
-        },
-        {
           "id": "JUdGUHTfmIg",
           "title": "Logan Seeing Beast For The First Time In The Past Is Unhinged",
           "channel": "Tobey Maguire Times",
           "thumbnail": "https://i.ytimg.com/vi/JUdGUHTfmIg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=JUdGUHTfmIg",
-          "views": 6296274,
-          "age_hours": 88.4
+          "views": 6760447,
+          "age_hours": 93.6
+        },
+        {
+          "id": "ZwycnPCK0pA",
+          "title": "The Legend of Zelda: Ocarina of Time First Gameplay Look Trailer",
+          "channel": "GameSpot",
+          "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
+          "views": 1137873,
+          "age_hours": 24.8
         },
         {
           "id": "sTjWHkB_dzk",
@@ -621,15 +697,15 @@
           "channel": "BeatEmUps",
           "thumbnail": "https://i.ytimg.com/vi/sTjWHkB_dzk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=sTjWHkB_dzk",
-          "views": 467154,
-          "age_hours": 13.9
+          "views": 563920,
+          "age_hours": 19.0
         }
       ]
     },
     {
       "phrase": "legend zelda",
       "video_count": 3,
-      "momentum": 19.47,
+      "momentum": 19.16,
       "regions": [
         "US"
       ],
@@ -641,8 +717,8 @@
           "channel": "Nintendo of America",
           "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
-          "views": 6214680,
-          "age_hours": 17.1
+          "views": 6424879,
+          "age_hours": 22.3
         },
         {
           "id": "ZwycnPCK0pA",
@@ -650,8 +726,8 @@
           "channel": "GameSpot",
           "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-          "views": 1049828,
-          "age_hours": 19.7
+          "views": 1137873,
+          "age_hours": 24.8
         },
         {
           "id": "lP8PEivKVbg",
@@ -659,15 +735,15 @@
           "channel": "IGN",
           "thumbnail": "https://i.ytimg.com/vi/lP8PEivKVbg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=lP8PEivKVbg",
-          "views": 326665,
-          "age_hours": 17.3
+          "views": 371338,
+          "age_hours": 22.5
         }
       ]
     },
     {
       "phrase": "ocarina time",
       "video_count": 3,
-      "momentum": 18.09,
+      "momentum": 17.82,
       "regions": [
         "US"
       ],
@@ -679,8 +755,8 @@
           "channel": "GameSpot",
           "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-          "views": 1049828,
-          "age_hours": 19.7
+          "views": 1137873,
+          "age_hours": 24.8
         },
         {
           "id": "sTjWHkB_dzk",
@@ -688,8 +764,8 @@
           "channel": "BeatEmUps",
           "thumbnail": "https://i.ytimg.com/vi/sTjWHkB_dzk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=sTjWHkB_dzk",
-          "views": 467154,
-          "age_hours": 13.9
+          "views": 563920,
+          "age_hours": 19.0
         },
         {
           "id": "lP8PEivKVbg",
@@ -697,15 +773,15 @@
           "channel": "IGN",
           "thumbnail": "https://i.ytimg.com/vi/lP8PEivKVbg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=lP8PEivKVbg",
-          "views": 326665,
-          "age_hours": 17.3
+          "views": 371338,
+          "age_hours": 22.5
         }
       ]
     },
     {
       "phrase": "iphone",
       "video_count": 4,
-      "momentum": 16.93,
+      "momentum": 16.88,
       "regions": [
         "BR"
       ],
@@ -717,8 +793,8 @@
           "channel": "MrCappuccino Memes 2",
           "thumbnail": "https://i.ytimg.com/vi/-QpSeK-5AVo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=-QpSeK-5AVo",
-          "views": 6999173,
-          "age_hours": 180.4
+          "views": 7005016,
+          "age_hours": 185.6
         },
         {
           "id": "97j_Jo4KYvk",
@@ -726,8 +802,8 @@
           "channel": "Mike Fantástico",
           "thumbnail": "https://i.ytimg.com/vi/97j_Jo4KYvk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=97j_Jo4KYvk",
-          "views": 1413960,
-          "age_hours": 137.1
+          "views": 1424296,
+          "age_hours": 142.3
         },
         {
           "id": "IFtajR50SIQ",
@@ -735,111 +811,15 @@
           "channel": "Mundo em Pauta",
           "thumbnail": "https://i.ytimg.com/vi/IFtajR50SIQ/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=IFtajR50SIQ",
-          "views": 782552,
-          "age_hours": 156.4
-        }
-      ]
-    },
-    {
-      "phrase": "roube ovo",
-      "video_count": 3,
-      "momentum": 16.22,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "Dc3Aa0Ohuis",
-          "title": "ENCONTREI O PET MAIS RARO DO MUNDO NO ROUBE UM OVO",
-          "channel": "Lucas Clash ON",
-          "thumbnail": "https://i.ytimg.com/vi/Dc3Aa0Ohuis/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Dc3Aa0Ohuis",
-          "views": 211954,
-          "age_hours": 13.3
-        },
-        {
-          "id": "vXMJZ-_B2zI",
-          "title": "CRIEI CHEFÃO VERITY SECRETO nesse ROUBE UM OVO",
-          "channel": "Pabllym GO!",
-          "thumbnail": "https://i.ytimg.com/vi/vXMJZ-_B2zI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=vXMJZ-_B2zI",
-          "views": 136306,
-          "age_hours": 20.3
-        },
-        {
-          "id": "GSDC8HTnAcI",
-          "title": "ENTREI EM UM SERVIDOR DE ADMIN COM TODOS OS OVOS GIGANTES NO ROUBE UM OVO! 🤫",
-          "channel": "xMarcelo",
-          "thumbnail": "https://i.ytimg.com/vi/GSDC8HTnAcI/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=GSDC8HTnAcI",
-          "views": 106050,
-          "age_hours": 13.9
-        }
-      ]
-    },
-    {
-      "phrase": "zelda 40th anniversary",
-      "video_count": 2,
-      "momentum": 16.08,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "A0WX-jsir94",
-          "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
-          "channel": "Nintendo of America",
-          "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
-          "views": 6214680,
-          "age_hours": 17.1
-        },
-        {
-          "id": "yQG89Mv_J5o",
-          "title": "The Zelda 40th Anniversary Direct Was INSANE!",
-          "channel": "Austin John Plays",
-          "thumbnail": "https://i.ytimg.com/vi/yQG89Mv_J5o/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=yQG89Mv_J5o",
-          "views": 504325,
-          "age_hours": 18.4
-        }
-      ]
-    },
-    {
-      "phrase": "40th anniversary direct",
-      "video_count": 2,
-      "momentum": 16.08,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "A0WX-jsir94",
-          "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
-          "channel": "Nintendo of America",
-          "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
-          "views": 6214680,
-          "age_hours": 17.1
-        },
-        {
-          "id": "yQG89Mv_J5o",
-          "title": "The Zelda 40th Anniversary Direct Was INSANE!",
-          "channel": "Austin John Plays",
-          "thumbnail": "https://i.ytimg.com/vi/yQG89Mv_J5o/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=yQG89Mv_J5o",
-          "views": 504325,
-          "age_hours": 18.4
+          "views": 783155,
+          "age_hours": 161.5
         }
       ]
     },
     {
       "phrase": "iphone pro",
       "video_count": 3,
-      "momentum": 15.96,
+      "momentum": 15.92,
       "regions": [
         "BR"
       ],
@@ -851,8 +831,8 @@
           "channel": "MrCappuccino Memes 2",
           "thumbnail": "https://i.ytimg.com/vi/-QpSeK-5AVo/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=-QpSeK-5AVo",
-          "views": 6999173,
-          "age_hours": 180.4
+          "views": 7005016,
+          "age_hours": 185.6
         },
         {
           "id": "97j_Jo4KYvk",
@@ -860,8 +840,8 @@
           "channel": "Mike Fantástico",
           "thumbnail": "https://i.ytimg.com/vi/97j_Jo4KYvk/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=97j_Jo4KYvk",
-          "views": 1413960,
-          "age_hours": 137.1
+          "views": 1424296,
+          "age_hours": 142.3
         },
         {
           "id": "BhgsRsMARuw",
@@ -869,15 +849,15 @@
           "channel": "Trang memes game",
           "thumbnail": "https://i.ytimg.com/vi/BhgsRsMARuw/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=BhgsRsMARuw",
-          "views": 1042607,
-          "age_hours": 199.7
+          "views": 1042651,
+          "age_hours": 204.9
         }
       ]
     },
     {
       "phrase": "real end twist",
       "video_count": 2,
-      "momentum": 15.94,
+      "momentum": 15.9,
       "regions": [
         "IN"
       ],
@@ -889,8 +869,8 @@
           "channel": "KL BRO Biju Rithvik",
           "thumbnail": "https://i.ytimg.com/vi/TV9hHv2zQhI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=TV9hHv2zQhI",
-          "views": 18097553,
-          "age_hours": 98.6
+          "views": 18954584,
+          "age_hours": 103.7
         },
         {
           "id": "Ukk-OaUTpNI",
@@ -898,348 +878,221 @@
           "channel": "vlog 4u",
           "thumbnail": "https://i.ytimg.com/vi/Ukk-OaUTpNI/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Ukk-OaUTpNI",
-          "views": 9347954,
-          "age_hours": 74.5
+          "views": 9477420,
+          "age_hours": 79.6
         }
       ]
     },
     {
-      "phrase": "youtubeshorts cringe lifehack",
+      "phrase": "zelda 40th anniversary",
       "video_count": 2,
-      "momentum": 15.31,
-      "regions": [
-        "GB"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "qxip6yCVwys",
-          "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
-          "views": 7379628,
-          "age_hours": 62.3
-        },
-        {
-          "id": "fG90GElUzAQ",
-          "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
-          "views": 7527307,
-          "age_hours": 135.1
-        }
-      ]
-    },
-    {
-      "phrase": "cringe lifehack comedy",
-      "video_count": 2,
-      "momentum": 15.31,
-      "regions": [
-        "GB"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "qxip6yCVwys",
-          "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
-          "views": 7379628,
-          "age_hours": 62.3
-        },
-        {
-          "id": "fG90GElUzAQ",
-          "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
-          "views": 7527307,
-          "age_hours": 135.1
-        }
-      ]
-    },
-    {
-      "phrase": "lifehack comedy funny",
-      "video_count": 2,
-      "momentum": 15.31,
-      "regions": [
-        "GB"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "qxip6yCVwys",
-          "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
-          "views": 7379628,
-          "age_hours": 62.3
-        },
-        {
-          "id": "fG90GElUzAQ",
-          "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-          "channel": "LouisAyy",
-          "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
-          "views": 7527307,
-          "age_hours": 135.1
-        }
-      ]
-    },
-    {
-      "phrase": "gta live",
-      "video_count": 2,
-      "momentum": 15.18,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "JeYctBRT5yk",
-          "title": "GTA V LIVE 🔥#shortsfeed #shortslive #gta #shorts #live #gta5",
-          "channel": "RageGod fps",
-          "thumbnail": "https://i.ytimg.com/vi/JeYctBRT5yk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=JeYctBRT5yk",
-          "views": 3240945,
-          "age_hours": 1.2
-        },
-        {
-          "id": "AVnMfB_YOAM",
-          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-          "channel": "PAJI IS LIVE",
-          "thumbnail": "https://i.ytimg.com/vi/AVnMfB_YOAM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=AVnMfB_YOAM",
-          "views": 2768513,
-          "age_hours": 6.2
-        }
-      ]
-    },
-    {
-      "phrase": "live gta5",
-      "video_count": 2,
-      "momentum": 15.18,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "JeYctBRT5yk",
-          "title": "GTA V LIVE 🔥#shortsfeed #shortslive #gta #shorts #live #gta5",
-          "channel": "RageGod fps",
-          "thumbnail": "https://i.ytimg.com/vi/JeYctBRT5yk/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=JeYctBRT5yk",
-          "views": 3240945,
-          "age_hours": 1.2
-        },
-        {
-          "id": "AVnMfB_YOAM",
-          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-          "channel": "PAJI IS LIVE",
-          "thumbnail": "https://i.ytimg.com/vi/AVnMfB_YOAM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=AVnMfB_YOAM",
-          "views": 2768513,
-          "age_hours": 6.2
-        }
-      ]
-    },
-    {
-      "phrase": "legend zelda ocarina",
-      "video_count": 2,
-      "momentum": 14.36,
+      "momentum": 15.76,
       "regions": [
         "US"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "ZwycnPCK0pA",
-          "title": "The Legend of Zelda: Ocarina of Time First Gameplay Look Trailer",
-          "channel": "GameSpot",
-          "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-          "views": 1049828,
-          "age_hours": 19.7
+          "id": "A0WX-jsir94",
+          "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
+          "channel": "Nintendo of America",
+          "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
+          "views": 6424879,
+          "age_hours": 22.3
         },
         {
-          "id": "lP8PEivKVbg",
-          "title": "The Legend of Zelda: Ocarina of Time Remake Gameplay Revealed!",
-          "channel": "IGN",
-          "thumbnail": "https://i.ytimg.com/vi/lP8PEivKVbg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=lP8PEivKVbg",
-          "views": 326665,
-          "age_hours": 17.3
+          "id": "yQG89Mv_J5o",
+          "title": "The Zelda 40th Anniversary Direct Was INSANE!",
+          "channel": "Austin John Plays",
+          "thumbnail": "https://i.ytimg.com/vi/yQG89Mv_J5o/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=yQG89Mv_J5o",
+          "views": 528627,
+          "age_hours": 23.6
+        }
+      ]
+    },
+    {
+      "phrase": "40th anniversary direct",
+      "video_count": 2,
+      "momentum": 15.76,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "A0WX-jsir94",
+          "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
+          "channel": "Nintendo of America",
+          "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
+          "views": 6424879,
+          "age_hours": 22.3
+        },
+        {
+          "id": "yQG89Mv_J5o",
+          "title": "The Zelda 40th Anniversary Direct Was INSANE!",
+          "channel": "Austin John Plays",
+          "thumbnail": "https://i.ytimg.com/vi/yQG89Mv_J5o/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=yQG89Mv_J5o",
+          "views": 528627,
+          "age_hours": 23.6
+        }
+      ]
+    },
+    {
+      "phrase": "youtubeshorts cringe lifehack",
+      "video_count": 2,
+      "momentum": 15.25,
+      "regions": [
+        "GB"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "qxip6yCVwys",
+          "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+          "channel": "LouisAyy",
+          "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
+          "views": 7541982,
+          "age_hours": 67.5
+        },
+        {
+          "id": "fG90GElUzAQ",
+          "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+          "channel": "LouisAyy",
+          "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
+          "views": 7601176,
+          "age_hours": 140.2
+        }
+      ]
+    },
+    {
+      "phrase": "cringe lifehack comedy",
+      "video_count": 2,
+      "momentum": 15.25,
+      "regions": [
+        "GB"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "qxip6yCVwys",
+          "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+          "channel": "LouisAyy",
+          "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
+          "views": 7541982,
+          "age_hours": 67.5
+        },
+        {
+          "id": "fG90GElUzAQ",
+          "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+          "channel": "LouisAyy",
+          "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
+          "views": 7601176,
+          "age_hours": 140.2
+        }
+      ]
+    },
+    {
+      "phrase": "lifehack comedy funny",
+      "video_count": 2,
+      "momentum": 15.25,
+      "regions": [
+        "GB"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "qxip6yCVwys",
+          "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+          "channel": "LouisAyy",
+          "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
+          "views": 7541982,
+          "age_hours": 67.5
+        },
+        {
+          "id": "fG90GElUzAQ",
+          "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+          "channel": "LouisAyy",
+          "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
+          "views": 7601176,
+          "age_hours": 140.2
+        }
+      ]
+    },
+    {
+      "phrase": "godzilla minus zero",
+      "video_count": 2,
+      "momentum": 14.97,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "kw0YhiqOPFg",
+          "title": "GODZILLA MINUS ZERO | Official 1.43:1 Trailer | Filmed For IMAX",
+          "channel": "GODZILLA OFFICIAL by TOHO",
+          "thumbnail": "https://i.ytimg.com/vi/kw0YhiqOPFg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
+          "views": 6004186,
+          "age_hours": 25.7
+        },
+        {
+          "id": "C_Xfz5IMGDs",
+          "title": "GODZILLA MINUS ZERO Official Trailer (2026)",
+          "channel": "KinoCheck.com",
+          "thumbnail": "https://i.ytimg.com/vi/C_Xfz5IMGDs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=C_Xfz5IMGDs",
+          "views": 311798,
+          "age_hours": 25.5
+        }
+      ]
+    },
+    {
+      "phrase": "minus zero official",
+      "video_count": 2,
+      "momentum": 14.97,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "kw0YhiqOPFg",
+          "title": "GODZILLA MINUS ZERO | Official 1.43:1 Trailer | Filmed For IMAX",
+          "channel": "GODZILLA OFFICIAL by TOHO",
+          "thumbnail": "https://i.ytimg.com/vi/kw0YhiqOPFg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
+          "views": 6004186,
+          "age_hours": 25.7
+        },
+        {
+          "id": "C_Xfz5IMGDs",
+          "title": "GODZILLA MINUS ZERO Official Trailer (2026)",
+          "channel": "KinoCheck.com",
+          "thumbnail": "https://i.ytimg.com/vi/C_Xfz5IMGDs/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=C_Xfz5IMGDs",
+          "views": 311798,
+          "age_hours": 25.5
         }
       ]
     }
   ],
   "topics_by_region": {
-    "IN": [
-      {
-        "phrase": "tom jerry",
-        "video_count": 3,
-        "momentum": 19.76,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "TV9hHv2zQhI",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/TV9hHv2zQhI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=TV9hHv2zQhI",
-            "views": 18097553,
-            "age_hours": 98.6
-          },
-          {
-            "id": "Ukk-OaUTpNI",
-            "title": "Tom🍓Jerry,Real End Twist😄Must Watch #shorts",
-            "channel": "vlog 4u",
-            "thumbnail": "https://i.ytimg.com/vi/Ukk-OaUTpNI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Ukk-OaUTpNI",
-            "views": 9347954,
-            "age_hours": 74.5
-          },
-          {
-            "id": "yljQBs-pnkY",
-            "title": "Tom&jerry🥰Kalyani trending❤️#krishnaavyu #trending",
-            "channel": "Krishna Avyu",
-            "thumbnail": "https://i.ytimg.com/vi/yljQBs-pnkY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=yljQBs-pnkY",
-            "views": 12700480,
-            "age_hours": 100.2
-          }
-        ]
-      },
-      {
-        "phrase": "real end twist",
-        "video_count": 2,
-        "momentum": 15.94,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "TV9hHv2zQhI",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/TV9hHv2zQhI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=TV9hHv2zQhI",
-            "views": 18097553,
-            "age_hours": 98.6
-          },
-          {
-            "id": "Ukk-OaUTpNI",
-            "title": "Tom🍓Jerry,Real End Twist😄Must Watch #shorts",
-            "channel": "vlog 4u",
-            "thumbnail": "https://i.ytimg.com/vi/Ukk-OaUTpNI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Ukk-OaUTpNI",
-            "views": 9347954,
-            "age_hours": 74.5
-          }
-        ]
-      },
-      {
-        "phrase": "gta live",
-        "video_count": 2,
-        "momentum": 15.18,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "JeYctBRT5yk",
-            "title": "GTA V LIVE 🔥#shortsfeed #shortslive #gta #shorts #live #gta5",
-            "channel": "RageGod fps",
-            "thumbnail": "https://i.ytimg.com/vi/JeYctBRT5yk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=JeYctBRT5yk",
-            "views": 3240945,
-            "age_hours": 1.2
-          },
-          {
-            "id": "AVnMfB_YOAM",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/AVnMfB_YOAM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=AVnMfB_YOAM",
-            "views": 2768513,
-            "age_hours": 6.2
-          }
-        ]
-      },
-      {
-        "phrase": "live gta5",
-        "video_count": 2,
-        "momentum": 15.18,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "JeYctBRT5yk",
-            "title": "GTA V LIVE 🔥#shortsfeed #shortslive #gta #shorts #live #gta5",
-            "channel": "RageGod fps",
-            "thumbnail": "https://i.ytimg.com/vi/JeYctBRT5yk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=JeYctBRT5yk",
-            "views": 3240945,
-            "age_hours": 1.2
-          },
-          {
-            "id": "AVnMfB_YOAM",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/AVnMfB_YOAM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=AVnMfB_YOAM",
-            "views": 2768513,
-            "age_hours": 6.2
-          }
-        ]
-      },
-      {
-        "phrase": "september promo",
-        "video_count": 2,
-        "momentum": 11.84,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "0EjOj3F52IU",
-            "title": "Pandian Stores 2 | 7th to 13th September 2026 - Promo",
-            "channel": "Vijay Television",
-            "thumbnail": "https://i.ytimg.com/vi/0EjOj3F52IU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=0EjOj3F52IU",
-            "views": 3392880,
-            "age_hours": 78.0
-          },
-          {
-            "id": "UW6vgpIz-iM",
-            "title": "Azhagae Azhagu | 7th to 11th September 2026 - Promo",
-            "channel": "Vijay Television",
-            "thumbnail": "https://i.ytimg.com/vi/UW6vgpIz-iM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UW6vgpIz-iM",
-            "views": 3058832,
-            "age_hours": 77.9
-          }
-        ]
-      }
-    ],
     "BR": [
       {
         "phrase": "iphone",
         "video_count": 4,
-        "momentum": 16.93,
+        "momentum": 16.88,
         "regions": [
           "BR"
         ],
@@ -1251,8 +1104,8 @@
             "channel": "MrCappuccino Memes 2",
             "thumbnail": "https://i.ytimg.com/vi/-QpSeK-5AVo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=-QpSeK-5AVo",
-            "views": 6999173,
-            "age_hours": 180.4
+            "views": 7005016,
+            "age_hours": 185.6
           },
           {
             "id": "97j_Jo4KYvk",
@@ -1260,8 +1113,8 @@
             "channel": "Mike Fantástico",
             "thumbnail": "https://i.ytimg.com/vi/97j_Jo4KYvk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=97j_Jo4KYvk",
-            "views": 1413960,
-            "age_hours": 137.1
+            "views": 1424296,
+            "age_hours": 142.3
           },
           {
             "id": "IFtajR50SIQ",
@@ -1269,15 +1122,169 @@
             "channel": "Mundo em Pauta",
             "thumbnail": "https://i.ytimg.com/vi/IFtajR50SIQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=IFtajR50SIQ",
-            "views": 782552,
-            "age_hours": 156.4
+            "views": 783155,
+            "age_hours": 161.5
+          }
+        ]
+      },
+      {
+        "phrase": "iphone pro",
+        "video_count": 3,
+        "momentum": 15.92,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "-QpSeK-5AVo",
+            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+            "channel": "MrCappuccino Memes 2",
+            "thumbnail": "https://i.ytimg.com/vi/-QpSeK-5AVo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-QpSeK-5AVo",
+            "views": 7005016,
+            "age_hours": 185.6
+          },
+          {
+            "id": "97j_Jo4KYvk",
+            "title": "Testando iPhone 15 Pro Usado mais barato - Mike Fantastico",
+            "channel": "Mike Fantástico",
+            "thumbnail": "https://i.ytimg.com/vi/97j_Jo4KYvk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=97j_Jo4KYvk",
+            "views": 1424296,
+            "age_hours": 142.3
+          },
+          {
+            "id": "BhgsRsMARuw",
+            "title": "iPhone 18 Pro Max Cosmic Oranges 📱🫶 #noads #tiktok #usa",
+            "channel": "Trang memes game",
+            "thumbnail": "https://i.ytimg.com/vi/BhgsRsMARuw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BhgsRsMARuw",
+            "views": 1042651,
+            "age_hours": 204.9
+          }
+        ]
+      },
+      {
+        "phrase": "ocarina of time",
+        "video_count": 2,
+        "momentum": 13.61,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "99tNnmIDS7E",
+            "title": "ASSISTINDO AO EVENTO DE 40 ANOS DE ZELDA E VENDO O OCARINA OF TIME REMAKE!",
+            "channel": "alanzoka",
+            "thumbnail": "https://i.ytimg.com/vi/99tNnmIDS7E/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=99tNnmIDS7E",
+            "views": 422317,
+            "age_hours": 20.6
+          },
+          {
+            "id": "Cm8DKgjHMV4",
+            "title": "Trailer DUBLADO de ZELDA OCARINA OF TIME REMAKE 🇧🇷 PT-BR (Oficial)",
+            "channel": "Coelho News",
+            "thumbnail": "https://i.ytimg.com/vi/Cm8DKgjHMV4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Cm8DKgjHMV4",
+            "views": 98504,
+            "age_hours": 22.9
+          }
+        ]
+      },
+      {
+        "phrase": "of time remake",
+        "video_count": 2,
+        "momentum": 13.61,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "99tNnmIDS7E",
+            "title": "ASSISTINDO AO EVENTO DE 40 ANOS DE ZELDA E VENDO O OCARINA OF TIME REMAKE!",
+            "channel": "alanzoka",
+            "thumbnail": "https://i.ytimg.com/vi/99tNnmIDS7E/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=99tNnmIDS7E",
+            "views": 422317,
+            "age_hours": 20.6
+          },
+          {
+            "id": "Cm8DKgjHMV4",
+            "title": "Trailer DUBLADO de ZELDA OCARINA OF TIME REMAKE 🇧🇷 PT-BR (Oficial)",
+            "channel": "Coelho News",
+            "thumbnail": "https://i.ytimg.com/vi/Cm8DKgjHMV4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Cm8DKgjHMV4",
+            "views": 98504,
+            "age_hours": 22.9
+          }
+        ]
+      },
+      {
+        "phrase": "iphone pro max",
+        "video_count": 2,
+        "momentum": 12.53,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "-QpSeK-5AVo",
+            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+            "channel": "MrCappuccino Memes 2",
+            "thumbnail": "https://i.ytimg.com/vi/-QpSeK-5AVo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-QpSeK-5AVo",
+            "views": 7005016,
+            "age_hours": 185.6
+          },
+          {
+            "id": "BhgsRsMARuw",
+            "title": "iPhone 18 Pro Max Cosmic Oranges 📱🫶 #noads #tiktok #usa",
+            "channel": "Trang memes game",
+            "thumbnail": "https://i.ytimg.com/vi/BhgsRsMARuw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BhgsRsMARuw",
+            "views": 1042651,
+            "age_hours": 204.9
+          }
+        ]
+      },
+      {
+        "phrase": "noads tiktok usa",
+        "video_count": 2,
+        "momentum": 12.53,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "-QpSeK-5AVo",
+            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
+            "channel": "MrCappuccino Memes 2",
+            "thumbnail": "https://i.ytimg.com/vi/-QpSeK-5AVo/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=-QpSeK-5AVo",
+            "views": 7005016,
+            "age_hours": 185.6
+          },
+          {
+            "id": "BhgsRsMARuw",
+            "title": "iPhone 18 Pro Max Cosmic Oranges 📱🫶 #noads #tiktok #usa",
+            "channel": "Trang memes game",
+            "thumbnail": "https://i.ytimg.com/vi/BhgsRsMARuw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=BhgsRsMARuw",
+            "views": 1042651,
+            "age_hours": 204.9
           }
         ]
       },
       {
         "phrase": "roube ovo",
-        "video_count": 3,
-        "momentum": 16.22,
+        "video_count": 2,
+        "momentum": 10.51,
         "regions": [
           "BR"
         ],
@@ -1289,17 +1296,8 @@
             "channel": "Lucas Clash ON",
             "thumbnail": "https://i.ytimg.com/vi/Dc3Aa0Ohuis/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Dc3Aa0Ohuis",
-            "views": 211954,
-            "age_hours": 13.3
-          },
-          {
-            "id": "vXMJZ-_B2zI",
-            "title": "CRIEI CHEFÃO VERITY SECRETO nesse ROUBE UM OVO",
-            "channel": "Pabllym GO!",
-            "thumbnail": "https://i.ytimg.com/vi/vXMJZ-_B2zI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=vXMJZ-_B2zI",
-            "views": 136306,
-            "age_hours": 20.3
+            "views": 248574,
+            "age_hours": 18.5
           },
           {
             "id": "GSDC8HTnAcI",
@@ -1307,198 +1305,15 @@
             "channel": "xMarcelo",
             "thumbnail": "https://i.ytimg.com/vi/GSDC8HTnAcI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=GSDC8HTnAcI",
-            "views": 106050,
-            "age_hours": 13.9
-          }
-        ]
-      },
-      {
-        "phrase": "iphone pro",
-        "video_count": 3,
-        "momentum": 15.96,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "-QpSeK-5AVo",
-            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
-            "channel": "MrCappuccino Memes 2",
-            "thumbnail": "https://i.ytimg.com/vi/-QpSeK-5AVo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-QpSeK-5AVo",
-            "views": 6999173,
-            "age_hours": 180.4
-          },
-          {
-            "id": "97j_Jo4KYvk",
-            "title": "Testando iPhone 15 Pro Usado mais barato - Mike Fantastico",
-            "channel": "Mike Fantástico",
-            "thumbnail": "https://i.ytimg.com/vi/97j_Jo4KYvk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=97j_Jo4KYvk",
-            "views": 1413960,
-            "age_hours": 137.1
-          },
-          {
-            "id": "BhgsRsMARuw",
-            "title": "iPhone 18 Pro Max Cosmic Oranges 📱🫶 #noads #tiktok #usa",
-            "channel": "Trang memes game",
-            "thumbnail": "https://i.ytimg.com/vi/BhgsRsMARuw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BhgsRsMARuw",
-            "views": 1042607,
-            "age_hours": 199.7
-          }
-        ]
-      },
-      {
-        "phrase": "ocarina of time",
-        "video_count": 2,
-        "momentum": 13.91,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "99tNnmIDS7E",
-            "title": "ASSISTINDO AO EVENTO DE 40 ANOS DE ZELDA E VENDO O OCARINA OF TIME REMAKE!",
-            "channel": "alanzoka",
-            "thumbnail": "https://i.ytimg.com/vi/99tNnmIDS7E/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=99tNnmIDS7E",
-            "views": 395003,
-            "age_hours": 15.4
-          },
-          {
-            "id": "Cm8DKgjHMV4",
-            "title": "Trailer DUBLADO de ZELDA OCARINA OF TIME REMAKE 🇧🇷 PT-BR (Oficial)",
-            "channel": "Coelho News",
-            "thumbnail": "https://i.ytimg.com/vi/Cm8DKgjHMV4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Cm8DKgjHMV4",
-            "views": 94366,
-            "age_hours": 17.8
-          }
-        ]
-      },
-      {
-        "phrase": "of time remake",
-        "video_count": 2,
-        "momentum": 13.91,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "99tNnmIDS7E",
-            "title": "ASSISTINDO AO EVENTO DE 40 ANOS DE ZELDA E VENDO O OCARINA OF TIME REMAKE!",
-            "channel": "alanzoka",
-            "thumbnail": "https://i.ytimg.com/vi/99tNnmIDS7E/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=99tNnmIDS7E",
-            "views": 395003,
-            "age_hours": 15.4
-          },
-          {
-            "id": "Cm8DKgjHMV4",
-            "title": "Trailer DUBLADO de ZELDA OCARINA OF TIME REMAKE 🇧🇷 PT-BR (Oficial)",
-            "channel": "Coelho News",
-            "thumbnail": "https://i.ytimg.com/vi/Cm8DKgjHMV4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Cm8DKgjHMV4",
-            "views": 94366,
-            "age_hours": 17.8
-          }
-        ]
-      },
-      {
-        "phrase": "iphone pro max",
-        "video_count": 2,
-        "momentum": 12.56,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "-QpSeK-5AVo",
-            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
-            "channel": "MrCappuccino Memes 2",
-            "thumbnail": "https://i.ytimg.com/vi/-QpSeK-5AVo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-QpSeK-5AVo",
-            "views": 6999173,
-            "age_hours": 180.4
-          },
-          {
-            "id": "BhgsRsMARuw",
-            "title": "iPhone 18 Pro Max Cosmic Oranges 📱🫶 #noads #tiktok #usa",
-            "channel": "Trang memes game",
-            "thumbnail": "https://i.ytimg.com/vi/BhgsRsMARuw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BhgsRsMARuw",
-            "views": 1042607,
-            "age_hours": 199.7
-          }
-        ]
-      },
-      {
-        "phrase": "noads tiktok usa",
-        "video_count": 2,
-        "momentum": 12.56,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "-QpSeK-5AVo",
-            "title": "iPhone 18 Pro Max Dark Cherry📱🫶#noads #tiktok #usa",
-            "channel": "MrCappuccino Memes 2",
-            "thumbnail": "https://i.ytimg.com/vi/-QpSeK-5AVo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=-QpSeK-5AVo",
-            "views": 6999173,
-            "age_hours": 180.4
-          },
-          {
-            "id": "BhgsRsMARuw",
-            "title": "iPhone 18 Pro Max Cosmic Oranges 📱🫶 #noads #tiktok #usa",
-            "channel": "Trang memes game",
-            "thumbnail": "https://i.ytimg.com/vi/BhgsRsMARuw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BhgsRsMARuw",
-            "views": 1042607,
-            "age_hours": 199.7
-          }
-        ]
-      },
-      {
-        "phrase": "ranking melhores",
-        "video_count": 2,
-        "momentum": 12.17,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "P7TR8ti0TKQ",
-            "title": "RANKING DOS MELHORES MOMENTOS NO ELEVADOR",
-            "channel": "Balbi Lindo",
-            "thumbnail": "https://i.ytimg.com/vi/P7TR8ti0TKQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=P7TR8ti0TKQ",
-            "views": 2279698,
-            "age_hours": 43.7
-          },
-          {
-            "id": "Ydey8jcV7nw",
-            "title": "RANKING DOS MELHORES VÍDEOS DA TREND DO MILES MORALES (PARTE 3)",
-            "channel": "Balbi Lindo",
-            "thumbnail": "https://i.ytimg.com/vi/Ydey8jcV7nw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Ydey8jcV7nw",
-            "views": 3763727,
-            "age_hours": 91.7
+            "views": 123908,
+            "age_hours": 19.1
           }
         ]
       },
       {
         "phrase": "deu ruim",
         "video_count": 2,
-        "momentum": 9.87,
+        "momentum": 9.81,
         "regions": [
           "BR"
         ],
@@ -1510,8 +1325,8 @@
             "channel": "Caramelo FC",
             "thumbnail": "https://i.ytimg.com/vi/Oh4qHh275IM/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Oh4qHh275IM",
-            "views": 2783733,
-            "age_hours": 49.4
+            "views": 2784637,
+            "age_hours": 54.6
           },
           {
             "id": "DsN1CYMojYI",
@@ -1519,19 +1334,370 @@
             "channel": "Edu Vieira ",
             "thumbnail": "https://i.ytimg.com/vi/DsN1CYMojYI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=DsN1CYMojYI",
-            "views": 480673,
-            "age_hours": 454.1
+            "views": 480866,
+            "age_hours": 459.2
+          }
+        ]
+      },
+      {
+        "phrase": "ao vivo",
+        "video_count": 2,
+        "momentum": 7.27,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "UMN2UchUWI8",
+            "title": "Uma por Uma (Ao Vivo)",
+            "channel": "Kemilly Santos - Topic",
+            "thumbnail": "https://i.ytimg.com/vi/UMN2UchUWI8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UMN2UchUWI8",
+            "views": 86082,
+            "age_hours": 53.6
+          },
+          {
+            "id": "653O8S2Vszw",
+            "title": "Amor dos outros (Ao Vivo)",
+            "channel": "Toque Dez - Topic",
+            "thumbnail": "https://i.ytimg.com/vi/653O8S2Vszw/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=653O8S2Vszw",
+            "views": 3595,
+            "age_hours": 17.1
+          }
+        ]
+      }
+    ],
+    "GB": [
+      {
+        "phrase": "back",
+        "video_count": 5,
+        "momentum": 20.83,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "EQJVCoaOX5s",
+            "title": "Have you watched our new back to school video? #sofimanassyan #funny #school",
+            "channel": "Sofi Manassyan",
+            "thumbnail": "https://i.ytimg.com/vi/EQJVCoaOX5s/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=EQJVCoaOX5s",
+            "views": 14441986,
+            "age_hours": 137.2
+          },
+          {
+            "id": "A1nI-2tdhmI",
+            "title": "iPhone leaks now vs back then 😭",
+            "channel": "Yahya Alhihi",
+            "thumbnail": "https://i.ytimg.com/vi/A1nI-2tdhmI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=A1nI-2tdhmI",
+            "views": 3592630,
+            "age_hours": 120.6
+          },
+          {
+            "id": "ksfCcUka2-E",
+            "title": "COME BACK TO WORK WITH ME AFTER BABY NUMBER 2 | VLOG | AD | MOLLYMAE",
+            "channel": "MollyMae",
+            "thumbnail": "https://i.ytimg.com/vi/ksfCcUka2-E/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ksfCcUka2-E",
+            "views": 1064359,
+            "age_hours": 237.0
+          }
+        ]
+      },
+      {
+        "phrase": "youtubeshorts cringe lifehack",
+        "video_count": 2,
+        "momentum": 15.25,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "qxip6yCVwys",
+            "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
+            "views": 7541982,
+            "age_hours": 67.5
+          },
+          {
+            "id": "fG90GElUzAQ",
+            "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
+            "views": 7601176,
+            "age_hours": 140.2
+          }
+        ]
+      },
+      {
+        "phrase": "cringe lifehack comedy",
+        "video_count": 2,
+        "momentum": 15.25,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "qxip6yCVwys",
+            "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
+            "views": 7541982,
+            "age_hours": 67.5
+          },
+          {
+            "id": "fG90GElUzAQ",
+            "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
+            "views": 7601176,
+            "age_hours": 140.2
+          }
+        ]
+      },
+      {
+        "phrase": "lifehack comedy funny",
+        "video_count": 2,
+        "momentum": 15.25,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "qxip6yCVwys",
+            "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
+            "views": 7541982,
+            "age_hours": 67.5
+          },
+          {
+            "id": "fG90GElUzAQ",
+            "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
+            "views": 7601176,
+            "age_hours": 140.2
+          }
+        ]
+      }
+    ],
+    "IN": [
+      {
+        "phrase": "minecraft",
+        "video_count": 5,
+        "momentum": 23.98,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "YxHAkIoPy90",
+            "title": "Carry and Doorbin Joined Military Army in Minecraft..",
+            "channel": "Karry Kraft",
+            "thumbnail": "https://i.ytimg.com/vi/YxHAkIoPy90/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YxHAkIoPy90",
+            "views": 514116,
+            "age_hours": 7.9
+          },
+          {
+            "id": "Y-YWYIsOs18",
+            "title": "Minecraft But You Can Mine 1 TRILLION Blocks!",
+            "channel": "ProBoiz 95",
+            "thumbnail": "https://i.ytimg.com/vi/Y-YWYIsOs18/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Y-YWYIsOs18",
+            "views": 2653515,
+            "age_hours": 48.7
+          },
+          {
+            "id": "692mluo7YW8",
+            "title": "Poor Boys vs Rich Girls Chunk in Minecraft..",
+            "channel": "Carry Depie",
+            "thumbnail": "https://i.ytimg.com/vi/692mluo7YW8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=692mluo7YW8",
+            "views": 1232885,
+            "age_hours": 27.5
+          }
+        ]
+      },
+      {
+        "phrase": "tom jerry",
+        "video_count": 3,
+        "momentum": 19.72,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "TV9hHv2zQhI",
+            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+            "channel": "KL BRO Biju Rithvik",
+            "thumbnail": "https://i.ytimg.com/vi/TV9hHv2zQhI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=TV9hHv2zQhI",
+            "views": 18954584,
+            "age_hours": 103.7
+          },
+          {
+            "id": "yljQBs-pnkY",
+            "title": "Tom&jerry🥰Kalyani trending❤️#krishnaavyu #trending",
+            "channel": "Krishna Avyu",
+            "thumbnail": "https://i.ytimg.com/vi/yljQBs-pnkY/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=yljQBs-pnkY",
+            "views": 13036911,
+            "age_hours": 105.4
+          },
+          {
+            "id": "Ukk-OaUTpNI",
+            "title": "Tom🍓Jerry,Real End Twist😄Must Watch #shorts",
+            "channel": "vlog 4u",
+            "thumbnail": "https://i.ytimg.com/vi/Ukk-OaUTpNI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Ukk-OaUTpNI",
+            "views": 9477420,
+            "age_hours": 79.6
+          }
+        ]
+      },
+      {
+        "phrase": "real end twist",
+        "video_count": 2,
+        "momentum": 15.9,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "TV9hHv2zQhI",
+            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
+            "channel": "KL BRO Biju Rithvik",
+            "thumbnail": "https://i.ytimg.com/vi/TV9hHv2zQhI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=TV9hHv2zQhI",
+            "views": 18954584,
+            "age_hours": 103.7
+          },
+          {
+            "id": "Ukk-OaUTpNI",
+            "title": "Tom🍓Jerry,Real End Twist😄Must Watch #shorts",
+            "channel": "vlog 4u",
+            "thumbnail": "https://i.ytimg.com/vi/Ukk-OaUTpNI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Ukk-OaUTpNI",
+            "views": 9477420,
+            "age_hours": 79.6
+          }
+        ]
+      },
+      {
+        "phrase": "september promo",
+        "video_count": 2,
+        "momentum": 11.78,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "0EjOj3F52IU",
+            "title": "Pandian Stores 2 | 7th to 13th September 2026 - Promo",
+            "channel": "Vijay Television",
+            "thumbnail": "https://i.ytimg.com/vi/0EjOj3F52IU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=0EjOj3F52IU",
+            "views": 3421702,
+            "age_hours": 83.1
+          },
+          {
+            "id": "UW6vgpIz-iM",
+            "title": "Azhagae Azhagu | 7th to 11th September 2026 - Promo",
+            "channel": "Vijay Television",
+            "thumbnail": "https://i.ytimg.com/vi/UW6vgpIz-iM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UW6vgpIz-iM",
+            "views": 3078428,
+            "age_hours": 83.1
+          }
+        ]
+      },
+      {
+        "phrase": "pro max",
+        "video_count": 2,
+        "momentum": 11.19,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "IMLcY2WEzi0",
+            "title": "iPhone Ultra & iPhone 18 Pro Max First Look - A New Battle Begins!",
+            "channel": "Technology Gyan",
+            "thumbnail": "https://i.ytimg.com/vi/IMLcY2WEzi0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IMLcY2WEzi0",
+            "views": 1390320,
+            "age_hours": 48.8
+          },
+          {
+            "id": "ZDP0LV5rvoQ",
+            "title": "Ye Kya Bawaal Hain Redmi? Ft. Redmi K100 Pro Max ⚡️ #TrakinShorts #Shorts",
+            "channel": "Trakin Shorts",
+            "thumbnail": "https://i.ytimg.com/vi/ZDP0LV5rvoQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZDP0LV5rvoQ",
+            "views": 2072869,
+            "age_hours": 194.1
           }
         ]
       }
     ],
     "AU": [],
-    "CA": [],
+    "CA": [
+      {
+        "phrase": "official mv",
+        "video_count": 2,
+        "momentum": 12.21,
+        "regions": [
+          "CA"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "F-NcvXY8_vU",
+            "title": "&TEAM 'Mark on Me' Official MV",
+            "channel": "HYBE LABELS",
+            "thumbnail": "https://i.ytimg.com/vi/F-NcvXY8_vU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=F-NcvXY8_vU",
+            "views": 4287857,
+            "age_hours": 30.6
+          },
+          {
+            "id": "5Bfq9PFbNuA",
+            "title": "JAWAB DE GEYA (Official MV) Deep Bajwa ft. Navkiran Bhatthal │ Verse | Jugnu | Latest Punjabi Song",
+            "channel": "Deep Bajwa Music",
+            "thumbnail": "https://i.ytimg.com/vi/5Bfq9PFbNuA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5Bfq9PFbNuA",
+            "views": 476911,
+            "age_hours": 34.1
+          }
+        ]
+      }
+    ],
     "US": [
       {
         "phrase": "zelda",
         "video_count": 4,
-        "momentum": 20.3,
+        "momentum": 19.95,
         "regions": [
           "US"
         ],
@@ -1543,8 +1709,8 @@
             "channel": "Nintendo of America",
             "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
-            "views": 6214680,
-            "age_hours": 17.1
+            "views": 6424879,
+            "age_hours": 22.3
           },
           {
             "id": "ZwycnPCK0pA",
@@ -1552,8 +1718,8 @@
             "channel": "GameSpot",
             "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-            "views": 1049828,
-            "age_hours": 19.7
+            "views": 1137873,
+            "age_hours": 24.8
           },
           {
             "id": "yQG89Mv_J5o",
@@ -1561,37 +1727,37 @@
             "channel": "Austin John Plays",
             "thumbnail": "https://i.ytimg.com/vi/yQG89Mv_J5o/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=yQG89Mv_J5o",
-            "views": 504325,
-            "age_hours": 18.4
+            "views": 528627,
+            "age_hours": 23.6
           }
         ]
       },
       {
         "phrase": "time",
         "video_count": 4,
-        "momentum": 19.49,
+        "momentum": 19.29,
         "regions": [
           "US"
         ],
         "lang": "en",
         "example_videos": [
-          {
-            "id": "ZwycnPCK0pA",
-            "title": "The Legend of Zelda: Ocarina of Time First Gameplay Look Trailer",
-            "channel": "GameSpot",
-            "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-            "views": 1049828,
-            "age_hours": 19.7
-          },
           {
             "id": "JUdGUHTfmIg",
             "title": "Logan Seeing Beast For The First Time In The Past Is Unhinged",
             "channel": "Tobey Maguire Times",
             "thumbnail": "https://i.ytimg.com/vi/JUdGUHTfmIg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=JUdGUHTfmIg",
-            "views": 6296274,
-            "age_hours": 88.4
+            "views": 6760447,
+            "age_hours": 93.6
+          },
+          {
+            "id": "ZwycnPCK0pA",
+            "title": "The Legend of Zelda: Ocarina of Time First Gameplay Look Trailer",
+            "channel": "GameSpot",
+            "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
+            "views": 1137873,
+            "age_hours": 24.8
           },
           {
             "id": "sTjWHkB_dzk",
@@ -1599,15 +1765,15 @@
             "channel": "BeatEmUps",
             "thumbnail": "https://i.ytimg.com/vi/sTjWHkB_dzk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=sTjWHkB_dzk",
-            "views": 467154,
-            "age_hours": 13.9
+            "views": 563920,
+            "age_hours": 19.0
           }
         ]
       },
       {
         "phrase": "legend zelda",
         "video_count": 3,
-        "momentum": 19.47,
+        "momentum": 19.16,
         "regions": [
           "US"
         ],
@@ -1619,8 +1785,8 @@
             "channel": "Nintendo of America",
             "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
-            "views": 6214680,
-            "age_hours": 17.1
+            "views": 6424879,
+            "age_hours": 22.3
           },
           {
             "id": "ZwycnPCK0pA",
@@ -1628,8 +1794,8 @@
             "channel": "GameSpot",
             "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-            "views": 1049828,
-            "age_hours": 19.7
+            "views": 1137873,
+            "age_hours": 24.8
           },
           {
             "id": "lP8PEivKVbg",
@@ -1637,15 +1803,15 @@
             "channel": "IGN",
             "thumbnail": "https://i.ytimg.com/vi/lP8PEivKVbg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lP8PEivKVbg",
-            "views": 326665,
-            "age_hours": 17.3
+            "views": 371338,
+            "age_hours": 22.5
           }
         ]
       },
       {
         "phrase": "ocarina time",
         "video_count": 3,
-        "momentum": 18.09,
+        "momentum": 17.82,
         "regions": [
           "US"
         ],
@@ -1657,8 +1823,8 @@
             "channel": "GameSpot",
             "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-            "views": 1049828,
-            "age_hours": 19.7
+            "views": 1137873,
+            "age_hours": 24.8
           },
           {
             "id": "sTjWHkB_dzk",
@@ -1666,8 +1832,8 @@
             "channel": "BeatEmUps",
             "thumbnail": "https://i.ytimg.com/vi/sTjWHkB_dzk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=sTjWHkB_dzk",
-            "views": 467154,
-            "age_hours": 13.9
+            "views": 563920,
+            "age_hours": 19.0
           },
           {
             "id": "lP8PEivKVbg",
@@ -1675,15 +1841,15 @@
             "channel": "IGN",
             "thumbnail": "https://i.ytimg.com/vi/lP8PEivKVbg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lP8PEivKVbg",
-            "views": 326665,
-            "age_hours": 17.3
+            "views": 371338,
+            "age_hours": 22.5
           }
         ]
       },
       {
         "phrase": "zelda 40th anniversary",
         "video_count": 2,
-        "momentum": 16.08,
+        "momentum": 15.76,
         "regions": [
           "US"
         ],
@@ -1695,8 +1861,8 @@
             "channel": "Nintendo of America",
             "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
-            "views": 6214680,
-            "age_hours": 17.1
+            "views": 6424879,
+            "age_hours": 22.3
           },
           {
             "id": "yQG89Mv_J5o",
@@ -1704,15 +1870,15 @@
             "channel": "Austin John Plays",
             "thumbnail": "https://i.ytimg.com/vi/yQG89Mv_J5o/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=yQG89Mv_J5o",
-            "views": 504325,
-            "age_hours": 18.4
+            "views": 528627,
+            "age_hours": 23.6
           }
         ]
       },
       {
         "phrase": "40th anniversary direct",
         "video_count": 2,
-        "momentum": 16.08,
+        "momentum": 15.76,
         "regions": [
           "US"
         ],
@@ -1724,8 +1890,8 @@
             "channel": "Nintendo of America",
             "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
-            "views": 6214680,
-            "age_hours": 17.1
+            "views": 6424879,
+            "age_hours": 22.3
           },
           {
             "id": "yQG89Mv_J5o",
@@ -1733,15 +1899,102 @@
             "channel": "Austin John Plays",
             "thumbnail": "https://i.ytimg.com/vi/yQG89Mv_J5o/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=yQG89Mv_J5o",
-            "views": 504325,
-            "age_hours": 18.4
+            "views": 528627,
+            "age_hours": 23.6
+          }
+        ]
+      },
+      {
+        "phrase": "godzilla minus zero",
+        "video_count": 2,
+        "momentum": 14.97,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "kw0YhiqOPFg",
+            "title": "GODZILLA MINUS ZERO | Official 1.43:1 Trailer | Filmed For IMAX",
+            "channel": "GODZILLA OFFICIAL by TOHO",
+            "thumbnail": "https://i.ytimg.com/vi/kw0YhiqOPFg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
+            "views": 6004186,
+            "age_hours": 25.7
+          },
+          {
+            "id": "C_Xfz5IMGDs",
+            "title": "GODZILLA MINUS ZERO Official Trailer (2026)",
+            "channel": "KinoCheck.com",
+            "thumbnail": "https://i.ytimg.com/vi/C_Xfz5IMGDs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=C_Xfz5IMGDs",
+            "views": 311798,
+            "age_hours": 25.5
+          }
+        ]
+      },
+      {
+        "phrase": "minus zero official",
+        "video_count": 2,
+        "momentum": 14.97,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "kw0YhiqOPFg",
+            "title": "GODZILLA MINUS ZERO | Official 1.43:1 Trailer | Filmed For IMAX",
+            "channel": "GODZILLA OFFICIAL by TOHO",
+            "thumbnail": "https://i.ytimg.com/vi/kw0YhiqOPFg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
+            "views": 6004186,
+            "age_hours": 25.7
+          },
+          {
+            "id": "C_Xfz5IMGDs",
+            "title": "GODZILLA MINUS ZERO Official Trailer (2026)",
+            "channel": "KinoCheck.com",
+            "thumbnail": "https://i.ytimg.com/vi/C_Xfz5IMGDs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=C_Xfz5IMGDs",
+            "views": 311798,
+            "age_hours": 25.5
+          }
+        ]
+      },
+      {
+        "phrase": "zero official trailer",
+        "video_count": 2,
+        "momentum": 14.97,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "kw0YhiqOPFg",
+            "title": "GODZILLA MINUS ZERO | Official 1.43:1 Trailer | Filmed For IMAX",
+            "channel": "GODZILLA OFFICIAL by TOHO",
+            "thumbnail": "https://i.ytimg.com/vi/kw0YhiqOPFg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
+            "views": 6004186,
+            "age_hours": 25.7
+          },
+          {
+            "id": "C_Xfz5IMGDs",
+            "title": "GODZILLA MINUS ZERO Official Trailer (2026)",
+            "channel": "KinoCheck.com",
+            "thumbnail": "https://i.ytimg.com/vi/C_Xfz5IMGDs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=C_Xfz5IMGDs",
+            "views": 311798,
+            "age_hours": 25.5
           }
         ]
       },
       {
         "phrase": "legend zelda ocarina",
         "video_count": 2,
-        "momentum": 14.36,
+        "momentum": 14.17,
         "regions": [
           "US"
         ],
@@ -1753,8 +2006,8 @@
             "channel": "GameSpot",
             "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-            "views": 1049828,
-            "age_hours": 19.7
+            "views": 1137873,
+            "age_hours": 24.8
           },
           {
             "id": "lP8PEivKVbg",
@@ -1762,15 +2015,15 @@
             "channel": "IGN",
             "thumbnail": "https://i.ytimg.com/vi/lP8PEivKVbg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lP8PEivKVbg",
-            "views": 326665,
-            "age_hours": 17.3
+            "views": 371338,
+            "age_hours": 22.5
           }
         ]
       },
       {
         "phrase": "zelda ocarina time",
         "video_count": 2,
-        "momentum": 14.36,
+        "momentum": 14.17,
         "regions": [
           "US"
         ],
@@ -1782,8 +2035,8 @@
             "channel": "GameSpot",
             "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-            "views": 1049828,
-            "age_hours": 19.7
+            "views": 1137873,
+            "age_hours": 24.8
           },
           {
             "id": "lP8PEivKVbg",
@@ -1791,15 +2044,15 @@
             "channel": "IGN",
             "thumbnail": "https://i.ytimg.com/vi/lP8PEivKVbg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lP8PEivKVbg",
-            "views": 326665,
-            "age_hours": 17.3
+            "views": 371338,
+            "age_hours": 22.5
           }
         ]
       },
       {
         "phrase": "spider man",
         "video_count": 2,
-        "momentum": 13.38,
+        "momentum": 13.35,
         "regions": [
           "US"
         ],
@@ -1811,8 +2064,8 @@
             "channel": "Nicole",
             "thumbnail": "https://i.ytimg.com/vi/Fc-nGAqhFLk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Fc-nGAqhFLk",
-            "views": 29610784,
-            "age_hours": 182.6
+            "views": 29664345,
+            "age_hours": 187.8
           },
           {
             "id": "odFKSCGgEFc",
@@ -1820,144 +2073,55 @@
             "channel": "Endless Coast",
             "thumbnail": "https://i.ytimg.com/vi/odFKSCGgEFc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=odFKSCGgEFc",
-            "views": 20461491,
-            "age_hours": 177.7
-          }
-        ]
-      }
-    ],
-    "GB": [
-      {
-        "phrase": "back",
-        "video_count": 5,
-        "momentum": 20.96,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EQJVCoaOX5s",
-            "title": "Have you watched our new back to school video? #sofimanassyan #funny #school",
-            "channel": "Sofi Manassyan",
-            "thumbnail": "https://i.ytimg.com/vi/EQJVCoaOX5s/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EQJVCoaOX5s",
-            "views": 14289051,
-            "age_hours": 132.1
-          },
-          {
-            "id": "A1nI-2tdhmI",
-            "title": "iPhone leaks now vs back then 😭",
-            "channel": "Yahya Alhihi",
-            "thumbnail": "https://i.ytimg.com/vi/A1nI-2tdhmI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=A1nI-2tdhmI",
-            "views": 3560265,
-            "age_hours": 115.4
-          },
-          {
-            "id": "BK1CpKw5aQI",
-            "title": "BACK IN THE PREMIER LEAGUE! (FIFA 17 The Journey #3)",
-            "channel": "Danny Aarons",
-            "thumbnail": "https://i.ytimg.com/vi/BK1CpKw5aQI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BK1CpKw5aQI",
-            "views": 77327,
-            "age_hours": 19.9
-          }
-        ]
-      },
-      {
-        "phrase": "youtubeshorts cringe lifehack",
-        "video_count": 2,
-        "momentum": 15.31,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "qxip6yCVwys",
-            "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
-            "views": 7379628,
-            "age_hours": 62.3
-          },
-          {
-            "id": "fG90GElUzAQ",
-            "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
-            "views": 7527307,
-            "age_hours": 135.1
-          }
-        ]
-      },
-      {
-        "phrase": "cringe lifehack comedy",
-        "video_count": 2,
-        "momentum": 15.31,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "qxip6yCVwys",
-            "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
-            "views": 7379628,
-            "age_hours": 62.3
-          },
-          {
-            "id": "fG90GElUzAQ",
-            "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
-            "views": 7527307,
-            "age_hours": 135.1
-          }
-        ]
-      },
-      {
-        "phrase": "lifehack comedy funny",
-        "video_count": 2,
-        "momentum": 15.31,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "qxip6yCVwys",
-            "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
-            "views": 7379628,
-            "age_hours": 62.3
-          },
-          {
-            "id": "fG90GElUzAQ",
-            "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
-            "views": 7527307,
-            "age_hours": 135.1
+            "views": 20622082,
+            "age_hours": 182.9
           }
         ]
       }
     ],
     "DE": [
       {
+        "phrase": "minecraft helden",
+        "video_count": 3,
+        "momentum": 19.31,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "Qz3tnJBVaak",
+            "title": "Ich KILL TRIDAN und NIMM MIR SEIN HERZ! (Minecraft Helden 3)",
+            "channel": "AviveHD",
+            "thumbnail": "https://i.ytimg.com/vi/Qz3tnJBVaak/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Qz3tnJBVaak",
+            "views": 32368,
+            "age_hours": 4.1
+          },
+          {
+            "id": "cqmRVlKIma4",
+            "title": "ich VERLIERE mein 2. HERZ & WERDE GEBANNT? (MINECRAFT HELDEN 3)",
+            "channel": "TriDan",
+            "thumbnail": "https://i.ytimg.com/vi/cqmRVlKIma4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=cqmRVlKIma4",
+            "views": 36035,
+            "age_hours": 4.1
+          },
+          {
+            "id": "EnReaa4DTSI",
+            "title": "ICH RETTE TRIDAN in Minecraft Helden 3! (Geheimer Plan)",
+            "channel": "iCrimax",
+            "thumbnail": "https://i.ytimg.com/vi/EnReaa4DTSI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=EnReaa4DTSI",
+            "views": 48163,
+            "age_hours": 4.1
+          }
+        ]
+      },
+      {
         "phrase": "shortsdeutschland comedy",
         "video_count": 2,
-        "momentum": 11.38,
+        "momentum": 11.35,
         "regions": [
           "DE"
         ],
@@ -1969,8 +2133,8 @@
             "channel": "Jenni ⭐️",
             "thumbnail": "https://i.ytimg.com/vi/OlkPxFeGSfc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=OlkPxFeGSfc",
-            "views": 1352371,
-            "age_hours": 42.9
+            "views": 1461192,
+            "age_hours": 48.0
           },
           {
             "id": "SFIaqz_ij3w",
@@ -1978,17 +2142,55 @@
             "channel": "Jenni ⭐️",
             "thumbnail": "https://i.ytimg.com/vi/SFIaqz_ij3w/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=SFIaqz_ij3w",
-            "views": 1379295,
-            "age_hours": 90.4
+            "views": 1421509,
+            "age_hours": 95.6
           }
         ]
       }
     ],
     "ALL": [
       {
+        "phrase": "minecraft",
+        "video_count": 5,
+        "momentum": 23.98,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "YxHAkIoPy90",
+            "title": "Carry and Doorbin Joined Military Army in Minecraft..",
+            "channel": "Karry Kraft",
+            "thumbnail": "https://i.ytimg.com/vi/YxHAkIoPy90/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YxHAkIoPy90",
+            "views": 514116,
+            "age_hours": 7.9
+          },
+          {
+            "id": "Y-YWYIsOs18",
+            "title": "Minecraft But You Can Mine 1 TRILLION Blocks!",
+            "channel": "ProBoiz 95",
+            "thumbnail": "https://i.ytimg.com/vi/Y-YWYIsOs18/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Y-YWYIsOs18",
+            "views": 2653515,
+            "age_hours": 48.7
+          },
+          {
+            "id": "692mluo7YW8",
+            "title": "Poor Boys vs Rich Girls Chunk in Minecraft..",
+            "channel": "Carry Depie",
+            "thumbnail": "https://i.ytimg.com/vi/692mluo7YW8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=692mluo7YW8",
+            "views": 1232885,
+            "age_hours": 27.5
+          }
+        ]
+      },
+      {
         "phrase": "back",
         "video_count": 5,
-        "momentum": 20.96,
+        "momentum": 20.83,
         "regions": [
           "GB"
         ],
@@ -2000,8 +2202,8 @@
             "channel": "Sofi Manassyan",
             "thumbnail": "https://i.ytimg.com/vi/EQJVCoaOX5s/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=EQJVCoaOX5s",
-            "views": 14289051,
-            "age_hours": 132.1
+            "views": 14441986,
+            "age_hours": 137.2
           },
           {
             "id": "A1nI-2tdhmI",
@@ -2009,24 +2211,24 @@
             "channel": "Yahya Alhihi",
             "thumbnail": "https://i.ytimg.com/vi/A1nI-2tdhmI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=A1nI-2tdhmI",
-            "views": 3560265,
-            "age_hours": 115.4
+            "views": 3592630,
+            "age_hours": 120.6
           },
           {
-            "id": "BK1CpKw5aQI",
-            "title": "BACK IN THE PREMIER LEAGUE! (FIFA 17 The Journey #3)",
-            "channel": "Danny Aarons",
-            "thumbnail": "https://i.ytimg.com/vi/BK1CpKw5aQI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=BK1CpKw5aQI",
-            "views": 77327,
-            "age_hours": 19.9
+            "id": "ksfCcUka2-E",
+            "title": "COME BACK TO WORK WITH ME AFTER BABY NUMBER 2 | VLOG | AD | MOLLYMAE",
+            "channel": "MollyMae",
+            "thumbnail": "https://i.ytimg.com/vi/ksfCcUka2-E/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ksfCcUka2-E",
+            "views": 1064359,
+            "age_hours": 237.0
           }
         ]
       },
       {
         "phrase": "zelda",
         "video_count": 4,
-        "momentum": 20.3,
+        "momentum": 19.95,
         "regions": [
           "US"
         ],
@@ -2038,8 +2240,8 @@
             "channel": "Nintendo of America",
             "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
-            "views": 6214680,
-            "age_hours": 17.1
+            "views": 6424879,
+            "age_hours": 22.3
           },
           {
             "id": "ZwycnPCK0pA",
@@ -2047,8 +2249,8 @@
             "channel": "GameSpot",
             "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-            "views": 1049828,
-            "age_hours": 19.7
+            "views": 1137873,
+            "age_hours": 24.8
           },
           {
             "id": "yQG89Mv_J5o",
@@ -2056,15 +2258,15 @@
             "channel": "Austin John Plays",
             "thumbnail": "https://i.ytimg.com/vi/yQG89Mv_J5o/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=yQG89Mv_J5o",
-            "views": 504325,
-            "age_hours": 18.4
+            "views": 528627,
+            "age_hours": 23.6
           }
         ]
       },
       {
         "phrase": "tom jerry",
         "video_count": 3,
-        "momentum": 19.76,
+        "momentum": 19.72,
         "regions": [
           "IN"
         ],
@@ -2076,17 +2278,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/TV9hHv2zQhI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=TV9hHv2zQhI",
-            "views": 18097553,
-            "age_hours": 98.6
-          },
-          {
-            "id": "Ukk-OaUTpNI",
-            "title": "Tom🍓Jerry,Real End Twist😄Must Watch #shorts",
-            "channel": "vlog 4u",
-            "thumbnail": "https://i.ytimg.com/vi/Ukk-OaUTpNI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Ukk-OaUTpNI",
-            "views": 9347954,
-            "age_hours": 74.5
+            "views": 18954584,
+            "age_hours": 103.7
           },
           {
             "id": "yljQBs-pnkY",
@@ -2094,37 +2287,84 @@
             "channel": "Krishna Avyu",
             "thumbnail": "https://i.ytimg.com/vi/yljQBs-pnkY/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=yljQBs-pnkY",
-            "views": 12700480,
-            "age_hours": 100.2
+            "views": 13036911,
+            "age_hours": 105.4
+          },
+          {
+            "id": "Ukk-OaUTpNI",
+            "title": "Tom🍓Jerry,Real End Twist😄Must Watch #shorts",
+            "channel": "vlog 4u",
+            "thumbnail": "https://i.ytimg.com/vi/Ukk-OaUTpNI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Ukk-OaUTpNI",
+            "views": 9477420,
+            "age_hours": 79.6
+          }
+        ]
+      },
+      {
+        "phrase": "minecraft helden",
+        "video_count": 3,
+        "momentum": 19.31,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "Qz3tnJBVaak",
+            "title": "Ich KILL TRIDAN und NIMM MIR SEIN HERZ! (Minecraft Helden 3)",
+            "channel": "AviveHD",
+            "thumbnail": "https://i.ytimg.com/vi/Qz3tnJBVaak/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=Qz3tnJBVaak",
+            "views": 32368,
+            "age_hours": 4.1
+          },
+          {
+            "id": "cqmRVlKIma4",
+            "title": "ich VERLIERE mein 2. HERZ & WERDE GEBANNT? (MINECRAFT HELDEN 3)",
+            "channel": "TriDan",
+            "thumbnail": "https://i.ytimg.com/vi/cqmRVlKIma4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=cqmRVlKIma4",
+            "views": 36035,
+            "age_hours": 4.1
+          },
+          {
+            "id": "EnReaa4DTSI",
+            "title": "ICH RETTE TRIDAN in Minecraft Helden 3! (Geheimer Plan)",
+            "channel": "iCrimax",
+            "thumbnail": "https://i.ytimg.com/vi/EnReaa4DTSI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=EnReaa4DTSI",
+            "views": 48163,
+            "age_hours": 4.1
           }
         ]
       },
       {
         "phrase": "time",
         "video_count": 4,
-        "momentum": 19.49,
+        "momentum": 19.29,
         "regions": [
           "US"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "ZwycnPCK0pA",
-            "title": "The Legend of Zelda: Ocarina of Time First Gameplay Look Trailer",
-            "channel": "GameSpot",
-            "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-            "views": 1049828,
-            "age_hours": 19.7
-          },
-          {
             "id": "JUdGUHTfmIg",
             "title": "Logan Seeing Beast For The First Time In The Past Is Unhinged",
             "channel": "Tobey Maguire Times",
             "thumbnail": "https://i.ytimg.com/vi/JUdGUHTfmIg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=JUdGUHTfmIg",
-            "views": 6296274,
-            "age_hours": 88.4
+            "views": 6760447,
+            "age_hours": 93.6
+          },
+          {
+            "id": "ZwycnPCK0pA",
+            "title": "The Legend of Zelda: Ocarina of Time First Gameplay Look Trailer",
+            "channel": "GameSpot",
+            "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
+            "views": 1137873,
+            "age_hours": 24.8
           },
           {
             "id": "sTjWHkB_dzk",
@@ -2132,15 +2372,15 @@
             "channel": "BeatEmUps",
             "thumbnail": "https://i.ytimg.com/vi/sTjWHkB_dzk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=sTjWHkB_dzk",
-            "views": 467154,
-            "age_hours": 13.9
+            "views": 563920,
+            "age_hours": 19.0
           }
         ]
       },
       {
         "phrase": "legend zelda",
         "video_count": 3,
-        "momentum": 19.47,
+        "momentum": 19.16,
         "regions": [
           "US"
         ],
@@ -2152,8 +2392,8 @@
             "channel": "Nintendo of America",
             "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
-            "views": 6214680,
-            "age_hours": 17.1
+            "views": 6424879,
+            "age_hours": 22.3
           },
           {
             "id": "ZwycnPCK0pA",
@@ -2161,8 +2401,8 @@
             "channel": "GameSpot",
             "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-            "views": 1049828,
-            "age_hours": 19.7
+            "views": 1137873,
+            "age_hours": 24.8
           },
           {
             "id": "lP8PEivKVbg",
@@ -2170,15 +2410,15 @@
             "channel": "IGN",
             "thumbnail": "https://i.ytimg.com/vi/lP8PEivKVbg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lP8PEivKVbg",
-            "views": 326665,
-            "age_hours": 17.3
+            "views": 371338,
+            "age_hours": 22.5
           }
         ]
       },
       {
         "phrase": "ocarina time",
         "video_count": 3,
-        "momentum": 18.09,
+        "momentum": 17.82,
         "regions": [
           "US"
         ],
@@ -2190,8 +2430,8 @@
             "channel": "GameSpot",
             "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-            "views": 1049828,
-            "age_hours": 19.7
+            "views": 1137873,
+            "age_hours": 24.8
           },
           {
             "id": "sTjWHkB_dzk",
@@ -2199,8 +2439,8 @@
             "channel": "BeatEmUps",
             "thumbnail": "https://i.ytimg.com/vi/sTjWHkB_dzk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=sTjWHkB_dzk",
-            "views": 467154,
-            "age_hours": 13.9
+            "views": 563920,
+            "age_hours": 19.0
           },
           {
             "id": "lP8PEivKVbg",
@@ -2208,15 +2448,15 @@
             "channel": "IGN",
             "thumbnail": "https://i.ytimg.com/vi/lP8PEivKVbg/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=lP8PEivKVbg",
-            "views": 326665,
-            "age_hours": 17.3
+            "views": 371338,
+            "age_hours": 22.5
           }
         ]
       },
       {
         "phrase": "iphone",
         "video_count": 4,
-        "momentum": 16.93,
+        "momentum": 16.88,
         "regions": [
           "BR"
         ],
@@ -2228,8 +2468,8 @@
             "channel": "MrCappuccino Memes 2",
             "thumbnail": "https://i.ytimg.com/vi/-QpSeK-5AVo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=-QpSeK-5AVo",
-            "views": 6999173,
-            "age_hours": 180.4
+            "views": 7005016,
+            "age_hours": 185.6
           },
           {
             "id": "97j_Jo4KYvk",
@@ -2237,8 +2477,8 @@
             "channel": "Mike Fantástico",
             "thumbnail": "https://i.ytimg.com/vi/97j_Jo4KYvk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=97j_Jo4KYvk",
-            "views": 1413960,
-            "age_hours": 137.1
+            "views": 1424296,
+            "age_hours": 142.3
           },
           {
             "id": "IFtajR50SIQ",
@@ -2246,111 +2486,15 @@
             "channel": "Mundo em Pauta",
             "thumbnail": "https://i.ytimg.com/vi/IFtajR50SIQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=IFtajR50SIQ",
-            "views": 782552,
-            "age_hours": 156.4
-          }
-        ]
-      },
-      {
-        "phrase": "roube ovo",
-        "video_count": 3,
-        "momentum": 16.22,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "Dc3Aa0Ohuis",
-            "title": "ENCONTREI O PET MAIS RARO DO MUNDO NO ROUBE UM OVO",
-            "channel": "Lucas Clash ON",
-            "thumbnail": "https://i.ytimg.com/vi/Dc3Aa0Ohuis/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Dc3Aa0Ohuis",
-            "views": 211954,
-            "age_hours": 13.3
-          },
-          {
-            "id": "vXMJZ-_B2zI",
-            "title": "CRIEI CHEFÃO VERITY SECRETO nesse ROUBE UM OVO",
-            "channel": "Pabllym GO!",
-            "thumbnail": "https://i.ytimg.com/vi/vXMJZ-_B2zI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=vXMJZ-_B2zI",
-            "views": 136306,
-            "age_hours": 20.3
-          },
-          {
-            "id": "GSDC8HTnAcI",
-            "title": "ENTREI EM UM SERVIDOR DE ADMIN COM TODOS OS OVOS GIGANTES NO ROUBE UM OVO! 🤫",
-            "channel": "xMarcelo",
-            "thumbnail": "https://i.ytimg.com/vi/GSDC8HTnAcI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GSDC8HTnAcI",
-            "views": 106050,
-            "age_hours": 13.9
-          }
-        ]
-      },
-      {
-        "phrase": "zelda 40th anniversary",
-        "video_count": 2,
-        "momentum": 16.08,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "A0WX-jsir94",
-            "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
-            "channel": "Nintendo of America",
-            "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
-            "views": 6214680,
-            "age_hours": 17.1
-          },
-          {
-            "id": "yQG89Mv_J5o",
-            "title": "The Zelda 40th Anniversary Direct Was INSANE!",
-            "channel": "Austin John Plays",
-            "thumbnail": "https://i.ytimg.com/vi/yQG89Mv_J5o/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=yQG89Mv_J5o",
-            "views": 504325,
-            "age_hours": 18.4
-          }
-        ]
-      },
-      {
-        "phrase": "40th anniversary direct",
-        "video_count": 2,
-        "momentum": 16.08,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "A0WX-jsir94",
-            "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
-            "channel": "Nintendo of America",
-            "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
-            "views": 6214680,
-            "age_hours": 17.1
-          },
-          {
-            "id": "yQG89Mv_J5o",
-            "title": "The Zelda 40th Anniversary Direct Was INSANE!",
-            "channel": "Austin John Plays",
-            "thumbnail": "https://i.ytimg.com/vi/yQG89Mv_J5o/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=yQG89Mv_J5o",
-            "views": 504325,
-            "age_hours": 18.4
+            "views": 783155,
+            "age_hours": 161.5
           }
         ]
       },
       {
         "phrase": "iphone pro",
         "video_count": 3,
-        "momentum": 15.96,
+        "momentum": 15.92,
         "regions": [
           "BR"
         ],
@@ -2362,8 +2506,8 @@
             "channel": "MrCappuccino Memes 2",
             "thumbnail": "https://i.ytimg.com/vi/-QpSeK-5AVo/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=-QpSeK-5AVo",
-            "views": 6999173,
-            "age_hours": 180.4
+            "views": 7005016,
+            "age_hours": 185.6
           },
           {
             "id": "97j_Jo4KYvk",
@@ -2371,8 +2515,8 @@
             "channel": "Mike Fantástico",
             "thumbnail": "https://i.ytimg.com/vi/97j_Jo4KYvk/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=97j_Jo4KYvk",
-            "views": 1413960,
-            "age_hours": 137.1
+            "views": 1424296,
+            "age_hours": 142.3
           },
           {
             "id": "BhgsRsMARuw",
@@ -2380,15 +2524,15 @@
             "channel": "Trang memes game",
             "thumbnail": "https://i.ytimg.com/vi/BhgsRsMARuw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=BhgsRsMARuw",
-            "views": 1042607,
-            "age_hours": 199.7
+            "views": 1042651,
+            "age_hours": 204.9
           }
         ]
       },
       {
         "phrase": "real end twist",
         "video_count": 2,
-        "momentum": 15.94,
+        "momentum": 15.9,
         "regions": [
           "IN"
         ],
@@ -2400,8 +2544,8 @@
             "channel": "KL BRO Biju Rithvik",
             "thumbnail": "https://i.ytimg.com/vi/TV9hHv2zQhI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=TV9hHv2zQhI",
-            "views": 18097553,
-            "age_hours": 98.6
+            "views": 18954584,
+            "age_hours": 103.7
           },
           {
             "id": "Ukk-OaUTpNI",
@@ -2409,182 +2553,211 @@
             "channel": "vlog 4u",
             "thumbnail": "https://i.ytimg.com/vi/Ukk-OaUTpNI/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Ukk-OaUTpNI",
-            "views": 9347954,
-            "age_hours": 74.5
+            "views": 9477420,
+            "age_hours": 79.6
           }
         ]
       },
       {
-        "phrase": "youtubeshorts cringe lifehack",
+        "phrase": "zelda 40th anniversary",
         "video_count": 2,
-        "momentum": 15.31,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "qxip6yCVwys",
-            "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
-            "views": 7379628,
-            "age_hours": 62.3
-          },
-          {
-            "id": "fG90GElUzAQ",
-            "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
-            "views": 7527307,
-            "age_hours": 135.1
-          }
-        ]
-      },
-      {
-        "phrase": "cringe lifehack comedy",
-        "video_count": 2,
-        "momentum": 15.31,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "qxip6yCVwys",
-            "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
-            "views": 7379628,
-            "age_hours": 62.3
-          },
-          {
-            "id": "fG90GElUzAQ",
-            "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
-            "views": 7527307,
-            "age_hours": 135.1
-          }
-        ]
-      },
-      {
-        "phrase": "lifehack comedy funny",
-        "video_count": 2,
-        "momentum": 15.31,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "qxip6yCVwys",
-            "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
-            "views": 7379628,
-            "age_hours": 62.3
-          },
-          {
-            "id": "fG90GElUzAQ",
-            "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
-            "channel": "LouisAyy",
-            "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
-            "views": 7527307,
-            "age_hours": 135.1
-          }
-        ]
-      },
-      {
-        "phrase": "gta live",
-        "video_count": 2,
-        "momentum": 15.18,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "JeYctBRT5yk",
-            "title": "GTA V LIVE 🔥#shortsfeed #shortslive #gta #shorts #live #gta5",
-            "channel": "RageGod fps",
-            "thumbnail": "https://i.ytimg.com/vi/JeYctBRT5yk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=JeYctBRT5yk",
-            "views": 3240945,
-            "age_hours": 1.2
-          },
-          {
-            "id": "AVnMfB_YOAM",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/AVnMfB_YOAM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=AVnMfB_YOAM",
-            "views": 2768513,
-            "age_hours": 6.2
-          }
-        ]
-      },
-      {
-        "phrase": "live gta5",
-        "video_count": 2,
-        "momentum": 15.18,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "JeYctBRT5yk",
-            "title": "GTA V LIVE 🔥#shortsfeed #shortslive #gta #shorts #live #gta5",
-            "channel": "RageGod fps",
-            "thumbnail": "https://i.ytimg.com/vi/JeYctBRT5yk/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=JeYctBRT5yk",
-            "views": 3240945,
-            "age_hours": 1.2
-          },
-          {
-            "id": "AVnMfB_YOAM",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/AVnMfB_YOAM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=AVnMfB_YOAM",
-            "views": 2768513,
-            "age_hours": 6.2
-          }
-        ]
-      },
-      {
-        "phrase": "legend zelda ocarina",
-        "video_count": 2,
-        "momentum": 14.36,
+        "momentum": 15.76,
         "regions": [
           "US"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "ZwycnPCK0pA",
-            "title": "The Legend of Zelda: Ocarina of Time First Gameplay Look Trailer",
-            "channel": "GameSpot",
-            "thumbnail": "https://i.ytimg.com/vi/ZwycnPCK0pA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZwycnPCK0pA",
-            "views": 1049828,
-            "age_hours": 19.7
+            "id": "A0WX-jsir94",
+            "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
+            "channel": "Nintendo of America",
+            "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
+            "views": 6424879,
+            "age_hours": 22.3
           },
           {
-            "id": "lP8PEivKVbg",
-            "title": "The Legend of Zelda: Ocarina of Time Remake Gameplay Revealed!",
-            "channel": "IGN",
-            "thumbnail": "https://i.ytimg.com/vi/lP8PEivKVbg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=lP8PEivKVbg",
-            "views": 326665,
-            "age_hours": 17.3
+            "id": "yQG89Mv_J5o",
+            "title": "The Zelda 40th Anniversary Direct Was INSANE!",
+            "channel": "Austin John Plays",
+            "thumbnail": "https://i.ytimg.com/vi/yQG89Mv_J5o/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=yQG89Mv_J5o",
+            "views": 528627,
+            "age_hours": 23.6
+          }
+        ]
+      },
+      {
+        "phrase": "40th anniversary direct",
+        "video_count": 2,
+        "momentum": 15.76,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "A0WX-jsir94",
+            "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026",
+            "channel": "Nintendo of America",
+            "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
+            "views": 6424879,
+            "age_hours": 22.3
+          },
+          {
+            "id": "yQG89Mv_J5o",
+            "title": "The Zelda 40th Anniversary Direct Was INSANE!",
+            "channel": "Austin John Plays",
+            "thumbnail": "https://i.ytimg.com/vi/yQG89Mv_J5o/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=yQG89Mv_J5o",
+            "views": 528627,
+            "age_hours": 23.6
+          }
+        ]
+      },
+      {
+        "phrase": "youtubeshorts cringe lifehack",
+        "video_count": 2,
+        "momentum": 15.25,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "qxip6yCVwys",
+            "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
+            "views": 7541982,
+            "age_hours": 67.5
+          },
+          {
+            "id": "fG90GElUzAQ",
+            "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
+            "views": 7601176,
+            "age_hours": 140.2
+          }
+        ]
+      },
+      {
+        "phrase": "cringe lifehack comedy",
+        "video_count": 2,
+        "momentum": 15.25,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "qxip6yCVwys",
+            "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
+            "views": 7541982,
+            "age_hours": 67.5
+          },
+          {
+            "id": "fG90GElUzAQ",
+            "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
+            "views": 7601176,
+            "age_hours": 140.2
+          }
+        ]
+      },
+      {
+        "phrase": "lifehack comedy funny",
+        "video_count": 2,
+        "momentum": 15.25,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "qxip6yCVwys",
+            "title": "She uses food as makeup... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/qxip6yCVwys/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=qxip6yCVwys",
+            "views": 7541982,
+            "age_hours": 67.5
+          },
+          {
+            "id": "fG90GElUzAQ",
+            "title": "He gave him a bag of chips... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+            "channel": "LouisAyy",
+            "thumbnail": "https://i.ytimg.com/vi/fG90GElUzAQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=fG90GElUzAQ",
+            "views": 7601176,
+            "age_hours": 140.2
+          }
+        ]
+      },
+      {
+        "phrase": "godzilla minus zero",
+        "video_count": 2,
+        "momentum": 14.97,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "kw0YhiqOPFg",
+            "title": "GODZILLA MINUS ZERO | Official 1.43:1 Trailer | Filmed For IMAX",
+            "channel": "GODZILLA OFFICIAL by TOHO",
+            "thumbnail": "https://i.ytimg.com/vi/kw0YhiqOPFg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
+            "views": 6004186,
+            "age_hours": 25.7
+          },
+          {
+            "id": "C_Xfz5IMGDs",
+            "title": "GODZILLA MINUS ZERO Official Trailer (2026)",
+            "channel": "KinoCheck.com",
+            "thumbnail": "https://i.ytimg.com/vi/C_Xfz5IMGDs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=C_Xfz5IMGDs",
+            "views": 311798,
+            "age_hours": 25.5
+          }
+        ]
+      },
+      {
+        "phrase": "minus zero official",
+        "video_count": 2,
+        "momentum": 14.97,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "kw0YhiqOPFg",
+            "title": "GODZILLA MINUS ZERO | Official 1.43:1 Trailer | Filmed For IMAX",
+            "channel": "GODZILLA OFFICIAL by TOHO",
+            "thumbnail": "https://i.ytimg.com/vi/kw0YhiqOPFg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
+            "views": 6004186,
+            "age_hours": 25.7
+          },
+          {
+            "id": "C_Xfz5IMGDs",
+            "title": "GODZILLA MINUS ZERO Official Trailer (2026)",
+            "channel": "KinoCheck.com",
+            "thumbnail": "https://i.ytimg.com/vi/C_Xfz5IMGDs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=C_Xfz5IMGDs",
+            "views": 311798,
+            "age_hours": 25.5
           }
         ]
       }
@@ -2592,91 +2765,129 @@
   },
   "trending_searches": [
     {
-      "phrase": "why do birds suddenly appear",
-      "prefix": "why do",
-      "rank": 1,
-      "first_seen_at": "2026-09-09T10:27:31.741705+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why does he call you darling",
-      "prefix": "why does",
-      "rank": 1,
-      "first_seen_at": "2026-09-09T10:27:31.741705+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "best build 2k26",
-      "prefix": "best",
-      "rank": 1,
-      "first_seen_at": "2026-09-09T10:27:31.741705+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "is it a crime mariah the scientist",
-      "prefix": "is it",
-      "rank": 1,
-      "first_seen_at": "2026-09-09T10:27:31.741705+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "should i stay or should i go",
-      "prefix": "should i",
-      "rank": 1,
-      "first_seen_at": "2026-09-09T10:27:31.741705+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "can you stand the rain new edition",
-      "prefix": "can you",
-      "rank": 1,
-      "first_seen_at": "2026-09-09T10:27:31.741705+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how to draw",
+      "phrase": "how to tie a tie",
       "prefix": "how to",
-      "rank": 2,
-      "first_seen_at": "2026-09-09T10:27:31.741705+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-09-09T15:37:19.533961+00:00",
       "is_new": true
     },
     {
-      "phrase": "why don't we fall in love",
-      "prefix": "why do",
-      "rank": 2,
-      "first_seen_at": "2026-09-09T10:27:31.741705+00:00",
+      "phrase": "how do i say goodbye dean lewis",
+      "prefix": "how do",
+      "rank": 1,
+      "first_seen_at": "2026-09-09T15:37:19.533961+00:00",
       "is_new": true
     },
     {
-      "phrase": "why does it hurt so bad whitney houston",
-      "prefix": "why does",
-      "rank": 2,
-      "first_seen_at": "2026-09-09T10:27:31.741705+00:00",
+      "phrase": "how does it feel d'angelo",
+      "prefix": "how does",
+      "rank": 1,
+      "first_seen_at": "2026-09-09T15:37:19.533961+00:00",
       "is_new": true
     },
     {
-      "phrase": "what is love",
+      "phrase": "why is it spicy",
+      "prefix": "why is",
+      "rank": 1,
+      "first_seen_at": "2026-09-09T15:37:19.533961+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what is this diddy blud doing on the calculator",
       "prefix": "what is",
-      "rank": 2,
-      "first_seen_at": "2026-09-09T10:27:31.741705+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-09-09T15:37:19.533961+00:00",
       "is_new": true
     },
     {
-      "phrase": "what are those",
+      "phrase": "what are you listening to chris stapleton",
       "prefix": "what are",
-      "rank": 2,
-      "first_seen_at": "2026-09-09T10:27:31.741705+00:00",
+      "rank": 1,
+      "first_seen_at": "2026-09-09T15:37:19.533961+00:00",
       "is_new": true
     },
     {
-      "phrase": "what happened to that boy",
+      "phrase": "what happened to virgil",
       "prefix": "what happened",
+      "rank": 1,
+      "first_seen_at": "2026-09-09T15:37:19.533961+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "worst way riley green",
+      "prefix": "worst",
+      "rank": 1,
+      "first_seen_at": "2026-09-09T15:37:19.533961+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "topoppgen",
+      "prefix": "top",
+      "rank": 1,
+      "first_seen_at": "2026-09-09T15:37:19.533961+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how does it feel",
+      "prefix": "how does",
       "rank": 2,
-      "first_seen_at": "2026-09-09T10:27:31.741705+00:00",
+      "first_seen_at": "2026-09-09T15:37:19.533961+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why is my bus driver playing mitski",
+      "prefix": "why is",
+      "rank": 2,
+      "first_seen_at": "2026-09-09T15:37:19.533961+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "best part",
+      "prefix": "best",
+      "rank": 2,
+      "first_seen_at": "2026-09-09T15:37:19.533961+00:00",
       "is_new": true
     }
   ],
   "breakout_videos": [
+    {
+      "id": "zV67-L17rqc",
+      "title": "quantas pessoas têm o MESMO ANIVERSÁRIO que VOCÊ?",
+      "channel": "Giuliana Mafra",
+      "channel_id": "UCcO3pf47GO1rxL4tlWEs5Ow",
+      "thumbnail": "https://i.ytimg.com/vi/zV67-L17rqc/mqdefault.jpg",
+      "published_at": "2026-09-08T15:00:25Z",
+      "category_id": "24",
+      "views": 2464032,
+      "likes": 61358,
+      "comments": 110514,
+      "age_hours": 24.6,
+      "views_per_hour": 100108,
+      "momentum": 7.492,
+      "url": "https://www.youtube.com/watch?v=zV67-L17rqc",
+      "region": "BR",
+      "category": "Entertainment",
+      "_detected_lang": "pt"
+    },
+    {
+      "id": "gNUMxMuxH20",
+      "title": "Hearts2Hearts 하츠투하츠 'Moonride' MV",
+      "channel": "Hearts2Hearts",
+      "channel_id": "UC7Q3HUnJA3nvjZR2JeMn2Cw",
+      "thumbnail": "https://i.ytimg.com/vi/gNUMxMuxH20/mqdefault.jpg",
+      "published_at": "2026-09-09T09:00:05Z",
+      "category_id": "10",
+      "views": 524843,
+      "likes": 80989,
+      "comments": 7118,
+      "age_hours": 6.6,
+      "views_per_hour": 79312,
+      "momentum": 7.076,
+      "url": "https://www.youtube.com/watch?v=gNUMxMuxH20",
+      "region": "GB",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
     {
       "id": "Xmhw9BxRQA4",
       "title": "#Video | जिला छपरा से | Khesari Lal Yadav & Shilpi Raj | Jila Chhapra Se | New Bhojpuri Song 2026",
@@ -2685,34 +2896,34 @@
       "thumbnail": "https://i.ytimg.com/vi/Xmhw9BxRQA4/mqdefault.jpg",
       "published_at": "2026-09-09T01:30:02Z",
       "category_id": "10",
-      "views": 522463,
-      "likes": 64103,
-      "comments": 15634,
-      "age_hours": 9.0,
-      "views_per_hour": 58334,
-      "momentum": 7.362,
+      "views": 742610,
+      "likes": 78352,
+      "comments": 17180,
+      "age_hours": 14.1,
+      "views_per_hour": 52595,
+      "momentum": 6.809,
       "url": "https://www.youtube.com/watch?v=Xmhw9BxRQA4",
       "region": "IN",
       "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "JeYctBRT5yk",
-      "title": "GTA V LIVE 🔥#shortsfeed #shortslive #gta #shorts #live #gta5",
-      "channel": "RageGod fps",
-      "channel_id": "UCSgW2d-IWIZKM6mHBe13YHQ",
-      "thumbnail": "https://i.ytimg.com/vi/JeYctBRT5yk/mqdefault.jpg",
-      "published_at": "2026-09-09T09:14:37Z",
-      "category_id": "20",
-      "views": 3240945,
-      "likes": 12673,
-      "comments": 1,
-      "age_hours": 1.2,
-      "views_per_hour": 2670842,
-      "momentum": 6.477,
-      "url": "https://www.youtube.com/watch?v=JeYctBRT5yk",
-      "region": "IN",
-      "category": "Gaming",
+      "id": "L7qEKA-e2qI",
+      "title": "RANABAALI Teaser - The Savage's Oath | Vijay Deverakonda | Rashmika Mandanna | Rahul Sankrityan",
+      "channel": "Mythri Movie Makers",
+      "channel_id": "UCKZSn5C-RzrLjuWJF8wWiDw",
+      "thumbnail": "https://i.ytimg.com/vi/L7qEKA-e2qI/mqdefault.jpg",
+      "published_at": "2026-09-09T10:38:27Z",
+      "category_id": "24",
+      "views": 992853,
+      "likes": 87860,
+      "comments": 3634,
+      "age_hours": 5.0,
+      "views_per_hour": 199447,
+      "momentum": 6.432,
+      "url": "https://www.youtube.com/watch?v=L7qEKA-e2qI",
+      "region": "GB",
+      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -2723,12 +2934,12 @@
       "thumbnail": "https://i.ytimg.com/vi/M09rC67V6VE/mqdefault.jpg",
       "published_at": "2026-09-08T12:56:36Z",
       "category_id": "24",
-      "views": 49169380,
+      "views": 57969970,
       "likes": 0,
-      "comments": 215,
-      "age_hours": 21.5,
-      "views_per_hour": 2285408,
-      "momentum": 6.359,
+      "comments": 233,
+      "age_hours": 26.7,
+      "views_per_hour": 2173001,
+      "momentum": 6.337,
       "url": "https://www.youtube.com/watch?v=M09rC67V6VE",
       "region": "BR",
       "category": "Entertainment",
@@ -2742,12 +2953,12 @@
       "thumbnail": "https://i.ytimg.com/vi/FyS5dAywkEo/mqdefault.jpg",
       "published_at": "2026-09-04T00:00:05Z",
       "category_id": "10",
-      "views": 146088772,
-      "likes": 2408172,
-      "comments": 237172,
-      "age_hours": 130.5,
-      "views_per_hour": 1119837,
-      "momentum": 6.347,
+      "views": 147035213,
+      "likes": 2427773,
+      "comments": 238383,
+      "age_hours": 135.6,
+      "views_per_hour": 1084185,
+      "momentum": 6.332,
       "url": "https://www.youtube.com/watch?v=FyS5dAywkEo",
       "region": "AU",
       "category": "Other",
@@ -2761,16 +2972,35 @@
       "thumbnail": "https://i.ytimg.com/vi/h1YA3kERj8Y/mqdefault.jpg",
       "published_at": "2026-09-07T19:00:17Z",
       "category_id": "24",
-      "views": 20533797,
-      "likes": 912366,
-      "comments": 1219,
-      "age_hours": 39.5,
-      "views_per_hour": 520461,
-      "momentum": 6.228,
+      "views": 21315607,
+      "likes": 936302,
+      "comments": 1254,
+      "age_hours": 44.6,
+      "views_per_hour": 477757,
+      "momentum": 6.181,
       "url": "https://www.youtube.com/watch?v=h1YA3kERj8Y",
       "region": "BR",
       "category": "Entertainment",
       "_detected_lang": "pt"
+    },
+    {
+      "id": "fneuVQ7uO_w",
+      "title": "Drishyam: The Conclusion | Official Trailer | Ajay Devgn, Tabu, Jaideep | Abhishek Pathak | 2 Oct",
+      "channel": "Star Studios",
+      "channel_id": "UCGqvJPRcv7aVFun-eTsatcA",
+      "thumbnail": "https://i.ytimg.com/vi/fneuVQ7uO_w/mqdefault.jpg",
+      "published_at": "2026-09-09T07:43:43Z",
+      "category_id": "24",
+      "views": 4661165,
+      "likes": 122536,
+      "comments": 6368,
+      "age_hours": 7.9,
+      "views_per_hour": 590750,
+      "momentum": 6.154,
+      "url": "https://www.youtube.com/watch?v=fneuVQ7uO_w",
+      "region": "GB",
+      "category": "Entertainment",
+      "_detected_lang": "en"
     },
     {
       "id": "zbIr24Tes7E",
@@ -2780,12 +3010,12 @@
       "thumbnail": "https://i.ytimg.com/vi/zbIr24Tes7E/mqdefault.jpg",
       "published_at": "2026-09-06T13:30:07Z",
       "category_id": "23",
-      "views": 44796119,
-      "likes": 1004438,
-      "comments": 39133,
-      "age_hours": 69.0,
-      "views_per_hour": 649646,
-      "momentum": 6.124,
+      "views": 45771135,
+      "likes": 1015577,
+      "comments": 39387,
+      "age_hours": 74.1,
+      "views_per_hour": 617548,
+      "momentum": 6.097,
       "url": "https://www.youtube.com/watch?v=zbIr24Tes7E",
       "region": "CA",
       "category": "Comedy",
@@ -2799,12 +3029,12 @@
       "thumbnail": "https://i.ytimg.com/vi/N7yzYP0zz8M/mqdefault.jpg",
       "published_at": "2026-09-04T11:30:18Z",
       "category_id": "22",
-      "views": 118603862,
+      "views": 123361739,
       "likes": 0,
-      "comments": 10262,
-      "age_hours": 119.0,
-      "views_per_hour": 997081,
-      "momentum": 6.004,
+      "comments": 10724,
+      "age_hours": 124.1,
+      "views_per_hour": 993941,
+      "momentum": 6.003,
       "url": "https://www.youtube.com/watch?v=N7yzYP0zz8M",
       "region": "US",
       "category": "People & Blogs",
@@ -2818,34 +3048,15 @@
       "thumbnail": "https://i.ytimg.com/vi/A0WX-jsir94/mqdefault.jpg",
       "published_at": "2026-09-08T17:21:58Z",
       "category_id": "20",
-      "views": 6214680,
-      "likes": 192022,
-      "comments": 10472,
-      "age_hours": 17.1,
-      "views_per_hour": 363650,
-      "momentum": 5.998,
+      "views": 6424879,
+      "likes": 195184,
+      "comments": 10756,
+      "age_hours": 22.3,
+      "views_per_hour": 288727,
+      "momentum": 5.884,
       "url": "https://www.youtube.com/watch?v=A0WX-jsir94",
       "region": "US",
       "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "iNMvUYjaieA",
-      "title": "EVAN (에반) 'Death of Me' Official MV",
-      "channel": "HYBE LABELS",
-      "channel_id": "UC3IZKseVpdzPSBaWxBxundA",
-      "thumbnail": "https://i.ytimg.com/vi/iNMvUYjaieA/mqdefault.jpg",
-      "published_at": "2026-09-07T08:59:06Z",
-      "category_id": "10",
-      "views": 8160593,
-      "likes": 381562,
-      "comments": 28945,
-      "age_hours": 49.5,
-      "views_per_hour": 164955,
-      "momentum": 5.89,
-      "url": "https://www.youtube.com/watch?v=iNMvUYjaieA",
-      "region": "AU",
-      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -2856,15 +3067,34 @@
       "thumbnail": "https://i.ytimg.com/vi/3XWv-UFWmrk/mqdefault.jpg",
       "published_at": "2026-09-07T10:53:52Z",
       "category_id": "22",
-      "views": 11471726,
-      "likes": 477947,
-      "comments": 1952,
-      "age_hours": 47.6,
-      "views_per_hour": 241215,
-      "momentum": 5.84,
+      "views": 12273094,
+      "likes": 523649,
+      "comments": 2105,
+      "age_hours": 52.7,
+      "views_per_hour": 232794,
+      "momentum": 5.834,
       "url": "https://www.youtube.com/watch?v=3XWv-UFWmrk",
       "region": "US",
       "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "iNMvUYjaieA",
+      "title": "EVAN (에반) 'Death of Me' Official MV",
+      "channel": "HYBE LABELS",
+      "channel_id": "UC3IZKseVpdzPSBaWxBxundA",
+      "thumbnail": "https://i.ytimg.com/vi/iNMvUYjaieA/mqdefault.jpg",
+      "published_at": "2026-09-07T08:59:06Z",
+      "category_id": "10",
+      "views": 10551040,
+      "likes": 387514,
+      "comments": 29804,
+      "age_hours": 54.6,
+      "views_per_hour": 193120,
+      "momentum": 5.823,
+      "url": "https://www.youtube.com/watch?v=iNMvUYjaieA",
+      "region": "AU",
+      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -2875,12 +3105,12 @@
       "thumbnail": "https://i.ytimg.com/vi/FPk64n9E9FI/mqdefault.jpg",
       "published_at": "2026-09-03T16:13:12Z",
       "category_id": "24",
-      "views": 84054229,
-      "likes": 325217,
-      "comments": 5081,
-      "age_hours": 138.2,
-      "views_per_hour": 608041,
-      "momentum": 5.832,
+      "views": 84820903,
+      "likes": 329492,
+      "comments": 5131,
+      "age_hours": 143.4,
+      "views_per_hour": 591496,
+      "momentum": 5.82,
       "url": "https://www.youtube.com/watch?v=FPk64n9E9FI",
       "region": "BR",
       "category": "Entertainment",
@@ -2894,12 +3124,12 @@
       "thumbnail": "https://i.ytimg.com/vi/kw0YhiqOPFg/mqdefault.jpg",
       "published_at": "2026-09-08T13:55:06Z",
       "category_id": "1",
-      "views": 5429335,
-      "likes": 127781,
-      "comments": 10381,
-      "age_hours": 20.5,
-      "views_per_hour": 264362,
-      "momentum": 5.781,
+      "views": 6004186,
+      "likes": 137558,
+      "comments": 10984,
+      "age_hours": 25.7,
+      "views_per_hour": 233624,
+      "momentum": 5.713,
       "url": "https://www.youtube.com/watch?v=kw0YhiqOPFg",
       "region": "US",
       "category": "Other",
@@ -2913,72 +3143,34 @@
       "thumbnail": "https://i.ytimg.com/vi/VtTYbrUUA7w/mqdefault.jpg",
       "published_at": "2026-09-05T15:55:50Z",
       "category_id": "22",
-      "views": 34538586,
-      "likes": 322992,
-      "comments": 2131,
-      "age_hours": 90.5,
-      "views_per_hour": 381533,
-      "momentum": 5.689,
+      "views": 35479972,
+      "likes": 331872,
+      "comments": 2169,
+      "age_hours": 95.7,
+      "views_per_hour": 370786,
+      "momentum": 5.677,
       "url": "https://www.youtube.com/watch?v=VtTYbrUUA7w",
       "region": "GB",
       "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
-      "id": "msmXWPLDHmM",
-      "title": "SECRET ROOM MAKING CHALLENGE 😍 Part 2",
-      "channel": "Sourav Joshi Vlogs",
-      "channel_id": "UCjvgGbPPn-FgYeguc5nxG4A",
-      "thumbnail": "https://i.ytimg.com/vi/msmXWPLDHmM/mqdefault.jpg",
-      "published_at": "2026-09-08T02:30:31Z",
-      "category_id": "22",
-      "views": 6033652,
-      "likes": 167985,
-      "comments": 10900,
-      "age_hours": 31.9,
-      "views_per_hour": 188855,
-      "momentum": 5.665,
-      "url": "https://www.youtube.com/watch?v=msmXWPLDHmM",
-      "region": "IN",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "AVnMfB_YOAM",
-      "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-      "channel": "PAJI IS LIVE",
-      "channel_id": "UCDFCpzs71ziH52_FcL2eTNA",
-      "thumbnail": "https://i.ytimg.com/vi/AVnMfB_YOAM/mqdefault.jpg",
-      "published_at": "2026-09-09T04:13:40Z",
-      "category_id": "20",
-      "views": 2768513,
-      "likes": 3772,
-      "comments": 2,
-      "age_hours": 6.2,
-      "views_per_hour": 444437,
-      "momentum": 5.663,
-      "url": "https://www.youtube.com/watch?v=AVnMfB_YOAM",
-      "region": "IN",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "Dg84J6Q0eJI",
-      "title": "First Time Playing Free Fire with My Son ❤️ Tonde Gamer",
-      "channel": "Tonde Gamer",
-      "channel_id": "UCD5EC8IWhOFalXtePCkhJTA",
-      "thumbnail": "https://i.ytimg.com/vi/Dg84J6Q0eJI/mqdefault.jpg",
-      "published_at": "2026-09-08T03:20:41Z",
-      "category_id": "20",
-      "views": 1741620,
-      "likes": 144251,
-      "comments": 4266,
-      "age_hours": 31.1,
-      "views_per_hour": 55978,
-      "momentum": 5.651,
-      "url": "https://www.youtube.com/watch?v=Dg84J6Q0eJI",
-      "region": "IN",
-      "category": "Gaming",
+      "id": "llcDHeIjv6Y",
+      "title": "Willem Dafoe's Favorite Moment On Spider-Man Set",
+      "channel": "Endless Coast",
+      "channel_id": "UCBGLPN5PHazrkMXYjZVWl6w",
+      "thumbnail": "https://i.ytimg.com/vi/llcDHeIjv6Y/mqdefault.jpg",
+      "published_at": "2026-09-09T00:21:19Z",
+      "category_id": "24",
+      "views": 3022869,
+      "likes": 91838,
+      "comments": 375,
+      "age_hours": 15.3,
+      "views_per_hour": 198033,
+      "momentum": 5.625,
+      "url": "https://www.youtube.com/watch?v=llcDHeIjv6Y",
+      "region": "AU",
+      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -2989,53 +3181,15 @@
       "thumbnail": "https://i.ytimg.com/vi/Sc3n3oXwfQs/mqdefault.jpg",
       "published_at": "2026-09-02T03:29:28Z",
       "category_id": "22",
-      "views": 57389925,
-      "likes": 603656,
-      "comments": 4572,
-      "age_hours": 175.0,
-      "views_per_hour": 328008,
-      "momentum": 5.636,
+      "views": 57471822,
+      "likes": 605054,
+      "comments": 4581,
+      "age_hours": 180.1,
+      "views_per_hour": 319062,
+      "momentum": 5.624,
       "url": "https://www.youtube.com/watch?v=Sc3n3oXwfQs",
       "region": "US",
       "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "KtkOSqxd-Os",
-      "title": "Is speed streaming the IPhone event??",
-      "channel": "CarterPCs",
-      "channel_id": "UCi7wDE2ZTiR5QYYrUY5WhtA",
-      "thumbnail": "https://i.ytimg.com/vi/KtkOSqxd-Os/mqdefault.jpg",
-      "published_at": "2026-09-08T06:37:24Z",
-      "category_id": "22",
-      "views": 1853468,
-      "likes": 140083,
-      "comments": 2928,
-      "age_hours": 27.8,
-      "views_per_hour": 66592,
-      "momentum": 5.629,
-      "url": "https://www.youtube.com/watch?v=KtkOSqxd-Os",
-      "region": "GB",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "RHxyCfnHYPg",
-      "title": "COMING BACK TO MY GAS STATION AFTER 2 YEARS",
-      "channel": "Techno Gamerz",
-      "channel_id": "UCX8pnu3DYUnx8qy8V_c6oHg",
-      "thumbnail": "https://i.ytimg.com/vi/RHxyCfnHYPg/mqdefault.jpg",
-      "published_at": "2026-09-06T03:30:30Z",
-      "category_id": "20",
-      "views": 8691405,
-      "likes": 373056,
-      "comments": 26327,
-      "age_hours": 78.9,
-      "views_per_hour": 110089,
-      "momentum": 5.627,
-      "url": "https://www.youtube.com/watch?v=RHxyCfnHYPg",
-      "region": "IN",
-      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -3046,35 +3200,92 @@
       "thumbnail": "https://i.ytimg.com/vi/IFK0KOo3_5U/mqdefault.jpg",
       "published_at": "2026-09-07T13:10:27Z",
       "category_id": "23",
-      "views": 12927469,
-      "likes": 183111,
-      "comments": 3012,
-      "age_hours": 45.3,
-      "views_per_hour": 285481,
-      "momentum": 5.623,
+      "views": 14201991,
+      "likes": 197739,
+      "comments": 3243,
+      "age_hours": 50.4,
+      "views_per_hour": 281529,
+      "momentum": 5.614,
       "url": "https://www.youtube.com/watch?v=IFK0KOo3_5U",
       "region": "IN",
       "category": "Comedy",
       "_detected_lang": "en"
     },
     {
-      "id": "OW21ytxTynk",
-      "title": "EU ABRI UM SUPERMERCADO, MAS ELE SÓ VENDE UM PRODUTO!",
-      "channel": "Jazzghost",
-      "channel_id": "UCIXguhHCl8eDTkXpEuiGPUA",
-      "thumbnail": "https://i.ytimg.com/vi/OW21ytxTynk/mqdefault.jpg",
-      "published_at": "2026-09-08T15:00:42Z",
+      "id": "msmXWPLDHmM",
+      "title": "SECRET ROOM MAKING CHALLENGE 😍 Part 2",
+      "channel": "Sourav Joshi Vlogs",
+      "channel_id": "UCjvgGbPPn-FgYeguc5nxG4A",
+      "thumbnail": "https://i.ytimg.com/vi/msmXWPLDHmM/mqdefault.jpg",
+      "published_at": "2026-09-08T02:30:31Z",
+      "category_id": "22",
+      "views": 6331955,
+      "likes": 172150,
+      "comments": 10976,
+      "age_hours": 37.1,
+      "views_per_hour": 170620,
+      "momentum": 5.607,
+      "url": "https://www.youtube.com/watch?v=msmXWPLDHmM",
+      "region": "IN",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "Dg84J6Q0eJI",
+      "title": "First Time Playing Free Fire with My Son ❤️ Tonde Gamer",
+      "channel": "Tonde Gamer",
+      "channel_id": "UCD5EC8IWhOFalXtePCkhJTA",
+      "thumbnail": "https://i.ytimg.com/vi/Dg84J6Q0eJI/mqdefault.jpg",
+      "published_at": "2026-09-08T03:20:41Z",
       "category_id": "20",
-      "views": 1301340,
-      "likes": 74664,
-      "comments": 6565,
-      "age_hours": 19.4,
-      "views_per_hour": 66921,
-      "momentum": 5.623,
-      "url": "https://www.youtube.com/watch?v=OW21ytxTynk",
-      "region": "BR",
+      "views": 1964111,
+      "likes": 156721,
+      "comments": 4652,
+      "age_hours": 36.3,
+      "views_per_hour": 54145,
+      "momentum": 5.601,
+      "url": "https://www.youtube.com/watch?v=Dg84J6Q0eJI",
+      "region": "IN",
       "category": "Gaming",
-      "_detected_lang": "pt"
+      "_detected_lang": "en"
+    },
+    {
+      "id": "RHxyCfnHYPg",
+      "title": "COMING BACK TO MY GAS STATION AFTER 2 YEARS",
+      "channel": "Techno Gamerz",
+      "channel_id": "UCX8pnu3DYUnx8qy8V_c6oHg",
+      "thumbnail": "https://i.ytimg.com/vi/RHxyCfnHYPg/mqdefault.jpg",
+      "published_at": "2026-09-06T03:30:30Z",
+      "category_id": "20",
+      "views": 8934590,
+      "likes": 378610,
+      "comments": 26515,
+      "age_hours": 84.1,
+      "views_per_hour": 106223,
+      "momentum": 5.601,
+      "url": "https://www.youtube.com/watch?v=RHxyCfnHYPg",
+      "region": "IN",
+      "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "KtkOSqxd-Os",
+      "title": "Is speed streaming the IPhone event??",
+      "channel": "CarterPCs",
+      "channel_id": "UCi7wDE2ZTiR5QYYrUY5WhtA",
+      "thumbnail": "https://i.ytimg.com/vi/KtkOSqxd-Os/mqdefault.jpg",
+      "published_at": "2026-09-08T06:37:24Z",
+      "category_id": "22",
+      "views": 1937592,
+      "likes": 148381,
+      "comments": 3023,
+      "age_hours": 33.0,
+      "views_per_hour": 58722,
+      "momentum": 5.574,
+      "url": "https://www.youtube.com/watch?v=KtkOSqxd-Os",
+      "region": "GB",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
     },
     {
       "id": "HfA4hxPCA2o",
@@ -3084,53 +3295,15 @@
       "thumbnail": "https://i.ytimg.com/vi/HfA4hxPCA2o/mqdefault.jpg",
       "published_at": "2026-09-06T18:29:09Z",
       "category_id": "2",
-      "views": 9098385,
-      "likes": 305516,
-      "comments": 18382,
-      "age_hours": 64.0,
-      "views_per_hour": 142228,
-      "momentum": 5.603,
+      "views": 9284838,
+      "likes": 309155,
+      "comments": 18533,
+      "age_hours": 69.1,
+      "views_per_hour": 134303,
+      "momentum": 5.572,
       "url": "https://www.youtube.com/watch?v=HfA4hxPCA2o",
       "region": "GB",
       "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "7_RM_cycm2s",
-      "title": "How Experts Win Rock Paper Scissors 🤨",
-      "channel": "Zack D. Films",
-      "channel_id": "UCvz84_Q0BbvZThy75mbd-Dg",
-      "thumbnail": "https://i.ytimg.com/vi/7_RM_cycm2s/mqdefault.jpg",
-      "published_at": "2026-09-06T17:30:21Z",
-      "category_id": "19",
-      "views": 10761507,
-      "likes": 372273,
-      "comments": 2169,
-      "age_hours": 65.0,
-      "views_per_hour": 165687,
-      "momentum": 5.591,
-      "url": "https://www.youtube.com/watch?v=7_RM_cycm2s",
-      "region": "CA",
-      "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "lA1ohDqw8XA",
-      "title": "Exploring Minecraft's Forgotten Dimension",
-      "channel": "Spoke",
-      "channel_id": "UCk2uxbWi5py_iJXaEsh2YRA",
-      "thumbnail": "https://i.ytimg.com/vi/lA1ohDqw8XA/mqdefault.jpg",
-      "published_at": "2026-09-07T13:00:08Z",
-      "category_id": "20",
-      "views": 3178807,
-      "likes": 127064,
-      "comments": 22696,
-      "age_hours": 45.5,
-      "views_per_hour": 69934,
-      "momentum": 5.578,
-      "url": "https://www.youtube.com/watch?v=lA1ohDqw8XA",
-      "region": "AU",
-      "category": "Gaming",
       "_detected_lang": "en"
     }
   ]
