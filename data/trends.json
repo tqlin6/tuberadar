@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T03:28:11.588475+00:00",
+  "generated_at": "2026-10-07T12:21:45.525220+00:00",
   "regions": [
     "US",
     "GB",
@@ -40,184 +40,416 @@
     }
   ],
   "stats": {
-    "total_videos": 425,
+    "total_videos": 429,
     "total_topics": 18,
-    "total_themes": 3,
+    "total_themes": 6,
     "total_searches": 12,
     "by_category": {
-      "Entertainment": 109,
-      "Gaming": 73,
-      "People & Blogs": 114,
-      "Other": 61,
-      "Comedy": 29,
-      "Science & Tech": 21,
-      "Education": 5,
-      "Howto & Style": 13
+      "Other": 65,
+      "Entertainment": 111,
+      "People & Blogs": 111,
+      "Gaming": 75,
+      "Comedy": 27,
+      "Science & Tech": 25,
+      "Education": 4,
+      "Howto & Style": 11
     }
   },
   "emerging_themes": [
     {
-      "phrase": "steal egg roblox",
-      "video_count": 25,
-      "channel_count": 25,
+      "phrase": "battle shorts",
+      "video_count": 30,
+      "channel_count": 30,
       "total_channels_seen": 30,
-      "uploads_per_hour": 2.08,
+      "uploads_per_hour": 2.5,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "jkqGvW5U7hE",
-          "title": "Putting mutation on my eternal egg in steal an egg #roblox #shorts",
-          "channel": "Jyofficialgaming",
-          "channel_id": "UCjoyRh5VwRVSFoStwr-LPXg",
-          "subscribers": 49,
-          "thumbnail": "https://i.ytimg.com/vi/jkqGvW5U7hE/mqdefault.jpg",
-          "published_at": "2026-10-07T03:00:38Z",
-          "url": "https://www.youtube.com/watch?v=jkqGvW5U7hE"
+          "id": "POzF79WH5K4",
+          "title": "InfiniBand vs Ethernet: The AI data center battle #shorts #ai #nvidia #gpu #tech #networking",
+          "channel": "The gpuMaster",
+          "channel_id": "UCj5ztCnI13B17VUl2JrAX9g",
+          "subscribers": 7,
+          "thumbnail": "https://i.ytimg.com/vi/POzF79WH5K4/mqdefault.jpg",
+          "published_at": "2026-10-07T12:00:36Z",
+          "url": "https://www.youtube.com/watch?v=POzF79WH5K4"
         },
         {
-          "id": "XPQ_ZhG16a0",
-          "title": "Steal an egg #roblox #shorts #gaming",
-          "channel": "AKROBLOX1 ",
-          "channel_id": "UCgLiBTWwBNQhKFaC8ktlsBg",
-          "subscribers": 438,
-          "thumbnail": "https://i.ytimg.com/vi/XPQ_ZhG16a0/mqdefault.jpg",
-          "published_at": "2026-10-07T03:00:03Z",
-          "url": "https://www.youtube.com/watch?v=XPQ_ZhG16a0"
+          "id": "uao9Y52hcCE",
+          "title": "Rolls-Royce 🖤 vs Bentley 🤍 | Luxury Car Battle #shorts #vsarena",
+          "channel": "VS Arena",
+          "channel_id": "UC75YOdih7rxMAQhVcC-yOhA",
+          "subscribers": 392,
+          "thumbnail": "https://i.ytimg.com/vi/uao9Y52hcCE/mqdefault.jpg",
+          "published_at": "2026-10-07T12:00:27Z",
+          "url": "https://www.youtube.com/watch?v=uao9Y52hcCE"
         },
         {
-          "id": "7CS79PdqryA",
-          "title": "steal an egg #roblox",
-          "channel": "GJ GAMER",
-          "channel_id": "UCnM362-0waBFLJAqXny8oBw",
-          "subscribers": 2540,
-          "thumbnail": "https://i.ytimg.com/vi/7CS79PdqryA/mqdefault.jpg",
-          "published_at": "2026-10-07T02:35:00Z",
-          "url": "https://www.youtube.com/watch?v=7CS79PdqryA"
+          "id": "1y1jy7o7K44",
+          "title": "JOJO&#39;s Bizarre Adventure: All-Star Battle R Collector’s Edition #shorts",
+          "channel": "TeamRainUK",
+          "channel_id": "UCWtTZKMMTsVthwK0d8IAibA",
+          "subscribers": 682,
+          "thumbnail": "https://i.ytimg.com/vi/1y1jy7o7K44/mqdefault.jpg",
+          "published_at": "2026-10-07T12:00:24Z",
+          "url": "https://www.youtube.com/watch?v=1y1jy7o7K44"
         },
         {
-          "id": "5S4rc1WJiK0",
-          "title": "BORONG telur langka STEAL AN EGG #roblox #stealanegg",
-          "channel": "DaniL Gaming",
-          "channel_id": "UC3VA9sQR64h4z4ltMLC35sQ",
-          "subscribers": 145000,
-          "thumbnail": "https://i.ytimg.com/vi/5S4rc1WJiK0/mqdefault.jpg",
-          "published_at": "2026-10-07T02:34:54Z",
-          "url": "https://www.youtube.com/watch?v=5S4rc1WJiK0"
+          "id": "3Wa7tTgezLc",
+          "title": "The Rosk vs Ronaldo &amp;ISnot Speed Egg Battle #shorts #Egg Fight #Egg Clash#Egg Battle",
+          "channel": "EGG BATLLE 2",
+          "channel_id": "UCPnTPe-OjtC9W7ktbQ-O7Kg",
+          "subscribers": 103,
+          "thumbnail": "https://i.ytimg.com/vi/3Wa7tTgezLc/mqdefault.jpg",
+          "published_at": "2026-10-07T12:00:15Z",
+          "url": "https://www.youtube.com/watch?v=3Wa7tTgezLc"
         }
       ],
-      "first_detected_at": "2026-10-07T03:28:11.588475+00:00",
-      "last_seen_at": "2026-10-07T03:28:11.588475+00:00"
+      "first_detected_at": "2026-10-07T12:21:45.525220+00:00",
+      "last_seen_at": "2026-10-07T12:21:45.525220+00:00"
     },
     {
-      "phrase": "end twist shorts",
-      "video_count": 25,
-      "channel_count": 23,
-      "total_channels_seen": 28,
-      "uploads_per_hour": 1.92,
+      "phrase": "bhojpuri song",
+      "video_count": 30,
+      "channel_count": 30,
+      "total_channels_seen": 30,
+      "uploads_per_hour": 2.5,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "8bFJ0mcpkr4",
-          "title": "Moment Before The Twist 😱 | Unexpected Ending | Wait For It 🔥 #shorts",
-          "channel": "RAHUL 786 YT",
-          "channel_id": "UC4W3RUX7PyLJmXyPhfNEvnw",
-          "subscribers": 165,
-          "thumbnail": "https://i.ytimg.com/vi/8bFJ0mcpkr4/mqdefault.jpg",
-          "published_at": "2026-10-07T03:20:38Z",
-          "url": "https://www.youtube.com/watch?v=8bFJ0mcpkr4"
+          "id": "AyemPPN0q80",
+          "title": "kahe khatir ye piya kayila gawanwa #ankushraja #bhojpuri #song",
+          "channel": "Jitesh rai ji ",
+          "channel_id": "UC08MCv5XBJZS5rUFWbKSiyg",
+          "subscribers": 28100,
+          "thumbnail": "https://i.ytimg.com/vi/AyemPPN0q80/mqdefault.jpg",
+          "published_at": "2026-10-07T12:00:08Z",
+          "url": "https://www.youtube.com/watch?v=AyemPPN0q80"
         },
         {
-          "id": "uVK82T66rok",
-          "title": "Ball Sticky Game!🎯 Ending Me Bada Twist 😱 #shorts #viralvideo",
-          "channel": "Funtukde",
-          "channel_id": "UCikgOPcu2cWj6dymtUyBg3A",
-          "subscribers": 52,
-          "thumbnail": "https://i.ytimg.com/vi/uVK82T66rok/mqdefault.jpg",
-          "published_at": "2026-10-07T03:20:34Z",
-          "url": "https://www.youtube.com/watch?v=uVK82T66rok"
+          "id": "KeHRWDeMseA",
+          "title": "#bhojpuri #song ❤️",
+          "channel": "Kavita Patel art ",
+          "channel_id": "UCnaW3OfvnnMogE0rm42qNdA",
+          "subscribers": 73,
+          "thumbnail": "https://i.ytimg.com/vi/KeHRWDeMseA/mqdefault.jpg",
+          "published_at": "2026-10-07T11:55:47Z",
+          "url": "https://www.youtube.com/watch?v=KeHRWDeMseA"
         },
         {
-          "id": "bI0oeJa614E",
-          "title": "Tom 🍓 Jerry (Rithvi&amp;Kavi)Real End Twist 😂 #shorts #trending #klbrobijurithvik #viral #youtubeshorts",
-          "channel": "Sahid Vlog ",
-          "channel_id": "UCpcJ1llWwRcWCg5xfKS5IjQ",
-          "subscribers": 37800,
-          "thumbnail": "https://i.ytimg.com/vi/bI0oeJa614E/mqdefault.jpg",
-          "published_at": "2026-10-07T03:15:06Z",
-          "url": "https://www.youtube.com/watch?v=bI0oeJa614E"
+          "id": "cdSxgxmH1n8",
+          "title": "#bhojpuri #song",
+          "channel": "Laxman Thakur",
+          "channel_id": "UCdsjfdubq9r_-Pvn7FQFoeA",
+          "subscribers": 6,
+          "thumbnail": "https://i.ytimg.com/vi/cdSxgxmH1n8/mqdefault.jpg",
+          "published_at": "2026-10-07T11:55:32Z",
+          "url": "https://www.youtube.com/watch?v=cdSxgxmH1n8"
         },
         {
-          "id": "onxPRhmNcgY",
-          "title": "Real end twist 🥰#shorts",
-          "channel": "HASAN REACTING TEAM",
-          "channel_id": "UCfFj-AfbcSUItlBZ3EF9A9w",
-          "subscribers": 144000,
-          "thumbnail": "https://i.ytimg.com/vi/onxPRhmNcgY/mqdefault.jpg",
-          "published_at": "2026-10-07T03:10:05Z",
-          "url": "https://www.youtube.com/watch?v=onxPRhmNcgY"
+          "id": "OofTMg5qHrw",
+          "title": "#bhojpuri #song #bhojpurisong #trending #bhojpuri #song #trending #trending #viralvideo #viralshorts",
+          "channel": "user pulish sah",
+          "channel_id": "UC9g5tqMZb1q1ZaLh9rbVBkw",
+          "subscribers": 952,
+          "thumbnail": "https://i.ytimg.com/vi/OofTMg5qHrw/mqdefault.jpg",
+          "published_at": "2026-10-07T11:53:50Z",
+          "url": "https://www.youtube.com/watch?v=OofTMg5qHrw"
         }
       ],
-      "first_detected_at": "2026-10-06T12:28:39.656494+00:00",
-      "last_seen_at": "2026-10-07T03:28:11.588475+00:00"
+      "first_detected_at": "2026-10-07T12:21:45.525220+00:00",
+      "last_seen_at": "2026-10-07T12:21:45.525220+00:00"
     },
     {
-      "phrase": "real end twist",
-      "video_count": 24,
-      "channel_count": 22,
-      "total_channels_seen": 28,
-      "uploads_per_hour": 1.83,
+      "phrase": "gta5 gtav gaming",
+      "video_count": 30,
+      "channel_count": 29,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.42,
       "window_hours": 12,
       "example_videos": [
         {
-          "id": "G_Iosfs4Sys",
-          "title": "wait for end 🤩😂 real and twist 😍🥰#viral #funny #shortvideo",
-          "channel": "Team RA Shorts ",
-          "channel_id": "UChD04guxTFfgy4th8CLr_xA",
-          "subscribers": 2200,
-          "thumbnail": "https://i.ytimg.com/vi/G_Iosfs4Sys/mqdefault.jpg",
-          "published_at": "2026-10-07T03:21:43Z",
-          "url": "https://www.youtube.com/watch?v=G_Iosfs4Sys"
+          "id": "UGrojTaoPNE",
+          "title": "😂 TREVOR PICKED THE WRONG GIRL!",
+          "channel": "Masked Devraj ",
+          "channel_id": "UCYXtPT8jvpnW--1FziJGpzw",
+          "subscribers": 62,
+          "thumbnail": "https://i.ytimg.com/vi/UGrojTaoPNE/mqdefault.jpg",
+          "published_at": "2026-10-07T12:15:28Z",
+          "url": "https://www.youtube.com/watch?v=UGrojTaoPNE"
         },
         {
-          "id": "bI0oeJa614E",
-          "title": "Tom 🍓 Jerry (Rithvi&amp;Kavi)Real End Twist 😂 #shorts #trending #klbrobijurithvik #viral #youtubeshorts",
-          "channel": "Sahid Vlog ",
-          "channel_id": "UCpcJ1llWwRcWCg5xfKS5IjQ",
-          "subscribers": 37800,
-          "thumbnail": "https://i.ytimg.com/vi/bI0oeJa614E/mqdefault.jpg",
-          "published_at": "2026-10-07T03:15:06Z",
-          "url": "https://www.youtube.com/watch?v=bI0oeJa614E"
+          "id": "Ld7FmrIBL98",
+          "title": "PART 7 — NO WAY OUT 🔥#GTA5 #GTAV #GTA #Gaming #GamingReels #GTA5Gameplay #GamingShorts",
+          "channel": "nextgendecode",
+          "channel_id": "UCw_O0h9Qt1BAj-VzYO1XuaQ",
+          "subscribers": 8,
+          "thumbnail": "https://i.ytimg.com/vi/Ld7FmrIBL98/mqdefault.jpg",
+          "published_at": "2026-10-07T12:10:08Z",
+          "url": "https://www.youtube.com/watch?v=Ld7FmrIBL98"
         },
         {
-          "id": "yLbKQ0eWhn4",
-          "title": "Tom 🥕 Jerry(Papa &amp; Love&#39;s Shravya) Real End Twist #famliyshow #viralshorts #tirendingshorts #viral#",
-          "channel": "Eklavya Family vlogs",
-          "channel_id": "UCoHFzOR4zo2TvFtBZrGOYfA",
-          "subscribers": 715,
-          "thumbnail": "https://i.ytimg.com/vi/yLbKQ0eWhn4/mqdefault.jpg",
-          "published_at": "2026-10-07T03:11:24Z",
-          "url": "https://www.youtube.com/watch?v=yLbKQ0eWhn4"
+          "id": "He7KGLl2iIw",
+          "title": "Tata Safari vs Harrier Drag Race 😱🚙💨 GTA 5 #shorts",
+          "channel": "Alex Gaming ",
+          "channel_id": "UCLz_dxw9XU2AkyTFXAUomwQ",
+          "subscribers": 483,
+          "thumbnail": "https://i.ytimg.com/vi/He7KGLl2iIw/mqdefault.jpg",
+          "published_at": "2026-10-07T12:00:33Z",
+          "url": "https://www.youtube.com/watch?v=He7KGLl2iIw"
         },
         {
-          "id": "onxPRhmNcgY",
-          "title": "Real end twist 🥰#shorts",
-          "channel": "HASAN REACTING TEAM",
-          "channel_id": "UCfFj-AfbcSUItlBZ3EF9A9w",
-          "subscribers": 144000,
-          "thumbnail": "https://i.ytimg.com/vi/onxPRhmNcgY/mqdefault.jpg",
-          "published_at": "2026-10-07T03:10:05Z",
-          "url": "https://www.youtube.com/watch?v=onxPRhmNcgY"
+          "id": "eSFJ5cLU-pY",
+          "title": "SI NO SABES QUÉ HACER EN GTA V, ¡PRUEBA ESTO! 😱🎮",
+          "channel": "JeysonBencosme ",
+          "channel_id": "UC9SwZAXi8KW7cugX03ncUpw",
+          "subscribers": 1060,
+          "thumbnail": "https://i.ytimg.com/vi/eSFJ5cLU-pY/mqdefault.jpg",
+          "published_at": "2026-10-07T12:00:10Z",
+          "url": "https://www.youtube.com/watch?v=eSFJ5cLU-pY"
         }
       ],
-      "first_detected_at": "2026-10-02T17:06:00.248263+00:00",
-      "last_seen_at": "2026-10-07T03:28:11.588475+00:00"
+      "first_detected_at": "2026-10-07T12:21:45.525220+00:00",
+      "last_seen_at": "2026-10-07T12:21:45.525220+00:00"
+    },
+    {
+      "phrase": "frozen trail",
+      "video_count": 30,
+      "channel_count": 28,
+      "total_channels_seen": 28,
+      "uploads_per_hour": 2.33,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "IPn-udBY8eY",
+          "title": "1 Day until UPDATE  #frozentrail #gaming",
+          "channel": "READY UP GAMER",
+          "channel_id": "UCIQf2F7GC7Id1Jp_vd0A6wg",
+          "subscribers": 267,
+          "thumbnail": "https://i.ytimg.com/vi/IPn-udBY8eY/mqdefault.jpg",
+          "published_at": "2026-10-07T12:20:52Z",
+          "url": "https://www.youtube.com/watch?v=IPn-udBY8eY"
+        },
+        {
+          "id": "xozyKM6Dogk",
+          "title": "ARC Raiders Just Changed Everything: Frozen Trail Update &amp; Free Trial!",
+          "channel": "MoreZupi",
+          "channel_id": "UCSPz2At_ETW4vWxR8T2uTaQ",
+          "subscribers": 21300,
+          "thumbnail": "https://i.ytimg.com/vi/xozyKM6Dogk/mqdefault.jpg",
+          "published_at": "2026-10-07T12:17:44Z",
+          "url": "https://www.youtube.com/watch?v=xozyKM6Dogk"
+        },
+        {
+          "id": "noQ9H_Zuj20",
+          "title": "Leute, morgen ist es soweit! ARC RAIDERS: Frozen Trail droppt!❄️🔥",
+          "channel": "Noxxxley",
+          "channel_id": "UCdXf5WqVot3bGBtPBG3DSXg",
+          "subscribers": 10,
+          "thumbnail": "https://i.ytimg.com/vi/noQ9H_Zuj20/mqdefault.jpg",
+          "published_at": "2026-10-07T12:16:54Z",
+          "url": "https://www.youtube.com/watch?v=noQ9H_Zuj20"
+        },
+        {
+          "id": "NHhUqAVqM0c",
+          "title": "Ждем Обновление Frozen Trail ARC RAIDERS | Арк Рейдерс",
+          "channel": "Alex GAME",
+          "channel_id": "UCXjBkqYjS_0nQHrqpWQgsuA",
+          "subscribers": 40000,
+          "thumbnail": "https://i.ytimg.com/vi/NHhUqAVqM0c/mqdefault_live.jpg",
+          "published_at": "2026-10-07T12:12:07Z",
+          "url": "https://www.youtube.com/watch?v=NHhUqAVqM0c"
+        }
+      ],
+      "first_detected_at": "2026-10-07T12:21:45.525220+00:00",
+      "last_seen_at": "2026-10-07T12:21:45.525220+00:00"
+    },
+    {
+      "phrase": "arc raiders",
+      "video_count": 29,
+      "channel_count": 28,
+      "total_channels_seen": 29,
+      "uploads_per_hour": 2.33,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "a_8ky6vRNj0",
+          "title": "Run nicht überlebt… aber dafür richtig PvP-Action! | ARC Raiders Folge 23",
+          "channel": "DEKO 86",
+          "channel_id": "UC9v8KXp8DRrvUajNsN53Sow",
+          "subscribers": 69,
+          "thumbnail": "https://i.ytimg.com/vi/a_8ky6vRNj0/mqdefault.jpg",
+          "published_at": "2026-10-07T12:15:30Z",
+          "url": "https://www.youtube.com/watch?v=a_8ky6vRNj0"
+        },
+        {
+          "id": "hduDg1uzSOc",
+          "title": "Chaos lobbies in arc are the best #gaming #arcraiders #arcraidersgameplay #streamerclips",
+          "channel": "Ladoria__",
+          "channel_id": "UC0xol5SvY1P-dgBrotKWquA",
+          "subscribers": 150,
+          "thumbnail": "https://i.ytimg.com/vi/hduDg1uzSOc/mqdefault.jpg",
+          "published_at": "2026-10-07T12:06:22Z",
+          "url": "https://www.youtube.com/watch?v=hduDg1uzSOc"
+        },
+        {
+          "id": "m4u0ATCQCJA",
+          "title": "ОПЯТЬ ТЫ #ARCRAIDERS",
+          "channel": "DiFors ",
+          "channel_id": "UCX9gg-whaxPmlzaPcpRWr0w",
+          "subscribers": 6460,
+          "thumbnail": "https://i.ytimg.com/vi/m4u0ATCQCJA/mqdefault.jpg",
+          "published_at": "2026-10-07T12:02:49Z",
+          "url": "https://www.youtube.com/watch?v=m4u0ATCQCJA"
+        },
+        {
+          "id": "ymvjGrGRkZ0",
+          "title": "Seni yo&#39;q qilaman! 😤 ARC RAIDERS o&#39;zbekcha #shorts #arcraiders",
+          "channel": "Alisher Games",
+          "channel_id": "UCkxH81mOAAnSdJN3l9b0tmA",
+          "subscribers": 4,
+          "thumbnail": "https://i.ytimg.com/vi/ymvjGrGRkZ0/mqdefault.jpg",
+          "published_at": "2026-10-07T12:00:37Z",
+          "url": "https://www.youtube.com/watch?v=ymvjGrGRkZ0"
+        }
+      ],
+      "first_detected_at": "2026-10-07T12:21:45.525220+00:00",
+      "last_seen_at": "2026-10-07T12:21:45.525220+00:00"
+    },
+    {
+      "phrase": "live gta5 gtav",
+      "video_count": 30,
+      "channel_count": 26,
+      "total_channels_seen": 26,
+      "uploads_per_hour": 2.17,
+      "window_hours": 12,
+      "example_videos": [
+        {
+          "id": "YuO7d_EpvUg",
+          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+          "channel": "Tikshuk PlayZ",
+          "channel_id": "UCKvssDCwO7mGvkn2vfKJT8A",
+          "subscribers": 3,
+          "thumbnail": "https://i.ytimg.com/vi/YuO7d_EpvUg/mqdefault_live.jpg",
+          "published_at": "2026-10-07T12:10:54Z",
+          "url": "https://www.youtube.com/watch?v=YuO7d_EpvUg"
+        },
+        {
+          "id": "d8Yy-Yr48hE",
+          "title": "GTA 5  #gta #gta5 #gtav #shortvideo #short #shortsfeed #aura #gtaonline #gaming #viral #live",
+          "channel": "panzroll",
+          "channel_id": "UCZOFCj863STVf-rCJdXNLHw",
+          "subscribers": 3070,
+          "thumbnail": "https://i.ytimg.com/vi/d8Yy-Yr48hE/mqdefault.jpg",
+          "published_at": "2026-10-07T12:00:01Z",
+          "url": "https://www.youtube.com/watch?v=d8Yy-Yr48hE"
+        },
+        {
+          "id": "VXZV1-zRBL4",
+          "title": "GTA 5 LIVE #gta5 #gtav #gaming",
+          "channel": "GTA 5 LIVE",
+          "channel_id": "UCmfGcoemEP8UxcmzlNOqCLA",
+          "subscribers": 66,
+          "thumbnail": "https://i.ytimg.com/vi/VXZV1-zRBL4/mqdefault.jpg",
+          "published_at": "2026-10-07T11:58:37Z",
+          "url": "https://www.youtube.com/watch?v=VXZV1-zRBL4"
+        },
+        {
+          "id": "KkcY3gVcjUU",
+          "title": "Simeon Ty Oszuście 🤣 WIDEO Z LIVE NA TWITCH |GTA V",
+          "channel": "Wic0x",
+          "channel_id": "UC-xkpWf7lnDh9ANsyC1oUUg",
+          "subscribers": 1,
+          "thumbnail": "https://i.ytimg.com/vi/KkcY3gVcjUU/mqdefault.jpg",
+          "published_at": "2026-10-07T11:50:26Z",
+          "url": "https://www.youtube.com/watch?v=KkcY3gVcjUU"
+        }
+      ],
+      "first_detected_at": "2026-10-07T12:21:45.525220+00:00",
+      "last_seen_at": "2026-10-07T12:21:45.525220+00:00"
     }
   ],
   "topics": [
     {
+      "phrase": "gta live",
+      "video_count": 4,
+      "momentum": 26.68,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "g1dq2Znutjg",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/g1dq2Znutjg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=g1dq2Znutjg",
+          "views": 4195742,
+          "age_hours": 8.3
+        },
+        {
+          "id": "s44RDIqmyfQ",
+          "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+          "channel": "BOSS GAMING",
+          "thumbnail": "https://i.ytimg.com/vi/s44RDIqmyfQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=s44RDIqmyfQ",
+          "views": 1584175,
+          "age_hours": 6.4
+        },
+        {
+          "id": "bDkwvs2eOHU",
+          "title": "🔴 GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED 😺 #gtalive #gtaonline",
+          "channel": "Deep Is Live GTA",
+          "thumbnail": "https://i.ytimg.com/vi/bDkwvs2eOHU/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=bDkwvs2eOHU",
+          "views": 6164360,
+          "age_hours": 42.0
+        }
+      ]
+    },
+    {
+      "phrase": "gta live gta5",
+      "video_count": 3,
+      "momentum": 24.25,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "g1dq2Znutjg",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/g1dq2Znutjg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=g1dq2Znutjg",
+          "views": 4195742,
+          "age_hours": 8.3
+        },
+        {
+          "id": "s44RDIqmyfQ",
+          "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+          "channel": "BOSS GAMING",
+          "thumbnail": "https://i.ytimg.com/vi/s44RDIqmyfQ/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=s44RDIqmyfQ",
+          "views": 1584175,
+          "age_hours": 6.4
+        },
+        {
+          "id": "woDKkNcgKZc",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/woDKkNcgKZc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=woDKkNcgKZc",
+          "views": 3474256,
+          "age_hours": 32.8
+        }
+      ]
+    },
+    {
       "phrase": "iphone",
       "video_count": 5,
-      "momentum": 22.38,
+      "momentum": 22.15,
       "regions": [
         "IN"
       ],
@@ -229,17 +461,8 @@
           "channel": "FactTechz",
           "thumbnail": "https://i.ytimg.com/vi/UI4Xat5hmOg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=UI4Xat5hmOg",
-          "views": 1947739,
-          "age_hours": 25.8
-        },
-        {
-          "id": "ANbgFDUV3Y0",
-          "title": "Dont Get iPhone 18 Pro | 10 days Review | Malayalam",
-          "channel": "CallMeShazzam TECH",
-          "thumbnail": "https://i.ytimg.com/vi/ANbgFDUV3Y0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ANbgFDUV3Y0",
-          "views": 647444,
-          "age_hours": 47.0
+          "views": 2586892,
+          "age_hours": 34.7
         },
         {
           "id": "VOVWxIEKnVc",
@@ -247,15 +470,24 @@
           "channel": "Shreemani Tripathi",
           "thumbnail": "https://i.ytimg.com/vi/VOVWxIEKnVc/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=VOVWxIEKnVc",
-          "views": 4351806,
-          "age_hours": 282.0
+          "views": 4365913,
+          "age_hours": 290.9
+        },
+        {
+          "id": "ANbgFDUV3Y0",
+          "title": "Dont Get iPhone 18 Pro | 10 days Review | Malayalam",
+          "channel": "CallMeShazzam TECH",
+          "thumbnail": "https://i.ytimg.com/vi/ANbgFDUV3Y0/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ANbgFDUV3Y0",
+          "views": 714891,
+          "age_hours": 55.9
         }
       ]
     },
     {
       "phrase": "celular",
       "video_count": 4,
-      "momentum": 19.24,
+      "momentum": 19.0,
       "regions": [
         "BR"
       ],
@@ -267,8 +499,8 @@
           "channel": "HenriqueJOGA",
           "thumbnail": "https://i.ytimg.com/vi/LavcIKM16bc/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=LavcIKM16bc",
-          "views": 3179270,
-          "age_hours": 156.7
+          "views": 3347255,
+          "age_hours": 165.6
         },
         {
           "id": "5Jt65A2L41g",
@@ -276,8 +508,8 @@
           "channel": "Giuliana Mafra",
           "thumbnail": "https://i.ytimg.com/vi/5Jt65A2L41g/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=5Jt65A2L41g",
-          "views": 4086086,
-          "age_hours": 28.5
+          "views": 4334431,
+          "age_hours": 37.4
         },
         {
           "id": "3xp5320op_k",
@@ -285,372 +517,169 @@
           "channel": "Pedro Ribeiro",
           "thumbnail": "https://i.ytimg.com/vi/3xp5320op_k/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=3xp5320op_k",
-          "views": 764658,
-          "age_hours": 60.1
+          "views": 776292,
+          "age_hours": 69.0
         }
       ]
     },
     {
-      "phrase": "malayalam",
+      "phrase": "comedy",
       "video_count": 4,
-      "momentum": 16.8,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "4jpPJoYJxGM",
-          "title": "Jailer 2 | Trailer Reaction | Super Star Rajni | Anirudh | Malayalam",
-          "channel": "LifeofShazzam",
-          "thumbnail": "https://i.ytimg.com/vi/4jpPJoYJxGM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=4jpPJoYJxGM",
-          "views": 778060,
-          "age_hours": 38.1
-        },
-        {
-          "id": "NIG7OrRz8qw",
-          "title": "JAILER 2 - Official Trailer Response Malayalam | Superstar Rajinikanth | Nelson | Anirudh | Sun Pic",
-          "channel": "Aswanth Kok",
-          "thumbnail": "https://i.ytimg.com/vi/NIG7OrRz8qw/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=NIG7OrRz8qw",
-          "views": 637817,
-          "age_hours": 36.6
-        },
-        {
-          "id": "ANbgFDUV3Y0",
-          "title": "Dont Get iPhone 18 Pro | 10 days Review | Malayalam",
-          "channel": "CallMeShazzam TECH",
-          "thumbnail": "https://i.ytimg.com/vi/ANbgFDUV3Y0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=ANbgFDUV3Y0",
-          "views": 647444,
-          "age_hours": 47.0
-        }
-      ]
-    },
-    {
-      "phrase": "vida pessoa usa",
-      "video_count": 2,
-      "momentum": 15.57,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "tIp8K20dUU8",
-          "title": "A vida da pessoa que usa óculos😂",
-          "channel": "Victor Pac",
-          "thumbnail": "https://i.ytimg.com/vi/tIp8K20dUU8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=tIp8K20dUU8",
-          "views": 13026871,
-          "age_hours": 102.5
-        },
-        {
-          "id": "1UM1uYbSa34",
-          "title": "A vida da pessoa que usa óculos😂",
-          "channel": "Victor Pac",
-          "thumbnail": "https://i.ytimg.com/vi/1UM1uYbSa34/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=1UM1uYbSa34",
-          "views": 7234790,
-          "age_hours": 76.4
-        }
-      ]
-    },
-    {
-      "phrase": "pessoa usa óculos",
-      "video_count": 2,
-      "momentum": 15.57,
-      "regions": [
-        "BR"
-      ],
-      "lang": "pt",
-      "example_videos": [
-        {
-          "id": "tIp8K20dUU8",
-          "title": "A vida da pessoa que usa óculos😂",
-          "channel": "Victor Pac",
-          "thumbnail": "https://i.ytimg.com/vi/tIp8K20dUU8/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=tIp8K20dUU8",
-          "views": 13026871,
-          "age_hours": 102.5
-        },
-        {
-          "id": "1UM1uYbSa34",
-          "title": "A vida da pessoa que usa óculos😂",
-          "channel": "Victor Pac",
-          "thumbnail": "https://i.ytimg.com/vi/1UM1uYbSa34/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=1UM1uYbSa34",
-          "views": 7234790,
-          "age_hours": 76.4
-        }
-      ]
-    },
-    {
-      "phrase": "tom jerry rithvi",
-      "video_count": 2,
-      "momentum": 15.36,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "jk7pb_6io08",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-          "views": 10930423,
-          "age_hours": 90.7
-        },
-        {
-          "id": "GZa1M1-Shmo",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-          "views": 12527397,
-          "age_hours": 138.2
-        }
-      ]
-    },
-    {
-      "phrase": "jerry rithvi kavi",
-      "video_count": 2,
-      "momentum": 15.36,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "jk7pb_6io08",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-          "views": 10930423,
-          "age_hours": 90.7
-        },
-        {
-          "id": "GZa1M1-Shmo",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-          "views": 12527397,
-          "age_hours": 138.2
-        }
-      ]
-    },
-    {
-      "phrase": "rithvi kavi real",
-      "video_count": 2,
-      "momentum": 15.36,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "jk7pb_6io08",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-          "views": 10930423,
-          "age_hours": 90.7
-        },
-        {
-          "id": "GZa1M1-Shmo",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-          "views": 12527397,
-          "age_hours": 138.2
-        }
-      ]
-    },
-    {
-      "phrase": "kavi real end",
-      "video_count": 2,
-      "momentum": 15.36,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "jk7pb_6io08",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-          "views": 10930423,
-          "age_hours": 90.7
-        },
-        {
-          "id": "GZa1M1-Shmo",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-          "views": 12527397,
-          "age_hours": 138.2
-        }
-      ]
-    },
-    {
-      "phrase": "real end twist",
-      "video_count": 2,
-      "momentum": 15.36,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "jk7pb_6io08",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-          "views": 10930423,
-          "age_hours": 90.7
-        },
-        {
-          "id": "GZa1M1-Shmo",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-          "views": 12527397,
-          "age_hours": 138.2
-        }
-      ]
-    },
-    {
-      "phrase": "end twist shorts",
-      "video_count": 2,
-      "momentum": 15.36,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "jk7pb_6io08",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-          "views": 10930423,
-          "age_hours": 90.7
-        },
-        {
-          "id": "GZa1M1-Shmo",
-          "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-          "channel": "KL BRO Biju Rithvik",
-          "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-          "views": 12527397,
-          "age_hours": 138.2
-        }
-      ]
-    },
-    {
-      "phrase": "steal egg roblox",
-      "video_count": 2,
-      "momentum": 13.85,
-      "regions": [
-        "IN"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "e5LGYc_DJi0",
-          "title": "I HACKED JACK’S ACCOUNT IN STEAL AN EGG ROBLOX 😱",
-          "channel": "NotGamerFleet",
-          "thumbnail": "https://i.ytimg.com/vi/e5LGYc_DJi0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=e5LGYc_DJi0",
-          "views": 829071,
-          "age_hours": 44.0
-        },
-        {
-          "id": "u4R_ymKhHV0",
-          "title": "I STARTED OVER WITH INFINITE ROBUX IN STEAL AN EGG ROBLOX !!",
-          "channel": "Shivang Mini",
-          "thumbnail": "https://i.ytimg.com/vi/u4R_ymKhHV0/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=u4R_ymKhHV0",
-          "views": 776799,
-          "age_hours": 42.8
-        }
-      ]
-    },
-    {
-      "phrase": "going back school",
-      "video_count": 2,
-      "momentum": 13.73,
-      "regions": [
-        "US"
-      ],
-      "lang": "en",
-      "example_videos": [
-        {
-          "id": "RJzspH1rAbc",
-          "title": "GOING BACK TO SCHOOL! 📚🏫",
-          "channel": "IShowSpeed",
-          "thumbnail": "https://i.ytimg.com/vi/RJzspH1rAbc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=RJzspH1rAbc",
-          "views": 2640351,
-          "age_hours": 5.6
-        },
-        {
-          "id": "EAXI5Q44beg",
-          "title": "Shane is Going Back to School NOW?!",
-          "channel": "Squirmy and Grubs",
-          "thumbnail": "https://i.ytimg.com/vi/EAXI5Q44beg/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=EAXI5Q44beg",
-          "views": 141038,
-          "age_hours": 128.4
-        }
-      ]
-    },
-    {
-      "phrase": "hell spin discard",
-      "video_count": 2,
-      "momentum": 13.21,
+      "momentum": 18.3,
       "regions": [
         "DE"
       ],
       "lang": "de",
       "example_videos": [
         {
-          "id": "h-5Oe9UUhAM",
-          "title": "Das 1. HELL SPIN DISCARD in EA FC 27 💀😨",
-          "channel": "GamerBrother",
-          "thumbnail": "https://i.ytimg.com/vi/h-5Oe9UUhAM/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=h-5Oe9UUhAM",
-          "views": 131266,
-          "age_hours": 16.4
+          "id": "DLewWfQATKk",
+          "title": "Sorry, aber Baustellen in Deutschland sind genau so… #pov #comedy #shorts",
+          "channel": "tobifas",
+          "thumbnail": "https://i.ytimg.com/vi/DLewWfQATKk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DLewWfQATKk",
+          "views": 450849,
+          "age_hours": 26.4
         },
         {
-          "id": "duda18q6vzE",
-          "title": "Der 1. VOLLBRUCH.. 😱💀 HELL SPIN DISCARD ist ZURÜCK 🔥 EA FC27",
-          "channel": "Tisi Schubech",
-          "thumbnail": "https://i.ytimg.com/vi/duda18q6vzE/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=duda18q6vzE",
-          "views": 84003,
-          "age_hours": 16.0
+          "id": "SGJWmSgMOIk",
+          "title": "Ja, sie ist wirklich die Schlauste. 🥰#bratwursthaus #currywurst #comedy #ruhrpott",
+          "channel": "Bratwursthaus",
+          "thumbnail": "https://i.ytimg.com/vi/SGJWmSgMOIk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=SGJWmSgMOIk",
+          "views": 2744922,
+          "age_hours": 92.4
+        },
+        {
+          "id": "NYNI9xlgy3Q",
+          "title": "Omg DAS sind die TOP 3 BESTEN MOMENTE!😍🥹 #marvintsp #comedy",
+          "channel": "marvintsp",
+          "thumbnail": "https://i.ytimg.com/vi/NYNI9xlgy3Q/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=NYNI9xlgy3Q",
+          "views": 1615700,
+          "age_hours": 95.0
+        }
+      ]
+    },
+    {
+      "phrase": "live gta5 gtav",
+      "video_count": 2,
+      "momentum": 16.13,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "g1dq2Znutjg",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/g1dq2Znutjg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=g1dq2Znutjg",
+          "views": 4195742,
+          "age_hours": 8.3
+        },
+        {
+          "id": "woDKkNcgKZc",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/woDKkNcgKZc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=woDKkNcgKZc",
+          "views": 3474256,
+          "age_hours": 32.8
+        }
+      ]
+    },
+    {
+      "phrase": "gta5 gtav gaming",
+      "video_count": 2,
+      "momentum": 16.13,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "g1dq2Znutjg",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/g1dq2Znutjg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=g1dq2Znutjg",
+          "views": 4195742,
+          "age_hours": 8.3
+        },
+        {
+          "id": "woDKkNcgKZc",
+          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+          "channel": "PAJI IS LIVE",
+          "thumbnail": "https://i.ytimg.com/vi/woDKkNcgKZc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=woDKkNcgKZc",
+          "views": 3474256,
+          "age_hours": 32.8
+        }
+      ]
+    },
+    {
+      "phrase": "vida pessoa usa",
+      "video_count": 2,
+      "momentum": 15.45,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "tIp8K20dUU8",
+          "title": "A vida da pessoa que usa óculos😂",
+          "channel": "Victor Pac",
+          "thumbnail": "https://i.ytimg.com/vi/tIp8K20dUU8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=tIp8K20dUU8",
+          "views": 13256880,
+          "age_hours": 111.4
+        },
+        {
+          "id": "1UM1uYbSa34",
+          "title": "A vida da pessoa que usa óculos😂",
+          "channel": "Victor Pac",
+          "thumbnail": "https://i.ytimg.com/vi/1UM1uYbSa34/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1UM1uYbSa34",
+          "views": 7289376,
+          "age_hours": 85.3
+        }
+      ]
+    },
+    {
+      "phrase": "pessoa usa óculos",
+      "video_count": 2,
+      "momentum": 15.45,
+      "regions": [
+        "BR"
+      ],
+      "lang": "pt",
+      "example_videos": [
+        {
+          "id": "tIp8K20dUU8",
+          "title": "A vida da pessoa que usa óculos😂",
+          "channel": "Victor Pac",
+          "thumbnail": "https://i.ytimg.com/vi/tIp8K20dUU8/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=tIp8K20dUU8",
+          "views": 13256880,
+          "age_hours": 111.4
+        },
+        {
+          "id": "1UM1uYbSa34",
+          "title": "A vida da pessoa que usa óculos😂",
+          "channel": "Victor Pac",
+          "thumbnail": "https://i.ytimg.com/vi/1UM1uYbSa34/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=1UM1uYbSa34",
+          "views": 7289376,
+          "age_hours": 85.3
         }
       ]
     },
     {
       "phrase": "battle shorts",
       "video_count": 2,
-      "momentum": 13.19,
+      "momentum": 13.13,
       "regions": [
         "IN"
       ],
@@ -662,8 +691,8 @@
           "channel": "FactTechz",
           "thumbnail": "https://i.ytimg.com/vi/UI4Xat5hmOg/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=UI4Xat5hmOg",
-          "views": 1947739,
-          "age_hours": 25.8
+          "views": 2586892,
+          "age_hours": 34.7
         },
         {
           "id": "bqatZS1FT74",
@@ -671,57 +700,86 @@
           "channel": "Tech Master",
           "thumbnail": "https://i.ytimg.com/vi/bqatZS1FT74/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=bqatZS1FT74",
-          "views": 15885864,
-          "age_hours": 133.5
+          "views": 16244417,
+          "age_hours": 142.4
         }
       ]
     },
     {
-      "phrase": "gta live",
+      "phrase": "arc raiders",
       "video_count": 2,
-      "momentum": 13.07,
+      "momentum": 13.06,
       "regions": [
-        "IN"
+        "US"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "bDkwvs2eOHU",
-          "title": "🔴 GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED 😺 #gtalive #gtaonline",
-          "channel": "Deep Is Live GTA",
-          "thumbnail": "https://i.ytimg.com/vi/bDkwvs2eOHU/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=bDkwvs2eOHU",
-          "views": 6166004,
-          "age_hours": 33.1
+          "id": "ix7x59a8t7g",
+          "title": "🔴LIVE | ARC RAIDERS | FROZEN TRAIL PREP | HUTCHMF X SUMMIT1G | TESTICULAR TORSION TUE | #BUNGULATE",
+          "channel": "TheBurntPeanut",
+          "thumbnail": "https://i.ytimg.com/vi/ix7x59a8t7g/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ix7x59a8t7g",
+          "views": 1321741,
+          "age_hours": 5.6
         },
         {
-          "id": "woDKkNcgKZc",
-          "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-          "channel": "PAJI IS LIVE",
-          "thumbnail": "https://i.ytimg.com/vi/woDKkNcgKZc/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=woDKkNcgKZc",
-          "views": 3530125,
-          "age_hours": 23.9
+          "id": "KjiJDylLdZA",
+          "title": "Frozen Trail Launch Trailer | ARC Raiders",
+          "channel": "ARC Raiders",
+          "thumbnail": "https://i.ytimg.com/vi/KjiJDylLdZA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KjiJDylLdZA",
+          "views": 502933,
+          "age_hours": 20.3
+        }
+      ]
+    },
+    {
+      "phrase": "frozen trail",
+      "video_count": 2,
+      "momentum": 13.06,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "ix7x59a8t7g",
+          "title": "🔴LIVE | ARC RAIDERS | FROZEN TRAIL PREP | HUTCHMF X SUMMIT1G | TESTICULAR TORSION TUE | #BUNGULATE",
+          "channel": "TheBurntPeanut",
+          "thumbnail": "https://i.ytimg.com/vi/ix7x59a8t7g/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ix7x59a8t7g",
+          "views": 1321741,
+          "age_hours": 5.6
+        },
+        {
+          "id": "KjiJDylLdZA",
+          "title": "Frozen Trail Launch Trailer | ARC Raiders",
+          "channel": "ARC Raiders",
+          "thumbnail": "https://i.ytimg.com/vi/KjiJDylLdZA/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KjiJDylLdZA",
+          "views": 502933,
+          "age_hours": 20.3
         }
       ]
     },
     {
       "phrase": "bhojpuri song",
       "video_count": 2,
-      "momentum": 12.42,
+      "momentum": 13.05,
       "regions": [
         "IN"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "uT019O77hIY",
-          "title": "#Video | Maai ( माई ) - Power Star Pawan Singh | New Bhojpuri Song 2026",
-          "channel": "Pawan Singh Official",
-          "thumbnail": "https://i.ytimg.com/vi/uT019O77hIY/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=uT019O77hIY",
-          "views": 3997572,
-          "age_hours": 97.6
+          "id": "hpNimBHa1zI",
+          "title": "Pawan Singh New Song 2026 | Bihari Ke Dum | Srishti Bharti | Neelam Giri | Bhojpuri Song",
+          "channel": "Saregama Hum Bhojpuri",
+          "thumbnail": "https://i.ytimg.com/vi/hpNimBHa1zI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=hpNimBHa1zI",
+          "views": 3649263,
+          "age_hours": 34.9
         },
         {
           "id": "ImcoG8j-1DA",
@@ -729,457 +787,232 @@
           "channel": "T-Series Hamaar Bhojpuri",
           "thumbnail": "https://i.ytimg.com/vi/ImcoG8j-1DA/mqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ImcoG8j-1DA",
-          "views": 1147590,
-          "age_hours": 50.0
+          "views": 1334416,
+          "age_hours": 58.9
         }
       ]
     },
     {
-      "phrase": "launch trailer",
+      "phrase": "free fire",
       "video_count": 2,
-      "momentum": 12.29,
+      "momentum": 12.81,
+      "regions": [
+        "IN"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "3NWg5A99azc",
+          "title": "🔴 LIVE | Top 1 Grandmaster Push 🔥 | Free Fire Shorts Live #shorts  #shortslive  #freefire",
+          "channel": "Senior Bhai",
+          "thumbnail": "https://i.ytimg.com/vi/3NWg5A99azc/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3NWg5A99azc",
+          "views": 1147007,
+          "age_hours": 7.3
+        },
+        {
+          "id": "0Y9mpWNwMKE",
+          "title": "🌿FREE FIRE LIVE🌿PLAYING BR-RANKED😎2X AWM SPEED GAME PLAY 🎮🎯 ON LIVE - GARENA FREE FIRE",
+          "channel": "DAD I AM OK GAMING",
+          "thumbnail": "https://i.ytimg.com/vi/0Y9mpWNwMKE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=0Y9mpWNwMKE",
+          "views": 1325215,
+          "age_hours": 14.7
+        }
+      ]
+    },
+    {
+      "phrase": "hell spin discard",
+      "video_count": 2,
+      "momentum": 12.76,
+      "regions": [
+        "DE"
+      ],
+      "lang": "de",
+      "example_videos": [
+        {
+          "id": "h-5Oe9UUhAM",
+          "title": "Das 1. HELL SPIN DISCARD in EA FC 27 💀😨",
+          "channel": "GamerBrother",
+          "thumbnail": "https://i.ytimg.com/vi/h-5Oe9UUhAM/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=h-5Oe9UUhAM",
+          "views": 146662,
+          "age_hours": 25.3
+        },
+        {
+          "id": "duda18q6vzE",
+          "title": "Der 1. VOLLBRUCH.. 😱💀 HELL SPIN DISCARD ist ZURÜCK 🔥 EA FC27",
+          "channel": "Tisi Schubech",
+          "thumbnail": "https://i.ytimg.com/vi/duda18q6vzE/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=duda18q6vzE",
+          "views": 97872,
+          "age_hours": 24.9
+        }
+      ]
+    },
+    {
+      "phrase": "shopping",
+      "video_count": 4,
+      "momentum": 12.41,
+      "regions": [
+        "GB"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "KjwV-D7tiGk",
+          "title": "Hardcore Teen Shopping Day in Sheffield!",
+          "channel": "The Ingham Family",
+          "thumbnail": "https://i.ytimg.com/vi/KjwV-D7tiGk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KjwV-D7tiGk",
+          "views": 21796,
+          "age_hours": 19.2
+        },
+        {
+          "id": "jyl3JIhpbOg",
+          "title": "weekly vlog: catch up, tkmaxx home shopping and decorating",
+          "channel": "livvy dimartino",
+          "thumbnail": "https://i.ytimg.com/vi/jyl3JIhpbOg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=jyl3JIhpbOg",
+          "views": 171809,
+          "age_hours": 211.4
+        },
+        {
+          "id": "IKfrULWcGdI",
+          "title": "SPEND AN AUTUMN WEEK WITH ME | BEDROOM TRANSFORMATION, BAKING, SHOPPING & PR UNBOXINGS",
+          "channel": "Jordan Lipscombe",
+          "thumbnail": "https://i.ytimg.com/vi/IKfrULWcGdI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=IKfrULWcGdI",
+          "views": 139967,
+          "age_hours": 187.3
+        }
+      ]
+    },
+    {
+      "phrase": "noads tiktok",
+      "video_count": 2,
+      "momentum": 11.9,
       "regions": [
         "US"
       ],
       "lang": "en",
       "example_videos": [
         {
-          "id": "KjiJDylLdZA",
-          "title": "Frozen Trail Launch Trailer | ARC Raiders",
-          "channel": "ARC Raiders",
-          "thumbnail": "https://i.ytimg.com/vi/KjiJDylLdZA/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=KjiJDylLdZA",
-          "views": 405250,
-          "age_hours": 11.5
+          "id": "w2OuOI4hzi4",
+          "title": "iPhone 18 Pro Max Dark Cherry #noads #tiktok #usashortsfeeds",
+          "channel": "Midi Gamer",
+          "thumbnail": "https://i.ytimg.com/vi/w2OuOI4hzi4/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=w2OuOI4hzi4",
+          "views": 4988704,
+          "age_hours": 78.4
         },
         {
-          "id": "Ih6DVdyQn3I",
-          "title": "Season 5: A Grim Doctrine Launch Trailer | Overwatch",
-          "channel": "PlayOverwatch",
-          "thumbnail": "https://i.ytimg.com/vi/Ih6DVdyQn3I/mqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=Ih6DVdyQn3I",
-          "views": 591884,
-          "age_hours": 34.5
+          "id": "_Z70Zsp_uiI",
+          "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
+          "channel": "MrCappuccino Memes",
+          "thumbnail": "https://i.ytimg.com/vi/_Z70Zsp_uiI/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=_Z70Zsp_uiI",
+          "views": 4364763,
+          "age_hours": 110.3
+        }
+      ]
+    },
+    {
+      "phrase": "i made",
+      "video_count": 2,
+      "momentum": 11.87,
+      "regions": [
+        "US"
+      ],
+      "lang": "en",
+      "example_videos": [
+        {
+          "id": "3Iul3C93NFg",
+          "title": "I made Evil Custom Moons in Mario Odyssey",
+          "channel": "SmallAnt",
+          "thumbnail": "https://i.ytimg.com/vi/3Iul3C93NFg/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3Iul3C93NFg",
+          "views": 230304,
+          "age_hours": 10.2
+        },
+        {
+          "id": "aaGyayYKfMk",
+          "title": "I made an Automatic stoplight for introverts ChatGPT #ChatGPT_Partner",
+          "channel": "ForgeCore",
+          "thumbnail": "https://i.ytimg.com/vi/aaGyayYKfMk/mqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=aaGyayYKfMk",
+          "views": 1690710,
+          "age_hours": 43.0
         }
       ]
     }
   ],
   "topics_by_region": {
-    "US": [
-      {
-        "phrase": "going back school",
-        "video_count": 2,
-        "momentum": 13.73,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "RJzspH1rAbc",
-            "title": "GOING BACK TO SCHOOL! 📚🏫",
-            "channel": "IShowSpeed",
-            "thumbnail": "https://i.ytimg.com/vi/RJzspH1rAbc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RJzspH1rAbc",
-            "views": 2640351,
-            "age_hours": 5.6
-          },
-          {
-            "id": "EAXI5Q44beg",
-            "title": "Shane is Going Back to School NOW?!",
-            "channel": "Squirmy and Grubs",
-            "thumbnail": "https://i.ytimg.com/vi/EAXI5Q44beg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EAXI5Q44beg",
-            "views": 141038,
-            "age_hours": 128.4
-          }
-        ]
-      },
-      {
-        "phrase": "launch trailer",
-        "video_count": 2,
-        "momentum": 12.29,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "KjiJDylLdZA",
-            "title": "Frozen Trail Launch Trailer | ARC Raiders",
-            "channel": "ARC Raiders",
-            "thumbnail": "https://i.ytimg.com/vi/KjiJDylLdZA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=KjiJDylLdZA",
-            "views": 405250,
-            "age_hours": 11.5
-          },
-          {
-            "id": "Ih6DVdyQn3I",
-            "title": "Season 5: A Grim Doctrine Launch Trailer | Overwatch",
-            "channel": "PlayOverwatch",
-            "thumbnail": "https://i.ytimg.com/vi/Ih6DVdyQn3I/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Ih6DVdyQn3I",
-            "views": 591884,
-            "age_hours": 34.5
-          }
-        ]
-      },
-      {
-        "phrase": "noads tiktok",
-        "video_count": 2,
-        "momentum": 11.99,
-        "regions": [
-          "US"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "w2OuOI4hzi4",
-            "title": "iPhone 18 Pro Max Dark Cherry #noads #tiktok #usashortsfeeds",
-            "channel": "Midi Gamer",
-            "thumbnail": "https://i.ytimg.com/vi/w2OuOI4hzi4/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=w2OuOI4hzi4",
-            "views": 4840049,
-            "age_hours": 69.5
-          },
-          {
-            "id": "_Z70Zsp_uiI",
-            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
-            "channel": "MrCappuccino Memes",
-            "thumbnail": "https://i.ytimg.com/vi/_Z70Zsp_uiI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=_Z70Zsp_uiI",
-            "views": 4312938,
-            "age_hours": 101.5
-          }
-        ]
-      }
-    ],
     "IN": [
       {
-        "phrase": "iphone",
-        "video_count": 5,
-        "momentum": 22.38,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "UI4Xat5hmOg",
-            "title": "Why 'Ultra Rich' THROW AWAY iPhone & Switch To Android? Apple vs Android Tech Battle #shorts",
-            "channel": "FactTechz",
-            "thumbnail": "https://i.ytimg.com/vi/UI4Xat5hmOg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UI4Xat5hmOg",
-            "views": 1947739,
-            "age_hours": 25.8
-          },
-          {
-            "id": "ANbgFDUV3Y0",
-            "title": "Dont Get iPhone 18 Pro | 10 days Review | Malayalam",
-            "channel": "CallMeShazzam TECH",
-            "thumbnail": "https://i.ytimg.com/vi/ANbgFDUV3Y0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ANbgFDUV3Y0",
-            "views": 647444,
-            "age_hours": 47.0
-          },
-          {
-            "id": "VOVWxIEKnVc",
-            "title": "iPhone 18 delivered in 10 mins? Blinkit vs Flipkart mins #shorts",
-            "channel": "Shreemani Tripathi",
-            "thumbnail": "https://i.ytimg.com/vi/VOVWxIEKnVc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VOVWxIEKnVc",
-            "views": 4351806,
-            "age_hours": 282.0
-          }
-        ]
-      },
-      {
-        "phrase": "malayalam",
-        "video_count": 4,
-        "momentum": 16.8,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "4jpPJoYJxGM",
-            "title": "Jailer 2 | Trailer Reaction | Super Star Rajni | Anirudh | Malayalam",
-            "channel": "LifeofShazzam",
-            "thumbnail": "https://i.ytimg.com/vi/4jpPJoYJxGM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4jpPJoYJxGM",
-            "views": 778060,
-            "age_hours": 38.1
-          },
-          {
-            "id": "NIG7OrRz8qw",
-            "title": "JAILER 2 - Official Trailer Response Malayalam | Superstar Rajinikanth | Nelson | Anirudh | Sun Pic",
-            "channel": "Aswanth Kok",
-            "thumbnail": "https://i.ytimg.com/vi/NIG7OrRz8qw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NIG7OrRz8qw",
-            "views": 637817,
-            "age_hours": 36.6
-          },
-          {
-            "id": "ANbgFDUV3Y0",
-            "title": "Dont Get iPhone 18 Pro | 10 days Review | Malayalam",
-            "channel": "CallMeShazzam TECH",
-            "thumbnail": "https://i.ytimg.com/vi/ANbgFDUV3Y0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ANbgFDUV3Y0",
-            "views": 647444,
-            "age_hours": 47.0
-          }
-        ]
-      },
-      {
-        "phrase": "tom jerry rithvi",
-        "video_count": 2,
-        "momentum": 15.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "jk7pb_6io08",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-            "views": 10930423,
-            "age_hours": 90.7
-          },
-          {
-            "id": "GZa1M1-Shmo",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-            "views": 12527397,
-            "age_hours": 138.2
-          }
-        ]
-      },
-      {
-        "phrase": "jerry rithvi kavi",
-        "video_count": 2,
-        "momentum": 15.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "jk7pb_6io08",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-            "views": 10930423,
-            "age_hours": 90.7
-          },
-          {
-            "id": "GZa1M1-Shmo",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-            "views": 12527397,
-            "age_hours": 138.2
-          }
-        ]
-      },
-      {
-        "phrase": "rithvi kavi real",
-        "video_count": 2,
-        "momentum": 15.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "jk7pb_6io08",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-            "views": 10930423,
-            "age_hours": 90.7
-          },
-          {
-            "id": "GZa1M1-Shmo",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-            "views": 12527397,
-            "age_hours": 138.2
-          }
-        ]
-      },
-      {
-        "phrase": "kavi real end",
-        "video_count": 2,
-        "momentum": 15.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "jk7pb_6io08",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-            "views": 10930423,
-            "age_hours": 90.7
-          },
-          {
-            "id": "GZa1M1-Shmo",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-            "views": 12527397,
-            "age_hours": 138.2
-          }
-        ]
-      },
-      {
-        "phrase": "real end twist",
-        "video_count": 2,
-        "momentum": 15.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "jk7pb_6io08",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-            "views": 10930423,
-            "age_hours": 90.7
-          },
-          {
-            "id": "GZa1M1-Shmo",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-            "views": 12527397,
-            "age_hours": 138.2
-          }
-        ]
-      },
-      {
-        "phrase": "end twist shorts",
-        "video_count": 2,
-        "momentum": 15.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "jk7pb_6io08",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-            "views": 10930423,
-            "age_hours": 90.7
-          },
-          {
-            "id": "GZa1M1-Shmo",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-            "views": 12527397,
-            "age_hours": 138.2
-          }
-        ]
-      },
-      {
-        "phrase": "steal egg roblox",
-        "video_count": 2,
-        "momentum": 13.85,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "e5LGYc_DJi0",
-            "title": "I HACKED JACK’S ACCOUNT IN STEAL AN EGG ROBLOX 😱",
-            "channel": "NotGamerFleet",
-            "thumbnail": "https://i.ytimg.com/vi/e5LGYc_DJi0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=e5LGYc_DJi0",
-            "views": 829071,
-            "age_hours": 44.0
-          },
-          {
-            "id": "u4R_ymKhHV0",
-            "title": "I STARTED OVER WITH INFINITE ROBUX IN STEAL AN EGG ROBLOX !!",
-            "channel": "Shivang Mini",
-            "thumbnail": "https://i.ytimg.com/vi/u4R_ymKhHV0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=u4R_ymKhHV0",
-            "views": 776799,
-            "age_hours": 42.8
-          }
-        ]
-      },
-      {
-        "phrase": "battle shorts",
-        "video_count": 2,
-        "momentum": 13.19,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "UI4Xat5hmOg",
-            "title": "Why 'Ultra Rich' THROW AWAY iPhone & Switch To Android? Apple vs Android Tech Battle #shorts",
-            "channel": "FactTechz",
-            "thumbnail": "https://i.ytimg.com/vi/UI4Xat5hmOg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UI4Xat5hmOg",
-            "views": 1947739,
-            "age_hours": 25.8
-          },
-          {
-            "id": "bqatZS1FT74",
-            "title": "Orange Juice वाला  Vs Portable Juice Maker: कौन जीतेगा ये Battle?⚔️ #shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/bqatZS1FT74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=bqatZS1FT74",
-            "views": 15885864,
-            "age_hours": 133.5
-          }
-        ]
-      },
-      {
         "phrase": "gta live",
-        "video_count": 2,
-        "momentum": 13.07,
+        "video_count": 4,
+        "momentum": 26.68,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
+          {
+            "id": "g1dq2Znutjg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/g1dq2Znutjg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=g1dq2Znutjg",
+            "views": 4195742,
+            "age_hours": 8.3
+          },
+          {
+            "id": "s44RDIqmyfQ",
+            "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+            "channel": "BOSS GAMING",
+            "thumbnail": "https://i.ytimg.com/vi/s44RDIqmyfQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=s44RDIqmyfQ",
+            "views": 1584175,
+            "age_hours": 6.4
+          },
           {
             "id": "bDkwvs2eOHU",
             "title": "🔴 GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED 😺 #gtalive #gtaonline",
             "channel": "Deep Is Live GTA",
             "thumbnail": "https://i.ytimg.com/vi/bDkwvs2eOHU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=bDkwvs2eOHU",
-            "views": 6166004,
-            "age_hours": 33.1
+            "views": 6164360,
+            "age_hours": 42.0
+          }
+        ]
+      },
+      {
+        "phrase": "gta live gta5",
+        "video_count": 3,
+        "momentum": 24.25,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "g1dq2Znutjg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/g1dq2Znutjg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=g1dq2Znutjg",
+            "views": 4195742,
+            "age_hours": 8.3
+          },
+          {
+            "id": "s44RDIqmyfQ",
+            "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+            "channel": "BOSS GAMING",
+            "thumbnail": "https://i.ytimg.com/vi/s44RDIqmyfQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=s44RDIqmyfQ",
+            "views": 1584175,
+            "age_hours": 6.4
           },
           {
             "id": "woDKkNcgKZc",
@@ -1187,28 +1020,153 @@
             "channel": "PAJI IS LIVE",
             "thumbnail": "https://i.ytimg.com/vi/woDKkNcgKZc/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=woDKkNcgKZc",
-            "views": 3530125,
-            "age_hours": 23.9
+            "views": 3474256,
+            "age_hours": 32.8
           }
         ]
       },
       {
-        "phrase": "bhojpuri song",
-        "video_count": 2,
-        "momentum": 12.42,
+        "phrase": "iphone",
+        "video_count": 5,
+        "momentum": 22.15,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "uT019O77hIY",
-            "title": "#Video | Maai ( माई ) - Power Star Pawan Singh | New Bhojpuri Song 2026",
-            "channel": "Pawan Singh Official",
-            "thumbnail": "https://i.ytimg.com/vi/uT019O77hIY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=uT019O77hIY",
-            "views": 3997572,
-            "age_hours": 97.6
+            "id": "UI4Xat5hmOg",
+            "title": "Why 'Ultra Rich' THROW AWAY iPhone & Switch To Android? Apple vs Android Tech Battle #shorts",
+            "channel": "FactTechz",
+            "thumbnail": "https://i.ytimg.com/vi/UI4Xat5hmOg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UI4Xat5hmOg",
+            "views": 2586892,
+            "age_hours": 34.7
+          },
+          {
+            "id": "VOVWxIEKnVc",
+            "title": "iPhone 18 delivered in 10 mins? Blinkit vs Flipkart mins #shorts",
+            "channel": "Shreemani Tripathi",
+            "thumbnail": "https://i.ytimg.com/vi/VOVWxIEKnVc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=VOVWxIEKnVc",
+            "views": 4365913,
+            "age_hours": 290.9
+          },
+          {
+            "id": "ANbgFDUV3Y0",
+            "title": "Dont Get iPhone 18 Pro | 10 days Review | Malayalam",
+            "channel": "CallMeShazzam TECH",
+            "thumbnail": "https://i.ytimg.com/vi/ANbgFDUV3Y0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ANbgFDUV3Y0",
+            "views": 714891,
+            "age_hours": 55.9
+          }
+        ]
+      },
+      {
+        "phrase": "live gta5 gtav",
+        "video_count": 2,
+        "momentum": 16.13,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "g1dq2Znutjg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/g1dq2Znutjg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=g1dq2Znutjg",
+            "views": 4195742,
+            "age_hours": 8.3
+          },
+          {
+            "id": "woDKkNcgKZc",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/woDKkNcgKZc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=woDKkNcgKZc",
+            "views": 3474256,
+            "age_hours": 32.8
+          }
+        ]
+      },
+      {
+        "phrase": "gta5 gtav gaming",
+        "video_count": 2,
+        "momentum": 16.13,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "g1dq2Znutjg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/g1dq2Znutjg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=g1dq2Znutjg",
+            "views": 4195742,
+            "age_hours": 8.3
+          },
+          {
+            "id": "woDKkNcgKZc",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/woDKkNcgKZc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=woDKkNcgKZc",
+            "views": 3474256,
+            "age_hours": 32.8
+          }
+        ]
+      },
+      {
+        "phrase": "battle shorts",
+        "video_count": 2,
+        "momentum": 13.13,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "UI4Xat5hmOg",
+            "title": "Why 'Ultra Rich' THROW AWAY iPhone & Switch To Android? Apple vs Android Tech Battle #shorts",
+            "channel": "FactTechz",
+            "thumbnail": "https://i.ytimg.com/vi/UI4Xat5hmOg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UI4Xat5hmOg",
+            "views": 2586892,
+            "age_hours": 34.7
+          },
+          {
+            "id": "bqatZS1FT74",
+            "title": "Orange Juice वाला  Vs Portable Juice Maker: कौन जीतेगा ये Battle?⚔️ #shorts",
+            "channel": "Tech Master",
+            "thumbnail": "https://i.ytimg.com/vi/bqatZS1FT74/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=bqatZS1FT74",
+            "views": 16244417,
+            "age_hours": 142.4
+          }
+        ]
+      },
+      {
+        "phrase": "bhojpuri song",
+        "video_count": 2,
+        "momentum": 13.05,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "hpNimBHa1zI",
+            "title": "Pawan Singh New Song 2026 | Bihari Ke Dum | Srishti Bharti | Neelam Giri | Bhojpuri Song",
+            "channel": "Saregama Hum Bhojpuri",
+            "thumbnail": "https://i.ytimg.com/vi/hpNimBHa1zI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=hpNimBHa1zI",
+            "views": 3649263,
+            "age_hours": 34.9
           },
           {
             "id": "ImcoG8j-1DA",
@@ -1216,44 +1174,44 @@
             "channel": "T-Series Hamaar Bhojpuri",
             "thumbnail": "https://i.ytimg.com/vi/ImcoG8j-1DA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ImcoG8j-1DA",
-            "views": 1147590,
-            "age_hours": 50.0
+            "views": 1334416,
+            "age_hours": 58.9
           }
         ]
       },
       {
-        "phrase": "october promo",
+        "phrase": "free fire",
         "video_count": 2,
-        "momentum": 11.97,
+        "momentum": 12.81,
         "regions": [
           "IN"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "qfxSNOUpJYM",
-            "title": "Siragadikka Aasai | 5th to 11th October 2026 - Promo",
-            "channel": "Vijay Television",
-            "thumbnail": "https://i.ytimg.com/vi/qfxSNOUpJYM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=qfxSNOUpJYM",
-            "views": 3443664,
-            "age_hours": 71.0
+            "id": "3NWg5A99azc",
+            "title": "🔴 LIVE | Top 1 Grandmaster Push 🔥 | Free Fire Shorts Live #shorts  #shortslive  #freefire",
+            "channel": "Senior Bhai",
+            "thumbnail": "https://i.ytimg.com/vi/3NWg5A99azc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3NWg5A99azc",
+            "views": 1147007,
+            "age_hours": 7.3
           },
           {
-            "id": "Y70G5VOQIGA",
-            "title": "Azhagae Azhagu | 5th to 9th October 2026 - Promo",
-            "channel": "Vijay Television",
-            "thumbnail": "https://i.ytimg.com/vi/Y70G5VOQIGA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=Y70G5VOQIGA",
-            "views": 2929421,
-            "age_hours": 71.0
+            "id": "0Y9mpWNwMKE",
+            "title": "🌿FREE FIRE LIVE🌿PLAYING BR-RANKED😎2X AWM SPEED GAME PLAY 🎮🎯 ON LIVE - GARENA FREE FIRE",
+            "channel": "DAD I AM OK GAMING",
+            "thumbnail": "https://i.ytimg.com/vi/0Y9mpWNwMKE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=0Y9mpWNwMKE",
+            "views": 1325215,
+            "age_hours": 14.7
           }
         ]
       },
       {
         "phrase": "i became",
         "video_count": 2,
-        "momentum": 11.57,
+        "momentum": 11.34,
         "regions": [
           "IN"
         ],
@@ -1265,8 +1223,8 @@
             "channel": "Karry Kraft",
             "thumbnail": "https://i.ytimg.com/vi/h0xQ9YJs3jQ/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=h0xQ9YJs3jQ",
-            "views": 492827,
-            "age_hours": 15.9
+            "views": 686410,
+            "age_hours": 24.8
           },
           {
             "id": "-RkcCsCoWQU",
@@ -1274,15 +1232,15 @@
             "channel": "GamerBlox",
             "thumbnail": "https://i.ytimg.com/vi/-RkcCsCoWQU/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=-RkcCsCoWQU",
-            "views": 441280,
-            "age_hours": 22.3
+            "views": 510289,
+            "age_hours": 31.1
           }
         ]
       },
       {
         "phrase": "iphone pro",
         "video_count": 2,
-        "momentum": 10.78,
+        "momentum": 10.69,
         "regions": [
           "IN"
         ],
@@ -1294,8 +1252,8 @@
             "channel": "CallMeShazzam TECH",
             "thumbnail": "https://i.ytimg.com/vi/ANbgFDUV3Y0/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=ANbgFDUV3Y0",
-            "views": 647444,
-            "age_hours": 47.0
+            "views": 714891,
+            "age_hours": 55.9
           },
           {
             "id": "IToG3lvd-rw",
@@ -1303,15 +1261,15 @@
             "channel": "Tech Satire",
             "thumbnail": "https://i.ytimg.com/vi/IToG3lvd-rw/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=IToG3lvd-rw",
-            "views": 596158,
-            "age_hours": 87.1
+            "views": 617671,
+            "age_hours": 96.0
           }
         ]
       },
       {
         "phrase": "first time",
         "video_count": 2,
-        "momentum": 10.32,
+        "momentum": 10.25,
         "regions": [
           "IN"
         ],
@@ -1323,8 +1281,8 @@
             "channel": "iVasuu",
             "thumbnail": "https://i.ytimg.com/vi/p-xXRuMQSew/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=p-xXRuMQSew",
-            "views": 11686336,
-            "age_hours": 109.9
+            "views": 11906784,
+            "age_hours": 118.8
           },
           {
             "id": "RXeEbZjgysA",
@@ -1332,795 +1290,133 @@
             "channel": "Yummy Tummy Aarthi Vlogs",
             "thumbnail": "https://i.ytimg.com/vi/RXeEbZjgysA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=RXeEbZjgysA",
-            "views": 71422,
-            "age_hours": 93.5
+            "views": 73212,
+            "age_hours": 102.4
           }
         ]
       }
     ],
-    "CA": [],
-    "GB": [
+    "US": [
       {
-        "phrase": "champs rewards",
+        "phrase": "arc raiders",
         "video_count": 2,
-        "momentum": 10.11,
-        "regions": [
-          "GB"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "EfJbfVNqo58",
-            "title": "MY FIRST EVER CHAMPS REWARDS! (OGRTG #18)",
-            "channel": "DannyAaronsRTG",
-            "thumbnail": "https://i.ytimg.com/vi/EfJbfVNqo58/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EfJbfVNqo58",
-            "views": 79857,
-            "age_hours": 10.1
-          },
-          {
-            "id": "ZBNBeUzG_zg",
-            "title": "OUR FIRST FUT CHAMPS REWARDS ARE FINALLY HERE!! (FC 27 BROS RTG #8)",
-            "channel": "TWOSYNC",
-            "thumbnail": "https://i.ytimg.com/vi/ZBNBeUzG_zg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ZBNBeUzG_zg",
-            "views": 28625,
-            "age_hours": 8.0
-          }
-        ]
-      }
-    ],
-    "AU": [],
-    "BR": [
-      {
-        "phrase": "celular",
-        "video_count": 4,
-        "momentum": 19.24,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "LavcIKM16bc",
-            "title": "QUAL SEU CELULAR DE ACORDO COM SUA IDADE",
-            "channel": "HenriqueJOGA",
-            "thumbnail": "https://i.ytimg.com/vi/LavcIKM16bc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=LavcIKM16bc",
-            "views": 3179270,
-            "age_hours": 156.7
-          },
-          {
-            "id": "5Jt65A2L41g",
-            "title": "Como saber se tem alguém MEXENDO NO SEU CELULAR",
-            "channel": "Giuliana Mafra",
-            "thumbnail": "https://i.ytimg.com/vi/5Jt65A2L41g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=5Jt65A2L41g",
-            "views": 4086086,
-            "age_hours": 28.5
-          },
-          {
-            "id": "3xp5320op_k",
-            "title": "fiz um celular dobravel com bateria e tudo #shorts #short #ytshorts #apple #iphone #ios #viral #fyp",
-            "channel": "Pedro Ribeiro",
-            "thumbnail": "https://i.ytimg.com/vi/3xp5320op_k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=3xp5320op_k",
-            "views": 764658,
-            "age_hours": 60.1
-          }
-        ]
-      },
-      {
-        "phrase": "iphone",
-        "video_count": 4,
-        "momentum": 17.04,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "pkwMAELG5xI",
-            "title": "NÃO TENHA IPHONE 18 NO BRASIL!",
-            "channel": "Naggi",
-            "thumbnail": "https://i.ytimg.com/vi/pkwMAELG5xI/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=pkwMAELG5xI",
-            "views": 422311,
-            "age_hours": 13.0
-          },
-          {
-            "id": "3xp5320op_k",
-            "title": "fiz um celular dobravel com bateria e tudo #shorts #short #ytshorts #apple #iphone #ios #viral #fyp",
-            "channel": "Pedro Ribeiro",
-            "thumbnail": "https://i.ytimg.com/vi/3xp5320op_k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=3xp5320op_k",
-            "views": 764658,
-            "age_hours": 60.1
-          },
-          {
-            "id": "FOQl8nWihzs",
-            "title": "Fiz uma capinha para o “iPhone 18” #iphone #fake #tecnologia #entretenimento #celular #satira",
-            "channel": "RC ASSISTEC ",
-            "thumbnail": "https://i.ytimg.com/vi/FOQl8nWihzs/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=FOQl8nWihzs",
-            "views": 599656,
-            "age_hours": 82.4
-          }
-        ]
-      },
-      {
-        "phrase": "vida pessoa usa",
-        "video_count": 2,
-        "momentum": 15.57,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "tIp8K20dUU8",
-            "title": "A vida da pessoa que usa óculos😂",
-            "channel": "Victor Pac",
-            "thumbnail": "https://i.ytimg.com/vi/tIp8K20dUU8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=tIp8K20dUU8",
-            "views": 13026871,
-            "age_hours": 102.5
-          },
-          {
-            "id": "1UM1uYbSa34",
-            "title": "A vida da pessoa que usa óculos😂",
-            "channel": "Victor Pac",
-            "thumbnail": "https://i.ytimg.com/vi/1UM1uYbSa34/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1UM1uYbSa34",
-            "views": 7234790,
-            "age_hours": 76.4
-          }
-        ]
-      },
-      {
-        "phrase": "pessoa usa óculos",
-        "video_count": 2,
-        "momentum": 15.57,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "tIp8K20dUU8",
-            "title": "A vida da pessoa que usa óculos😂",
-            "channel": "Victor Pac",
-            "thumbnail": "https://i.ytimg.com/vi/tIp8K20dUU8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=tIp8K20dUU8",
-            "views": 13026871,
-            "age_hours": 102.5
-          },
-          {
-            "id": "1UM1uYbSa34",
-            "title": "A vida da pessoa que usa óculos😂",
-            "channel": "Victor Pac",
-            "thumbnail": "https://i.ytimg.com/vi/1UM1uYbSa34/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1UM1uYbSa34",
-            "views": 7234790,
-            "age_hours": 76.4
-          }
-        ]
-      },
-      {
-        "phrase": "jon vlogs",
-        "video_count": 2,
-        "momentum": 8.92,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "4BoMpATk1Ks",
-            "title": "JON VLOGS NÃO AGUENTA MAIS O BAIANO XINGANDO 😂",
-            "channel": "Jon Vlogs",
-            "thumbnail": "https://i.ytimg.com/vi/4BoMpATk1Ks/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4BoMpATk1Ks",
-            "views": 54172,
-            "age_hours": 11.1
-          },
-          {
-            "id": "VlTyLqf7ysg",
-            "title": "dependendo das eleições o jon vlogs vai morar nos eua #jonvlogs #deserthon #cutpro",
-            "channel": "Hype Cortes IRL",
-            "thumbnail": "https://i.ytimg.com/vi/VlTyLqf7ysg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VlTyLqf7ysg",
-            "views": 107145,
-            "age_hours": 122.1
-          }
-        ]
-      }
-    ],
-    "DE": [
-      {
-        "phrase": "hell spin discard",
-        "video_count": 2,
-        "momentum": 13.21,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "h-5Oe9UUhAM",
-            "title": "Das 1. HELL SPIN DISCARD in EA FC 27 💀😨",
-            "channel": "GamerBrother",
-            "thumbnail": "https://i.ytimg.com/vi/h-5Oe9UUhAM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=h-5Oe9UUhAM",
-            "views": 131266,
-            "age_hours": 16.4
-          },
-          {
-            "id": "duda18q6vzE",
-            "title": "Der 1. VOLLBRUCH.. 😱💀 HELL SPIN DISCARD ist ZURÜCK 🔥 EA FC27",
-            "channel": "Tisi Schubech",
-            "thumbnail": "https://i.ytimg.com/vi/duda18q6vzE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=duda18q6vzE",
-            "views": 84003,
-            "age_hours": 16.0
-          }
-        ]
-      },
-      {
-        "phrase": "ea fc",
-        "video_count": 2,
-        "momentum": 10.96,
-        "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "h-5Oe9UUhAM",
-            "title": "Das 1. HELL SPIN DISCARD in EA FC 27 💀😨",
-            "channel": "GamerBrother",
-            "thumbnail": "https://i.ytimg.com/vi/h-5Oe9UUhAM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=h-5Oe9UUhAM",
-            "views": 131266,
-            "age_hours": 16.4
-          },
-          {
-            "id": "4xwqOepym_Q",
-            "title": "EA FC 27: DER ERSTE ELIGELLA CUP MIT DEN BESTEN ESPORTLERN UM 2.000 €🎮🏆",
-            "channel": "EliasN97",
-            "thumbnail": "https://i.ytimg.com/vi/4xwqOepym_Q/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4xwqOepym_Q",
-            "views": 183015,
-            "age_hours": 17.0
-          }
-        ]
-      }
-    ],
-    "ALL": [
-      {
-        "phrase": "iphone",
-        "video_count": 5,
-        "momentum": 22.38,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "UI4Xat5hmOg",
-            "title": "Why 'Ultra Rich' THROW AWAY iPhone & Switch To Android? Apple vs Android Tech Battle #shorts",
-            "channel": "FactTechz",
-            "thumbnail": "https://i.ytimg.com/vi/UI4Xat5hmOg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UI4Xat5hmOg",
-            "views": 1947739,
-            "age_hours": 25.8
-          },
-          {
-            "id": "ANbgFDUV3Y0",
-            "title": "Dont Get iPhone 18 Pro | 10 days Review | Malayalam",
-            "channel": "CallMeShazzam TECH",
-            "thumbnail": "https://i.ytimg.com/vi/ANbgFDUV3Y0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ANbgFDUV3Y0",
-            "views": 647444,
-            "age_hours": 47.0
-          },
-          {
-            "id": "VOVWxIEKnVc",
-            "title": "iPhone 18 delivered in 10 mins? Blinkit vs Flipkart mins #shorts",
-            "channel": "Shreemani Tripathi",
-            "thumbnail": "https://i.ytimg.com/vi/VOVWxIEKnVc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=VOVWxIEKnVc",
-            "views": 4351806,
-            "age_hours": 282.0
-          }
-        ]
-      },
-      {
-        "phrase": "celular",
-        "video_count": 4,
-        "momentum": 19.24,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "LavcIKM16bc",
-            "title": "QUAL SEU CELULAR DE ACORDO COM SUA IDADE",
-            "channel": "HenriqueJOGA",
-            "thumbnail": "https://i.ytimg.com/vi/LavcIKM16bc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=LavcIKM16bc",
-            "views": 3179270,
-            "age_hours": 156.7
-          },
-          {
-            "id": "5Jt65A2L41g",
-            "title": "Como saber se tem alguém MEXENDO NO SEU CELULAR",
-            "channel": "Giuliana Mafra",
-            "thumbnail": "https://i.ytimg.com/vi/5Jt65A2L41g/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=5Jt65A2L41g",
-            "views": 4086086,
-            "age_hours": 28.5
-          },
-          {
-            "id": "3xp5320op_k",
-            "title": "fiz um celular dobravel com bateria e tudo #shorts #short #ytshorts #apple #iphone #ios #viral #fyp",
-            "channel": "Pedro Ribeiro",
-            "thumbnail": "https://i.ytimg.com/vi/3xp5320op_k/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=3xp5320op_k",
-            "views": 764658,
-            "age_hours": 60.1
-          }
-        ]
-      },
-      {
-        "phrase": "malayalam",
-        "video_count": 4,
-        "momentum": 16.8,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "4jpPJoYJxGM",
-            "title": "Jailer 2 | Trailer Reaction | Super Star Rajni | Anirudh | Malayalam",
-            "channel": "LifeofShazzam",
-            "thumbnail": "https://i.ytimg.com/vi/4jpPJoYJxGM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=4jpPJoYJxGM",
-            "views": 778060,
-            "age_hours": 38.1
-          },
-          {
-            "id": "NIG7OrRz8qw",
-            "title": "JAILER 2 - Official Trailer Response Malayalam | Superstar Rajinikanth | Nelson | Anirudh | Sun Pic",
-            "channel": "Aswanth Kok",
-            "thumbnail": "https://i.ytimg.com/vi/NIG7OrRz8qw/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=NIG7OrRz8qw",
-            "views": 637817,
-            "age_hours": 36.6
-          },
-          {
-            "id": "ANbgFDUV3Y0",
-            "title": "Dont Get iPhone 18 Pro | 10 days Review | Malayalam",
-            "channel": "CallMeShazzam TECH",
-            "thumbnail": "https://i.ytimg.com/vi/ANbgFDUV3Y0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ANbgFDUV3Y0",
-            "views": 647444,
-            "age_hours": 47.0
-          }
-        ]
-      },
-      {
-        "phrase": "vida pessoa usa",
-        "video_count": 2,
-        "momentum": 15.57,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "tIp8K20dUU8",
-            "title": "A vida da pessoa que usa óculos😂",
-            "channel": "Victor Pac",
-            "thumbnail": "https://i.ytimg.com/vi/tIp8K20dUU8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=tIp8K20dUU8",
-            "views": 13026871,
-            "age_hours": 102.5
-          },
-          {
-            "id": "1UM1uYbSa34",
-            "title": "A vida da pessoa que usa óculos😂",
-            "channel": "Victor Pac",
-            "thumbnail": "https://i.ytimg.com/vi/1UM1uYbSa34/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1UM1uYbSa34",
-            "views": 7234790,
-            "age_hours": 76.4
-          }
-        ]
-      },
-      {
-        "phrase": "pessoa usa óculos",
-        "video_count": 2,
-        "momentum": 15.57,
-        "regions": [
-          "BR"
-        ],
-        "lang": "pt",
-        "example_videos": [
-          {
-            "id": "tIp8K20dUU8",
-            "title": "A vida da pessoa que usa óculos😂",
-            "channel": "Victor Pac",
-            "thumbnail": "https://i.ytimg.com/vi/tIp8K20dUU8/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=tIp8K20dUU8",
-            "views": 13026871,
-            "age_hours": 102.5
-          },
-          {
-            "id": "1UM1uYbSa34",
-            "title": "A vida da pessoa que usa óculos😂",
-            "channel": "Victor Pac",
-            "thumbnail": "https://i.ytimg.com/vi/1UM1uYbSa34/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=1UM1uYbSa34",
-            "views": 7234790,
-            "age_hours": 76.4
-          }
-        ]
-      },
-      {
-        "phrase": "tom jerry rithvi",
-        "video_count": 2,
-        "momentum": 15.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "jk7pb_6io08",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-            "views": 10930423,
-            "age_hours": 90.7
-          },
-          {
-            "id": "GZa1M1-Shmo",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-            "views": 12527397,
-            "age_hours": 138.2
-          }
-        ]
-      },
-      {
-        "phrase": "jerry rithvi kavi",
-        "video_count": 2,
-        "momentum": 15.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "jk7pb_6io08",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-            "views": 10930423,
-            "age_hours": 90.7
-          },
-          {
-            "id": "GZa1M1-Shmo",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-            "views": 12527397,
-            "age_hours": 138.2
-          }
-        ]
-      },
-      {
-        "phrase": "rithvi kavi real",
-        "video_count": 2,
-        "momentum": 15.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "jk7pb_6io08",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-            "views": 10930423,
-            "age_hours": 90.7
-          },
-          {
-            "id": "GZa1M1-Shmo",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-            "views": 12527397,
-            "age_hours": 138.2
-          }
-        ]
-      },
-      {
-        "phrase": "kavi real end",
-        "video_count": 2,
-        "momentum": 15.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "jk7pb_6io08",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-            "views": 10930423,
-            "age_hours": 90.7
-          },
-          {
-            "id": "GZa1M1-Shmo",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-            "views": 12527397,
-            "age_hours": 138.2
-          }
-        ]
-      },
-      {
-        "phrase": "real end twist",
-        "video_count": 2,
-        "momentum": 15.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "jk7pb_6io08",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-            "views": 10930423,
-            "age_hours": 90.7
-          },
-          {
-            "id": "GZa1M1-Shmo",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-            "views": 12527397,
-            "age_hours": 138.2
-          }
-        ]
-      },
-      {
-        "phrase": "end twist shorts",
-        "video_count": 2,
-        "momentum": 15.36,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "jk7pb_6io08",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/jk7pb_6io08/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=jk7pb_6io08",
-            "views": 10930423,
-            "age_hours": 90.7
-          },
-          {
-            "id": "GZa1M1-Shmo",
-            "title": "Tom 🍓Jerry(Rithvi&Kavi)Real End Twist😂🎈 #shorts",
-            "channel": "KL BRO Biju Rithvik",
-            "thumbnail": "https://i.ytimg.com/vi/GZa1M1-Shmo/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=GZa1M1-Shmo",
-            "views": 12527397,
-            "age_hours": 138.2
-          }
-        ]
-      },
-      {
-        "phrase": "steal egg roblox",
-        "video_count": 2,
-        "momentum": 13.85,
-        "regions": [
-          "IN"
-        ],
-        "lang": "en",
-        "example_videos": [
-          {
-            "id": "e5LGYc_DJi0",
-            "title": "I HACKED JACK’S ACCOUNT IN STEAL AN EGG ROBLOX 😱",
-            "channel": "NotGamerFleet",
-            "thumbnail": "https://i.ytimg.com/vi/e5LGYc_DJi0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=e5LGYc_DJi0",
-            "views": 829071,
-            "age_hours": 44.0
-          },
-          {
-            "id": "u4R_ymKhHV0",
-            "title": "I STARTED OVER WITH INFINITE ROBUX IN STEAL AN EGG ROBLOX !!",
-            "channel": "Shivang Mini",
-            "thumbnail": "https://i.ytimg.com/vi/u4R_ymKhHV0/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=u4R_ymKhHV0",
-            "views": 776799,
-            "age_hours": 42.8
-          }
-        ]
-      },
-      {
-        "phrase": "going back school",
-        "video_count": 2,
-        "momentum": 13.73,
+        "momentum": 13.06,
         "regions": [
           "US"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "RJzspH1rAbc",
-            "title": "GOING BACK TO SCHOOL! 📚🏫",
-            "channel": "IShowSpeed",
-            "thumbnail": "https://i.ytimg.com/vi/RJzspH1rAbc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=RJzspH1rAbc",
-            "views": 2640351,
+            "id": "ix7x59a8t7g",
+            "title": "🔴LIVE | ARC RAIDERS | FROZEN TRAIL PREP | HUTCHMF X SUMMIT1G | TESTICULAR TORSION TUE | #BUNGULATE",
+            "channel": "TheBurntPeanut",
+            "thumbnail": "https://i.ytimg.com/vi/ix7x59a8t7g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ix7x59a8t7g",
+            "views": 1321741,
             "age_hours": 5.6
           },
           {
-            "id": "EAXI5Q44beg",
-            "title": "Shane is Going Back to School NOW?!",
-            "channel": "Squirmy and Grubs",
-            "thumbnail": "https://i.ytimg.com/vi/EAXI5Q44beg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=EAXI5Q44beg",
-            "views": 141038,
-            "age_hours": 128.4
+            "id": "KjiJDylLdZA",
+            "title": "Frozen Trail Launch Trailer | ARC Raiders",
+            "channel": "ARC Raiders",
+            "thumbnail": "https://i.ytimg.com/vi/KjiJDylLdZA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KjiJDylLdZA",
+            "views": 502933,
+            "age_hours": 20.3
           }
         ]
       },
       {
-        "phrase": "hell spin discard",
+        "phrase": "frozen trail",
         "video_count": 2,
-        "momentum": 13.21,
+        "momentum": 13.06,
         "regions": [
-          "DE"
-        ],
-        "lang": "de",
-        "example_videos": [
-          {
-            "id": "h-5Oe9UUhAM",
-            "title": "Das 1. HELL SPIN DISCARD in EA FC 27 💀😨",
-            "channel": "GamerBrother",
-            "thumbnail": "https://i.ytimg.com/vi/h-5Oe9UUhAM/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=h-5Oe9UUhAM",
-            "views": 131266,
-            "age_hours": 16.4
-          },
-          {
-            "id": "duda18q6vzE",
-            "title": "Der 1. VOLLBRUCH.. 😱💀 HELL SPIN DISCARD ist ZURÜCK 🔥 EA FC27",
-            "channel": "Tisi Schubech",
-            "thumbnail": "https://i.ytimg.com/vi/duda18q6vzE/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=duda18q6vzE",
-            "views": 84003,
-            "age_hours": 16.0
-          }
-        ]
-      },
-      {
-        "phrase": "battle shorts",
-        "video_count": 2,
-        "momentum": 13.19,
-        "regions": [
-          "IN"
+          "US"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "UI4Xat5hmOg",
-            "title": "Why 'Ultra Rich' THROW AWAY iPhone & Switch To Android? Apple vs Android Tech Battle #shorts",
-            "channel": "FactTechz",
-            "thumbnail": "https://i.ytimg.com/vi/UI4Xat5hmOg/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=UI4Xat5hmOg",
-            "views": 1947739,
-            "age_hours": 25.8
+            "id": "ix7x59a8t7g",
+            "title": "🔴LIVE | ARC RAIDERS | FROZEN TRAIL PREP | HUTCHMF X SUMMIT1G | TESTICULAR TORSION TUE | #BUNGULATE",
+            "channel": "TheBurntPeanut",
+            "thumbnail": "https://i.ytimg.com/vi/ix7x59a8t7g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ix7x59a8t7g",
+            "views": 1321741,
+            "age_hours": 5.6
           },
           {
-            "id": "bqatZS1FT74",
-            "title": "Orange Juice वाला  Vs Portable Juice Maker: कौन जीतेगा ये Battle?⚔️ #shorts",
-            "channel": "Tech Master",
-            "thumbnail": "https://i.ytimg.com/vi/bqatZS1FT74/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=bqatZS1FT74",
-            "views": 15885864,
-            "age_hours": 133.5
+            "id": "KjiJDylLdZA",
+            "title": "Frozen Trail Launch Trailer | ARC Raiders",
+            "channel": "ARC Raiders",
+            "thumbnail": "https://i.ytimg.com/vi/KjiJDylLdZA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KjiJDylLdZA",
+            "views": 502933,
+            "age_hours": 20.3
           }
         ]
       },
       {
-        "phrase": "gta live",
+        "phrase": "noads tiktok",
         "video_count": 2,
-        "momentum": 13.07,
+        "momentum": 11.9,
         "regions": [
-          "IN"
+          "US"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "bDkwvs2eOHU",
-            "title": "🔴 GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED 😺 #gtalive #gtaonline",
-            "channel": "Deep Is Live GTA",
-            "thumbnail": "https://i.ytimg.com/vi/bDkwvs2eOHU/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=bDkwvs2eOHU",
-            "views": 6166004,
-            "age_hours": 33.1
+            "id": "w2OuOI4hzi4",
+            "title": "iPhone 18 Pro Max Dark Cherry #noads #tiktok #usashortsfeeds",
+            "channel": "Midi Gamer",
+            "thumbnail": "https://i.ytimg.com/vi/w2OuOI4hzi4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=w2OuOI4hzi4",
+            "views": 4988704,
+            "age_hours": 78.4
           },
           {
-            "id": "woDKkNcgKZc",
-            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
-            "channel": "PAJI IS LIVE",
-            "thumbnail": "https://i.ytimg.com/vi/woDKkNcgKZc/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=woDKkNcgKZc",
-            "views": 3530125,
-            "age_hours": 23.9
+            "id": "_Z70Zsp_uiI",
+            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
+            "channel": "MrCappuccino Memes",
+            "thumbnail": "https://i.ytimg.com/vi/_Z70Zsp_uiI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=_Z70Zsp_uiI",
+            "views": 4364763,
+            "age_hours": 110.3
           }
         ]
       },
       {
-        "phrase": "bhojpuri song",
+        "phrase": "i made",
         "video_count": 2,
-        "momentum": 12.42,
+        "momentum": 11.87,
         "regions": [
-          "IN"
+          "US"
         ],
         "lang": "en",
         "example_videos": [
           {
-            "id": "uT019O77hIY",
-            "title": "#Video | Maai ( माई ) - Power Star Pawan Singh | New Bhojpuri Song 2026",
-            "channel": "Pawan Singh Official",
-            "thumbnail": "https://i.ytimg.com/vi/uT019O77hIY/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=uT019O77hIY",
-            "views": 3997572,
-            "age_hours": 97.6
+            "id": "3Iul3C93NFg",
+            "title": "I made Evil Custom Moons in Mario Odyssey",
+            "channel": "SmallAnt",
+            "thumbnail": "https://i.ytimg.com/vi/3Iul3C93NFg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3Iul3C93NFg",
+            "views": 230304,
+            "age_hours": 10.2
           },
           {
-            "id": "ImcoG8j-1DA",
-            "title": "🔥 DHORI PE NIMBU | AASHISH YADAV & SHWETA SARGAM | NEW BHOJPURI SONG 2026 🔥 FT. KANISHKA CHAUDHARY",
-            "channel": "T-Series Hamaar Bhojpuri",
-            "thumbnail": "https://i.ytimg.com/vi/ImcoG8j-1DA/mqdefault.jpg",
-            "url": "https://www.youtube.com/watch?v=ImcoG8j-1DA",
-            "views": 1147590,
-            "age_hours": 50.0
+            "id": "aaGyayYKfMk",
+            "title": "I made an Automatic stoplight for introverts ChatGPT #ChatGPT_Partner",
+            "channel": "ForgeCore",
+            "thumbnail": "https://i.ytimg.com/vi/aaGyayYKfMk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aaGyayYKfMk",
+            "views": 1690710,
+            "age_hours": 43.0
           }
         ]
       },
       {
         "phrase": "launch trailer",
         "video_count": 2,
-        "momentum": 12.29,
+        "momentum": 11.85,
         "regions": [
           "US"
         ],
@@ -2132,8 +1428,8 @@
             "channel": "ARC Raiders",
             "thumbnail": "https://i.ytimg.com/vi/KjiJDylLdZA/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=KjiJDylLdZA",
-            "views": 405250,
-            "age_hours": 11.5
+            "views": 502933,
+            "age_hours": 20.3
           },
           {
             "id": "Ih6DVdyQn3I",
@@ -2141,8 +1437,920 @@
             "channel": "PlayOverwatch",
             "thumbnail": "https://i.ytimg.com/vi/Ih6DVdyQn3I/mqdefault.jpg",
             "url": "https://www.youtube.com/watch?v=Ih6DVdyQn3I",
-            "views": 591884,
-            "age_hours": 34.5
+            "views": 598502,
+            "age_hours": 43.4
+          }
+        ]
+      }
+    ],
+    "AU": [],
+    "CA": [],
+    "GB": [
+      {
+        "phrase": "shopping",
+        "video_count": 4,
+        "momentum": 12.41,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "KjwV-D7tiGk",
+            "title": "Hardcore Teen Shopping Day in Sheffield!",
+            "channel": "The Ingham Family",
+            "thumbnail": "https://i.ytimg.com/vi/KjwV-D7tiGk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KjwV-D7tiGk",
+            "views": 21796,
+            "age_hours": 19.2
+          },
+          {
+            "id": "jyl3JIhpbOg",
+            "title": "weekly vlog: catch up, tkmaxx home shopping and decorating",
+            "channel": "livvy dimartino",
+            "thumbnail": "https://i.ytimg.com/vi/jyl3JIhpbOg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=jyl3JIhpbOg",
+            "views": 171809,
+            "age_hours": 211.4
+          },
+          {
+            "id": "IKfrULWcGdI",
+            "title": "SPEND AN AUTUMN WEEK WITH ME | BEDROOM TRANSFORMATION, BAKING, SHOPPING & PR UNBOXINGS",
+            "channel": "Jordan Lipscombe",
+            "thumbnail": "https://i.ytimg.com/vi/IKfrULWcGdI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IKfrULWcGdI",
+            "views": 139967,
+            "age_hours": 187.3
+          }
+        ]
+      }
+    ],
+    "BR": [
+      {
+        "phrase": "celular",
+        "video_count": 4,
+        "momentum": 19.0,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "LavcIKM16bc",
+            "title": "QUAL SEU CELULAR DE ACORDO COM SUA IDADE",
+            "channel": "HenriqueJOGA",
+            "thumbnail": "https://i.ytimg.com/vi/LavcIKM16bc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=LavcIKM16bc",
+            "views": 3347255,
+            "age_hours": 165.6
+          },
+          {
+            "id": "5Jt65A2L41g",
+            "title": "Como saber se tem alguém MEXENDO NO SEU CELULAR",
+            "channel": "Giuliana Mafra",
+            "thumbnail": "https://i.ytimg.com/vi/5Jt65A2L41g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5Jt65A2L41g",
+            "views": 4334431,
+            "age_hours": 37.4
+          },
+          {
+            "id": "3xp5320op_k",
+            "title": "fiz um celular dobravel com bateria e tudo #shorts #short #ytshorts #apple #iphone #ios #viral #fyp",
+            "channel": "Pedro Ribeiro",
+            "thumbnail": "https://i.ytimg.com/vi/3xp5320op_k/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3xp5320op_k",
+            "views": 776292,
+            "age_hours": 69.0
+          }
+        ]
+      },
+      {
+        "phrase": "iphone",
+        "video_count": 4,
+        "momentum": 16.72,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "pkwMAELG5xI",
+            "title": "NÃO TENHA IPHONE 18 NO BRASIL!",
+            "channel": "Naggi",
+            "thumbnail": "https://i.ytimg.com/vi/pkwMAELG5xI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=pkwMAELG5xI",
+            "views": 463998,
+            "age_hours": 21.9
+          },
+          {
+            "id": "3xp5320op_k",
+            "title": "fiz um celular dobravel com bateria e tudo #shorts #short #ytshorts #apple #iphone #ios #viral #fyp",
+            "channel": "Pedro Ribeiro",
+            "thumbnail": "https://i.ytimg.com/vi/3xp5320op_k/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3xp5320op_k",
+            "views": 776292,
+            "age_hours": 69.0
+          },
+          {
+            "id": "FOQl8nWihzs",
+            "title": "Fiz uma capinha para o “iPhone 18” #iphone #fake #tecnologia #entretenimento #celular #satira",
+            "channel": "RC ASSISTEC ",
+            "thumbnail": "https://i.ytimg.com/vi/FOQl8nWihzs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=FOQl8nWihzs",
+            "views": 611086,
+            "age_hours": 91.3
+          }
+        ]
+      },
+      {
+        "phrase": "vida pessoa usa",
+        "video_count": 2,
+        "momentum": 15.45,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "tIp8K20dUU8",
+            "title": "A vida da pessoa que usa óculos😂",
+            "channel": "Victor Pac",
+            "thumbnail": "https://i.ytimg.com/vi/tIp8K20dUU8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=tIp8K20dUU8",
+            "views": 13256880,
+            "age_hours": 111.4
+          },
+          {
+            "id": "1UM1uYbSa34",
+            "title": "A vida da pessoa que usa óculos😂",
+            "channel": "Victor Pac",
+            "thumbnail": "https://i.ytimg.com/vi/1UM1uYbSa34/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1UM1uYbSa34",
+            "views": 7289376,
+            "age_hours": 85.3
+          }
+        ]
+      },
+      {
+        "phrase": "pessoa usa óculos",
+        "video_count": 2,
+        "momentum": 15.45,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "tIp8K20dUU8",
+            "title": "A vida da pessoa que usa óculos😂",
+            "channel": "Victor Pac",
+            "thumbnail": "https://i.ytimg.com/vi/tIp8K20dUU8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=tIp8K20dUU8",
+            "views": 13256880,
+            "age_hours": 111.4
+          },
+          {
+            "id": "1UM1uYbSa34",
+            "title": "A vida da pessoa que usa óculos😂",
+            "channel": "Victor Pac",
+            "thumbnail": "https://i.ytimg.com/vi/1UM1uYbSa34/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1UM1uYbSa34",
+            "views": 7289376,
+            "age_hours": 85.3
+          }
+        ]
+      },
+      {
+        "phrase": "jon vlogs",
+        "video_count": 2,
+        "momentum": 8.96,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "4BoMpATk1Ks",
+            "title": "JON VLOGS NÃO AGUENTA MAIS O BAIANO XINGANDO 😂",
+            "channel": "Jon Vlogs",
+            "thumbnail": "https://i.ytimg.com/vi/4BoMpATk1Ks/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4BoMpATk1Ks",
+            "views": 110990,
+            "age_hours": 20.0
+          },
+          {
+            "id": "VlTyLqf7ysg",
+            "title": "dependendo das eleições o jon vlogs vai morar nos eua #jonvlogs #deserthon #cutpro",
+            "channel": "Hype Cortes IRL",
+            "thumbnail": "https://i.ytimg.com/vi/VlTyLqf7ysg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=VlTyLqf7ysg",
+            "views": 108231,
+            "age_hours": 131.0
+          }
+        ]
+      }
+    ],
+    "DE": [
+      {
+        "phrase": "comedy",
+        "video_count": 4,
+        "momentum": 18.3,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "DLewWfQATKk",
+            "title": "Sorry, aber Baustellen in Deutschland sind genau so… #pov #comedy #shorts",
+            "channel": "tobifas",
+            "thumbnail": "https://i.ytimg.com/vi/DLewWfQATKk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DLewWfQATKk",
+            "views": 450849,
+            "age_hours": 26.4
+          },
+          {
+            "id": "SGJWmSgMOIk",
+            "title": "Ja, sie ist wirklich die Schlauste. 🥰#bratwursthaus #currywurst #comedy #ruhrpott",
+            "channel": "Bratwursthaus",
+            "thumbnail": "https://i.ytimg.com/vi/SGJWmSgMOIk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=SGJWmSgMOIk",
+            "views": 2744922,
+            "age_hours": 92.4
+          },
+          {
+            "id": "NYNI9xlgy3Q",
+            "title": "Omg DAS sind die TOP 3 BESTEN MOMENTE!😍🥹 #marvintsp #comedy",
+            "channel": "marvintsp",
+            "thumbnail": "https://i.ytimg.com/vi/NYNI9xlgy3Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=NYNI9xlgy3Q",
+            "views": 1615700,
+            "age_hours": 95.0
+          }
+        ]
+      },
+      {
+        "phrase": "hell spin discard",
+        "video_count": 2,
+        "momentum": 12.76,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "h-5Oe9UUhAM",
+            "title": "Das 1. HELL SPIN DISCARD in EA FC 27 💀😨",
+            "channel": "GamerBrother",
+            "thumbnail": "https://i.ytimg.com/vi/h-5Oe9UUhAM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=h-5Oe9UUhAM",
+            "views": 146662,
+            "age_hours": 25.3
+          },
+          {
+            "id": "duda18q6vzE",
+            "title": "Der 1. VOLLBRUCH.. 😱💀 HELL SPIN DISCARD ist ZURÜCK 🔥 EA FC27",
+            "channel": "Tisi Schubech",
+            "thumbnail": "https://i.ytimg.com/vi/duda18q6vzE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=duda18q6vzE",
+            "views": 97872,
+            "age_hours": 24.9
+          }
+        ]
+      },
+      {
+        "phrase": "ea fc",
+        "video_count": 2,
+        "momentum": 10.58,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "h-5Oe9UUhAM",
+            "title": "Das 1. HELL SPIN DISCARD in EA FC 27 💀😨",
+            "channel": "GamerBrother",
+            "thumbnail": "https://i.ytimg.com/vi/h-5Oe9UUhAM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=h-5Oe9UUhAM",
+            "views": 146662,
+            "age_hours": 25.3
+          },
+          {
+            "id": "4xwqOepym_Q",
+            "title": "EA FC 27: DER ERSTE ELIGELLA CUP MIT DEN BESTEN ESPORTLERN UM 2.000 €🎮🏆",
+            "channel": "EliasN97",
+            "thumbnail": "https://i.ytimg.com/vi/4xwqOepym_Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=4xwqOepym_Q",
+            "views": 200952,
+            "age_hours": 25.9
+          }
+        ]
+      },
+      {
+        "phrase": "trailer german deutsch",
+        "video_count": 2,
+        "momentum": 9.68,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "GYoTOIsn5yk",
+            "title": "AMERICAN HORROR STORY Staffel 13 Trailer German Deutsch (2026) Sarah Paulson, Emma Roberts",
+            "channel": "KinoCheck",
+            "thumbnail": "https://i.ytimg.com/vi/GYoTOIsn5yk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=GYoTOIsn5yk",
+            "views": 73750,
+            "age_hours": 24.3
+          },
+          {
+            "id": "WtjLFxAGPrs",
+            "title": "DAS GROSSE ASTERIX KINO-FESTIVAL Trailer German Deutsch (2027)",
+            "channel": "KinoCheck Familie",
+            "thumbnail": "https://i.ytimg.com/vi/WtjLFxAGPrs/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=WtjLFxAGPrs",
+            "views": 13835,
+            "age_hours": 23.3
+          }
+        ]
+      }
+    ],
+    "ALL": [
+      {
+        "phrase": "gta live",
+        "video_count": 4,
+        "momentum": 26.68,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "g1dq2Znutjg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/g1dq2Znutjg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=g1dq2Znutjg",
+            "views": 4195742,
+            "age_hours": 8.3
+          },
+          {
+            "id": "s44RDIqmyfQ",
+            "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+            "channel": "BOSS GAMING",
+            "thumbnail": "https://i.ytimg.com/vi/s44RDIqmyfQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=s44RDIqmyfQ",
+            "views": 1584175,
+            "age_hours": 6.4
+          },
+          {
+            "id": "bDkwvs2eOHU",
+            "title": "🔴 GTA 5 LIVE – DON’T BLINK! SECRET MOD ACTIVATED 😺 #gtalive #gtaonline",
+            "channel": "Deep Is Live GTA",
+            "thumbnail": "https://i.ytimg.com/vi/bDkwvs2eOHU/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=bDkwvs2eOHU",
+            "views": 6164360,
+            "age_hours": 42.0
+          }
+        ]
+      },
+      {
+        "phrase": "gta live gta5",
+        "video_count": 3,
+        "momentum": 24.25,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "g1dq2Znutjg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/g1dq2Znutjg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=g1dq2Znutjg",
+            "views": 4195742,
+            "age_hours": 8.3
+          },
+          {
+            "id": "s44RDIqmyfQ",
+            "title": "GTA 5 LIVE 🔥 #gta5 #shortslive #gaming",
+            "channel": "BOSS GAMING",
+            "thumbnail": "https://i.ytimg.com/vi/s44RDIqmyfQ/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=s44RDIqmyfQ",
+            "views": 1584175,
+            "age_hours": 6.4
+          },
+          {
+            "id": "woDKkNcgKZc",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/woDKkNcgKZc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=woDKkNcgKZc",
+            "views": 3474256,
+            "age_hours": 32.8
+          }
+        ]
+      },
+      {
+        "phrase": "iphone",
+        "video_count": 5,
+        "momentum": 22.15,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "UI4Xat5hmOg",
+            "title": "Why 'Ultra Rich' THROW AWAY iPhone & Switch To Android? Apple vs Android Tech Battle #shorts",
+            "channel": "FactTechz",
+            "thumbnail": "https://i.ytimg.com/vi/UI4Xat5hmOg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UI4Xat5hmOg",
+            "views": 2586892,
+            "age_hours": 34.7
+          },
+          {
+            "id": "VOVWxIEKnVc",
+            "title": "iPhone 18 delivered in 10 mins? Blinkit vs Flipkart mins #shorts",
+            "channel": "Shreemani Tripathi",
+            "thumbnail": "https://i.ytimg.com/vi/VOVWxIEKnVc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=VOVWxIEKnVc",
+            "views": 4365913,
+            "age_hours": 290.9
+          },
+          {
+            "id": "ANbgFDUV3Y0",
+            "title": "Dont Get iPhone 18 Pro | 10 days Review | Malayalam",
+            "channel": "CallMeShazzam TECH",
+            "thumbnail": "https://i.ytimg.com/vi/ANbgFDUV3Y0/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ANbgFDUV3Y0",
+            "views": 714891,
+            "age_hours": 55.9
+          }
+        ]
+      },
+      {
+        "phrase": "celular",
+        "video_count": 4,
+        "momentum": 19.0,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "LavcIKM16bc",
+            "title": "QUAL SEU CELULAR DE ACORDO COM SUA IDADE",
+            "channel": "HenriqueJOGA",
+            "thumbnail": "https://i.ytimg.com/vi/LavcIKM16bc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=LavcIKM16bc",
+            "views": 3347255,
+            "age_hours": 165.6
+          },
+          {
+            "id": "5Jt65A2L41g",
+            "title": "Como saber se tem alguém MEXENDO NO SEU CELULAR",
+            "channel": "Giuliana Mafra",
+            "thumbnail": "https://i.ytimg.com/vi/5Jt65A2L41g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=5Jt65A2L41g",
+            "views": 4334431,
+            "age_hours": 37.4
+          },
+          {
+            "id": "3xp5320op_k",
+            "title": "fiz um celular dobravel com bateria e tudo #shorts #short #ytshorts #apple #iphone #ios #viral #fyp",
+            "channel": "Pedro Ribeiro",
+            "thumbnail": "https://i.ytimg.com/vi/3xp5320op_k/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3xp5320op_k",
+            "views": 776292,
+            "age_hours": 69.0
+          }
+        ]
+      },
+      {
+        "phrase": "comedy",
+        "video_count": 4,
+        "momentum": 18.3,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "DLewWfQATKk",
+            "title": "Sorry, aber Baustellen in Deutschland sind genau so… #pov #comedy #shorts",
+            "channel": "tobifas",
+            "thumbnail": "https://i.ytimg.com/vi/DLewWfQATKk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=DLewWfQATKk",
+            "views": 450849,
+            "age_hours": 26.4
+          },
+          {
+            "id": "SGJWmSgMOIk",
+            "title": "Ja, sie ist wirklich die Schlauste. 🥰#bratwursthaus #currywurst #comedy #ruhrpott",
+            "channel": "Bratwursthaus",
+            "thumbnail": "https://i.ytimg.com/vi/SGJWmSgMOIk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=SGJWmSgMOIk",
+            "views": 2744922,
+            "age_hours": 92.4
+          },
+          {
+            "id": "NYNI9xlgy3Q",
+            "title": "Omg DAS sind die TOP 3 BESTEN MOMENTE!😍🥹 #marvintsp #comedy",
+            "channel": "marvintsp",
+            "thumbnail": "https://i.ytimg.com/vi/NYNI9xlgy3Q/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=NYNI9xlgy3Q",
+            "views": 1615700,
+            "age_hours": 95.0
+          }
+        ]
+      },
+      {
+        "phrase": "live gta5 gtav",
+        "video_count": 2,
+        "momentum": 16.13,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "g1dq2Znutjg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/g1dq2Znutjg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=g1dq2Znutjg",
+            "views": 4195742,
+            "age_hours": 8.3
+          },
+          {
+            "id": "woDKkNcgKZc",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/woDKkNcgKZc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=woDKkNcgKZc",
+            "views": 3474256,
+            "age_hours": 32.8
+          }
+        ]
+      },
+      {
+        "phrase": "gta5 gtav gaming",
+        "video_count": 2,
+        "momentum": 16.13,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "g1dq2Znutjg",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/g1dq2Znutjg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=g1dq2Znutjg",
+            "views": 4195742,
+            "age_hours": 8.3
+          },
+          {
+            "id": "woDKkNcgKZc",
+            "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+            "channel": "PAJI IS LIVE",
+            "thumbnail": "https://i.ytimg.com/vi/woDKkNcgKZc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=woDKkNcgKZc",
+            "views": 3474256,
+            "age_hours": 32.8
+          }
+        ]
+      },
+      {
+        "phrase": "vida pessoa usa",
+        "video_count": 2,
+        "momentum": 15.45,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "tIp8K20dUU8",
+            "title": "A vida da pessoa que usa óculos😂",
+            "channel": "Victor Pac",
+            "thumbnail": "https://i.ytimg.com/vi/tIp8K20dUU8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=tIp8K20dUU8",
+            "views": 13256880,
+            "age_hours": 111.4
+          },
+          {
+            "id": "1UM1uYbSa34",
+            "title": "A vida da pessoa que usa óculos😂",
+            "channel": "Victor Pac",
+            "thumbnail": "https://i.ytimg.com/vi/1UM1uYbSa34/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1UM1uYbSa34",
+            "views": 7289376,
+            "age_hours": 85.3
+          }
+        ]
+      },
+      {
+        "phrase": "pessoa usa óculos",
+        "video_count": 2,
+        "momentum": 15.45,
+        "regions": [
+          "BR"
+        ],
+        "lang": "pt",
+        "example_videos": [
+          {
+            "id": "tIp8K20dUU8",
+            "title": "A vida da pessoa que usa óculos😂",
+            "channel": "Victor Pac",
+            "thumbnail": "https://i.ytimg.com/vi/tIp8K20dUU8/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=tIp8K20dUU8",
+            "views": 13256880,
+            "age_hours": 111.4
+          },
+          {
+            "id": "1UM1uYbSa34",
+            "title": "A vida da pessoa que usa óculos😂",
+            "channel": "Victor Pac",
+            "thumbnail": "https://i.ytimg.com/vi/1UM1uYbSa34/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=1UM1uYbSa34",
+            "views": 7289376,
+            "age_hours": 85.3
+          }
+        ]
+      },
+      {
+        "phrase": "battle shorts",
+        "video_count": 2,
+        "momentum": 13.13,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "UI4Xat5hmOg",
+            "title": "Why 'Ultra Rich' THROW AWAY iPhone & Switch To Android? Apple vs Android Tech Battle #shorts",
+            "channel": "FactTechz",
+            "thumbnail": "https://i.ytimg.com/vi/UI4Xat5hmOg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=UI4Xat5hmOg",
+            "views": 2586892,
+            "age_hours": 34.7
+          },
+          {
+            "id": "bqatZS1FT74",
+            "title": "Orange Juice वाला  Vs Portable Juice Maker: कौन जीतेगा ये Battle?⚔️ #shorts",
+            "channel": "Tech Master",
+            "thumbnail": "https://i.ytimg.com/vi/bqatZS1FT74/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=bqatZS1FT74",
+            "views": 16244417,
+            "age_hours": 142.4
+          }
+        ]
+      },
+      {
+        "phrase": "arc raiders",
+        "video_count": 2,
+        "momentum": 13.06,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "ix7x59a8t7g",
+            "title": "🔴LIVE | ARC RAIDERS | FROZEN TRAIL PREP | HUTCHMF X SUMMIT1G | TESTICULAR TORSION TUE | #BUNGULATE",
+            "channel": "TheBurntPeanut",
+            "thumbnail": "https://i.ytimg.com/vi/ix7x59a8t7g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ix7x59a8t7g",
+            "views": 1321741,
+            "age_hours": 5.6
+          },
+          {
+            "id": "KjiJDylLdZA",
+            "title": "Frozen Trail Launch Trailer | ARC Raiders",
+            "channel": "ARC Raiders",
+            "thumbnail": "https://i.ytimg.com/vi/KjiJDylLdZA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KjiJDylLdZA",
+            "views": 502933,
+            "age_hours": 20.3
+          }
+        ]
+      },
+      {
+        "phrase": "frozen trail",
+        "video_count": 2,
+        "momentum": 13.06,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "ix7x59a8t7g",
+            "title": "🔴LIVE | ARC RAIDERS | FROZEN TRAIL PREP | HUTCHMF X SUMMIT1G | TESTICULAR TORSION TUE | #BUNGULATE",
+            "channel": "TheBurntPeanut",
+            "thumbnail": "https://i.ytimg.com/vi/ix7x59a8t7g/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ix7x59a8t7g",
+            "views": 1321741,
+            "age_hours": 5.6
+          },
+          {
+            "id": "KjiJDylLdZA",
+            "title": "Frozen Trail Launch Trailer | ARC Raiders",
+            "channel": "ARC Raiders",
+            "thumbnail": "https://i.ytimg.com/vi/KjiJDylLdZA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KjiJDylLdZA",
+            "views": 502933,
+            "age_hours": 20.3
+          }
+        ]
+      },
+      {
+        "phrase": "bhojpuri song",
+        "video_count": 2,
+        "momentum": 13.05,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "hpNimBHa1zI",
+            "title": "Pawan Singh New Song 2026 | Bihari Ke Dum | Srishti Bharti | Neelam Giri | Bhojpuri Song",
+            "channel": "Saregama Hum Bhojpuri",
+            "thumbnail": "https://i.ytimg.com/vi/hpNimBHa1zI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=hpNimBHa1zI",
+            "views": 3649263,
+            "age_hours": 34.9
+          },
+          {
+            "id": "ImcoG8j-1DA",
+            "title": "🔥 DHORI PE NIMBU | AASHISH YADAV & SHWETA SARGAM | NEW BHOJPURI SONG 2026 🔥 FT. KANISHKA CHAUDHARY",
+            "channel": "T-Series Hamaar Bhojpuri",
+            "thumbnail": "https://i.ytimg.com/vi/ImcoG8j-1DA/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=ImcoG8j-1DA",
+            "views": 1334416,
+            "age_hours": 58.9
+          }
+        ]
+      },
+      {
+        "phrase": "free fire",
+        "video_count": 2,
+        "momentum": 12.81,
+        "regions": [
+          "IN"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "3NWg5A99azc",
+            "title": "🔴 LIVE | Top 1 Grandmaster Push 🔥 | Free Fire Shorts Live #shorts  #shortslive  #freefire",
+            "channel": "Senior Bhai",
+            "thumbnail": "https://i.ytimg.com/vi/3NWg5A99azc/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3NWg5A99azc",
+            "views": 1147007,
+            "age_hours": 7.3
+          },
+          {
+            "id": "0Y9mpWNwMKE",
+            "title": "🌿FREE FIRE LIVE🌿PLAYING BR-RANKED😎2X AWM SPEED GAME PLAY 🎮🎯 ON LIVE - GARENA FREE FIRE",
+            "channel": "DAD I AM OK GAMING",
+            "thumbnail": "https://i.ytimg.com/vi/0Y9mpWNwMKE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=0Y9mpWNwMKE",
+            "views": 1325215,
+            "age_hours": 14.7
+          }
+        ]
+      },
+      {
+        "phrase": "hell spin discard",
+        "video_count": 2,
+        "momentum": 12.76,
+        "regions": [
+          "DE"
+        ],
+        "lang": "de",
+        "example_videos": [
+          {
+            "id": "h-5Oe9UUhAM",
+            "title": "Das 1. HELL SPIN DISCARD in EA FC 27 💀😨",
+            "channel": "GamerBrother",
+            "thumbnail": "https://i.ytimg.com/vi/h-5Oe9UUhAM/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=h-5Oe9UUhAM",
+            "views": 146662,
+            "age_hours": 25.3
+          },
+          {
+            "id": "duda18q6vzE",
+            "title": "Der 1. VOLLBRUCH.. 😱💀 HELL SPIN DISCARD ist ZURÜCK 🔥 EA FC27",
+            "channel": "Tisi Schubech",
+            "thumbnail": "https://i.ytimg.com/vi/duda18q6vzE/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=duda18q6vzE",
+            "views": 97872,
+            "age_hours": 24.9
+          }
+        ]
+      },
+      {
+        "phrase": "shopping",
+        "video_count": 4,
+        "momentum": 12.41,
+        "regions": [
+          "GB"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "KjwV-D7tiGk",
+            "title": "Hardcore Teen Shopping Day in Sheffield!",
+            "channel": "The Ingham Family",
+            "thumbnail": "https://i.ytimg.com/vi/KjwV-D7tiGk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=KjwV-D7tiGk",
+            "views": 21796,
+            "age_hours": 19.2
+          },
+          {
+            "id": "jyl3JIhpbOg",
+            "title": "weekly vlog: catch up, tkmaxx home shopping and decorating",
+            "channel": "livvy dimartino",
+            "thumbnail": "https://i.ytimg.com/vi/jyl3JIhpbOg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=jyl3JIhpbOg",
+            "views": 171809,
+            "age_hours": 211.4
+          },
+          {
+            "id": "IKfrULWcGdI",
+            "title": "SPEND AN AUTUMN WEEK WITH ME | BEDROOM TRANSFORMATION, BAKING, SHOPPING & PR UNBOXINGS",
+            "channel": "Jordan Lipscombe",
+            "thumbnail": "https://i.ytimg.com/vi/IKfrULWcGdI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=IKfrULWcGdI",
+            "views": 139967,
+            "age_hours": 187.3
+          }
+        ]
+      },
+      {
+        "phrase": "noads tiktok",
+        "video_count": 2,
+        "momentum": 11.9,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "w2OuOI4hzi4",
+            "title": "iPhone 18 Pro Max Dark Cherry #noads #tiktok #usashortsfeeds",
+            "channel": "Midi Gamer",
+            "thumbnail": "https://i.ytimg.com/vi/w2OuOI4hzi4/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=w2OuOI4hzi4",
+            "views": 4988704,
+            "age_hours": 78.4
+          },
+          {
+            "id": "_Z70Zsp_uiI",
+            "title": "Samsung Galaxy S27 Ultra Cobalt Violet📱🔥#noads #tiktok #usa",
+            "channel": "MrCappuccino Memes",
+            "thumbnail": "https://i.ytimg.com/vi/_Z70Zsp_uiI/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=_Z70Zsp_uiI",
+            "views": 4364763,
+            "age_hours": 110.3
+          }
+        ]
+      },
+      {
+        "phrase": "i made",
+        "video_count": 2,
+        "momentum": 11.87,
+        "regions": [
+          "US"
+        ],
+        "lang": "en",
+        "example_videos": [
+          {
+            "id": "3Iul3C93NFg",
+            "title": "I made Evil Custom Moons in Mario Odyssey",
+            "channel": "SmallAnt",
+            "thumbnail": "https://i.ytimg.com/vi/3Iul3C93NFg/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=3Iul3C93NFg",
+            "views": 230304,
+            "age_hours": 10.2
+          },
+          {
+            "id": "aaGyayYKfMk",
+            "title": "I made an Automatic stoplight for introverts ChatGPT #ChatGPT_Partner",
+            "channel": "ForgeCore",
+            "thumbnail": "https://i.ytimg.com/vi/aaGyayYKfMk/mqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=aaGyayYKfMk",
+            "views": 1690710,
+            "age_hours": 43.0
           }
         ]
       }
@@ -2150,91 +2358,110 @@
   },
   "trending_searches": [
     {
-      "phrase": "how to tie a tie",
+      "phrase": "why do birds suddenly appear",
+      "prefix": "why do",
+      "rank": 1,
+      "first_seen_at": "2026-10-07T12:21:45.526807+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why does he call you darling",
+      "prefix": "why does",
+      "rank": 1,
+      "first_seen_at": "2026-10-07T12:21:45.526807+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "what happened to virgil",
+      "prefix": "what happened",
+      "rank": 1,
+      "first_seen_at": "2026-10-07T12:21:45.526807+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "best build 2k26",
+      "prefix": "best",
+      "rank": 1,
+      "first_seen_at": "2026-10-07T12:21:45.526807+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "topoppgen",
+      "prefix": "top",
+      "rank": 1,
+      "first_seen_at": "2026-10-07T12:21:45.526807+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "is it a crime mariah the scientist",
+      "prefix": "is it",
+      "rank": 1,
+      "first_seen_at": "2026-10-07T12:21:45.526807+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "should i stay or should i go",
+      "prefix": "should i",
+      "rank": 1,
+      "first_seen_at": "2026-10-07T12:21:45.526807+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "can you stand the rain new edition",
+      "prefix": "can you",
+      "rank": 1,
+      "first_seen_at": "2026-10-07T12:21:45.526807+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "how to draw",
       "prefix": "how to",
-      "rank": 1,
-      "first_seen_at": "2026-10-07T03:28:11.590932+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how do i say goodbye dean lewis",
-      "prefix": "how do",
-      "rank": 1,
-      "first_seen_at": "2026-10-07T03:28:11.590932+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how does it feel d'angelo",
-      "prefix": "how does",
-      "rank": 1,
-      "first_seen_at": "2026-10-07T03:28:11.590932+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "why is it spicy",
-      "prefix": "why is",
-      "rank": 1,
-      "first_seen_at": "2026-10-07T03:28:11.590932+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what is this diddy blud doing on the calculator",
-      "prefix": "what is",
-      "rank": 1,
-      "first_seen_at": "2026-10-07T03:28:11.590932+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what are you listening to chris stapleton",
-      "prefix": "what are",
-      "rank": 1,
-      "first_seen_at": "2026-10-07T03:28:11.590932+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "worst way riley green",
-      "prefix": "worst",
-      "rank": 1,
-      "first_seen_at": "2026-10-07T03:28:11.590932+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "how does it feel",
-      "prefix": "how does",
       "rank": 2,
-      "first_seen_at": "2026-10-07T03:28:11.590932+00:00",
+      "first_seen_at": "2026-10-07T12:21:45.526807+00:00",
       "is_new": true
     },
     {
-      "phrase": "why does it hurt to love you",
+      "phrase": "why is my bus driver playing mitski",
+      "prefix": "why is",
+      "rank": 2,
+      "first_seen_at": "2026-10-07T12:21:45.526807+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why don't we fall in love",
+      "prefix": "why do",
+      "rank": 2,
+      "first_seen_at": "2026-10-07T12:21:45.526807+00:00",
+      "is_new": true
+    },
+    {
+      "phrase": "why does it hurt so bad whitney houston",
       "prefix": "why does",
       "rank": 2,
-      "first_seen_at": "2026-10-07T03:28:11.590932+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what is love",
-      "prefix": "what is",
-      "rank": 2,
-      "first_seen_at": "2026-10-07T03:28:11.590932+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "what are those",
-      "prefix": "what are",
-      "rank": 2,
-      "first_seen_at": "2026-10-07T03:28:11.590932+00:00",
-      "is_new": true
-    },
-    {
-      "phrase": "best part",
-      "prefix": "best",
-      "rank": 2,
-      "first_seen_at": "2026-10-07T03:28:11.590932+00:00",
+      "first_seen_at": "2026-10-07T12:21:45.526807+00:00",
       "is_new": true
     }
   ],
   "breakout_videos": [
+    {
+      "id": "pqrY8UsRI3w",
+      "title": "Insta Pe Tharki (Official Video) Ajay Hooda | Vijay Varma | New Haryanvi Song 2026",
+      "channel": "Ajay Hooda",
+      "channel_id": "UCV7XiN_H4Vf375SPIGfoxMw",
+      "thumbnail": "https://i.ytimg.com/vi/pqrY8UsRI3w/mqdefault.jpg",
+      "published_at": "2026-10-06T04:35:09Z",
+      "category_id": "10",
+      "views": 2702177,
+      "likes": 40966,
+      "comments": 1018657,
+      "age_hours": 31.8,
+      "views_per_hour": 85041,
+      "momentum": 23.663,
+      "url": "https://www.youtube.com/watch?v=pqrY8UsRI3w",
+      "region": "IN",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
     {
       "id": "plN7JMbadRg",
       "title": "Eat Everything In A Grocery Store, Win $1,000,000",
@@ -2243,15 +2470,53 @@
       "thumbnail": "https://i.ytimg.com/vi/plN7JMbadRg/mqdefault.jpg",
       "published_at": "2026-10-03T16:00:01Z",
       "category_id": "24",
-      "views": 141674107,
-      "likes": 2968624,
-      "comments": 112137,
-      "age_hours": 83.5,
-      "views_per_hour": 1697382,
-      "momentum": 6.54,
+      "views": 149359742,
+      "likes": 3054345,
+      "comments": 114977,
+      "age_hours": 92.4,
+      "views_per_hour": 1617158,
+      "momentum": 6.51,
       "url": "https://www.youtube.com/watch?v=plN7JMbadRg",
       "region": "US",
       "category": "Entertainment",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "0biCLgoY9JA",
+      "title": "New Phone Bana Diya 😍 GIVEAWAY ",
+      "channel": "Sourav Joshi Vlogs",
+      "channel_id": "UCjvgGbPPn-FgYeguc5nxG4A",
+      "thumbnail": "https://i.ytimg.com/vi/0biCLgoY9JA/mqdefault.jpg",
+      "published_at": "2026-10-07T02:30:05Z",
+      "category_id": "22",
+      "views": 4604208,
+      "likes": 124596,
+      "comments": 33156,
+      "age_hours": 9.9,
+      "views_per_hour": 466976,
+      "momentum": 6.384,
+      "url": "https://www.youtube.com/watch?v=0biCLgoY9JA",
+      "region": "IN",
+      "category": "People & Blogs",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "l85TVfe-wo0",
+      "title": "The Bathroom Mode 😏 (Patent Pending)",
+      "channel": "Zack D. Films",
+      "channel_id": "UCvz84_Q0BbvZThy75mbd-Dg",
+      "thumbnail": "https://i.ytimg.com/vi/l85TVfe-wo0/mqdefault.jpg",
+      "published_at": "2026-10-06T17:30:02Z",
+      "category_id": "19",
+      "views": 6409798,
+      "likes": 391732,
+      "comments": 3743,
+      "age_hours": 18.9,
+      "views_per_hour": 339862,
+      "momentum": 6.24,
+      "url": "https://www.youtube.com/watch?v=l85TVfe-wo0",
+      "region": "AU",
+      "category": "Other",
       "_detected_lang": "en"
     },
     {
@@ -2262,14 +2527,14 @@
       "thumbnail": "https://i.ytimg.com/vi/gB8slBPlOjc/mqdefault.jpg",
       "published_at": "2026-10-05T19:00:11Z",
       "category_id": "20",
-      "views": 2295600,
-      "likes": 216093,
-      "comments": 22989,
-      "age_hours": 32.5,
-      "views_per_hour": 70714,
-      "momentum": 6.248,
+      "views": 2454806,
+      "likes": 223166,
+      "comments": 23483,
+      "age_hours": 41.4,
+      "views_per_hour": 59356,
+      "momentum": 6.098,
       "url": "https://www.youtube.com/watch?v=gB8slBPlOjc",
-      "region": "US",
+      "region": "CA",
       "category": "Gaming",
       "_detected_lang": "en"
     },
@@ -2281,12 +2546,12 @@
       "thumbnail": "https://i.ytimg.com/vi/IpdcPTwKjD0/mqdefault.jpg",
       "published_at": "2026-10-05T23:40:57Z",
       "category_id": "22",
-      "views": 5290494,
-      "likes": 435054,
-      "comments": 3448,
-      "age_hours": 27.8,
-      "views_per_hour": 190415,
-      "momentum": 6.182,
+      "views": 6010405,
+      "likes": 461560,
+      "comments": 3618,
+      "age_hours": 36.7,
+      "views_per_hour": 163873,
+      "momentum": 6.047,
       "url": "https://www.youtube.com/watch?v=IpdcPTwKjD0",
       "region": "US",
       "category": "People & Blogs",
@@ -2300,12 +2565,12 @@
       "thumbnail": "https://i.ytimg.com/vi/bJkVNDRksDY/mqdefault.jpg",
       "published_at": "2026-10-03T15:58:16Z",
       "category_id": "22",
-      "views": 46199828,
-      "likes": 991808,
-      "comments": 3755,
-      "age_hours": 83.5,
-      "views_per_hour": 553322,
-      "momentum": 5.994,
+      "views": 48543254,
+      "likes": 1031167,
+      "comments": 3948,
+      "age_hours": 92.4,
+      "views_per_hour": 525425,
+      "momentum": 5.968,
       "url": "https://www.youtube.com/watch?v=bJkVNDRksDY",
       "region": "US",
       "category": "People & Blogs",
@@ -2319,53 +2584,15 @@
       "thumbnail": "https://i.ytimg.com/vi/FW_PPcr1sPE/mqdefault.jpg",
       "published_at": "2026-10-05T12:29:17Z",
       "category_id": "24",
-      "views": 14582969,
-      "likes": 426302,
-      "comments": 24525,
-      "age_hours": 39.0,
-      "views_per_hour": 374132,
-      "momentum": 5.993,
+      "views": 15266306,
+      "likes": 434384,
+      "comments": 25106,
+      "age_hours": 47.9,
+      "views_per_hour": 318900,
+      "momentum": 5.907,
       "url": "https://www.youtube.com/watch?v=FW_PPcr1sPE",
-      "region": "US",
+      "region": "GB",
       "category": "Entertainment",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "8t8YBu7bdT0",
-      "title": "Escaping Terminus: The Deadliest Minecraft Prison",
-      "channel": "FlameFrags",
-      "channel_id": "UCvYPobTo42NM36X7VC4dLhA",
-      "thumbnail": "https://i.ytimg.com/vi/8t8YBu7bdT0/mqdefault.jpg",
-      "published_at": "2026-10-06T13:00:07Z",
-      "category_id": "20",
-      "views": 2303417,
-      "likes": 97809,
-      "comments": 14888,
-      "age_hours": 14.5,
-      "views_per_hour": 159248,
-      "momentum": 5.98,
-      "url": "https://www.youtube.com/watch?v=8t8YBu7bdT0",
-      "region": "US",
-      "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "RJzspH1rAbc",
-      "title": "GOING BACK TO SCHOOL! 📚🏫",
-      "channel": "IShowSpeed",
-      "channel_id": "UCWsDFcIhY2DBi3GB5uykGXA",
-      "thumbnail": "https://i.ytimg.com/vi/RJzspH1rAbc/mqdefault.jpg",
-      "published_at": "2026-10-06T21:51:09Z",
-      "category_id": "20",
-      "views": 2640351,
-      "likes": 44404,
-      "comments": 358,
-      "age_hours": 5.6,
-      "views_per_hour": 470333,
-      "momentum": 5.871,
-      "url": "https://www.youtube.com/watch?v=RJzspH1rAbc",
-      "region": "US",
-      "category": "Gaming",
       "_detected_lang": "en"
     },
     {
@@ -2376,16 +2603,73 @@
       "thumbnail": "https://i.ytimg.com/vi/MSPVq-5sbCg/mqdefault.jpg",
       "published_at": "2026-10-04T19:00:18Z",
       "category_id": "19",
-      "views": 19836796,
-      "likes": 485301,
-      "comments": 5030,
-      "age_hours": 56.5,
-      "views_per_hour": 351333,
-      "momentum": 5.831,
+      "views": 21561800,
+      "likes": 510950,
+      "comments": 5183,
+      "age_hours": 65.4,
+      "views_per_hour": 329920,
+      "momentum": 5.793,
       "url": "https://www.youtube.com/watch?v=MSPVq-5sbCg",
       "region": "US",
       "category": "Other",
       "_detected_lang": "en"
+    },
+    {
+      "id": "hpNimBHa1zI",
+      "title": "Pawan Singh New Song 2026 | Bihari Ke Dum | Srishti Bharti | Neelam Giri | Bhojpuri Song",
+      "channel": "Saregama Hum Bhojpuri",
+      "channel_id": "UC0J8BQahplvTY6LjlnLf_NQ",
+      "thumbnail": "https://i.ytimg.com/vi/hpNimBHa1zI/mqdefault.jpg",
+      "published_at": "2026-10-06T01:30:07Z",
+      "category_id": "10",
+      "views": 3649263,
+      "likes": 146219,
+      "comments": 25409,
+      "age_hours": 34.9,
+      "views_per_hour": 104687,
+      "momentum": 5.772,
+      "url": "https://www.youtube.com/watch?v=hpNimBHa1zI",
+      "region": "IN",
+      "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "8t8YBu7bdT0",
+      "title": "Escaping Terminus: The Deadliest Minecraft Prison",
+      "channel": "FlameFrags",
+      "channel_id": "UCvYPobTo42NM36X7VC4dLhA",
+      "thumbnail": "https://i.ytimg.com/vi/8t8YBu7bdT0/mqdefault.jpg",
+      "published_at": "2026-10-06T13:00:07Z",
+      "category_id": "20",
+      "views": 2927323,
+      "likes": 111075,
+      "comments": 16386,
+      "age_hours": 23.4,
+      "views_per_hour": 125327,
+      "momentum": 5.77,
+      "url": "https://www.youtube.com/watch?v=8t8YBu7bdT0",
+      "region": "US",
+      "category": "Gaming",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "ypeS-TGeCFo",
+      "title": "Tipo Minato V2⚡️| Kurama Mode | (Naruto) Style Trap | MHRAP",
+      "channel": "MHRAP",
+      "channel_id": "UC_4PRrKey0iv18cqHuj9CLA",
+      "thumbnail": "https://i.ytimg.com/vi/ypeS-TGeCFo/mqdefault.jpg",
+      "published_at": "2026-10-06T21:00:10Z",
+      "category_id": "10",
+      "views": 176128,
+      "likes": 23703,
+      "comments": 2613,
+      "age_hours": 15.4,
+      "views_per_hour": 11468,
+      "momentum": 5.754,
+      "url": "https://www.youtube.com/watch?v=ypeS-TGeCFo",
+      "region": "BR",
+      "category": "Other",
+      "_detected_lang": "pt"
     },
     {
       "id": "Nt0xBGqTcVk",
@@ -2395,110 +2679,34 @@
       "thumbnail": "https://i.ytimg.com/vi/Nt0xBGqTcVk/mqdefault.jpg",
       "published_at": "2026-10-06T09:33:32Z",
       "category_id": "23",
-      "views": 5448311,
-      "likes": 152462,
-      "comments": 2685,
-      "age_hours": 17.9,
-      "views_per_hour": 304218,
-      "momentum": 5.817,
+      "views": 6669135,
+      "likes": 191332,
+      "comments": 3118,
+      "age_hours": 26.8,
+      "views_per_hour": 248829,
+      "momentum": 5.731,
       "url": "https://www.youtube.com/watch?v=Nt0xBGqTcVk",
       "region": "IN",
       "category": "Comedy",
       "_detected_lang": "en"
     },
     {
-      "id": "RXFA6LT7osw",
-      "title": "GURU RANDHAWA - \"FOSHO\" - MV - BHUSHAN KUMAR",
-      "channel": "T-Series",
-      "channel_id": "UCq-Fj5jknLsUf-MWSy4_brA",
-      "thumbnail": "https://i.ytimg.com/vi/RXFA6LT7osw/mqdefault.jpg",
-      "published_at": "2026-10-06T05:30:05Z",
-      "category_id": "10",
-      "views": 6924146,
-      "likes": 108153,
-      "comments": 7375,
-      "age_hours": 22.0,
-      "views_per_hour": 315226,
-      "momentum": 5.729,
-      "url": "https://www.youtube.com/watch?v=RXFA6LT7osw",
-      "region": "CA",
-      "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "8tVozXGS33k",
-      "title": "I’m gonna start handing out PCs",
-      "channel": "CarterPCs",
-      "channel_id": "UCi7wDE2ZTiR5QYYrUY5WhtA",
-      "thumbnail": "https://i.ytimg.com/vi/8tVozXGS33k/mqdefault.jpg",
-      "published_at": "2026-10-06T00:35:54Z",
-      "category_id": "22",
-      "views": 3724337,
-      "likes": 160717,
-      "comments": 8989,
-      "age_hours": 26.9,
-      "views_per_hour": 138615,
-      "momentum": 5.71,
-      "url": "https://www.youtube.com/watch?v=8tVozXGS33k",
-      "region": "US",
-      "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "D2Ej0fXFReQ",
-      "title": "SPECIALIST'S INSPECT MY $1.7M BROKEN YACHT",
-      "channel": "Mat Armstrong",
-      "channel_id": "UCcLYOTz3ct6_lk9iLToxxAw",
-      "thumbnail": "https://i.ytimg.com/vi/D2Ej0fXFReQ/mqdefault.jpg",
-      "published_at": "2026-10-04T17:00:13Z",
-      "category_id": "2",
-      "views": 11780481,
-      "likes": 330686,
-      "comments": 20783,
-      "age_hours": 58.5,
-      "views_per_hour": 201502,
-      "momentum": 5.696,
-      "url": "https://www.youtube.com/watch?v=D2Ej0fXFReQ",
-      "region": "GB",
-      "category": "Other",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "8T3sqnU_J3Q",
-      "title": "ESL Pro League Season 24 - Day 4 - Stream A - Full show",
-      "channel": "ESL Counter-Strike",
-      "channel_id": "UCPq2ETz4aAGo2Z-8JisDPIA",
-      "thumbnail": "https://i.ytimg.com/vi/8T3sqnU_J3Q/mqdefault.jpg",
-      "published_at": "2026-10-06T23:25:23Z",
+      "id": "g1dq2Znutjg",
+      "title": "GTA 5 LIVE  #gta5 #gtav #gaming",
+      "channel": "PAJI IS LIVE",
+      "channel_id": "UCDFCpzs71ziH52_FcL2eTNA",
+      "thumbnail": "https://i.ytimg.com/vi/g1dq2Znutjg/mqdefault.jpg",
+      "published_at": "2026-10-07T04:04:03Z",
       "category_id": "20",
-      "views": 1711191,
-      "likes": 9312,
-      "comments": 12,
-      "age_hours": 4.0,
-      "views_per_hour": 423179,
-      "momentum": 5.688,
-      "url": "https://www.youtube.com/watch?v=8T3sqnU_J3Q",
-      "region": "GB",
+      "views": 4195742,
+      "likes": 4196,
+      "comments": 0,
+      "age_hours": 8.3,
+      "views_per_hour": 505924,
+      "momentum": 5.715,
+      "url": "https://www.youtube.com/watch?v=g1dq2Znutjg",
+      "region": "IN",
       "category": "Gaming",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "rZPvGAiRYlo",
-      "title": "Our family is growing 💚",
-      "channel": "Chef Tyler",
-      "channel_id": "UCFhMOIr1FZNaLwHXNIkBMSg",
-      "thumbnail": "https://i.ytimg.com/vi/rZPvGAiRYlo/mqdefault.jpg",
-      "published_at": "2026-10-04T12:41:11Z",
-      "category_id": "22",
-      "views": 13453019,
-      "likes": 416912,
-      "comments": 3928,
-      "age_hours": 62.8,
-      "views_per_hour": 214288,
-      "momentum": 5.677,
-      "url": "https://www.youtube.com/watch?v=rZPvGAiRYlo",
-      "region": "US",
-      "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
@@ -2509,53 +2717,72 @@
       "thumbnail": "https://i.ytimg.com/vi/LsJlzH9ihIo/mqdefault.jpg",
       "published_at": "2026-10-02T07:00:27Z",
       "category_id": "23",
-      "views": 33519932,
-      "likes": 645225,
-      "comments": 646,
-      "age_hours": 116.5,
-      "views_per_hour": 287826,
-      "momentum": 5.67,
+      "views": 35304386,
+      "likes": 679317,
+      "comments": 684,
+      "age_hours": 125.4,
+      "views_per_hour": 281642,
+      "momentum": 5.66,
       "url": "https://www.youtube.com/watch?v=LsJlzH9ihIo",
       "region": "US",
       "category": "Comedy",
       "_detected_lang": "en"
     },
     {
-      "id": "fV9rheIAddk",
-      "title": "GRIEF VERIFIED",
-      "channel": "Doggie",
-      "channel_id": "UC3ZhM0fDxU9bqqlwWRMHwuw",
-      "thumbnail": "https://i.ytimg.com/vi/fV9rheIAddk/mqdefault.jpg",
-      "published_at": "2026-10-05T03:32:15Z",
-      "category_id": "20",
-      "views": 2875747,
-      "likes": 168968,
-      "comments": 19709,
-      "age_hours": 47.9,
-      "views_per_hour": 59999,
-      "momentum": 5.667,
-      "url": "https://www.youtube.com/watch?v=fV9rheIAddk",
-      "region": "AU",
-      "category": "Gaming",
+      "id": "D2Ej0fXFReQ",
+      "title": "SPECIALIST'S INSPECT MY $1.7M BROKEN YACHT",
+      "channel": "Mat Armstrong",
+      "channel_id": "UCcLYOTz3ct6_lk9iLToxxAw",
+      "thumbnail": "https://i.ytimg.com/vi/D2Ej0fXFReQ/mqdefault.jpg",
+      "published_at": "2026-10-04T17:00:13Z",
+      "category_id": "2",
+      "views": 12064919,
+      "likes": 334759,
+      "comments": 20991,
+      "age_hours": 67.4,
+      "views_per_hour": 179121,
+      "momentum": 5.636,
+      "url": "https://www.youtube.com/watch?v=D2Ej0fXFReQ",
+      "region": "GB",
+      "category": "Other",
       "_detected_lang": "en"
     },
     {
-      "id": "EGsAbe15tkg",
-      "title": "الرجل العنكبوت انقاذ باتمان Spider-Man Rescue batman vs iron man vs venom funny Game GTA 5 superhero",
-      "channel": "GTA HYPE",
-      "channel_id": "UCj9LqhHxYUOU6_J4Z3x7lKw",
-      "thumbnail": "https://i.ytimg.com/vi/EGsAbe15tkg/mqdefault.jpg",
-      "published_at": "2026-10-06T10:00:10Z",
+      "id": "RXFA6LT7osw",
+      "title": "GURU RANDHAWA - \"FOSHO\" - MV - BHUSHAN KUMAR",
+      "channel": "T-Series",
+      "channel_id": "UCq-Fj5jknLsUf-MWSy4_brA",
+      "thumbnail": "https://i.ytimg.com/vi/RXFA6LT7osw/mqdefault.jpg",
+      "published_at": "2026-10-06T05:30:05Z",
       "category_id": "10",
-      "views": 1749699,
-      "likes": 92126,
-      "comments": 4872,
-      "age_hours": 17.5,
-      "views_per_hour": 100183,
-      "momentum": 5.667,
-      "url": "https://www.youtube.com/watch?v=EGsAbe15tkg",
-      "region": "IN",
+      "views": 7920207,
+      "likes": 113427,
+      "comments": 10562,
+      "age_hours": 30.9,
+      "views_per_hour": 256660,
+      "momentum": 5.636,
+      "url": "https://www.youtube.com/watch?v=RXFA6LT7osw",
+      "region": "CA",
       "category": "Other",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "rZPvGAiRYlo",
+      "title": "Our family is growing 💚",
+      "channel": "Chef Tyler",
+      "channel_id": "UCFhMOIr1FZNaLwHXNIkBMSg",
+      "thumbnail": "https://i.ytimg.com/vi/rZPvGAiRYlo/mqdefault.jpg",
+      "published_at": "2026-10-04T12:41:11Z",
+      "category_id": "22",
+      "views": 14052592,
+      "likes": 434148,
+      "comments": 4024,
+      "age_hours": 71.7,
+      "views_per_hour": 196065,
+      "momentum": 5.635,
+      "url": "https://www.youtube.com/watch?v=rZPvGAiRYlo",
+      "region": "US",
+      "category": "People & Blogs",
       "_detected_lang": "en"
     },
     {
@@ -2566,53 +2793,34 @@
       "thumbnail": "https://i.ytimg.com/vi/p52mbzhBsfw/mqdefault.jpg",
       "published_at": "2026-10-06T08:30:05Z",
       "category_id": "22",
-      "views": 2757505,
-      "likes": 117319,
-      "comments": 3207,
-      "age_hours": 19.0,
-      "views_per_hour": 145386,
-      "momentum": 5.662,
+      "views": 3881907,
+      "likes": 157003,
+      "comments": 4040,
+      "age_hours": 27.9,
+      "views_per_hour": 139338,
+      "momentum": 5.614,
       "url": "https://www.youtube.com/watch?v=p52mbzhBsfw",
       "region": "IN",
       "category": "People & Blogs",
       "_detected_lang": "es"
     },
     {
-      "id": "Az9tjEVxg4c",
-      "title": "Escondi SQUISHY dentro do CONDOMÍNIO",
-      "channel": "LuCr4zy",
-      "channel_id": "UCgxo9qPbDjEBTqlNRl8zRDg",
-      "thumbnail": "https://i.ytimg.com/vi/Az9tjEVxg4c/mqdefault.jpg",
-      "published_at": "2026-10-04T13:47:28Z",
+      "id": "pfsb_z4AXoo",
+      "title": "Can The World’s Strongest Man Break Out Of Prison?",
+      "channel": "Topper Guild",
+      "channel_id": "UCPuEAY09CtdTzFNWuqVZgDw",
+      "thumbnail": "https://i.ytimg.com/vi/pfsb_z4AXoo/mqdefault.jpg",
+      "published_at": "2026-09-30T12:00:08Z",
       "category_id": "24",
-      "views": 14573437,
-      "likes": 372992,
-      "comments": 644,
-      "age_hours": 61.7,
-      "views_per_hour": 236283,
-      "momentum": 5.651,
-      "url": "https://www.youtube.com/watch?v=Az9tjEVxg4c",
-      "region": "BR",
+      "views": 47082497,
+      "likes": 699154,
+      "comments": 937,
+      "age_hours": 168.4,
+      "views_per_hour": 279656,
+      "momentum": 5.609,
+      "url": "https://www.youtube.com/watch?v=pfsb_z4AXoo",
+      "region": "IN",
       "category": "Entertainment",
-      "_detected_lang": "pt"
-    },
-    {
-      "id": "595o8xFVU6I",
-      "title": "Bro knew what the real win was 🥹",
-      "channel": "Glipz",
-      "channel_id": "UCaqeTDzt1vEt430zzdRQjKQ",
-      "thumbnail": "https://i.ytimg.com/vi/595o8xFVU6I/mqdefault.jpg",
-      "published_at": "2026-10-03T20:30:05Z",
-      "category_id": "23",
-      "views": 13225874,
-      "likes": 486373,
-      "comments": 6274,
-      "age_hours": 79.0,
-      "views_per_hour": 167490,
-      "momentum": 5.633,
-      "url": "https://www.youtube.com/watch?v=595o8xFVU6I",
-      "region": "US",
-      "category": "Comedy",
       "_detected_lang": "en"
     },
     {
@@ -2623,53 +2831,15 @@
       "thumbnail": "https://i.ytimg.com/vi/tP_x_ctVz3Y/mqdefault.jpg",
       "published_at": "2026-10-03T16:00:12Z",
       "category_id": "22",
-      "views": 25910681,
-      "likes": 284998,
-      "comments": 9431,
-      "age_hours": 83.5,
-      "views_per_hour": 310444,
-      "momentum": 5.633,
+      "views": 27153522,
+      "likes": 295745,
+      "comments": 8656,
+      "age_hours": 92.4,
+      "views_per_hour": 294008,
+      "momentum": 5.605,
       "url": "https://www.youtube.com/watch?v=tP_x_ctVz3Y",
       "region": "US",
       "category": "People & Blogs",
-      "_detected_lang": "en"
-    },
-    {
-      "id": "5vdzBxLjVqU",
-      "title": "Eu no meu dia mais sortuda😂",
-      "channel": "Gigi Rayegilla",
-      "channel_id": "UC3iul90_Pn2eij4ohlUZRdg",
-      "thumbnail": "https://i.ytimg.com/vi/5vdzBxLjVqU/mqdefault.jpg",
-      "published_at": "2026-10-06T15:02:49Z",
-      "category_id": "22",
-      "views": 3681605,
-      "likes": 52019,
-      "comments": 131,
-      "age_hours": 12.4,
-      "views_per_hour": 296376,
-      "momentum": 5.628,
-      "url": "https://www.youtube.com/watch?v=5vdzBxLjVqU",
-      "region": "BR",
-      "category": "People & Blogs",
-      "_detected_lang": "pt"
-    },
-    {
-      "id": "pfsb_z4AXoo",
-      "title": "Can The World’s Strongest Man Break Out Of Prison?",
-      "channel": "Topper Guild",
-      "channel_id": "UCPuEAY09CtdTzFNWuqVZgDw",
-      "thumbnail": "https://i.ytimg.com/vi/pfsb_z4AXoo/mqdefault.jpg",
-      "published_at": "2026-09-30T12:00:08Z",
-      "category_id": "24",
-      "views": 46119858,
-      "likes": 688465,
-      "comments": 930,
-      "age_hours": 159.5,
-      "views_per_hour": 289215,
-      "momentum": 5.625,
-      "url": "https://www.youtube.com/watch?v=pfsb_z4AXoo",
-      "region": "IN",
-      "category": "Entertainment",
       "_detected_lang": "en"
     },
     {
@@ -2680,15 +2850,53 @@
       "thumbnail": "https://i.ytimg.com/vi/1xI_lsZ4sxI/mqdefault.jpg",
       "published_at": "2026-10-01T14:21:22Z",
       "category_id": "28",
-      "views": 27433657,
-      "likes": 768129,
-      "comments": 3838,
-      "age_hours": 133.1,
-      "views_per_hour": 206097,
-      "momentum": 5.619,
+      "views": 28364930,
+      "likes": 794415,
+      "comments": 3964,
+      "age_hours": 142.0,
+      "views_per_hour": 199748,
+      "momentum": 5.605,
       "url": "https://www.youtube.com/watch?v=1xI_lsZ4sxI",
       "region": "US",
       "category": "Science & Tech",
+      "_detected_lang": "en"
+    },
+    {
+      "id": "Az9tjEVxg4c",
+      "title": "Escondi SQUISHY dentro do CONDOMÍNIO",
+      "channel": "LuCr4zy",
+      "channel_id": "UCgxo9qPbDjEBTqlNRl8zRDg",
+      "thumbnail": "https://i.ytimg.com/vi/Az9tjEVxg4c/mqdefault.jpg",
+      "published_at": "2026-10-04T13:47:28Z",
+      "category_id": "24",
+      "views": 15226133,
+      "likes": 383973,
+      "comments": 662,
+      "age_hours": 70.6,
+      "views_per_hour": 215758,
+      "momentum": 5.605,
+      "url": "https://www.youtube.com/watch?v=Az9tjEVxg4c",
+      "region": "BR",
+      "category": "Entertainment",
+      "_detected_lang": "pt"
+    },
+    {
+      "id": "8tVozXGS33k",
+      "title": "I’m gonna start handing out PCs",
+      "channel": "CarterPCs",
+      "channel_id": "UCi7wDE2ZTiR5QYYrUY5WhtA",
+      "thumbnail": "https://i.ytimg.com/vi/8tVozXGS33k/mqdefault.jpg",
+      "published_at": "2026-10-06T00:35:54Z",
+      "category_id": "22",
+      "views": 4111931,
+      "likes": 172771,
+      "comments": 9626,
+      "age_hours": 35.8,
+      "views_per_hour": 114982,
+      "momentum": 5.604,
+      "url": "https://www.youtube.com/watch?v=8tVozXGS33k",
+      "region": "US",
+      "category": "People & Blogs",
       "_detected_lang": "en"
     }
   ]
